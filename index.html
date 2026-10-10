@@ -357,7 +357,6 @@ else if(/버스|열차|이동|차량|기차/.test(txt)){photo='https://images.un
  vndInput.addEventListener('input',()=>{const digits=String(vndInput.value).replace(/[^0-9]/g,'');const formatted=digits?Number(digits).toLocaleString('en-US'):'';vndInput.value=formatted;renderFx()});renderFx();refreshFx();setInterval(refreshFx,30*60*1000);
 
  document.querySelectorAll('[data-decision-goto]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();goView(a.dataset.decisionGoto)}));
- document.querySelectorAll('[data-decision-goto]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();goView(a.dataset.decisionGoto)}));
  if(d.itinerary&&d.itinerary.length)showDay(1);
 }
 document.addEventListener('error',function(e){
