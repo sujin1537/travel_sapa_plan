@@ -3,8 +3,9 @@
 3인 여행(2026년 11월 13일–18일)을 위한 반응형 한국어 여행 계획표입니다.
 
 ## 파일 구성
-- `index.html`: 웹페이지 화면과 스타일
-- `trip-data.json`: 일정, 교통, 숙소 후보 등 수정할 여행 데이터
+- `index.html`: 웹페이지 화면·스타일과 **실제로 화면에 쓰이는 여행 데이터 전체** (`const d=` 부분, 음식·명소 목록 포함)
+- `trip-data.json`: `index.html` 안 데이터의 사본(참고용). 페이지는 이 파일을 읽지 않음
+- `.github/workflows/validate-inline-js.yml`: 푸시할 때 자바스크립트 문법 오류 자동 검사
 - `.github/workflows/deploy.yml`: `main` 변경 시 GitHub Pages 자동 배포
 
 ## GitHub Pages 최초 설정
@@ -14,7 +15,7 @@
 4. 최초 배포가 성공하면 사이트 주소는 보통 `https://sujin1537.github.io/travel_sapa_plan/` 형식입니다. 실제 공개 여부는 Pages 설정과 Actions 결과에서 확인하세요.
 
 ## 여행 정보 수정
-일정·교통·숙소 정보는 우선 `trip-data.json`에서 수정합니다. 실제 예약 시간, 운행 조건, 객실 가격과 잔여 객실은 공식 안내에서 확인한 후 반영하세요. 현재 숙소는 후보이며 가격·가용성 확인을 마친 상태가 아닙니다.
+일정·교통·숙소 정보는 `index.html` 안의 `const d=` 데이터에서 수정합니다. (`trip-data.json`만 고치면 화면에 반영되지 않아요.) 수정 후 GitHub Actions의 `Validate inline JavaScript`가 초록색인지 확인하세요. 실제 예약 시간, 운행 조건, 객실 가격과 잔여 객실은 공식 안내에서 확인한 후 반영하세요. 현재 숙소는 후보이며 가격·가용성 확인을 마친 상태가 아닙니다.
 
 ## Windows PC에서 로컬 복제
 Git 설치 후 PowerShell에서 실행합니다.
