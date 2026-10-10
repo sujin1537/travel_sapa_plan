@@ -163,6 +163,26 @@ a{color:var(--green)}
 .fhy-note p{margin:0;color:#78664a;font-size:12px}
 .fhy-note .fhy-tag{display:inline-block;background:#f3ca58;color:#533600;border-radius:6px;padding:4px 7px;font-size:10px;font-weight:900;margin-bottom:8px}
 @media(max-width:760px){.fhy-stamp{top:8px;right:8px;font-size:9px;padding:5px 7px}}
+
+/* Compact live VND converter in the lower-right of the hero */
+.hero-grid{align-items:stretch}
+.hero-side{display:flex;flex-direction:column;justify-content:flex-end;gap:7px;max-width:285px;text-align:left;min-width:245px}
+.fx-card{width:100%;margin-top:7px;padding:13px 14px;border:1px solid #ffffff35;border-radius:14px;background:#ffffff12;backdrop-filter:blur(8px);text-align:left}
+.fx-card-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:9px;font-size:11px;font-weight:850;color:#fff}
+#fx-status{font-size:10px;font-weight:650;color:#d9e2ff;text-align:right}
+.fx-card label{display:block;font-size:10px;color:#d9e2ff;margin-bottom:4px}
+.fx-card input{width:100%;border:1px solid #ffffff38;border-radius:8px;padding:9px 10px;background:#fff;color:#172033;font-size:16px;font-weight:750;outline:none}
+.fx-result{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-top:9px;color:#d9e2ff;font-size:11px}
+.fx-result strong{font-size:20px;line-height:1.25;color:#fff;letter-spacing:-.03em;text-align:right}
+#fx-rate-note{margin:7px 0 0;color:#d9e2ff;font-size:9px;line-height:1.45}
+.decision-list{display:grid;gap:9px;margin-top:16px}
+.decision-row{display:flex;align-items:center;gap:13px;width:100%;padding:17px 18px;border:1px solid var(--line);border-radius:14px;background:#fff;color:var(--ink);text-align:left;box-shadow:var(--shadow)}
+.decision-row-no{display:grid;place-items:center;flex:0 0 31px;height:31px;border-radius:9px;background:#edf1ff;color:#3659e3;font-size:12px;font-weight:900}
+.decision-row strong{font-size:14px;font-weight:800;flex:1}
+.decision-row-arrow{font-size:18px;color:#3659e3}
+.decision-row:hover{border-color:#aebdf8;background:#fbfcff}
+@media(max-width:760px){.hero-grid{grid-template-columns:1fr}.hero-side{max-width:none;min-width:0}.fx-card{max-width:360px}.decision-row{padding:14px}.decision-row strong{font-size:13px}}
+
 </style>
 </head>
 <body>
@@ -199,7 +219,7 @@ async function init(){
  const foodPlaceCard = (p,i,city)=>'<button type="button" class="food-place-row" data-food-place="'+city+'-'+i+'"><span class="food-place-thumb"><img src="'+p.photo+'" alt="'+esc(p.name)+' 메뉴 참고 이미지" loading="lazy"></span><span class="food-place-copy">'+(p.stamp?'<span class="fhy-tag">✦ 풍향고 추천</span>':'')+'<strong>'+esc(p.name)+'</strong><small>'+esc(p.kind)+'</small><span>'+esc(p.menu)+'</span><em>'+esc(p.note)+'</em></span><span class="food-place-arrow">↗</span></button>';
  app.innerHTML=`
  <div class="topline"><div class="brand">FIELD NOTES / VIETNAM 2026</div><div class="updated">UPDATED · ${esc(d.meta.updatedAt)}</div></div>
- <header class="hero"><div class="hero-grid"><div><div class="eyebrow">A TRIP PLANNED BY SUJIN</div><h1 class="hero-title">HANOI <span>&</span> SAPA</h1><p class="hero-subtitle">수진이가 만들고 · 소영 & 지영이 함께하는 여행</p><p class="hero-dedication">예슬이와 함께할 다음 여행을 기대하며 ✦</p><div class="hero-stats"><span class="stat">👥 3명</span><span class="stat">📅 6일 일정</span><span class="stat">✈ 7C2201 / VJ960</span></div></div><div class="hero-side"><strong>13 NOV — 18 NOV</strong>서울 → 하노이 → 사파 → 하노이 → 서울</div></div></header>
+ <header class="hero"><div class="hero-grid"><div><div class="eyebrow">A TRIP PLANNED BY SUJIN</div><h1 class="hero-title">HANOI <span>&</span> SAPA</h1><p class="hero-subtitle">수진이가 만들고 · 소영 & 지영이 함께하는 여행</p><p class="hero-dedication">예슬이와 함께할 다음 여행을 기대하며 ✦</p><div class="hero-stats"><span class="stat">👥 3명</span><span class="stat">📅 6일 일정</span><span class="stat">✈ 7C2201 / VJ960</span></div></div><div class="hero-side"><strong>13 NOV — 18 NOV</strong><div>서울 → 하노이 → 사파 → 하노이 → 서울</div><div class="fx-card"><div class="fx-card-head"><span>🇻🇳 VND → 🇰🇷 KRW</span><span id="fx-status">환율 불러오는 중</span></div><label for="vnd-amount">베트남 동(VND)</label><input id="vnd-amount" type="number" min="0" step="1000" value="100000" inputmode="decimal" aria-label="환산할 베트남 동 금액"><div class="fx-result"><span>한국 원화 환산</span><strong id="krw-result">계산 중…</strong></div><p id="fx-rate-note">실시간 기준 환율을 불러오는 중 · 실제 카드/현금 환전액과 다를 수 있어.</p></div></div></div></header>
  <nav class="mainnav" aria-label="주 메뉴"><button class="navbtn active" data-view="overview">여행 전체</button><button class="navbtn" data-view="decisions">의사결정</button><button class="navbtn" data-view="transport">이동</button><button class="navbtn" data-view="lodging">숙박</button><button class="navbtn" data-view="food">음식</button><button class="navbtn" data-view="sights">볼 것</button></nav>
  <nav class="day-subnav" id="day-subnav" aria-label="일자별 일정"><button class="day-subnav-btn active" data-day-view="overview">전체 요약</button><button class="day-subnav-btn" data-day-view="1">DAY 1</button><button class="day-subnav-btn" data-day-view="2">DAY 2</button><button class="day-subnav-btn" data-day-view="3">DAY 3</button><button class="day-subnav-btn" data-day-view="4">DAY 4</button><button class="day-subnav-btn" data-day-view="5">DAY 5</button><button class="day-subnav-btn" data-day-view="6">DAY 6</button></nav>
  <main>
@@ -240,13 +260,11 @@ async function init(){
  <section id="view-food" class="view"><div class="view-cover"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bun-cha-hanoi.jpg" alt="이번 여행의 맛" loading="lazy"><div class="view-cover-shade"></div><div class="view-cover-copy"><span>WHAT WE'LL EAT</span><h2>음식 노트</h2><p>하노이는 음식 탐방, 사파는 철갑상어 샤브샤브 중심</p></div></div><div class="sectionhead"><div><h2>어디에서 먹을까?</h2><p>도시를 먼저 고르고, 가게별로 메뉴·방문 메모·지도 링크를 확인해.</p></div><span class="chip">FOOD FIRST</span></div><div class="food-city-tabs" role="tablist" aria-label="음식 지역 선택"><button type="button" class="food-city-tab active" data-food-city="hanoi" role="tab" aria-selected="true">🇻🇳 하노이 <small>음식 탐방</small></button><button type="button" class="food-city-tab" data-food-city="sapa" role="tab" aria-selected="false">⛰ 사파 <small>핫팟 & 카페</small></button></div><div class="food-city-intro" id="food-city-intro"><strong>하노이 음식 탐방</strong><span>쌀국수·분짜부터 디저트와 베트남 커피까지. 11/17 복귀일 동선에 맞춰 골라 보자.</span></div><div id="food-places-list" class="food-places-list">${foodPlaces.hanoi.map((p,i)=>foodPlaceCard(p,i,"hanoi")).join("")}</div><div class="callout">풍향고 추천은 별도 추천 메모 성격이야. 확정 일정이나 실제 방문 검증을 뜻하지 않으며, 지점·영업 여부·최신 메뉴와 가격은 방문 전에 확인해.</div></section>
  <section id="view-decisions" class="view">
  <div class="view-cover decision-cover"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fansipan%20summit%20pagoda%20stupa%20sea%20of%20clouds%20aerial%20view%20Sa%20Pa%20Vietnam.jpg" alt="사파 판시판 구름 바다" loading="lazy"><div class="view-cover-shade"></div><div class="view-cover-copy"><span>LET'S DECIDE TOGETHER</span><h2>우리 셋이 정할 것</h2><p>여행 준비에서 먼저 결정하면 좋은 두 가지</p></div></div>
- <div class="sectionhead"><div><h2>친구들과 먼저 결정할 것</h2><p>아래 두 항목만 먼저 정하면 다음 준비가 쉬워져.</p></div><span class="chip">2 DECISIONS</span></div>
- <div class="decision-summary"><div><strong id="decision-count">0 / 2</strong><span>결정 완료</span></div><div class="decision-progress"><span id="decision-progress-bar"></span></div><p>먼저 이동 방법과 숙소 방향을 정하면 돼.</p></div>
- <div class="decision-grid">
-  <article class="decision-card urgent"><div class="decision-card-top"><span class="decision-tag">먼저 결정 01</span><span>01 / 02</span></div><h3>하노이에서 사파로 어떻게 갈까?</h3><p>새벽 4시 G8 버스 사무실 출발이 우선 후보야. 공항에서 바로 이동할지, 하노이에서 쉬었다가 야간열차를 탈지 정해야 해.</p><div class="decision-options"><span>① G8 사무실 04:00</span><span>② 하노이에서 쉬고 야간열차</span></div><a href="https://www.google.com/search?q=G8+Sapa+Open+Tour+Hanoi+office" target="_blank" rel="noopener">G8 이동 정보 확인 ↗</a><label class="decision-check"><input type="checkbox" data-decision="0"> 이동 방법을 결정했어</label></article>
-  <article class="decision-card urgent"><div class="decision-card-top"><span class="decision-tag">먼저 결정 02</span><span>02 / 02</span></div><h3>하노이·사파 숙소를 어떻게 잡을까?</h3><p>시내 접근성과 이동 편의를 우선할지, 전망과 분위기를 우선할지 정하고 1인당 예산도 맞춰보자.</p><div class="decision-options"><span>시내·이동 편의</span><span>전망·분위기</span><span>1인 1박 예산</span></div><a href="#" data-decision-goto="lodging">숙박 후보 보기 ↗</a><label class="decision-check"><input type="checkbox" data-decision="1"> 숙소 방향을 결정했어</label></article>
+ <div class="sectionhead"><div><h2>의사결정 항목</h2><p>제목만 간단히 모아뒀어.</p></div><span class="chip">2 ITEMS</span></div>
+ <div class="decision-list">
+  <button type="button" class="decision-row" data-decision-goto="transport"><span class="decision-row-no">01</span><strong>하노이에서 사파로 어떻게 이동할까?</strong><span class="decision-row-arrow">↗</span></button>
+  <button type="button" class="decision-row" data-decision-goto="lodging"><span class="decision-row-no">02</span><strong>하노이·사파 숙소를 어떤 기준으로 고를까?</strong><span class="decision-row-arrow">↗</span></button>
  </div>
- <div class="decision-footer"><strong>단톡방에 공유하기</strong><p>“일단 사파 이동 방법이랑 숙소 방향부터 정하자! 버스/야간열차 중 뭐가 좋을지, 숙소는 위치와 전망 중 뭘 우선할지 의견 줘.”</p><button type="button" id="copy-decision-message">단톡방 메시지 복사</button></div>
 </section>
 <section id="view-sights" class="view"><div class="view-cover"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fansipan%20summit%20pagoda%20stupa%20sea%20of%20clouds%20aerial%20view%20Sa%20Pa%20Vietnam.jpg" alt="눈에 담아 올 풍경" loading="lazy"><div class="view-cover-shade"></div><div class="view-cover-copy"><span>PLACES & MOMENTS</span><h2>눈에 담아 올 풍경</h2><p>판시판부터 사파의 산과 마을까지</p></div></div><div class="sectionhead"><div><h2>볼 것 · 할 것</h2><p>명소 카드를 누르면 위치·운영 확인 항목·추천 동선을 볼 수 있어.</p></div><span class="chip">FLEXIBLE</span></div><div class="placegrid">${[
  {name:'판시판',day:'DAY 03 · 11/15',desc:'케이블카와 산 정상 전망. 날씨가 좋을 때 우선 배치.',status:'날씨 확인',query:'Fansipan cable car Sun World',photo:'https://commons.wikimedia.org/wiki/Special:FilePath/Fansipan%20summit%20pagoda%20stupa%20sea%20of%20clouds%20aerial%20view%20Sa%20Pa%20Vietnam.jpg',tip:'오전 첫 일정으로 두고, 구름이 적은 날을 우선 선택.',check:'케이블카 운영·왕복 요금·정상 기상 상황',time:'반나절 권장'},
@@ -298,11 +316,22 @@ async function init(){
  const hotelData={hanoi:d.detailTabs.lodging.hanoi,sapa:d.detailTabs.lodging.sapa};
  document.querySelectorAll('[data-hotel-detail]').forEach(b=>b.addEventListener('click',()=>{const key=b.dataset.hotelDetail;const group=key.startsWith('h-')?'hanoi':'sapa';const idx=Number(key.slice(2));const h=hotelData[group][idx];if(!h)return;document.querySelectorAll('[data-hotel-detail]').forEach(x=>x.classList.toggle('active',x===b));const query=encodeURIComponent(h.name+' '+(group==='hanoi'?'Hanoi Vietnam':'Sapa Vietnam'));const official=safeUrl(h.url)?'<a href="'+esc(h.url)+'" target="_blank" rel="noopener">공식 사이트 ↗</a>':'';document.getElementById('hotel-detail-panel').innerHTML='<article class="hotel-detail-card"><span class="chip">'+(group==='hanoi'?'하노이 후보':'사파 후보')+'</span><h3>'+esc(h.name)+'</h3><p>'+esc(h.note)+'</p><dl class="restaurant-facts"><dt>가격대</dt><dd>2026년 11월 날짜·객실별 실시간 확인 필요</dd><dt>객실</dt><dd>성인 3명 투숙 가능 여부, 트리플룸 또는 엑스트라 베드 확인</dd><dt>확인 항목</dt><dd>창문/전망, 조식 포함, 무료 취소 기한, 세금·수수료, 체크인 시간</dd><dt>동선</dt><dd>'+(group==='hanoi'?'구시가지·식당 접근성 및 공항 이동':'사파 중심지 접근성 또는 셔틀/차량 이동')+'</dd></dl><div class="restaurant-actions">'+official+'<a href="https://www.google.com/maps/search/?api=1&query='+query+'" target="_blank" rel="noopener">Google 지도 ↗</a></div></article>';document.getElementById('hotel-detail-panel').scrollIntoView({behavior:'smooth',block:'start'})}));
  document.querySelectorAll('[data-sight-detail]').forEach(b=>b.addEventListener('click',()=>{const p=sightDetails[Number(b.dataset.sightDetail)];if(!p)return;document.querySelectorAll('[data-sight-detail]').forEach(x=>x.classList.toggle('active',x===b));document.getElementById('sight-detail-panel').innerHTML='<article class="sight-detail-card"><div class="sight-detail-photo"><img src="'+p.photo+'" alt="'+esc(p.name)+' 참고 이미지" loading="lazy"></div><div class="sight-detail-copy"><span class="chip">'+esc(p.day)+'</span><h3>'+esc(p.name)+'</h3><p>'+esc(p.desc)+'</p><dl class="restaurant-facts"><dt>추천 체류</dt><dd>'+esc(p.time)+'</dd><dt>방문 팁</dt><dd>'+esc(p.tip)+'</dd><dt>사전 확인</dt><dd>'+esc(p.check)+'</dd></dl><div class="restaurant-actions"><a href="https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(p.query)+'" target="_blank" rel="noopener">Google 지도 ↗</a></div><p class="restaurant-source">사진은 장소 참고용 이미지이며 실제 현장 사진이 아닐 수 있어.</p></div></article>';document.getElementById('sight-detail-panel').scrollIntoView({behavior:'smooth',block:'start'})}));
+
+ // Live VND -> KRW reference rate. Refresh every 30 minutes while the page stays open.
+ const vndInput=document.getElementById('vnd-amount');
+ const krwResult=document.getElementById('krw-result');
+ const fxStatus=document.getElementById('fx-status');
+ const fxRateNote=document.getElementById('fx-rate-note');
+ let vndToKrw=0.055;
+ let fxIsLive=false;
+ const fmtKRW=n=>new Intl.NumberFormat('ko-KR',{style:'currency',currency:'KRW',maximumFractionDigits:0}).format(n);
+ const fmtVND=n=>new Intl.NumberFormat('vi-VN',{maximumFractionDigits:4}).format(n);
+ function renderFx(){const amount=Math.max(0,Number(vndInput.value)||0);krwResult.textContent=fmtKRW(amount*vndToKrw);fxRateNote.textContent=(fxIsLive?'기준 환율: 1 VND ≈ '+vndToKrw.toFixed(5)+' KRW':'임시 참고 환율: 1 VND ≈ 0.055 KRW')+' · 실제 환전·카드 수수료에 따라 달라질 수 있어.'}
+ async function refreshFx(){try{fxStatus.textContent='환율 업데이트 중';const res=await fetch('https://open.er-api.com/v6/latest/VND',{cache:'no-store'});if(!res.ok)throw new Error('FX request failed');const data=await res.json();const rate=Number(data?.rates?.KRW);if(!Number.isFinite(rate)||rate<=0)throw new Error('Invalid KRW rate');vndToKrw=rate;fxIsLive=true;fxStatus.textContent='기준 환율 · '+(data.time_last_update_utc?new Date(data.time_last_update_utc).toLocaleDateString('ko-KR'):'업데이트됨');renderFx()}catch(e){fxStatus.textContent='실시간 환율 연결 실패';renderFx()}}
+ vndInput.addEventListener('input',renderFx);renderFx();refreshFx();setInterval(refreshFx,30*60*1000);
+
  document.querySelectorAll('[data-decision-goto]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();goView(a.dataset.decisionGoto)}));
- const decisionChecks=[...document.querySelectorAll('[data-decision]')];
- function updateDecisionProgress(){const done=decisionChecks.filter(x=>x.checked).length;document.getElementById('decision-count').textContent=done+' / '+decisionChecks.length;document.getElementById('decision-progress-bar').style.width=(done/decisionChecks.length*100)+'%'}
- decisionChecks.forEach(x=>x.addEventListener('change',updateDecisionProgress));updateDecisionProgress();
- document.getElementById('copy-decision-message').addEventListener('click',()=>{const msg='일단 사파 이동 방법이랑 숙소 방향부터 정하자! 버스/야간열차 중 뭐가 좋을지, 숙소는 위치와 전망 중 뭘 우선할지 의견 줘.';const t=document.createElement('textarea');t.value=msg;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();document.getElementById('copy-decision-message').textContent='복사했어 ✓'});
+ document.querySelectorAll('[data-decision-goto]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();goView(a.dataset.decisionGoto)}));
  if(d.itinerary&&d.itinerary.length)showDay(1);
 }
 init().catch(err=>{document.getElementById('app').innerHTML='<article class="card"><h2>여행 데이터를 불러오지 못했어.</h2><p>trip-data.json 파일이 웹사이트와 같은 경로에 있는지 확인해 줘.</p></article>';console.error(err)});
