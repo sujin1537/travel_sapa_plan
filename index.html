@@ -57,6 +57,17 @@ a{color:var(--green)}
 .foot{border-top:1px solid #e4e8f0;padding-top:18px}
 @media(max-width:760px){.shell{padding-top:14px}.hero{padding:27px 22px;border-radius:18px}.card{padding:16px}.sectionhead{margin-top:27px}}
 
+
+/* Photo-led day cards */
+.photo-daylist .daycard{position:relative;display:block;width:100%;text-align:left;padding:0;overflow:hidden;background:#fff;border-radius:17px}
+.dayphoto{height:154px;position:relative;overflow:hidden;background:#e6eaf2}
+.dayphoto img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
+.daycard:hover .dayphoto img{transform:scale(1.045)}
+.dayphoto-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,20,42,.04) 20%,rgba(12,20,42,.5) 100%);pointer-events:none}
+.dayphoto-label{position:absolute;left:14px;bottom:12px;color:#fff;font-size:12px;font-weight:900;letter-spacing:.12em;text-shadow:0 1px 8px #10172a80}
+.photocredit{position:absolute;right:9px;bottom:9px;z-index:2;color:#fff!important;font-size:10px;font-weight:700;background:#17203380;padding:5px 7px;border-radius:6px;backdrop-filter:blur(6px)}
+.photo-daylist .daytop{padding-top:13px}
+@media(max-width:760px){.dayphoto{height:125px}.photo-daylist .daycard{border-radius:13px}}
 </style>
 </head>
 <body>
@@ -78,7 +89,7 @@ async function init(){
   <div class="sectionhead"><div><h2>6일 여행 한눈에 보기</h2><p>날짜 카드를 누르면 해당 일자의 세부 일정이 열려. 음식·이동·관광 버튼은 관련 상세 페이지로 연결돼.</p></div><span class="chip">DAY 01—06</span></div>
   <div class="flightgrid">${d.flights.map(f=>'<article class="card flight"><div class="flight-icon">✈</div><div><div class="kicker">'+esc(f.label)+' · '+esc(f.date)+'</div><h3>'+esc(f.route)+'</h3><p>'+esc(f.flight)+' · '+esc(f.time)+'</p></div></article>').join('')}</div>
   <div class="sectionhead"><div><h2>여행 일정</h2><p>각 Day를 눌러 타임라인과 결정할 사항을 확인해.</p></div></div>
-  <div class="daylist" id="daylist">${(d.itinerary||[]).map(day=>'<button class="daycard" data-day="'+day.day+'"><div class="daytop"><div class="dayno">DAY '+String(day.day).padStart(2,'0')+' <span>'+esc(day.date)+'</span></div><h3>'+esc(day.place)+'</h3><p>'+esc(day.theme)+'</p></div><div class="daybody"><div class="muted">'+esc(day.summary)+'</div><ul>'+day.items.slice(0,3).map(i=>'<li>'+esc(i[1])+'</li>').join('')+'</ul><div class="dayfoot"><span>일정 상세 보기</span><span>↗</span></div></div></button>').join('')}</div>
+  <div class="daylist photo-daylist" id="daylist">${(d.itinerary||[]).map(day=>{const photos={1:{file:'Hanoi_Noi_Bai_airport.jpg',page:'https://commons.wikimedia.org/wiki/File:Hanoi_Noi_Bai_airport.jpg',alt:'하노이 노이바이 공항'},2:{file:'Rice_terraces_in_Sapa,_Vietnam.jpg',page:'https://commons.wikimedia.org/wiki/File:Rice_terraces_in_Sapa,_Vietnam.jpg',alt:'사파 계단식 논'},3:{file:'Fansipan_cable_car_terraced_rice_fields_valley_aerial_view_Sa_Pa_Vietnam.jpg',page:'https://commons.wikimedia.org/wiki/File:Fansipan_cable_car_terraced_rice_fields_valley_aerial_view_Sa_Pa_Vietnam.jpg',alt:'판시판 케이블카와 산악 풍경'},4:{file:'Cat_Cat_Waterfalls,_Sa_Pa,_Vietnam,_20240126_1228_3619.jpg',page:'https://commons.wikimedia.org/wiki/File:Cat_Cat_Waterfalls,_Sa_Pa,_Vietnam,_20240126_1228_3619.jpg',alt:'깟깟마을 폭포'},5:{file:'Street_food_in_Hanoi.jpg',page:'https://commons.wikimedia.org/wiki/File:Street_food_in_Hanoi.jpg',alt:'하노이 길거리 음식'},6:{file:'Vietnam_hanoi_old_quarter.jpg',page:'https://commons.wikimedia.org/wiki/File:Vietnam_hanoi_old_quarter.jpg',alt:'하노이 구시가지'}};const p=photos[day.day]||photos[2];return '<button class="daycard" data-day="'+day.day+'"><div class="dayphoto"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(p.file).replace(/%2C/g,',')+'?width=900" alt="'+esc(p.alt)+'" loading="lazy"><span class="dayphoto-shade"></span><span class="dayphoto-label">DAY '+String(day.day).padStart(2,'0')+'</span><a class="photocredit" href="'+p.page+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">사진 출처 ↗</a></div><div class="daytop"><div class="dayno"><span>'+esc(day.date)+'</span></div><h3>'+esc(day.place)+'</h3><p>'+esc(day.theme)+'</p></div><div class="daybody"><div class="muted">'+esc(day.summary)+'</div><ul>'+day.items.slice(0,3).map(i=>'<li>'+esc(i[1])+'</li>').join('')+'</ul><div class="dayfoot"><span>일정 상세 보기</span><span>↗</span></div></div></button>'}).join('')}</div>
   <div id="daydetail" class="daydetail"></div>
   <div class="sectionhead"><div><h2>먼저 결정할 것</h2><p>아직 확정하지 않은 선택지만 따로 모았어.</p></div></div>
   <div class="grid"><article class="card"><span class="chip">DECISION 01</span><h3>하노이 도착 후 사파 이동</h3><p class="intro">01:30 공항 버스 / 04:00 시내 버스 / 하노이 휴식 후 야간열차</p><button class="mini" data-goto="transport">이동 옵션 비교하기 →</button></article><article class="card"><span class="chip">DECISION 02</span><h3>사파 숙소와 숙박 박수</h3><p class="intro">버스안은 사파 3박, 열차안은 사파 2박과 하노이 첫날 휴식을 검토.</p><button class="mini" data-goto="lodging">숙소 후보 보기 →</button></article></div>
