@@ -68,6 +68,12 @@ a{color:var(--green)}
 .photocredit{position:absolute;right:9px;bottom:9px;z-index:2;color:#fff!important;font-size:10px;font-weight:700;background:#17203380;padding:5px 7px;border-radius:6px;backdrop-filter:blur(6px)}
 .photo-daylist .daytop{padding-top:13px}
 @media(max-width:760px){.dayphoto{height:125px}.photo-daylist .daycard{border-radius:13px}}
+
+/* Clean editorial trip title */
+.hero-title{font-size:clamp(42px,7vw,76px)!important;font-weight:850;letter-spacing:-.075em!important;line-height:.98!important;margin:18px 0 12px!important;text-transform:uppercase}
+.hero-title span{color:#a9bcff;font-weight:500;font-style:italic;letter-spacing:-.09em}
+.hero-subtitle{font-size:12px!important;font-weight:750;letter-spacing:.17em;color:#dce5ff!important;text-transform:uppercase}
+@media(max-width:760px){.hero-title{font-size:clamp(40px,11vw,58px)!important}.hero-subtitle{font-size:10px!important;letter-spacing:.12em}}
 </style>
 </head>
 <body>
@@ -82,7 +88,7 @@ async function init(){
  const iconFor=t=>t.includes('철갑')?'♨':t.includes('판시판')?'⛰':t.includes('열차')?'🚆':t.includes('공항')?'✈':t.includes('숙소')?'⌂':t.includes('음식')||t.includes('저녁')?'🍜':t.includes('카페')?'☕':'•';
  app.innerHTML=`
  <div class="topline"><div class="brand">FIELD NOTES / VIETNAM 2026</div><div class="updated">UPDATED · ${esc(d.meta.updatedAt)}</div></div>
- <header class="hero"><div class="hero-grid"><div><div class="eyebrow">HANOI × SAPA · NOV 13—18</div><h1>하노이 & 사파<br>우리의 여행 기록</h1><p>일정은 한눈에, 결정은 명확하게, 세부 정보는 필요한 만큼.</p><div class="hero-stats"><span class="stat">👥 3명</span><span class="stat">📅 6일 일정</span><span class="stat">✈ 7C2201 / VJ960</span></div></div><div class="hero-side"><strong>13 NOV — 18 NOV</strong>서울 → 하노이 → 사파 → 하노이 → 서울</div></div></header>
+ <header class="hero"><div class="hero-grid"><div><div class="eyebrow">HANOI × SAPA · NOV 13—18</div><h1 class="hero-title">HANOI <span>&</span> SAPA</h1><p class="hero-subtitle">VIETNAM TRIP · NOV 13—18, 2026</p><div class="hero-stats"><span class="stat">👥 3명</span><span class="stat">📅 6일 일정</span><span class="stat">✈ 7C2201 / VJ960</span></div></div><div class="hero-side"><strong>13 NOV — 18 NOV</strong>서울 → 하노이 → 사파 → 하노이 → 서울</div></div></header>
  <nav class="mainnav" aria-label="주 메뉴"><button class="navbtn active" data-view="overview">여행 전체</button><button class="navbtn" data-view="transport">이동</button><button class="navbtn" data-view="lodging">숙박</button><button class="navbtn" data-view="food">음식</button><button class="navbtn" data-view="sights">볼 것</button></nav>
  <main>
  <section id="view-overview" class="view active">
