@@ -968,5 +968,53 @@
       ],
       "note": "식당 이름·주소·영업시간·가격은 실제 조사 후 후보/확정 상태를 구분해 추가할 예정. 지구놀이터 코스의 BB 레스토랑 반미, 철갑상어·연어 핫팟, 무제한 삼겹살은 자유여행용 후보이며 예약된 식사가 아님."
     }
+  },
+  "flightWatch": {
+    "pax": 3,
+    "checkedAt": "2026-10-11 14:25 (KST) 구글 항공편 기준",
+    "out": {
+      "label": "가는 편",
+      "flight": "7C2201",
+      "airline": "제주항공",
+      "date": "2026-11-13",
+      "dateLabel": "11/13(금)",
+      "dep": "21:20",
+      "arr": "00:40 (+1)",
+      "route": "인천 ICN → 하노이 HAN",
+      "total": 630300,
+      "src": "Google 항공편",
+      "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR",
+      "official": "https://www.jejuair.net/ko/main/base/index.do",
+      "naver": "https://flight.naver.com/flights/international/ICN-HAN-20261113?adult=3&isDirect=true&fareType=Y"
+    },
+    "ret": {
+      "label": "오는 편",
+      "flight": "VJ960",
+      "airline": "비엣젯항공",
+      "date": "2026-11-18",
+      "dateLabel": "11/18(수)",
+      "dep": "01:45",
+      "arr": "07:55",
+      "route": "하노이 HAN → 인천 ICN",
+      "total": 526352,
+      "src": "Google 항공편",
+      "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR",
+      "official": "https://www.vietjetair.com/ko",
+      "naver": "https://flight.naver.com/flights/international/HAN-ICN-20261118?adult=3&isDirect=true&fareType=Y"
+    },
+    "alts": [
+      {
+        "flight": "제주항공 01:40 → 08:05 (오는 편 대안)",
+        "total": 579071
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-11",
+        "out": 630300,
+        "ret": 526352
+      }
+    ],
+    "note": "두 편이 다른 항공사라 왕복 대신 편도 2장으로 예매. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 수하물 옵션 확인."
   }
 }
