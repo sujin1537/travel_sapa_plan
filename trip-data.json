@@ -279,10 +279,10 @@
         [
           "저녁",
           "하노이역 → 라오까이 야간열차",
-          "낭만 기차 우선. 실제 출발 시각·침대칸 가격·4인실 객실 전체 대여 가능 여부를 확인하고, 라오까이역 픽업을 미리 준비."
+          "기본 여행 흐름. 하노이역(Ga Hà Nội)에서 21:45(SP15)·22:00(SP3)·22:40(SP7) 중 선택 → 라오까이 05:20–06:27 도착. 4인실 캐빈을 통째로 예약하고 라오까이역 픽업도 미리 잡아두기."
         ]
       ],
-      "decision": "야간열차 시간표와 4인실 단독 예약 가능 여부를 확인한 뒤 확정. 바로 사파로 간다면 G8 03:45 공항 픽업(T2)이 현실적이고, 01:30 픽업은 공식 시간표에 없어 확인 필요."
+      "decision": "기본 흐름은 야간열차(1순위). 11/14 출발 4인실 캐빈 잔여와 라오까이역 셔틀을 먼저 예약. 버스로 바로 가는 건 대안(G8 공항 픽업 03:45)."
     },
     {
       "day": 3,
@@ -970,8 +970,8 @@
     }
   },
   "flightWatch": {
-    "pax": 3,
-    "checkedAt": "2026-10-11 14:40 (KST) 구글 항공편·스카이스캐너 기준",
+    "pax": 1,
+    "checkedAt": "2026-10-11 14:45 (KST) 구글 항공편·스카이스캐너 · 성인 1명 기준",
     "out": {
       "label": "가는 편",
       "flight": "7C2201",
@@ -981,21 +981,21 @@
       "dep": "21:20",
       "arr": "00:40 (+1)",
       "route": "인천 ICN → 하노이 HAN",
-      "total": 605901,
+      "total": 202000,
       "src": "스카이스캐너",
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR",
+      "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR",
       "official": "https://www.jejuair.net/ko/main/base/index.do",
-      "naver": "https://flight.naver.com/flights/international/ICN-HAN-20261113?adult=3&isDirect=true&fareType=Y",
+      "naver": "https://flight.naver.com/flights/international/ICN-HAN-20261113?adult=1&isDirect=true&fareType=Y",
       "sources": {
         "google": {
           "label": "구글 항공편",
-          "total": 630300,
-          "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR"
+          "total": 210100,
+          "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
         },
         "skyscanner": {
           "label": "스카이스캐너",
-          "total": 605901,
-          "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=3&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          "total": 202000,
+          "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
         }
       }
     },
@@ -1008,45 +1008,45 @@
       "dep": "01:45",
       "arr": "07:55",
       "route": "하노이 HAN → 인천 ICN",
-      "total": 500100,
+      "total": 166500,
       "src": "스카이스캐너",
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR",
+      "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR",
       "official": "https://www.vietjetair.com/ko",
-      "naver": "https://flight.naver.com/flights/international/HAN-ICN-20261118?adult=3&isDirect=true&fareType=Y",
+      "naver": "https://flight.naver.com/flights/international/HAN-ICN-20261118?adult=1&isDirect=true&fareType=Y",
       "sources": {
         "google": {
           "label": "구글 항공편",
-          "total": 526352,
-          "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%203%20adults&hl=ko&curr=KRW&gl=KR"
+          "total": 175451,
+          "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
         },
         "skyscanner": {
           "label": "스카이스캐너",
-          "total": 500100,
-          "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=3&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          "total": 166500,
+          "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
         }
       }
     },
     "alts": [
       {
         "flight": "제주항공 01:40 → 08:05 (오는 편 대안)",
-        "total": 564409
+        "total": 187900
       }
     ],
     "history": [
       {
         "date": "2026-10-11",
-        "out": 605901,
-        "ret": 500100,
+        "out": 202000,
+        "ret": 166500,
         "g": {
-          "out": 630300,
-          "ret": 526352
+          "out": 210100,
+          "ret": 175451
         },
         "s": {
-          "out": 605901,
-          "ret": 500100
+          "out": 202000,
+          "ret": 166500
         }
       }
     ],
-    "note": "두 편이 다른 항공사라 왕복 대신 편도 2장으로 예매. 가격은 판매처 중 최저가. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인."
+    "note": "각자 예매 기준(성인 1명). 두 편이 다른 항공사라 왕복 대신 편도 2장으로 예매. 가격은 판매처 중 최저가. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인."
   }
 }
