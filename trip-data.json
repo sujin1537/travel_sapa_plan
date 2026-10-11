@@ -747,7 +747,7 @@
           "name": "Topas Ecolodge",
           "url": "https://topasecolodge.com/location/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=445774&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "수미·스테이폴리오·1amny·yonii 추천 · 내셔널지오그래픽 선정 친환경 리조트 · TV·와이파이 대신 운무 뷰 · 해피아워 1+1, 저녁 야외 영화관",
+          "note": "수미·스테이폴리오·1amny·yonii 추천 · 내셔널지오그래픽 선정 친환경 리조트 · TV·와이파이 대신 운무 뷰 · 해피아워 1+1, 저녁 야외 영화관 · 시내↔숙소 무료 셔틀(24시간 전 예약, 1인 캐리어1+기내용1)",
           "photo": "https://indochinacharmtours.com/data/images/topas-ecolodge-sapa-ivivu-13.jpg",
           "bookingPlatform": "Agoda",
           "avail": {
@@ -815,6 +815,10 @@
             {
               "id": "1amny",
               "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            },
+            {
+              "id": "grace1631_joymom",
+              "url": "https://www.instagram.com/grace1631_joymom/"
             }
           ],
           "reviews": [
@@ -832,6 +836,20 @@
               "cons": [
                 "시내와 멀어 숙소 밖에 나가기 어려움(숙소 안에서 즐기는 곳)",
                 "고산지대라 춥고 뷰가 날씨 영향을 많이 받음"
+              ]
+            },
+            {
+              "by": "grace1631_joymom",
+              "url": "https://www.instagram.com/grace1631_joymom/",
+              "pros": [
+                "사파 시내 ↔ 토파스 무료 셔틀 (약 45분)",
+                "사파 → 토파스 10:00 / 13:15 · 토파스 → 사파 09:00 / 12:00",
+                "픽업: 015 Le Van Tam St, Sapa Town"
+              ],
+              "cons": [
+                "셔틀은 최소 24시간 전 예약 필수",
+                "짐은 캐리어 1개 + 기내용 1개까지",
+                "안전벨트 꼭 착용"
               ]
             }
           ]
