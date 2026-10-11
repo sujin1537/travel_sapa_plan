@@ -4,7 +4,7 @@
     "subtitle": "친구 3명 · 2026.11.13–18 · Day 1–6",
     "travelers": 3,
     "updatedAt": "2026-10-11",
-    "note": "3인 여행 · 11/13 밤 출국, 11/14 하노이에서 충분히 쉰 뒤 낭만 야간열차 우선 검토. 11/17 하노이에서 음식·휴식 후 11/18 01:45 귀국편 탑승. 교통·객실·영업 정보는 예약 전 공식 채널에서 재확인."
+    "note": "3인 여행 · 11/13 밤 출국, 11/14 하노이에서 충분히 쉰 뒤 낭만 야간열차 우선 검토. 11/17 하노이에서 음식·휴식 후 11/18 01:40 귀국편 탑승. 교통·객실·영업 정보는 예약 전 공식 채널에서 재확인."
   },
   "flights": [
     {
@@ -17,9 +17,9 @@
     {
       "label": "오는 편",
       "date": "11월 18일(수)",
-      "flight": "VJ960",
+      "flight": "7C2202",
       "route": "하노이 → 인천",
-      "time": "01:45 출발 · 07:55 도착"
+      "time": "01:40 출발 · 08:05 도착"
     }
   ],
   "scenarios": [
@@ -58,7 +58,7 @@
         [
           "11/18 수",
           "하노이 출발",
-          "VJ960 · 01:45"
+          "7C2202 · 01:40"
         ]
       ],
       "caution": "01:30 공항 픽업은 Vexere에만 보이고 G8 공식 시간표에는 없음. 00:40 착륙 후 50분이라 매우 빠듯하니, 03:45 픽업을 우선 확인하세요."
@@ -98,7 +98,7 @@
         [
           "11/18 수",
           "하노이 출발",
-          "VJ960 · 01:45"
+          "7C2202 · 01:40"
         ]
       ],
       "caution": "04:00 편은 공항 출발이 아니라 하노이 시내 Office 105 Hoàng Quốc Việt 출발안입니다. 공항에서 출발지까지 이동시간과 실제 탑승 위치를 확인하세요."
@@ -143,7 +143,7 @@
         [
           "11/18 수",
           "하노이 출발",
-          "VJ960 · 01:45"
+          "7C2202 · 01:40"
         ]
       ],
       "caution": "열차는 사파가 아닌 라오까이에 도착하므로 사파까지 별도 차량 이동이 필요합니다. 열차 시간표와 객실 예약 가능 여부를 확인하세요."
@@ -384,7 +384,7 @@
         [
           "오전",
           "사파 체크아웃·하노이행 버스",
-          "귀국편이 11/18 01:45이므로 늦은 출발은 피하고 오전–이른 오후 출발편을 우선 확인. 도로 지연 버퍼 확보."
+          "귀국편이 11/18 01:40이므로 늦은 출발은 피하고 오전–이른 오후 출발편을 우선 확인. 도로 지연 버퍼 확보."
         ],
         [
           "오후",
@@ -409,7 +409,7 @@
         [
           "밤",
           "하노이 시내 → 노이바이공항",
-          "3명과 짐을 고려하면 사전 예약 차량 또는 Grab이 편리. VJ960 01:45 출발이므로 국제선 체크인 시간을 확보하고 공항 도착 목표를 보수적으로 잡기."
+          "3명과 짐을 고려하면 사전 예약 차량 또는 Grab이 편리. 7C2202 01:40 출발이므로 국제선 체크인 시간을 확보하고 공항 도착 목표를 보수적으로 잡기."
         ]
       ],
       "decision": "사파→하노이 버스는 오전 또는 이른 오후 출발편을 우선. 하노이에서 음식 시간을 확보하되, 귀국 항공편을 놓치지 않도록 공항 이동 버퍼를 최우선."
@@ -419,15 +419,15 @@
       "date": "11/18 수",
       "place": "하노이 → 인천",
       "theme": "귀국",
-      "summary": "노이바이공항에서 비엣젯 VJ960 탑승 후 인천 도착.",
+      "summary": "노이바이공항에서 제주항공 7C2202 탑승 후 인천 도착.",
       "items": [
         [
-          "01:45",
+          "01:40",
           "하노이 출발",
-          "비엣젯 VJ960 · 예정 도착 07:55."
+          "제주항공 7C2202 · 예정 도착 08:05."
         ],
         [
-          "07:55",
+          "08:05",
           "인천 도착",
           "입국심사·수하물 수령 후 귀가."
         ]
@@ -970,83 +970,52 @@
     }
   },
   "flightWatch": {
+    "mode": "roundtrip",
     "pax": 1,
-    "checkedAt": "2026-10-11 14:45 (KST) 구글 항공편·스카이스캐너 · 성인 1명 기준",
-    "out": {
-      "label": "가는 편",
-      "flight": "7C2201",
-      "airline": "제주항공",
-      "date": "2026-11-13",
-      "dateLabel": "11/13(금)",
-      "dep": "21:20",
-      "arr": "00:40 (+1)",
-      "route": "인천 ICN → 하노이 HAN",
-      "total": 202000,
-      "src": "스카이스캐너",
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR",
-      "official": "https://www.jejuair.net/ko/main/base/index.do",
-      "naver": "https://flight.naver.com/flights/international/ICN-HAN-20261113?adult=1&isDirect=true&fareType=Y",
-      "sources": {
-        "google": {
-          "label": "구글 항공편",
-          "total": 210100,
-          "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
-        },
-        "skyscanner": {
-          "label": "스카이스캐너",
-          "total": 202000,
-          "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
-        }
-      }
-    },
-    "ret": {
-      "label": "오는 편",
-      "flight": "VJ960",
-      "airline": "비엣젯항공",
-      "date": "2026-11-18",
-      "dateLabel": "11/18(수)",
-      "dep": "01:45",
-      "arr": "07:55",
-      "route": "하노이 HAN → 인천 ICN",
-      "total": 166500,
-      "src": "스카이스캐너",
-      "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR",
-      "official": "https://www.vietjetair.com/ko",
-      "naver": "https://flight.naver.com/flights/international/HAN-ICN-20261118?adult=1&isDirect=true&fareType=Y",
-      "sources": {
-        "google": {
-          "label": "구글 항공편",
-          "total": 175451,
-          "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
-        },
-        "skyscanner": {
-          "label": "스카이스캐너",
-          "total": 166500,
-          "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
-        }
-      }
-    },
-    "alts": [
+    "checkedAt": "2026-10-11 14:55 (KST) 구글 항공편·스카이스캐너 · 성인 1명 왕복",
+    "airline": "제주항공",
+    "official": "https://www.jejuair.net/ko/main/base/index.do",
+    "naver": "https://flight.naver.com/flights/international/ICN-HAN-20261113/HAN-ICN-20261118?adult=1&isDirect=true&fareType=Y",
+    "legs": [
       {
-        "flight": "제주항공 01:40 → 08:05 (오는 편 대안)",
-        "total": 187900
+        "label": "가는 편",
+        "flight": "7C2201",
+        "dateLabel": "11/13(금)",
+        "dep": "21:20",
+        "arr": "00:40 (+1)",
+        "route": "인천 ICN → 하노이 HAN · 직항"
+      },
+      {
+        "label": "오는 편",
+        "flight": "7C2202",
+        "dateLabel": "11/18(수)",
+        "dep": "01:40",
+        "arr": "08:05",
+        "route": "하노이 HAN → 인천 ICN · 직항"
       }
     ],
+    "sources": {
+      "skyscanner": {
+        "label": "스카이스캐너",
+        "total": 382400,
+        "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+      },
+      "google": {
+        "label": "구글 항공편",
+        "total": 402400,
+        "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
+      }
+    },
+    "total": 382400,
+    "src": "스카이스캐너",
     "history": [
       {
         "date": "2026-10-11",
-        "out": 202000,
-        "ret": 166500,
-        "g": {
-          "out": 210100,
-          "ret": 175451
-        },
-        "s": {
-          "out": 202000,
-          "ret": 166500
-        }
+        "total": 382400,
+        "g": 402400,
+        "s": 382400
       }
     ],
-    "note": "각자 예매 기준(성인 1명). 두 편이 다른 항공사라 왕복 대신 편도 2장으로 예매. 가격은 판매처 중 최저가. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인."
+    "note": "각자 1인 왕복으로 예매. 왕복 한 장은 같은 항공사끼리만 묶여서, 가는 편 7C2201과 짝이 되는 귀국편은 제주항공 7C2202(01:40→08:05)야. 참고로 편도 2장(7C2201 + 비엣젯 VJ960)은 오늘 기준 약 ₩368,500. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘."
   }
 }
