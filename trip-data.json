@@ -832,6 +832,28 @@
           }
         },
         {
+          "name": "Canvas Sapa Legend Hotel",
+          "note": "사파 호수 바로 앞 시내 중심 3.5성 · 아고다 평점 8.4 (후기 1,309개) · 위치 평점 9.0, 식당·야시장 모두 도보권",
+          "photo": "https://pix8.agoda.net/hotelImages/1187717/0/f2abe9e9d5b37426ce16d62b9bf3d42f.jpg?ce=3&s=1024x768",
+          "bookingPlatform": "Agoda",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "recBy": "예슬",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 89,
+            "note": "취소 물량이 나오면 바로 잡기",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
           "name": "Sapa Soleil Hotel",
           "url": "https://sapasoleilhotel.com/en/accommodation/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=48562162&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
