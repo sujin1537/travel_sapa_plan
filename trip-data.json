@@ -28,7 +28,7 @@
       "name": "공항에서 바로 사파",
       "tag": "이동 최소화",
       "recommended": false,
-      "summary": "도착 직후 01:30 버스를 타고 사파로 이동",
+      "summary": "착륙 후 공항에서 대기했다가 G8 03:45 공항 픽업(T2)으로 사파 이동",
       "schedule": [
         [
           "11/13 금",
@@ -38,7 +38,7 @@
         [
           "11/14 토",
           "하노이 공항 → 사파",
-          "G8 01:30 공항 출발안 · T2 국제선 1층 A1 도착홀 1번 기둥 픽업으로 메모됨 · 도착 후 숙소 체크인 가능 시간 확인"
+          "G8 공식 공항 시간표 03:45 픽업 · T2 국제선 1층 Hall A1 1번 기둥 · 사파 08:45–09:15 도착 예상"
         ],
         [
           "11/15 일",
@@ -61,7 +61,7 @@
           "VJ960 · 01:45"
         ]
       ],
-      "caution": "01:30 편은 공항 픽업안(T2 국제선 1층 A1 도착홀 1번 기둥)으로 메모돼 있지만 00:40 도착 후 50분밖에 없어 입국심사·수하물 수령을 고려하면 매우 빠듯합니다. 픽업 위치와 항공편 지연 시 대기 정책을 운송사에 확인하기 전에는 추천하지 않습니다."
+      "caution": "01:30 공항 픽업은 Vexere에만 보이고 G8 공식 시간표에는 없음. 00:40 착륙 후 50분이라 매우 빠듯하니, 03:45 픽업을 우선 확인하세요."
     },
     {
       "id": "B",
@@ -78,7 +78,7 @@
         [
           "11/14 토",
           "하노이 공항 → 시내 출발지 → 사파",
-          "G8 04:00 하노이 시내 출발안 · Office 105 Hoàng Quốc Việt · 공항에서 시내 출발지까지 별도 이동 필요"
+          "G8 04:00 시내 출발(Vexere 기준) · 105 Hoàng Quốc Việt · 공항에서 Grab 이동 필요. 160 Trần Quang Khải 04:00편은 시간표에서 확인되지 않음"
         ],
         [
           "11/15 일",
@@ -282,7 +282,7 @@
           "낭만 기차 우선. 실제 출발 시각·침대칸 가격·4인실 객실 전체 대여 가능 여부를 확인하고, 라오까이역 픽업을 미리 준비."
         ]
       ],
-      "decision": "야간열차 시간표와 4인실 단독 예약 가능 여부를 확인한 뒤 확정. 항공편 도착 직후 출발하는 01:30 버스는 환승 위험 때문에 우선 추천하지 않음."
+      "decision": "야간열차 시간표와 4인실 단독 예약 가능 여부를 확인한 뒤 확정. 바로 사파로 간다면 G8 03:45 공항 픽업(T2)이 현실적이고, 01:30 픽업은 공식 시간표에 없어 확인 필요."
     },
     {
       "day": 3,
@@ -317,9 +317,19 @@
           "계단과 오르막이 있어 편한 신발 착용. 마을 관람은 약 2–3시간, 사진·의상 대여 시 더 여유 있게."
         ],
         [
+          "늦은 오후 (선택)",
+          "함종산 전망대",
+          "지구놀이터 코스처럼 깟깟마을 다음에 넣는 전망 포인트. 체력이 남고 날씨가 맑을 때만, 일몰 전 운영시간 확인."
+        ],
+        [
           "저녁",
           "철갑상어 핫팟",
           "사파에서 가장 기대하는 메뉴로 우선순위 높게 배치. Sapa Emotion Restaurant·Hotpot Center Sapa 후보의 3인분 가격, 생선 중량, 최신 영업 정보를 확인."
+        ],
+        [
+          "저녁 이후",
+          "사파 야시장 산책",
+          "핫팟 후 사파 시내 야시장·광장 산책(지구놀이터 1일차 코스). 꼬치·군고구마 같은 간식과 기념품 구경."
         ]
       ],
       "decision": "야간열차 도착 지연이나 피로가 크면 Moana·깟깟마을만 진행하고 판시판은 11/16으로 조정. 입장료·슬라이드·드론 가격은 현장 확인."
@@ -384,7 +394,7 @@
         [
           "오후 선택",
           "마사지 또는 짧은 관광",
-          "90분 마사지 후보를 확인하되, MASSAGE 017은 사파 후보로 메모된 곳이므로 하노이 마사지와 혼동하지 않기. 호치민 묘·바딘광장·한기둥사원은 도착이 빠르고 개방 시간이 맞을 때만."
+          "90분 마사지 후보를 확인하되, MASSAGE 017은 사파 후보로 메모된 곳이므로 하노이 마사지와 혼동하지 않기. 호치민 생가·호치민 묘·바딘광장·한기둥사원(지구놀이터 데이투어 코스)은 도착이 빠르고 개방 시간이 맞을 때만."
         ],
         [
           "오후–저녁",
@@ -431,7 +441,7 @@
       "options": [
         {
           "id": "A",
-          "name": "01:30 공항 직행 버스",
+          "name": "01:30 공항 픽업 (공식 시간표에 없음 · 확인 필요)",
           "tag": "가장 빠르지만 위험",
           "pros": [
             "공항에서 바로 사파로 향함",
@@ -445,7 +455,7 @@
         },
         {
           "id": "B",
-          "name": "04:00 시내 출발 버스",
+          "name": "03:45 공항 픽업 / 04:00 시내 출발",
           "tag": "현재 우선 검토",
           "pros": [
             "G8 Open Tour 슬리퍼 버스 선호와 맞음",
@@ -484,20 +494,46 @@
       "hanoiTitle": "하노이 후보",
       "hanoi": [
         {
-          "name": "Hanoi Nostalgia Hotel & Spa",
-          "url": "https://www.hanoinostalgiahotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2915548&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "구시가지 후보 · 킹베드+싱글베드 트리플룸과 11/14 새벽 체크인 가능 여부 확인",
-          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156779818.jpg?k=bebb49981bad25db2a8cb777a9438b765858da6e5b33101405089f9d3d27d5cc&o=",
-          "bookingPlatform": "Agoda"
-        },
-        {
           "name": "Little Diamond Hotel",
           "url": "https://littlediamondhotel.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
           "note": "구시가지 후보 · 실제 3인 객실 구성·요금·새벽 체크인 확인",
           "photo": "https://content.r9cdn.net/rimg/himg/17/91/93/expedia_group-144606-c5f0ec-196269.jpg?crop=true&height=768&width=1366",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 79229,
+            "pp": 26410,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "패밀리 디럭스 (최대 4인)",
+            "extraBed": false,
+            "rank": 1,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Hanoi Nostalgia Hotel & Spa",
+          "url": "https://www.hanoinostalgiahotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2915548&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "구시가지 후보 · 킹베드+싱글베드 트리플룸과 11/14 새벽 체크인 가능 여부 확인",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156779818.jpg?k=bebb49981bad25db2a8cb777a9438b765858da6e5b33101405089f9d3d27d5cc&o=",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 105639,
+            "pp": 35213,
+            "breakfast": true,
+            "left": "3",
+            "room": "트리플룸",
+            "extraBed": false,
+            "rank": 2,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "Hanoi Boutique Hotel & Spa",
@@ -505,15 +541,20 @@
           "note": "7 Ngõ Gạch · 일반 객실은 최대 2명 표기라 성인 3명은 커넥팅룸 필요 여부 확인. 늦은 밤/새벽 체크인 확인",
           "photo": "https://assets.waybird.com/cdn-cgi/image/width%3D1024%2Cquality%3D50%2Cformat%3Dauto/https%3A/assets.waybird.com/lodge_images/images/000/141/437/original/4_%281%29.jpg",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=230721&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Hanoi Fiesta Grand Hotel & Spa",
-          "url": "https://www.hanoifiestagrandhotel.com/photo-gallery",
-          "note": "65 Hàng Bè · 구시가지 후보. 다수 객실은 2명 기준이므로 3인 가능 객실과 새벽 체크인 확인",
-          "photo": "https://hanoifiestagrandhotel.com/UploadFile/Gallery/Rooms/Superior-Room/1.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=35957908&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 367842,
+            "pp": 122614,
+            "breakfast": true,
+            "left": "2",
+            "room": "스위트 시티뷰",
+            "extraBed": true,
+            "rank": 3,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "L’HÔTEL du LAC Hanoi",
@@ -521,7 +562,41 @@
           "note": "35–37 Hàng Trống · 구시가지 후보. 객실 정원·새벽 체크인·요금 확인",
           "photo": "https://images.trvl-media.com/lodging/83000000/82990000/82988600/82988573/577e9d62.jpg?h=800&impolicy=fcrop&p=1&q=medium&w=1200",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=34114945&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 523978,
+            "pp": 174659,
+            "breakfast": true,
+            "left": "4",
+            "room": "주니어 스위트 (발코니)",
+            "extraBed": false,
+            "rank": 4,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Hanoi Fiesta Grand Hotel & Spa",
+          "url": "https://www.hanoifiestagrandhotel.com/photo-gallery",
+          "note": "65 Hàng Bè · 구시가지 후보. 다수 객실은 2명 기준이므로 3인 가능 객실과 새벽 체크인 확인",
+          "photo": "https://hanoifiestagrandhotel.com/UploadFile/Gallery/Rooms/Superior-Room/1.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=35957908&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 90,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "Hanoi Golden Holiday Hotel",
@@ -529,57 +604,43 @@
           "note": "성인 3명 후보로 기록 · 객실 구성·후기·새벽 체크인 재확인",
           "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97107701.jpg?k=e639c2dcac4ddff3a0aafc970c8ced27ae140242c9fb007002c6982882a6e29d&o=",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2062073&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 91,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
         }
       ],
       "sapa": [
-        {
-          "name": "Sapa Soleil Hotel",
-          "url": "https://sapasoleilhotel.com/en/accommodation/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=48562162&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 중심 후보 · 창문 없는 트리플룸은 피하고 전망 객실 확인",
-          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558561593.jpg?hp=1&k=de8d88f1f905aa7f7326d59411acccb35b70014eed36b3389e4e7f3d8e438503&o=",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Rock Garden Homestay · Round House (Airbnb)",
-          "url": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
-          "bookingUrl": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
-          "bookingPlatform": "Airbnb",
-          "note": "travelaaalice 추천 Airbnb · 11/15–17 2박 후보 · 예산 메모 8만원대(1박/2박 합계인지 미확인) · 무옹화 계곡·산 전망. 리스팅은 최대 2명 표기로 보였다는 메모가 있어 3인 투숙 가능 여부·침대 구성·총액을 호스트에게 확인. 버스안 사파 3박과 달리 야간열차안은 11/15–17 일정과 잘 맞음.",
-          "photo": "https://a0.muscache.com/im/pictures/miso/Hosting-39121676/original/952060da-bc5c-4a0c-bf89-ed2263c72f86.jpeg"
-        },
-        {
-          "name": "Viettrekking Sapa Hotel",
-          "url": "https://viettrekkingsapa.com/standard/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=26852142&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "obbahere 추천 · 신서유기 등장 메모 · 창 큰 방/산 전망, 판시판 모노레일 동선 참고. 방갈로 메모 약 12만원대이나 공식 객실 안내상 2성인+어린이 기준이므로 성인 3명은 별도 객실/추가침대 문의",
-          "photo": "https://cdn.vivutour.vn/2025/12/khach-san-viettrekking-sapa_room_10143-23.jpg",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "The View Sapa Hotel",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 접근성 후보 · 실제 객실·3인 정원 확인",
-          "photo": "https://mia.vn/media/uploads/blog-du-lich/cua-so-the-view-sapa-hotel-mo-ra-du-khach-se-nghet-tho-khi-nhin-thay-day-nui-hoang-lien-son-noi-tieng-1624036721.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Pao’s Sapa Leisure Hotel",
-          "url": "https://paoshotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
-          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
-          "bookingPlatform": "Agoda"
-        },
         {
           "name": "Laxsik Ecolodge",
           "url": "https://www.laxsik.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=10560296&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "note": "시내 외곽 · 계단식 논·마을 트레킹 동선과 차량 이동 필요",
           "photo": "https://www.laxsik.com/public/storage/rooms/1724733005_Lao-Chai-21_01.jpg",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 281823,
+            "pp": 93941,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "디럭스 프리미어 룸",
+            "extraBed": true,
+            "rank": 1,
+            "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "Topas Ecolodge",
@@ -587,47 +648,41 @@
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=445774&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "note": "레오제이가 ‘인생 숙소’로 꼽은 곳 · 인피니티풀과 산 전망, 숙소 자체 경험을 위한 후보. 사파 시내에서 차량 약 45분으로 메모되어 있어 이동 부담·셔틀·3인 객실·실시간 요금을 Agoda에서 확인.",
           "photo": "https://indochinacharmtours.com/data/images/topas-ecolodge-sapa-ivivu-13.jpg",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 479129,
+            "pp": 159710,
+            "breakfast": true,
+            "left": "3",
+            "room": "Premium Executive",
+            "extraBed": true,
+            "rank": 2,
+            "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
-          "name": "Sapa Jade Hill Resort & Spa",
-          "url": "https://sapajadehillresort.com/accommodation/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인",
-          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Hotel de la Coupole",
-          "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 중심 고급형 비교 후보 · 판시판 케이블카 역과 바로 연결. 공식 안내상 일부 객실은 성인 3명 가능하지만 객실 유형·가격 비교 필수",
-          "photo": "https://www.ahstatic.com/photos/a5v2_roskb_00_p_3000x2250.jpg",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Silk Path Grand Sapa Resort & Spa",
-          "url": "https://silkpathhotel.com/sapa/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2639415&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 리조트 비교 후보 · 시내 이동·예산·3인 객실 확인",
-          "photo": "https://res.cloudinary.com/the-romantic-tourist/image/upload/v1556104438/euixe2nbnrtyqnc1fh14.jpg",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Eco Palms House",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인",
-          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
-        },
-        {
-          "name": "Pistachio Hotel Sapa",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 호텔 후보 · 실제 3인실·가격 확인",
-          "photo": "https://cdn.asahiluxstay.com/uploads/big/media/2022/0317/0327-0954ccdc52309c8-200759701.jpg?s=aHR0cHM6Ly9jZG4uYXNhaGlsdXhzdGF5LmNvbS9tZWRpYS8yMDIyLzAzMTcvMDMyNy0wOTU0Y2NkYzUyMzA5YzgtMjAwNzU5NzAxLmpwZw%3D%3D",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
+          "name": "Viettrekking Sapa Hotel",
+          "url": "https://viettrekkingsapa.com/standard/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=26852142&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "obbahere 추천 · 신서유기 등장 메모 · 창 큰 방/산 전망, 판시판 모노레일 동선 참고. 방갈로 메모 약 12만원대이나 공식 객실 안내상 2성인+어린이 기준이므로 성인 3명은 별도 객실/추가침대 문의",
+          "photo": "https://cdn.vivutour.vn/2025/12/khach-san-viettrekking-sapa_room_10143-23.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 122405,
+            "pp": 40802,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "슈페리어룸",
+            "extraBed": true,
+            "rank": 3,
+            "note": "시내 도보권 · 가성비",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "Catcat Hills Resort & Spa",
@@ -635,7 +690,230 @@
           "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
           "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda"
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 175726,
+            "pp": 58575,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "패밀리 마운틴뷰 (최대 4인)",
+            "extraBed": false,
+            "rank": 4,
+            "note": "침대 넉넉한 패밀리룸",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Pao’s Sapa Leisure Hotel",
+          "url": "https://paoshotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
+          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 299599,
+            "pp": 99866,
+            "breakfast": true,
+            "left": "2",
+            "room": "H'Mong 스위트",
+            "extraBed": true,
+            "rank": 5,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Silk Path Grand Sapa Resort & Spa",
+          "url": "https://silkpathhotel.com/sapa/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2639415&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 리조트 비교 후보 · 시내 이동·예산·3인 객실 확인",
+          "photo": "https://res.cloudinary.com/the-romantic-tourist/image/upload/v1556104438/euixe2nbnrtyqnc1fh14.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 337419,
+            "pp": 112473,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "클래식 가든뷰 (발코니)",
+            "extraBed": false,
+            "rank": 6,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Lady Hill Sapa Resort",
+          "note": "판시판 케이블카 역 바로 앞 5성급 · 인피니티풀 · 싱글+더블 트리플룸",
+          "photo": "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?ce=0&s=1024x768",
+          "bookingPlatform": "Agoda",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=39797512&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "url": "https://ladyhillsapa.com/",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 381993,
+            "pp": 127331,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "프리미어 트리플 마운틴뷰",
+            "extraBed": false,
+            "rank": 7,
+            "note": "",
+            "rooms": 1,
+            "bfOption": "조식 1인 ₩28,491 추가"
+          }
+        },
+        {
+          "name": "Sapa Jade Hill Resort & Spa",
+          "url": "https://sapajadehillresort.com/accommodation/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인",
+          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 148044,
+            "pp": 49348,
+            "breakfast": false,
+            "left": "2",
+            "room": "마운틴뷰 방갈로",
+            "extraBed": true,
+            "rank": 8,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Eco Palms House",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인",
+          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 170949,
+            "pp": 56983,
+            "breakfast": false,
+            "left": "2",
+            "room": "방갈로 (퀸베드 1개)",
+            "extraBed": false,
+            "rank": 9,
+            "note": "",
+            "rooms": 1,
+            "bfOption": "조식 포함 요금 1박 ₩186,490"
+          }
+        },
+        {
+          "name": "Hotel de la Coupole",
+          "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 중심 고급형 비교 후보 · 판시판 케이블카 역과 바로 연결. 공식 안내상 일부 객실은 성인 3명 가능하지만 객실 유형·가격 비교 필수",
+          "photo": "https://www.ahstatic.com/photos/a5v2_roskb_00_p_3000x2250.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 431476,
+            "pp": 143825,
+            "breakfast": false,
+            "left": null,
+            "room": "클래식 트윈 2실",
+            "extraBed": false,
+            "rank": 10,
+            "note": "3명이면 객실 2개 예약 필요",
+            "rooms": 2,
+            "bfOption": "조식 1인 ₩26,937 추가"
+          }
+        },
+        {
+          "name": "Sapa Soleil Hotel",
+          "url": "https://sapasoleilhotel.com/en/accommodation/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=48562162&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 중심 후보 · 창문 없는 트리플룸은 피하고 전망 객실 확인",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558561593.jpg?hp=1&k=de8d88f1f905aa7f7326d59411acccb35b70014eed36b3389e4e7f3d8e438503&o=",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 90,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "The View Sapa Hotel",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 접근성 후보 · 실제 객실·3인 정원 확인",
+          "photo": "https://mia.vn/media/uploads/blog-du-lich/cua-so-the-view-sapa-hotel-mo-ra-du-khach-se-nghet-tho-khi-nhin-thay-day-nui-hoang-lien-son-noi-tieng-1624036721.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 91,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Pistachio Hotel Sapa",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 호텔 후보 · 실제 3인실·가격 확인",
+          "photo": "https://cdn.asahiluxstay.com/uploads/big/media/2022/0317/0327-0954ccdc52309c8-200759701.jpg?s=aHR0cHM6Ly9jZG4uYXNhaGlsdXhzdGF5LmNvbS9tZWRpYS8yMDIyLzAzMTcvMDMyNy0wOTU0Y2NkYzUyMzA5YzgtMjAwNzU5NzAxLmpwZw%3D%3D",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 92,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Rock Garden Homestay · Round House (Airbnb)",
+          "url": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
+          "bookingUrl": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
+          "bookingPlatform": "Airbnb",
+          "note": "travelaaalice 추천 Airbnb · 11/15–17 2박 후보 · 예산 메모 8만원대(1박/2박 합계인지 미확인) · 무옹화 계곡·산 전망. 리스팅은 최대 2명 표기로 보였다는 메모가 있어 3인 투숙 가능 여부·침대 구성·총액을 호스트에게 확인. 버스안 사파 3박과 달리 야간열차안은 11/15–17 일정과 잘 맞음.",
+          "photo": "https://a0.muscache.com/im/pictures/miso/Hosting-39121676/original/952060da-bc5c-4a0c-bf89-ed2263c72f86.jpeg",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 93,
+            "note": "Airbnb 11/15–17 예약 불가",
+            "rooms": 1,
+            "bfOption": null
+          }
         }
       ],
       "decisions": [
@@ -644,7 +922,8 @@
         "11/17 밤은 기본적으로 숙박 없이 공항 이동",
         "11/14 새벽 도착 후 바로 체크인하려면 숙박 시작일을 11/13으로 예약해야 할 수 있음",
         "3인실 침대 구성, 창문 유무, 무료 취소, 짐 보관, 조식, 체크인 가능 시간을 확인"
-      ]
+      ],
+      "checkedAt": "2026-10-11 05:50 (KST) 아고다 기준"
     },
     "food": {
       "intro": "음식은 하노이에 시간을 더 배정해 탐방하고, 사파에서는 철갑상어 샤브샤브를 최우선으로. 코코넛 커리·볶음밥, 오만동 분짜, Color Bar는 일정·동선에 맞춰 후보로 둔다.",
