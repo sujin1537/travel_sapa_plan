@@ -687,6 +687,25 @@ a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:2px solid 
 .route-stops button,.rs-plain{font-size:14px}.rs-plain{color:var(--ink);font-weight:650}
 .route-note{font-size:12.5px;color:#6a5a2a;background:#fff8e6;border-radius:10px;padding:8px 10px;margin:8px 0 0}
 .shop-item:not(:has(.si-img)) .si-sub{margin-left:28px}
+
+/* shop detail */
+.shop-item{position:relative;padding:0}
+.si-chk{position:absolute;left:14px;top:14px;width:20px;height:20px;margin:0;accent-color:var(--green);z-index:1;cursor:pointer}
+.si-body{display:flex;gap:10px;align-items:center;padding:11px 12px 11px 46px;cursor:pointer;border-radius:14px}
+.si-body:focus-visible{outline:2px solid var(--green);outline-offset:-2px}
+.si-txt{flex:1;min-width:0}.si-body .si-sub,.shop-item:not(:has(.si-img)) .si-sub{margin:4px 0 0}
+.si-more{color:#b5b8b0;font-size:22px;line-height:1}
+.shop-dlg{border:0;padding:0;border-radius:22px;width:min(440px,calc(100vw - 32px));max-height:calc(100vh - 48px);box-shadow:0 30px 80px #0005;overflow:auto}
+.shop-dlg::backdrop{background:#10181480;backdrop-filter:blur(2px)}
+.sd-in{position:relative}
+.sd-x{position:absolute;right:12px;top:12px;width:36px;height:36px;border-radius:50%;border:0;background:#ffffffe6;font-size:16px;cursor:pointer;box-shadow:0 2px 8px #0002;z-index:2}
+.sd-img{background:#fff;display:grid;place-items:center;padding:18px 18px 0}.sd-img img{width:100%;max-height:52vh;object-fit:contain;border-radius:14px}
+.sd-body{padding:16px 20px 20px}.sd-cat{font-size:12px;font-weight:800;color:var(--muted)}
+.sd-body h3{margin:4px 0 8px;font-size:20px;line-height:1.3;padding-right:36px}
+.sd-price{font-size:18px;font-weight:900;color:var(--green);margin:8px 0 12px}
+.sd-facts{display:grid;grid-template-columns:64px 1fr;gap:6px 10px;margin:0 0 16px;font-size:14px}.sd-facts dt{color:var(--muted);font-weight:700}.sd-facts dd{margin:0;line-height:1.5}
+.sd-buy{width:100%;padding:13px;border-radius:14px;border:1px solid var(--green);background:#fff;color:var(--green);font:inherit;font-weight:850;font-size:15px;cursor:pointer}.sd-buy.on{background:var(--green);color:#fff}
+.sd-cap{font-size:11.5px;color:var(--muted);margin:10px 0 0}
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
@@ -1176,7 +1195,8 @@ async function init(){
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TaPR6UHymKBcNTaUUej-HZ9ZVHHrEaVAsouZuDVmW6Da9tYi0UeY613awv2NIKJtXGk-aWLOG4TSl7Brl2EmJ8eFkhn8ZiS7TAvPhTrLItO_xeM9r-NyXD4LSO0HTC7fG8XCOK_iP2_D0=w1200-h900-k-no",
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sgyf92PcwSp3q-PzN8Wg0a8ienOMn5X3fK4bReWu-KAEjHbFFy5M3o8ggt0ttvtlSHqoYSzCp-ol3kgS3XGRI489073bsAOy3YL87C8HmeSnAfVQZT-QyjVvbz3epDLr5VpXVRecJLAJQJ=w1200-h900-k-no"
    ],
-   "ko": "응옷 디저트"
+   "ko": "응옷 디저트",
+   "t": "snack"
   },
   {
    "name": "Lang Biang",
@@ -1609,7 +1629,8 @@ async function init(){
    "gallery": [
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxDN1fCRDntpqayTHrGIDk74eG-UVkBqbzrZ6HQyvuEb2ZNYsLMm-qS3IawRVi206At9lTK3HWzv9iH-OfHZ4__7nvt231RdAWvPaxhC5quYAvFSdOidx6rziu-47RoDzVVhwTsQ=w1200-h900-k-no"
    ],
-   "query": "Nem Chua Rán 거리 (냄추아란) Hà Nội"
+   "query": "Nem Chua Rán 거리 (냄추아란) Hà Nội",
+   "t": "snack"
   },
   {
    "name": "Giò Chả Ước Lễ Hường Sự (찹쌀떡)",
@@ -1638,7 +1659,8 @@ async function init(){
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8O7Q6kuk7Qo3EV-YLRG9YKDhu4azkWM88KZFdMuPL3AEFa7ExkP2YYEGpisuU84EOat43bmnvsmerRRPjXARpt2rxLQ6dOErldzo_oi1UI_By1Ur8xvAzTMEkZz82GdH9B53qKw=w1200-h900-k-no",
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TTzxOUM3ASGGoDTctI-QyJZ2qo0b4LozU4hV-YifquDxPnuvlLdRYaf-EtnbSFl8hybV7ChSwgbRXQFwXe427XsFIlS1GT3uY9gvlF58l-azSe9uhwqmG3Iisj3LtwFOqHHWMalTtGy69F=w1200-h900-k-no"
    ],
-   "query": "Giò Chả Ước Lễ Hường Sự (찹쌀떡) Hà Nội"
+   "query": "Giò Chả Ước Lễ Hường Sự (찹쌀떡) Hà Nội",
+   "t": "snack"
   },
   {
    "name": "Bún Thang Bà Tổng (분탕, 시장 안 닭국수)",
@@ -1681,7 +1703,8 @@ async function init(){
    "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDGi4BiLlSEdWrQ5WoPyddhYzIAEZ_vyhYormww2C4U6PdFQVVet0C5tEcpdpOYpoAKB0TNiAK7hdn9zZp9YANpph4fkgTg9JfoQ1s7T20tLIESSh2HMhP1ckuQBYzVqlxRXumAla9MO4=w1200-h900-k-no",
    "gallery": [
     "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDGi4BiLlSEdWrQ5WoPyddhYzIAEZ_vyhYormww2C4U6PdFQVVet0C5tEcpdpOYpoAKB0TNiAK7hdn9zZp9YANpph4fkgTg9JfoQ1s7T20tLIESSh2HMhP1ckuQBYzVqlxRXumAla9MO4=w1200-h900-k-no"
-   ]
+   ],
+   "t": "snack"
   },
   {
    "name": "Ốc Nóng Hà Trang (고둥)",
@@ -1997,7 +2020,7 @@ async function init(){
   },
   {
    "name": "Kem Tràng Tiền (짱띠엔 아이스크림)",
-   "t": "cafe",
+   "t": "snack",
    "ko": "짱띠엔 아이스크림",
    "kind": "디저트 · 70년 아이스크림",
    "menu": "전통 맛 아이스크림",
@@ -2027,7 +2050,7 @@ async function init(){
   },
   {
    "name": "Xôi chè Bà Thìn (디저트)",
-   "t": "cafe",
+   "t": "snack",
    "ko": "쩨 체 디저트 녹두",
    "kind": "디저트 · 쩨(chè)",
    "menu": "녹두 설탕물 · 쫀득한 찹쌀떡국 (생강맛)",
@@ -2049,7 +2072,7 @@ async function init(){
   },
   {
    "name": "Quán Kem Xôi (껨쏘이)",
-   "t": "cafe",
+   "t": "snack",
    "ko": "껨쏘이 아이스크림 찹쌀",
    "kind": "디저트 · 찹쌀+아이스크림",
    "menu": "Kem xôi 20k (약 1,100원)",
@@ -2071,7 +2094,7 @@ async function init(){
   },
   {
    "name": "King Roti (킹로띠)",
-   "t": "cafe",
+   "t": "snack",
    "ko": "킹로띠 로띠 빵",
    "kind": "빵집 · 줄 서는 로티번",
    "menu": "로티번 25k",
@@ -2122,7 +2145,7 @@ async function init(){
   },
   {
    "name": "망고빙수 (Bingsu Xoài)",
-   "t": "cafe",
+   "t": "snack",
    "ko": "망고빙수 빙수 망빙",
    "kind": "디저트 · 망고빙수",
    "menu": "망고빙수 70k (약 3,900원)",
@@ -3136,7 +3159,7 @@ const infoHtml=()=>{const I=d.info;const tbl=(rows,head)=>'<div class="ttable"><
  const A=I.airport;const air='<div class="info-card"><h3>'+esc(A.title)+' '+srcTag(A.by)+'</h3><p>'+esc(A.body)+'</p><p class="info-warn">⚠ '+esc(A.caveat)+'</p><a class="info-link" href="'+esc(A.link)+'" target="_blank" rel="noopener">공항 혼잡도 사이트 열기 ↗</a></div>';
  return segBar('info',[['card','💳 카드 혜택'],['fx','💵 환전·ATM'],['app','📱 앱'],['air','✈ 공항·기타']])+segPanel('info','card',renderCards(),1)+segPanel('info','fx',fx)+segPanel('info','app',apps)+segPanel('info','air',air)};
 const SHOPK='shopChk';const shopChk=(()=>{try{return JSON.parse(localStorage.getItem(SHOPK)||'{}')}catch(e){return {}}})();
-const shopHtml=()=>segBar('shop',d.shop.tabs.map(t=>[t.id,t.label+(t.items?' <small>'+t.items.length+'</small>':'')]))+d.shop.tabs.map((t,ti)=>segPanel('shop',t.id,(t.note?'<p class="shop-note">'+esc(t.note)+'</p>':'')+(t.items?'<ul class="shop-list">'+t.items.map((it,i)=>{const k=t.id+'-'+i;return '<li class="shop-item'+(shopChk[k]?' done':'')+'" id="shop-'+k+'"><label><input type="checkbox" data-shop-chk="'+k+'"'+(shopChk[k]?' checked':'')+'>'+(it.img?'<img class="si-img" src="'+esc(it.img)+'" alt="'+esc(it.name)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':'')+'<span class="si-main"><b>'+esc(it.name)+'</b>'+(it.label?'<span class="co-tag">🏢 '+esc(it.label)+'</span>':'')+'<em>'+esc(it.price)+'</em></span></label><span class="si-sub">'+esc(it.where||'')+(it.note?' · '+esc(it.note):'')+' '+srcTag(it.src)+'</span></li>'}).join('')+'</ul>':'')+(t.places?'<div class="hmap-wrap"><div class="hmap" id="shopmap"></div><p class="hmap-cap">숫자 = 아래 카드 번호 · ★ = 기준점</p></div><div class="shop-places">'+t.places.map((p,i)=>'<div class="shop-place" id="shop-place-'+i+'">'+(p.photo?'<img src="'+esc(p.photo)+'" alt="" loading="lazy" onerror="this.remove()">':'')+'<div><b><span class="pin-no">'+(i+1)+'</span>'+esc(p.name)+'</b><p>'+esc(p.desc)+'</p><a href="https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(p.query)+'" target="_blank" rel="noopener">Google 지도 ↗</a> '+srcTag(p.src)+'</div></div>').join('')+'</div>':''),!ti)).join('');
+const shopHtml=()=>segBar('shop',d.shop.tabs.map(t=>[t.id,t.label+(t.items?' <small>'+t.items.length+'</small>':'')]))+d.shop.tabs.map((t,ti)=>segPanel('shop',t.id,(t.note?'<p class="shop-note">'+esc(t.note)+'</p>':'')+(t.items?'<ul class="shop-list">'+t.items.map((it,i)=>{const k=t.id+'-'+i;return '<li class="shop-item'+(shopChk[k]?' done':'')+'" id="shop-'+k+'"><input type="checkbox" class="si-chk" aria-label="'+esc(it.name)+' 샀어요" data-shop-chk="'+k+'"'+(shopChk[k]?' checked':'')+'><div class="si-body" role="button" tabindex="0" data-shop-open="'+ti+'-'+i+'" aria-label="'+esc(it.name)+' 자세히 보기">'+(it.img?'<img class="si-img" src="'+esc(it.img)+'" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':'')+'<span class="si-txt"><span class="si-main"><b>'+esc(it.name)+'</b>'+(it.label?'<span class="co-tag">🏢 '+esc(it.label)+'</span>':'')+'<em>'+esc(it.price)+'</em></span><span class="si-sub">'+esc(it.where||'')+(it.note?' · '+esc(it.note):'')+'</span></span><span class="si-more" aria-hidden="true">›</span></div></li>'}).join('')+'</ul>':'')+(t.places?'<div class="hmap-wrap"><div class="hmap" id="shopmap"></div><p class="hmap-cap">숫자 = 아래 카드 번호 · ★ = 기준점</p></div><div class="shop-places">'+t.places.map((p,i)=>'<div class="shop-place" id="shop-place-'+i+'">'+(p.photo?'<img src="'+esc(p.photo)+'" alt="" loading="lazy" onerror="this.remove()">':'')+'<div><b><span class="pin-no">'+(i+1)+'</span>'+esc(p.name)+'</b><p>'+esc(p.desc)+'</p><a href="https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(p.query)+'" target="_blank" rel="noopener">Google 지도 ↗</a> '+srcTag(p.src)+'</div></div>').join('')+'</div>':''),!ti)).join('')+'<dialog id="shop-dlg" class="shop-dlg" aria-labelledby="sd-title"><div class="sd-in"></div></dialog>';
 const routesHtml=()=>'<div class="routes">'+d.routes.map(r=>'<article class="route-card"><div class="route-head"><span class="route-tag">'+esc(r.tag)+'</span><h3>'+esc(r.title)+'</h3>'+srcTag(r.by)+'</div><p class="route-sum">'+esc(r.summary)+'</p>'+r.days.map(dy=>(dy.d?'<h4 class="route-day">'+esc(dy.d)+'</h4>':'')+'<ol class="route-stops">'+dy.stops.map(x=>'<li>'+(x[1]?'<button type="button" data-route-q="'+esc(x[1])+'">'+esc(x[0])+' <span>↗</span></button>':'<span class="rs-plain">'+esc(x[0])+'</span>')+'</li>').join('')+'</ol>'+(dy.note?'<p class="route-note">💡 '+esc(dy.note)+'</p>':'')).join('')+'</article>').join('')+'</div>';
 const searchBarHtml=()=>'<div class="gsearch" role="search"><span class="gs-ic" aria-hidden="true">🔍</span><input id="gs-input" type="search" autocomplete="off" placeholder="가게·메뉴·장소 검색 (예: 반쎄오, 분짜닥킴, pho)" aria-label="여행 정보 검색" aria-controls="gs-list" aria-expanded="false"><div id="gs-list" class="gs-list" role="listbox" hidden></div></div>';
 const tipList=t=>{const parts=String(t||'').split(/\s·\s(?=[^·:]{1,32}:)/);if(parts.length<2)return esc(t);const who=l=>{let m=l.match(/^([\w.]+)(?:\((.*)\))?$/);if(m)return '@'+esc(m[1])+(m[2]?' <small>'+esc(m[2])+'</small>':'');m=l.match(/^(.+?)\(([\w.]+)\)$/);if(m)return esc(m[1])+' <small>@'+esc(m[2])+'</small>';return esc(l)};return '<ul class="tip-list">'+parts.map((x,k)=>{const m=x.match(/^([^:]{1,32}?)\s*:\s*([\s\S]*)$/);return '<li>'+(m&&!(k===0&&parts.length>1&&!/[\w)]$/.test(m[1]))?'<b class="tip-who">'+who(m[1])+'</b>'+esc(m[2]):esc(x))+'</li>'}).join('')+'</ul>'};
@@ -3226,7 +3249,7 @@ const renderFlights=()=>{const f=d.flightWatch;if(!f)return '';const W=n=>n==nul
   document.querySelectorAll("[data-food-city]").forEach(b=>{const active=b.dataset.foodCity===city;b.classList.toggle("active",active);b.setAttribute("aria-selected",String(active))});
   document.getElementById("food-city-intro").innerHTML=isHanoi?'미쉐린 먼저 · 예슬 추천 · 인스타 추천 많은 순':'🔥 핫팟 필수 · 인스타 추천 많은 순 · 외곽은 아래로';
   document.getElementById("food-places-list").innerHTML=foodPlaces[city].map((p,i)=>foodPlaceCard(p,i,city)).join("");
-  {const T={all:'전체',food:'🍜 식당',cafe:'☕ 카페',bar:'🍸 바',etc:'🛵 기타'};const ty=p=>p.t?p.t:/바\b|칵테일|(^|\s)바(\s|·|$)/.test(p.kind||'')?'bar':/카페|커피|디저트|Coffee|Cafe|Café/i.test((p.kind||'')+' '+p.name)&&!/맛집|레스토랑 ·|식당/.test(p.kind||'')?'cafe':'food';const cnt={all:foodPlaces[city].length,food:0,cafe:0,bar:0,etc:0};document.querySelectorAll('#food-places-list [data-food-place]').forEach(r=>{const p=foodPlaces[city][Number(r.dataset.foodPlace.split('-')[1])];const t=ty(p);r.dataset.ftype=t;cnt[t]++});
+  {const T={all:'전체',food:'🍜 식당',cafe:'☕ 카페',snack:'🍡 간식·디저트',bar:'🍸 바',etc:'🛵 기타'};const ty=p=>p.t?p.t:/바\b|칵테일|(^|\s)바(\s|·|$)/.test(p.kind||'')?'bar':/카페|커피|디저트|Coffee|Cafe|Café/i.test((p.kind||'')+' '+p.name)&&!/맛집|레스토랑 ·|식당/.test(p.kind||'')?'cafe':'food';const cnt={all:foodPlaces[city].length,food:0,cafe:0,snack:0,bar:0,etc:0};document.querySelectorAll('#food-places-list [data-food-place]').forEach(r=>{const p=foodPlaces[city][Number(r.dataset.foodPlace.split('-')[1])];const t=ty(p);r.dataset.ftype=t;cnt[t]++});
   const foodMap=k=>placeMap('fmap',foodPlaces[city].map((p,i)=>({p,i})).filter(o=>k==='all'||o.p._t===k).map(o=>({n:o.i+1,name:o.p.name,lat:o.p.lat,lng:o.p.lng,photo:o.p.photo||(o.p.gallery||[])[0],sub:o.p.menu,q:o.p.query,sel:'[data-food-place="'+city+'-'+o.i+'"]'})),MAP_LM[city]);foodPlaces[city].forEach(p=>p._t=ty(p));window.__foodMap=foodMap;setTimeout(()=>{if(document.getElementById('view-food').classList.contains('active'))foodMap('all')},50);
   const tb=document.getElementById('food-type-tabs');tb.innerHTML=Object.keys(T).filter(k=>cnt[k]).map(k=>'<button type="button" class="seg-tab'+(k==='all'?' active':'')+'" data-ftype-btn="'+k+'">'+T[k]+' <small>'+cnt[k]+'</small></button>').join('');
   tb.querySelectorAll('[data-ftype-btn]').forEach(b=>b.addEventListener('click',()=>{const k=b.dataset.ftypeBtn;tb.querySelectorAll('.seg-tab').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('#food-places-list [data-food-place]').forEach(r=>{r.hidden=k!=='all'&&r.dataset.ftype!==k});foodMap(k)}));}
@@ -3295,6 +3318,11 @@ gi.addEventListener('input',gsShow);gi.addEventListener('focus',()=>{if(gi.value
 gi.addEventListener('keydown',e=>{const o=[...gl.querySelectorAll('.gs-opt')];if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();if(!o.length)return;gsSel=(gsSel+(e.key==='ArrowDown'?1:-1)+o.length)%o.length;o.forEach((x,j)=>x.classList.toggle('sel',j===gsSel));o[gsSel].scrollIntoView({block:'nearest'})}else if(e.key==='Enter'){e.preventDefault();const r=gsRes[gsSel<0?0:gsSel];if(r)gsOpen(r)}else if(e.key==='Escape'){gl.hidden=true}});
 gl.addEventListener('click',e=>{const b=e.target.closest('[data-gs]');if(b)gsOpen(gsRes[Number(b.dataset.gs)])});
 document.addEventListener('click',e=>{if(!e.target.closest('.gsearch'))gl.hidden=true});}
+ {const dlg=document.getElementById('shop-dlg');const fill=(ti,i)=>{const t=d.shop.tabs[ti],it=t.items[i],k=t.id+'-'+i;dlg.querySelector('.sd-in').innerHTML='<button type="button" class="sd-x" aria-label="닫기">✕</button>'+(it.img?'<div class="sd-img"><img src="'+esc(it.img)+'" alt="'+esc(it.name)+'" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></div>':'')+'<div class="sd-body"><span class="sd-cat">'+t.label+'</span><h3 id="sd-title">'+esc(it.name)+'</h3>'+(it.label?'<span class="co-tag">🏢 '+esc(it.label)+'</span>':'')+'<p class="sd-price">'+esc(it.price)+'</p><dl class="sd-facts">'+(it.where?'<dt>어디서</dt><dd>'+esc(it.where)+'</dd>':'')+(it.note?'<dt>메모</dt><dd>'+esc(it.note)+'</dd>':'')+(it.src?'<dt>출처</dt><dd>'+srcTag(it.src)+'</dd>':'')+'</dl><button type="button" class="sd-buy'+(shopChk[k]?' on':'')+'" data-k="'+k+'">'+(shopChk[k]?'✓ 샀어요':'샀으면 체크')+'</button>'+(it.img?'<p class="sd-cap">사진은 검색 결과 참고용이라 실제 판매 제품과 다를 수 있어.</p>':'')+'</div>';
+ dlg.querySelector('.sd-x').onclick=()=>dlg.close();dlg.querySelector('.sd-buy').onclick=e=>{const b=e.currentTarget,kk=b.dataset.k,on=!shopChk[kk];if(on)shopChk[kk]=1;else delete shopChk[kk];try{localStorage.setItem(SHOPK,JSON.stringify(shopChk))}catch(x){}b.classList.toggle('on',on);b.textContent=on?'✓ 샀어요':'샀으면 체크';const c=document.querySelector('[data-shop-chk="'+kk+'"]');if(c){c.checked=on;c.closest('.shop-item').classList.toggle('done',on)}}};
+ const open=el=>{const [ti,i]=el.dataset.shopOpen.split('-').map(Number);fill(ti,i);if(dlg.showModal)dlg.showModal();else dlg.setAttribute('open','')};
+ document.querySelectorAll('[data-shop-open]').forEach(el=>{el.addEventListener('click',()=>open(el));el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open(el)}})});
+ dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});}
  document.querySelectorAll('[data-db-opt]').forEach(btn=>btn.addEventListener('click',()=>{const k=btn.dataset.dbKey,v=btn.dataset.dbOpt;const on=dbPicks[k]!==v;if(on)dbPicks[k]=v;else delete dbPicks[k];document.querySelectorAll('[data-db-key="'+k+'"]').forEach(x=>x.classList.toggle('picked',on&&x.dataset.dbOpt===v));try{localStorage.setItem('dbPicks',JSON.stringify(dbPicks))}catch(e){}document.querySelectorAll('[data-branch-of="'+k+'"]').forEach(br=>{br.hidden=!!dbPicks[k]&&dbPicks[k]!==br.dataset.when});}));
  document.querySelectorAll('.db-jump a').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();const t=document.querySelector(a.getAttribute('href'));if(t)window.scrollTo({top:t.getBoundingClientRect().top+scrollY-70,behavior:'smooth'})}));
  document.querySelectorAll('[data-decision-goto]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();goView(a.dataset.decisionGoto)}));
@@ -3302,7 +3330,7 @@ document.addEventListener('click',e=>{if(!e.target.closest('.gsearch'))gl.hidden
  if(d.itinerary&&d.itinerary.length)(document.getElementById('daydetail')&&showDay(1,true));
 }
 document.addEventListener('error',function(e){
- const img=e.target;if(!img||img.tagName!=='IMG'||img.classList.contains('leaflet-tile')||img.closest('.hm-slide'))return;
+ const img=e.target;if(!img||img.tagName!=='IMG'||img.classList.contains('leaflet-tile')||img.closest('.hm-slide')||img.closest('.shop-item,.shop-dlg,.shop-place,.gsearch'))return;
  img.style.display='none';
  img.parentElement?.classList.add('photo-missing');
  const note=document.createElement('span');
