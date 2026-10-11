@@ -521,7 +521,9 @@
             "https://pix8.agoda.net/hotelImages/6600413/0/79f0839dda93b2892d43b359510a819e.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/6600413/-1/0f529c64f6daea3f192db843ab76918a.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/6600413/0/eb1140f452c0b755dd707e24f187e895.png?s=1024x768"
-          ]
+          ],
+          "lat": 21.0430583,
+          "lng": 105.8438568
         },
         {
           "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
@@ -552,7 +554,9 @@
             "https://pix8.agoda.net/hotelImages/6542427/-1/66ea48663532f85afcc6cff1faf794a7.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/6542427/-1/51b30f05b60a63342f5cbb2eecc5b188.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/6542427/-1/16b6dcefa0b5b25019fd35cf5aac65ad.jpg?s=1024x768"
-          ]
+          ],
+          "lat": 21.009892,
+          "lng": 105.824023
         },
         {
           "name": "Lotte Hotel Hanoi (롯데호텔 하노이)",
@@ -583,7 +587,9 @@
             "https://pix8.agoda.net/hotelImages/665815/1077790092/1aed0f3adfb3739f03ad43d7b8790d74.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/665815/-1/3e958b75c68dd96d7ac5917f5728aa54.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/665815/0/45d95d4587ac08ab77c6862a0c01003b.jpg?s=1024x768"
-          ]
+          ],
+          "lat": 21.0320526,
+          "lng": 105.8130247
         },
         {
           "name": "Aira Boutique Hanoi Hotel & Spa (아이라)",
@@ -608,7 +614,9 @@
             "note": "조식 포함 여부 확인 필요",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 21.0307215,
+          "lng": 105.8418808
         },
         {
           "name": "Acoustic Hotel & Spa (어쿠스틱)",
@@ -633,7 +641,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 21.0276833,
+          "lng": 105.8445803
         },
         {
           "name": "Little Diamond Hotel",
@@ -664,7 +674,9 @@
             "https://pix8.agoda.net/hotelImages/280805/-1/584e7df2f88e0b67af4e5ec169018622.jpg?s=1024x768",
             "https://pix8.agoda.net/property/280805/0/458f09065f9de82a46caddfa684d7453.jpeg?s=1024x768",
             "https://pix8.agoda.net/property/280805/0/05a9d44842e5d04ed0258a228831e08b.jpeg?s=1024x768"
-          ]
+          ],
+          "lat": 21.0337023,
+          "lng": 105.8475903
         },
         {
           "name": "Hanoi Nostalgia Hotel & Spa",
@@ -695,7 +707,9 @@
             "https://pix8.agoda.net/hotelImages/2915548/-1/f8e18a4900f3c06748efe23a7cd8b4a6.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/2915548/-1/bcbfa81df62e2e123dfb1a6d56fa09e8.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/2915548/0/223ecd6a391778e7a0878a4c5b7f7ebb.jpg?s=1024x768"
-          ]
+          ],
+          "lat": 21.0346847,
+          "lng": 105.8530289
         },
         {
           "name": "Hanoi Boutique Hotel & Spa",
@@ -726,7 +740,9 @@
             "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
             "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
-          ]
+          ],
+          "lat": 21.0362202,
+          "lng": 105.8504472
         },
         {
           "name": "L’HÔTEL du LAC Hanoi",
@@ -747,7 +763,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 21.0306722,
+          "lng": 105.8496657
         },
         {
           "name": "Hanoi Fiesta Grand Hotel & Spa",
@@ -768,7 +786,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 21.0322535,
+          "lng": 105.8538996
         },
         {
           "name": "Hanoi Golden Holiday Hotel",
@@ -789,7 +809,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 21.0357215,
+          "lng": 105.8476901
         }
       ],
       "sapa": [
@@ -848,7 +870,9 @@
               "id": "1amny",
               "url": "https://www.instagram.com/reel/DdGQRahp77s/"
             }
-          ]
+          ],
+          "lat": 22.3149108,
+          "lng": 103.8810653
         },
         {
           "name": "Viettrekking Sapa Hotel",
@@ -909,7 +933,9 @@
                 "조식 종류가 다양하지 않음"
               ]
             }
-          ]
+          ],
+          "lat": 22.3338122,
+          "lng": 103.8367324
         },
         {
           "name": "Hotel de la Coupole",
@@ -958,7 +984,9 @@
               ],
               "cons": []
             }
-          ]
+          ],
+          "lat": 22.3344234,
+          "lng": 103.8401962
         },
         {
           "name": "Topas Ecolodge",
@@ -1084,7 +1112,9 @@
                 "시내에서 차로 약 45분 · 가격대 높은 편"
               ]
             }
-          ]
+          ],
+          "lat": 22.276207,
+          "lng": 103.967024
         },
         {
           "name": "Sapa Jade Hill Resort & Spa",
@@ -1127,7 +1157,9 @@
               "by": "@uucode_yui",
               "cap": "해발 1,600m 구름 위 럭셔리 방갈로 · 반신욕 · 수영장·사우나 · 조식 완벽"
             }
-          ]
+          ],
+          "lat": 22.3235641,
+          "lng": 103.8550771
         },
         {
           "name": "Ville de Mont Mountain Resort (빌드몽)",
@@ -1169,7 +1201,9 @@
               "by": "@travelaaalice",
               "cap": "“저는 잠시 천국에 왔어요” · 여유롭고 천국 같은 분위기"
             }
-          ]
+          ],
+          "lat": 22.3245962,
+          "lng": 103.8605905
         },
         {
           "name": "Catcat Hills Resort & Spa",
@@ -1205,7 +1239,9 @@
               "id": "1amny",
               "url": "https://www.instagram.com/reel/DdGQRahp77s/"
             }
-          ]
+          ],
+          "lat": 22.3328285,
+          "lng": 103.8343429
         },
         {
           "name": "Eco Palms House",
@@ -1243,7 +1279,9 @@
               "by": "@jxxha_",
               "cap": "“요기는 뷰가 진짜 최고였다”"
             }
-          ]
+          ],
+          "lat": 22.3144708,
+          "lng": 103.882971
         },
         {
           "name": "Silk Path Grand Sapa Resort & Spa",
@@ -1274,7 +1312,9 @@
             "https://pix8.agoda.net/hotelImages/2639415/-1/ea608f1b30c2cd38dad285976fcc706a.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/2639415/-1/b56fa6e5918648e8b8599114864c27aa.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/2639415/-1/5034c1b06df4c20608234835dddf07f1.jpg?s=1024x768"
-          ]
+          ],
+          "lat": 22.3376857,
+          "lng": 103.8382138
         },
         {
           "name": "Lady Hill Sapa Resort",
@@ -1305,7 +1345,9 @@
             "https://pix8.agoda.net/hotelImages/39797512/-1/9bb07ba5b92380bc3a380f341fa5fb3b.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/39797512/658250390/3da2400d429e3a65f83c1aa6c88d47b8.jpg?s=1024x768"
-          ]
+          ],
+          "lat": 22.3414346,
+          "lng": 103.8249663
         },
         {
           "name": "Pao’s Sapa Leisure Hotel",
@@ -1334,7 +1376,9 @@
             "https://pix8.agoda.net/hotelImages/2607925/0/a76611e8d53fa05c37ecff3606967545.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/2607925/0/30f557682faf97534525981e6845e05b.jpg?s=1024x768",
             "https://pix8.agoda.net/property/2607925/0/98baa507422b91bec95596d3aacda1e2.jpeg?s=1024x768"
-          ]
+          ],
+          "lat": 22.3271556,
+          "lng": 103.8465807
         },
         {
           "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
@@ -1360,7 +1404,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 22.332362,
+          "lng": 103.8435226
         },
         {
           "name": "Pistachio Hotel Sapa",
@@ -1405,7 +1451,9 @@
                 "예약 문제 생겼을 때 직원 대응은 아쉬웠다는 후기"
               ]
             }
-          ]
+          ],
+          "lat": 22.3347116,
+          "lng": 103.8387484
         },
         {
           "name": "Canvas Sapa Legend Hotel",
@@ -1427,7 +1475,9 @@
             "note": "취소 물량이 나오면 바로 잡기",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 22.3366469,
+          "lng": 103.844393
         },
         {
           "name": "Rock Garden Homestay · Round House (Airbnb)",
@@ -1454,7 +1504,9 @@
               "id": "1amny",
               "url": "https://www.instagram.com/reel/DdGQRahp77s/"
             }
-          ]
+          ],
+          "lat": 22.3196193,
+          "lng": 103.8884297
         },
         {
           "name": "Sapa Soleil Hotel",
@@ -1475,7 +1527,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 22.3328104,
+          "lng": 103.843522
         },
         {
           "name": "The View Sapa Hotel",
@@ -1496,7 +1550,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null
-          }
+          },
+          "lat": 22.3312963,
+          "lng": 103.8435113
         }
       ],
       "decisions": [
@@ -1506,7 +1562,46 @@
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
       "checkedAt": "2026-10-11 17:20 (KST) 아고다 기준",
-      "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)"
+      "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)",
+      "landmarks": {
+        "hanoi": [
+          {
+            "name": "하노이역 (야간열차)",
+            "lat": 21.0245,
+            "lng": 105.8412,
+            "ref": true
+          },
+          {
+            "name": "호안끼엠 호수",
+            "lat": 21.0288,
+            "lng": 105.8525,
+            "ref": true
+          },
+          {
+            "name": "구시가지 · 동쑤언 시장",
+            "lat": 21.0383,
+            "lng": 105.8495
+          }
+        ],
+        "sapa": [
+          {
+            "name": "사파 광장",
+            "lat": 22.3356,
+            "lng": 103.8437,
+            "ref": true
+          },
+          {
+            "name": "판시판역",
+            "lat": 22.3346,
+            "lng": 103.8405
+          },
+          {
+            "name": "깟깟마을",
+            "lat": 22.3299,
+            "lng": 103.8357
+          }
+        ]
+      }
     },
     "food": {
       "intro": "음식은 하노이에 시간을 더 배정해 탐방하고, 사파에서는 철갑상어 샤브샤브를 최우선으로. 코코넛 커리·볶음밥, 오만동 분짜, Color Bar는 일정·동선에 맞춰 후보로 둔다.",
