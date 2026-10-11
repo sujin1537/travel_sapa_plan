@@ -501,7 +501,11 @@
           "photo": "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6393504/0/1f9cac1d84fd084610dc7f5ad8a84001.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/6393504/0/1f9cac1d84fd084610dc7f5ad8a84001.jpg?s=1024x768",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTA_B4C0yswVYa4bcF7gVvrQxDqFSp-Shv-moB01GeipU04eiO2rMNlxSfobRqIvaDGr-twUgfwqaBxo5ABE9fpvQXpnZP5HoehW4Cvdkd1YUMG5qfrxj8gkfZ6zmCChORgM1P-Q=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RR1_y6LrE1MfS9yqp3K9hO6hsJ8PZfNeJNe8W_Danw_U0B7kkPpT9OvPN3p-jrs9Rk28khsyn8WkCR1LwI5znFb-gXbq-RC3IPhjGLZcbe-W9VuyPHbKja1XPcTbkifr0L1vv4w1NdlOu_=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGcL6XNAM_OSX1n3eesR6dwfn71sWFMVDXmUrgieQzaMvRp69oiw7Em2kNCPf_xdTWgyA5ny0gX4jegi9uzjBGJjQQCplrK3XtHqQhgZaUscH82AZOxHhLR9eBd1uuPUXWBlM=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlXZXlebYDw_-uj53CQz7Sklb2WKP18AAo2yBHA1juzeK7uObDAr2j17v3SkV319_cKSd6mgdyzpSxyRfhvlbDbLeHZ4QqycHx33OBtJyGfHaabi4JNWwQMTyilpaxkNZ7rU58cw=w1200-h900-k-no"
           ],
           "bookingPlatform": "Agoda",
           "avail": {
@@ -767,7 +771,13 @@
             "bfOption": null
           },
           "lat": 21.0306722,
-          "lng": 105.8496657
+          "lng": 105.8496657,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qd3N8ibEi7QYghoHsaySW5U_T0mjnwb9iNeSZGJyJ1CGDLJ9AB0wIszQOkdbwIwsCeH9r7OpjkI9VJ_PodyYksFB-UkcTZH36vAdqMVlqvIhP6-dig8jZrSieaDLdhvmAJPaUou_TWT_S1=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBjQkAOJn2bTWM3-Wu7xEGCmRTOLmS9MEhz7EKfSUgkmeYO6-unA5vr_-Kn_lQ3DlTNSbPIQPRsTjVLt7X9LmJNxHCoReHKEg2w25V_ug56o5hyG00OCpx8xtvRKYTJ22oiA0pvn3gGvIt=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGPSs2eFQT8NFmoApn0dEOkFEwYR_AA2O29kGmGRw4-iqqmqsVuJeoukgntVRiBbas0_vlUpnMOdvdygBDcjMQtS4m9GNXNl7UuMIeydYEvNtN4RlNgekiC7NzjfnE0BqReLf8Ek6RcdY=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rd-QzAPyKs0bmnnlN7Iv9zMhxwH9dYGMPP5rAgEDStqImAb3Gm3qoQTIBTUB1Z4XsnFgDXQsl6C1BlIyn2xRrGHFrJACsYVj_fATpQx_vf9wFxisRMmCQEjmWtVxwKFPOzl0E=w1200-h900-k-no"
+          ]
         },
         {
           "name": "Hanoi Golden Holiday Hotel",
@@ -874,7 +884,28 @@
             }
           ],
           "lat": 22.3149108,
-          "lng": 103.8810653
+          "lng": 103.8810653,
+          "reviews": [
+            {
+              "by": "sum2__chip",
+              "pros": [
+                "10만원 초중반",
+                "문 열면 바로 수영장인 룸",
+                "조식 쌀국수가 제일 맛있었다",
+                "계단식 논밭이 더 가까이 보임"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/p/DdOg6_rE5nV/"
+            },
+            {
+              "by": "u__w.c",
+              "pros": [
+                "“베트남의 스위스” 뷰 하나로 가는 길 피로가 다 풀린 곳"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/p/DeEH8IliTSI/"
+            }
+          ]
         },
         {
           "name": "Viettrekking Sapa Hotel",
@@ -1161,7 +1192,20 @@
             }
           ],
           "lat": 22.3235641,
-          "lng": 103.8550771
+          "lng": 103.8550771,
+          "reviews": [
+            {
+              "by": "uucode_yui",
+              "pros": [
+                "해발 1,600m 구름 위 럭셔리 방갈로 · 1박 10만원대",
+                "구름 위 반신욕",
+                "수영장 + 사우나",
+                "레스토랑·조식 맛있음"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
+            }
+          ]
         },
         {
           "name": "Ville de Mont Mountain Resort (빌드몽)",
@@ -1171,7 +1215,11 @@
           "photo": "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
           "gallery": [
             "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_Kdio58gz8SywunyyQxLNwKXyT3nC0XkyE0NV7cuaxWWgnlmNw2a-EMcb_Yg8klepxmCOfd8dvfEy1PWdDjIFk2vsGtWPsaG4umR7KhFJHHkzhUY7kVMg7rTOUS2DeHAF3Ag=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Suz-_7KZkNCFGY_0nb5OIRu9m1gLWJoBD49geXymUHgHWsvjKf38juK752ZOaU-F6ifn8oOY73rRmhEJGoXo-k-KVnbRdgXmw7XT7l9rAz49yfwencrCxjsCfgKtTClKdM-rH8VEU31p2K=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQeWcdCL73t9mTOkzH8LTXbm1X60k_7OLzbEFxqj1uIN0v9awperraSBaKDjSUkWvGu56LnUp5q1fNR9Zd_J3TvoA3TSP_4gU7DW_hoS9nTYhBh0Z512boUmovOaZV8VYlP2gNeid4pDwC=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rh-00oF3cw9M6DoWJCoFhtQoEGC9qZovUM_e3QsDzNrEJankzvX1QO9pdtHpKNJlDqlY4_dlRr_B591y7XL_WRY-9NJl1WICH3uin7VbExn6UGbQbB2Pl-4ILnC_w__j08ilHfzA=w1200-h900-k-no"
           ],
           "bookingPlatform": "Agoda",
           "avail": {
@@ -1205,7 +1253,18 @@
             }
           ],
           "lat": 22.3245962,
-          "lng": 103.8605905
+          "lng": 103.8605905,
+          "reviews": [
+            {
+              "by": "travelaaalice",
+              "pros": [
+                "“저는 잠시 천국에 왔어요” · 여유로운 분위기",
+                "절벽 위 야외 카페 · 사파 산맥 뷰"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
+            }
+          ]
         },
         {
           "name": "Catcat Hills Resort & Spa",
@@ -1243,7 +1302,20 @@
             }
           ],
           "lat": 22.3328285,
-          "lng": 103.8343429
+          "lng": 103.8343429,
+          "reviews": [
+            {
+              "by": "1amny",
+              "pros": [
+                "1amny 4박5일 사파 코스 숙소 리스트에 포함",
+                "깟깟마을 쪽이라 마을 산책 동선이 짧음"
+              ],
+              "cons": [
+                "경사길 · 시내까지 차량 이동 확인"
+              ],
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ]
         },
         {
           "name": "Eco Palms House",
@@ -1283,7 +1355,26 @@
             }
           ],
           "lat": 22.3144708,
-          "lng": 103.882971
+          "lng": 103.882971,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RECjlUr79Nhs-xTsz5RlT2k4y7eVE0CR24ARYUOB6in-oE1kVtI6KuI22YtcdUb-ugio2aF_HJ5OFtz1R2HQLaBZulen5Ws9SQ7Jxd9c1wbplkfZHAhSJYOCZ8ZifFj3NEI5icpcK41ac=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RSkdfo4X9fxKcDPZ8WMq0dwWM2kqEbeF_9STKG8u4XNKozuUmveT99Yio6lpx0h8B-ez7t5kY5zoDWZAnQz9cj5BDCD1zOUUjNPqQ-RtDk2Gtx5HPgTwX_XGQM9lkoV3rcALhJYFwzF8QM=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TqZXzIsP3FyiFoDCY-JWMGqPKfyts50ei75PJz7-mowOkquFDFo7kTOSNverGrIakfsw0RqWrhG58LbvhCPA_zo0DzwaNC1naDYGwQGddH8ePI5zQgm-MKp5ZqVY4CaRYtyG3uVOvyGr4=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXEki0LucHp53MeFrVzA3-YaPmtWYvT3tv0MxvpGrMLjcE7-v2r5y53NUB1y4GKf0M8dcc3JhKKOEf4Ukra3AYZg4TnqWM7ShXzZ3aRnk7z0RBjFWfMHtH4s07tuBj8fNGdmA3=w1200-h900-k-no"
+          ],
+          "reviews": [
+            {
+              "by": "jxxha_",
+              "pros": [
+                "“요기는 뷰가 진짜 최고였다”",
+                "논밭 꼭대기 뷰 (숙소 리스트 글)"
+              ],
+              "cons": [
+                "시내 외곽이라 차량 이동 필요"
+              ],
+              "url": "https://www.instagram.com/p/Cior9EoPLV-/"
+            }
+          ]
         },
         {
           "name": "Silk Path Grand Sapa Resort & Spa",
@@ -1391,7 +1482,11 @@
           "gallery": [
             "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tmo2MQmQcwwiCZMLUbEJkmVEs6P6ASemUTbI7A7WI88B1FeaKfWBM2QucJ2QdCty5bJBQp6JjRLiALi315xVTleVfSuCbAmsuufOVoko4gJkX68P6o81lKsfZ6sZAmGcYJE1oFn73Ot_Eu=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ThTiSvmyEkEnhzmIynBwL5LHXan7y5T0pKRk04KKZtjCTDQIXgzV1ZpUGmshev3JKDoOktsQRw2x33GD9VzCuEC7vRFbjaspxYxGv3fcB4D6Pbe5eGTESvX_wc5SJeTErkgzt8YmGcQdY=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7EBaf5AWPCgfrBimYPPJgTMroEpnL0-k6TQe57o93wSq58mRuXnkpW-F1V5kvurU5aZopUXqKUBMFCWDTDlAouuaiq6KPVLAyYTDxrI3fBtrRJVHDVlG98Ft2mg0JdqBmAWMv=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLxJoOGLnwlvS7Ndpya7djgJm6R-B0J7p3mDvPhW4k4RXkgdM6d1k5xIsT3GZfXx_B0-TvX8DkBt1IFo8hRDPJjjFGP0Y8OYb-4lo2H_VbJz-l3APNJoY1fzsIDYNQfLWFBIh09LHlLm8=w1200-h900-k-no"
           ],
           "bookingPlatform": "Agoda",
           "avail": {
@@ -1455,7 +1550,13 @@
             }
           ],
           "lat": 22.3347116,
-          "lng": 103.8387484
+          "lng": 103.8387484,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTDs6E4WdPYLEfCZP-lrCsUBirjkSls0jT64e6j0fJXQFIsGhHP6uGe4-bIz2H9LmMv2NZS8fob2T9-oII-YI2q7S6mfqnLvbSJ4Buv0rPToZ4o-3c9ShCX10elWkFrtpFyn5syw=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T8W28fD1lnlkulXGWnXNyhpXMbj40L95mODMIm-9SycDvIft62gV82v1DRpB22pMMC9QS0H2XxOaDvJxQlXMXbiSB33DyZ8_3XAh5kK3SPFNXl2xIYipAIFKNTgFvMvC4G51y7NcgMtbJR=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8xtM3JCkhMlzW64IAbaauFtLl2-9BmHFCIe31neKUak89fsjofAWiu3o9kaAvqYgh4dCSYlE9mf9QGS1HZHObwJCEUOC3qXvpanoZ9DbEDNsn-NApXOlEpBqbfrLObYBIo25CU-jXh9k=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SkL7zsHfMKvwTLKM4NIEAGHuxZs3RDHkm-VqPXXqMadPjSJbzCSoREcSwJFFJ-APATB0SnB3cGLzK8ArfETKvvGhpcDmT3sfot6zBK2_0-gqNtRcsoNVqr7LX12ggGiH4qO8UG3g=w1200-h900-k-no"
+          ]
         },
         {
           "name": "Canvas Sapa Legend Hotel",
@@ -1479,7 +1580,13 @@
             "bfOption": null
           },
           "lat": 22.3366469,
-          "lng": 103.844393
+          "lng": 103.844393,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sd3R5MyIXLbO4mrqAQZF0s2RSwcsnglKJHYg53vD2GU1pc6zc0YlO9yX3Xphtnnh_BDxlwXBzStQaeeMCOWfjbuCJ9EMzpVq-fKXIQ9ENDRHH7axWF3GweGfQw55FeTLm3aRs=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDfgmCcV-dqA9kxwTyKzv2m2RU0WbJa72xY7uVczXrW7uhbChl49afnZ8AoyOL0xOSDJSRwAziwceHELlXL8lx2B7bvfMX6cb2vaR0GNfyVFVYfAqUKNDFU0mh1UyQb9RxVVwCm9m-Ednw=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RFyqFaTxYdsupDIhf57FV2nXPTok5exKSG4csng06CwHFKIsHopc79XwyeINp2MVtDVDr7RFw_hWG9eyY2nXofeaALf05v7v13w3TSiEpeODS6AXr3YqeX5jzWG0keTSJNU9027fbpYbYp=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2vAR5PqOIY60nHMw7UKiSGtQCD-ol-quf76wJ4LWLueruPOT6y0JeU1Fe_orhNPVclTN_yoUVOqn3bmaV2Rj0m3E37iZQ_INmxAhkTxaft00zgFVMoec3eFGyHkkDfIbruPk=w1200-h900-k-no"
+          ]
         },
         {
           "name": "Rock Garden Homestay · Round House (Airbnb)",
@@ -1508,7 +1615,26 @@
             }
           ],
           "lat": 22.3196193,
-          "lng": 103.8884297
+          "lng": 103.8884297,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPJhpLY6jY9z98KqcNKK75FewPz9SXqOpL2y3elA-rhyfpTZ6P-IriFvLaVhB-DMLA5fZEhNbTqkzZbV8qw9tkezz5c7pBHZTrDAKKKUmB1l_mHLGvb6Ld_so9UPUalUDILCZhEJMVNKW4=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REwaJCgI3CwI7nR67YlMyDfCJvZdQUIovkMjw2khyoXeQCRdyakGydpt0t9IHfe8_mnKRyMsGBtZIC5ktEFK6OrBPmsRyf9XBpGeB0Bpagvs8ohL2rx6qWqPRbaKl6wRGBTPLkkOt_dvKE=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4dvJKxAdqNbVJRTRoRMvc-hT7BwJpWQHz9ZcLtubyqRqa4eOnnIgFodQPCADqfUjMv5psHYxqqMG2h8TtnWHMm8S9mWcSR9uXf0sgRnHhFKi556DH68PZ9JuMeSWxhy8Esx9-=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QZe5dr0rX4SygAFNb6i8GnOfMXjnpEA_uKdDSO3wREheMmyMxhmtGw8dZaZuhEx4dzl239i-VmckGM7cq_jpRqAQvSAJRycVPUv8RC2mFpEBXujsmk4U1MMQZ6yeM3nxlfnsWZGMNkNZA=w1200-h900-k-no"
+          ],
+          "reviews": [
+            {
+              "by": "1amny",
+              "pros": [
+                "1amny 사파 코스 숙소 리스트에 포함 (travelaaalice도 추천)",
+                "무옹화 계곡·산 전망 라운드하우스"
+              ],
+              "cons": [
+                "리스팅이 최대 2명으로 보여 3인 가능 여부·침대 구성 확인 필요"
+              ],
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ]
         },
         {
           "name": "Sapa Soleil Hotel",
@@ -1531,7 +1657,13 @@
             "bfOption": null
           },
           "lat": 22.3328104,
-          "lng": 103.843522
+          "lng": 103.843522,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfHYb2VaZMw-k4j_Xz5PHtyUt5L3dXBWP7jCgAc_QsbIedKGCJcoB65JD1rmkR8-8evpdwLLJL1xQ1NUh10S0STxsyek649WPbdL4uQplhTmdxmPkr-TuV6_MxsuMvfEn7ylfh6n3aIK6b=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2Uu-zAb1nzUK0DkdtCrLiviDB2a7H-DsCBxIzXXCuIi1vutqbI9gX7FU536qIfmnx76DuGPZz2L5OvpRYU8RhLRw6FhK8F-cuTjeWj4WOPQE2-qpSGhadVRpO6jbYsQIEvAA1_lJYEax7=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SEru-bh7ZBbDrm0X9tbfJBoQFsI8LBpmUhVjy3vC4tz9Nd9YRrvsZclroPFct0OzezPRgyeTMFAMI0wH4bXyDNxLzGxNUYMfcTc1g0rkIbN14KRRl1QG8Z7nd_EExTqtFz-w4kKsuWURlj=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSw3m9nU7agDGNCi8Te5_lOtA0Tb-CfZA0p4_DTCCVlomCi6ZvYexcfddIgJKQ4wCfk6LPPreUkPlenoPu3WIg_LYgr3tRkb-7QtUhrsXMsggGg_eoCBPkhPg7SxRazn2Fkl0=w1200-h900-k-no"
+          ]
         },
         {
           "name": "The View Sapa Hotel",
@@ -1554,7 +1686,13 @@
             "bfOption": null
           },
           "lat": 22.3312963,
-          "lng": 103.8435113
+          "lng": 103.8435113,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyB83z6QbuLhncuOTlsC9htO-B0YxdBVGd-OkrFPw6GPdbC1IgnGN-ilHaa4Fvey8P6VdmckMsPhNcFopkat-nToKbZfu-RTVQxt7o5WxJAjFF3LClSJxRYlFq-1Kab78FdMKs=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHQ9ukLbk48kz-Oprdg6IjR1NeoBwZdK1OtTNF-Y67sZctnt9lghtE92q8WhVhwOX2iVsCABsmP-RZzcbF7GsaAYjkAFwZt-eeTnaMZ0yg_c140vGADNfF4-XYJ6WtuDsbZ7cP8XmAoHiS=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCRgVhvuNOgVdKnYaAerYEYsAeC3mkZ4evVLCwuSXIK_QFuxla3l0OysgUXsxhyvazqIqjiV8gsNPMNll1b59Y4OBeZ67CUaZFRaRdUaSZg9lqcrUSXBduAh2Dsx82tFQXuvFl=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdORUN5njznljVwtN1L9sp5UqVnkLA_aM-fGUk16LWp4Wb2lCVwaCJ-CuTEba_OLRP31wmx4BuUCr-bm7QjA0FGL6-KgjOjlSobnJzBXa5ELBqxjPtpqQkoi2YijZYlwaHF8Kg7w=w1200-h900-k-no"
+          ]
         }
       ],
       "decisions": [
@@ -3150,5 +3288,386 @@
         ]
       }
     ]
-  }
+  },
+  "sights": [
+    {
+      "name": "호안끼엠 호수 · 응옥선 사당",
+      "city": "hanoi",
+      "day": "DAY 02 · 11/14 오후",
+      "desc": "구시가지 한가운데 호수. 붉은 테훅 다리 건너 응옥선 사당까지 한 바퀴 산책.",
+      "status": "산책 코스",
+      "query": "Hoan Kiem Lake Ngoc Son Temple Hanoi",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1Dx_eAE84PhRi74j-Cg7Jt9ngNQkdDGK7F1e9NtRcLl4seVEUmFStutO4o5T95qH-1uDpZfWcFa9CnuniBV1h38CPmRlKycs2ftaGzbnWlaCqps3Rb7gAWd_u1H1FoLM2wbAI=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1Dx_eAE84PhRi74j-Cg7Jt9ngNQkdDGK7F1e9NtRcLl4seVEUmFStutO4o5T95qH-1uDpZfWcFa9CnuniBV1h38CPmRlKycs2ftaGzbnWlaCqps3Rb7gAWd_u1H1FoLM2wbAI=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RmBVBKcEZ1g1oEVVLT1U5ZSth7b0VmcJ-_7-7lNpq6MeyKu1wzPiqq4dBmJrEwxqbj2dZvkPW_pv67GCZ868-GJ0Rs5VeIUWhQSagd_ASLIVax5KpIh-HRf3XPR494FbAR7yZMzb-eMm0=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsDvrAlvQdWb2ilSz_uJZkGvtkiYPv4NybquiAmfgqlsbDisfyEn7x5sRNJ4pvA3f7anYwAkY3vYfTRR4jlOsrM4Fq215SXJtTYetcv4juQMA_HJX5rcf9tEg15B27K8DPd4ajVg=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZY8ZEiBnbOwLsdWl8RFQE9BNUyEwSDWXArpvwMnDdUSDtXEqyS6VOdXVp119pFlU72QxLbYh-f7acUP6KCfq1mvdd8vfNBmklSUuWO5u-gjKuV0CKzKR8DkRFXimTfMFsyjf-EA=w1200-h900-k-no"
+      ],
+      "tip": "오후 산책 후 성당 앞 카페로 이어가기. 주말 저녁엔 호수 주변 차 없는 거리로 운영돼 더 북적여.",
+      "check": "응옥선 사당 입장료·운영시간",
+      "time": "40–60분",
+      "lat": 21.0286669,
+      "lng": 105.8521484
+    },
+    {
+      "name": "성 요셉 성당",
+      "city": "hanoi",
+      "day": "DAY 02 · 11/14 오후",
+      "desc": "호안끼엠 호수 서쪽의 네오고딕 성당. 바로 앞 스타벅스 리저브(예슬 추천)에서 성당 뷰 커피.",
+      "status": "산책 코스",
+      "query": "St. Joseph's Cathedral Hanoi",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QriVu7bjeqhrDkUFIQNJpCJg3PiVwBW0NohBYxgeO6R0QPnADGLXmLhLgdvWmRk1fmyw5gInQsBOC6kyfiDLrnuRDBmlhW-6wOVQ5QizYxe5txw7D9L5ilMl3aPt25jnx9UgY_hw=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QriVu7bjeqhrDkUFIQNJpCJg3PiVwBW0NohBYxgeO6R0QPnADGLXmLhLgdvWmRk1fmyw5gInQsBOC6kyfiDLrnuRDBmlhW-6wOVQ5QizYxe5txw7D9L5ilMl3aPt25jnx9UgY_hw=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qc96o4Og5DiZaUghKT-UZM-MkY3sr9Mt2-367lDkF2Mh08CQxQXmrYMlRDWiueTJ3quynYwj4azky4AqtWaoN7duhWn4Vb1al5aEGlVsVbwOU-rej1NXoy1cuvFZqx7u4amnlLujEErsIu=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TRThfzIJzMYV-wlNKG8isFlFLMp9s2sfa80QW-haFN4SPvwmSYVGoZxQsR5zjdksupwnr56dsNwMYpWMtN2fmLtN9RQf8ff3aT7mBndgpKs2WTDE4SGgDIJQlvhGYlKjh6KmhAfvpEGDWm=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUwrlnK48tozI4EB0TwU0IheFA3Q1KKLEIyV8qVeXTy-EXkkGN5Tiy_ybp-ZTSIGcMtKT5vZpc3V2TZisMo5ZQJaVaqsgqnwxFflWVJ93Dm-bcCiOQGduxdEpREqsZL-ThWGY8TA=w1200-h900-k-no"
+      ],
+      "tip": "성당 앞 광장·골목 카페가 포토 스팟. 미사 시간엔 내부 관람 제한될 수 있어.",
+      "check": "내부 개방 시간",
+      "time": "20–30분",
+      "lat": 21.0285957,
+      "lng": 105.8488606
+    },
+    {
+      "name": "호치민 묘 · 바딘광장 · 한기둥사원",
+      "day": "DAY 05 · 11/17 오후 선택",
+      "desc": "사파에서 하노이 도착이 빠르고 피로가 적을 때만 선택하는 역사 명소 코스.",
+      "status": "시간 남을 때만",
+      "query": "Ho Chi Minh Mausoleum Ba Dinh Square One Pillar Pagoda Hanoi",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjPrsW1A2i-kmVRBNShH-jaXx5eltlm6Z7KXmV-NWHsef1MKY69xB1WFBxuFq8ook39GXWuWk4iLTpevWI_Ht_7ojyDopDWuNkcwv-xSL3WtV9hhKJA6DkKXbprrD8rLanZ0k7pa6wL2mo=w1200-h800-k-no",
+      "tip": "귀국 항공편은 11/18 01:45. 버스 도착이 빠르고 짐·공항 이동에 여유가 있을 때만 방문.",
+      "check": "당일 개방 시간·복장·보안·교통 및 공항 버퍼",
+      "time": "2–3시간",
+      "city": "hanoi",
+      "lat": 21.0368973,
+      "lng": 105.8346667
+    },
+    {
+      "name": "항마 거리 (Hàng Mã) 등불 골목",
+      "day": "DAY 02 · 하노이 구시가지",
+      "desc": "구시가지의 등불·장식품 골목. 형형색색 등불과 전통 가면이 가득해 사진 찍기 좋은 곳.",
+      "status": "hanoi_vibe 추천",
+      "query": "Hàng Mã street Hoàn Kiếm Hanoi",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3bm8nfana5mmtteFbhXh3NAKSgOzcDRQcDAvD5ua_876_55ngqWrU4OkLjRlzBQOSYyZtBaV-R-4vH17xqIFlh6b_OT1HrI14VtAEC0mfaMj3vrUo6ryP5jTyB1AZwr4HN3M0Iw=w1200-h900-k-no",
+      "tip": "중추절(9–10월) 시즌이 가장 화려하지만 평소에도 등불 가게가 많아. 숙소(구시가지)에서 도보권이라 DAY 2 오후 산책 코스로.",
+      "check": "가게 영업시간(저녁이 예쁨)",
+      "time": "30–60분",
+      "ig": [
+        {
+          "id": "hanoi_vibe",
+          "url": "https://www.instagram.com/reel/DOz0G5nCWSZ/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DOz0G5nCWSZ",
+          "by": "@hanoi_vibe",
+          "cap": "중추절 항마 거리 등불 풍경"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0367993,
+      "lng": 105.8473641
+    },
+    {
+      "name": "Moana Sapa",
+      "ig": [
+        {
+          "id": "high_jeju",
+          "url": "https://www.instagram.com/reel/DdfZwsHpzzW/"
+        },
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DdfZwsHpzzW",
+          "by": "@high_jeju",
+          "cap": "인생샷 포토존 끝판왕 · 거대한 손 · 사파 스윙 · 판시판 뷰"
+        }
+      ],
+      "day": "DAY 04 · 11/16 오전",
+      "desc": "판시판 다녀온 다음 날 오전 포토 스팟 · 깟깟마을 근처.",
+      "status": "오전 동선",
+      "query": "Moana Sapa",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUIYs9opAyF5VXISBpb7FORdoBSTgY2bfcT6EQZuJORluE6qEaY1l5G64uPQIES-J07gFhIzNr4VvISE1lxe6WvkUN6mwsPxyFEN2_ZqiiZ6NIdmlv7ll6R30zgLQWDD4q0N19dr97zco=w1200-h800-k-no",
+      "tip": "오전 Moana Sapa → Peace's House 016 Cát Cát 하차 → 깟깟마을 순서로 이동. · high_jeju: 시그니처 포토존 ‘거대한 손’과 사파 스윙, 판시판 뷰. 기본 입장료에 음료 1잔 포함, 선플라자에서 그랩 약 5분.",
+      "check": "입장권 가격·운영시간·당일 영업 확인",
+      "time": "45–90분 권장",
+      "city": "sapa",
+      "lat": 22.3273593,
+      "lng": 103.8459589
+    },
+    {
+      "name": "판시판",
+      "ig": [
+        {
+          "id": "hjmtravel_26",
+          "url": "https://www.instagram.com/reel/DCTIFiHJZIS/"
+        },
+        {
+          "id": "ryu_journey_",
+          "url": "https://www.instagram.com/ryu_journey_/"
+        },
+        {
+          "id": "luv_jennie.lee",
+          "url": "https://www.instagram.com/reel/DeOOEJwBe6p/"
+        },
+        {
+          "id": "zzm_vietnam",
+          "url": "https://www.instagram.com/reel/DdLOcooS_lr/"
+        },
+        {
+          "id": "the_kaylog",
+          "url": "https://www.instagram.com/the_kaylog/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DeOOEJwBe6p",
+          "by": "@luv_jennie.lee",
+          "cap": "2026.10.07 판시판 후기 · 구름이 눈 깜짝할 새 몰려왔다 걷혔다 · 4시간 코스"
+        },
+        {
+          "code": "DdLOcooS_lr",
+          "by": "@zzm_vietnam",
+          "cap": "흐려도 포기 금지 · 정상 도착하자마자 구름이 걷힌 순간"
+        }
+      ],
+      "day": "DAY 03 · 11/15 오전 · 흐리면 D4",
+      "desc": "케이블카와 산 정상 전망. 날씨가 좋을 때 우선 배치.",
+      "status": "날씨 확인",
+      "query": "Fansipan cable car Sun World",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbrXWKtUJLoZA0gpovWqn59opNljTmfD68hknz6LtzzrYSbR-EIiMbODt2jz-G_3qa1UrMmS3p5L6HzpBTW_nRspb3eDhE2ysHfY_2J1ht7JK4gXKL2VQNcpf8mNiv9U_k0l7A=w1200-h800-k-no",
+      "tip": "오전 첫 일정으로 두고, 구름이 적은 날을 우선 선택. · 가는 법(hjmtravel_26): 썬플라자 사파역 모노레일 → 판시판역 케이블카 → 정상 푸니쿨라. 한 길로 이어져 환승하듯 가면 되고, 클룩 탑승권 세트가 편해. · ryu_journey_: 패딩 꼭! 정상은 정말 추워. 날 흐리면 구름·돌풍뿐이니 날씨 좋은 날로. · luv_jennie.lee(2026.10.07 후기): NOL·클룩 같은 상품 — 왕복 모노레일+케이블카+피크레일(푸니쿨라) 1인 약 7.1만원(+와우패스 골드 약 2.6만원, 총 약 9.7만원), 쿠폰 있는 곳에서 구매. 이른 오전이 좋음: 11시엔 맑았는데 11시 30분에 곰탕(구름). 하늘에 구름 많아도 정상은 맑을 수 있고 반대도 있어서 일단 올라가 보기. 사파역 10시 도착 → 하산 14시, 4–5시간 잡기. 댓글 팁: 정상 푸니쿨라 내려서 43계단만 걸으면 정상 포인트. · zzm_vietnam: 시내가 흐리거나 비 와도 케이블카 포기하지 말기 — 올라갈수록 흐리고 비 오다가도 정상에서 몇 분이라도 구름이 걷힐 수 있음. 케이블카 내리면 생각보다 훨씬 추움. · the_kaylog(꼭!): 티켓 미리 예매 금지 — 날씨 나빠도 환불 불가. 사파 도착 후 ① 호텔 직원에게 오늘 괜찮은지 묻고 ② 썬월드에서 실시간 정상 날씨 확인 → 클룩으로 당일 구매(현장보다 저렴). 정상 트램(푸니쿨라)은 꼭 왕복 — 계단으로 내려오기 가파르고 힘듦.",
+      "check": "케이블카 운영·왕복 요금·정상 기상 상황",
+      "time": "반나절 권장",
+      "city": "sapa",
+      "lat": 22.33456,
+      "lng": 103.84048,
+      "fhy": true
+    },
+    {
+      "name": "무엉화 산악열차",
+      "day": "DAY 03 · 11/15",
+      "desc": "판시판 이동 동선과 운영시간을 함께 확인.",
+      "status": "운영 확인",
+      "query": "Muong Hoa funicular Sapa Station",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TeQgiCMfGqOkpjeDWc34zfnX6eXq1qU2G2ocKpMOn_HbvWrE29TbL9AuuHGkdyrS6W1HFgV4RhbvhdfTPNNpM2FF6Pw1vjLnwjJr0j14alDr0_n2EcEAR4ruR2plEajc8uJX69=w1200-h800-k-no",
+      "tip": "판시판 케이블카와 연계되는 운행 구간인지 확인 후 이용.",
+      "check": "운행 여부·운임·케이블카와 연계 티켓",
+      "time": "30분–1시간 여유",
+      "city": "sapa",
+      "lat": 22.3349,
+      "lng": 103.8399
+    },
+    {
+      "name": "깟깟마을",
+      "ig": [
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        },
+        {
+          "id": "ryu_journey_",
+          "url": "https://www.instagram.com/ryu_journey_/"
+        },
+        {
+          "id": "zzm_vietnam",
+          "url": "https://www.instagram.com/reel/DddPTsgSr7E/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DddPTsgSr7E",
+          "by": "@zzm_vietnam",
+          "cap": "깟깟마을 소개 · 전통의상 체험 · 전통공연 · 마을 안쪽 강가 카페"
+        }
+      ],
+      "day": "DAY 03 · 11/15",
+      "desc": "택시는 마을 입구 매표소 옆 Peace's House 016 Cát Cát으로 설정. 입장료와 슬라이드 요금은 별도 예산.",
+      "status": "필수 방문 · 하차 지점 지정",
+      "query": "Peace's House 016 Cát Cát, Tả Van, Lào Cai",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGbSdvavTy47cDxg2cLlii_q9pcFvJBZRWKn1kwgkxmYZB942ja1kx1NHFcC3-RYFTqT8D98arPiXmqsbY0RCU_qDQTt19v_vqFIqsNSyJDsZD-5MwfUC99l1S1p8SBV9qwfpL9Q=w1200-h900-k-no",
+      "tip": "택시/Grab 목적지에 정확히 “Peace's House 016 Cát Cát” 입력. 이곳을 매표소 옆 하차 지점으로 메모했어. 하울의 움직이는 성 같은 전망 포인트는 필수 방문으로 동선에 넣기. 편한 신발 착용. · ryu_journey_: 오토바이 택시로 가서 안쪽까지 들어가면 계곡과 센과 치히로 집처럼 보이는 곳이 신비롭게 예뻐. · zzm_vietnam: 원형 그대로 전통마을보다는 둘러보기 좋게 꾸민 관광지. 안개 낀 날도 분위기 좋음 · 안쪽에 전통의상 대여 사진, 관광객 참여형 전통공연, 강·풍경 보는 카페 · 계단·경사 많고 비 오면 미끄러우니 운동화 필수. 반나절 코스.",
+      "check": "성인 입장료 약 7,800원 (150,000 VND) · 무지개 슬라이드 현지 안내 자료 약 2,100원 (40,000 VND)/회, 3회 약 6,200원 (120,000 VND). 별도 메모 가격: 슬라이드 2,000,원 드론 촬영 추가 5,000원 — 현장 가격 재확인.",
+      "time": "2–3시간 권장",
+      "city": "sapa",
+      "lat": 22.32853,
+      "lng": 103.83468,
+      "fhy": true
+    },
+    {
+      "name": "함종산 전망대",
+      "ig": [
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        }
+      ],
+      "day": "DAY 03 · 11/15",
+      "desc": "사파 시내 가까이에서 정원·암석 지형과 전망을 즐기는 추가 후보.",
+      "status": "선택 일정",
+      "query": "Ham Rong Mountain Sapa",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpzScT16FGXwGLjMIQN5Npl8nqIs10VesEqNAVKTF1_NdRMOmG8bqH5-TQl7X5Y-xJNSDJ85TvW3V4wCGkppWC2agSvSYi1nl6IQ6sfpRW2GY94rAF9ewFJot75jKCL8P3yHYh=w1200-h800-k-no",
+      "tip": "판시판·깟깟마을을 모두 다녀온 날에는 체력이 남을 때만 추가하고, 일몰 전후 운영시간을 확인.",
+      "check": "입장료·운영시간·정상까지 오르막 정도·날씨",
+      "time": "1.5–2.5시간 권장",
+      "city": "sapa",
+      "lat": 22.33443,
+      "lng": 103.84255
+    },
+    {
+      "name": "사랑폭포",
+      "day": "DAY 04 · 11/16",
+      "desc": "시내 밖 이동이 필요할 수 있어 교통편을 먼저 정하기.",
+      "status": "교통 확인",
+      "query": "Love Waterfall Sapa Vietnam",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4Y1kOFXrcPyea2AdYKodIDjfBuIKgv9FHsRu7Y5p_PfEUTnTT4yZbJoOB-mlWEL27xehd6zIm5lz71R6L58ABnThzPtZj60Mroq--sUOUi2WriVNrq91XHAn40QEEllPrDklPk0HTog54=w1200-h800-k-no",
+      "tip": "비가 오거나 길이 미끄러우면 무리하지 않고 대체 일정 선택.",
+      "check": "입장료·운영시간·주차장/입구까지 이동",
+      "time": "왕복 이동 포함 반나절",
+      "city": "sapa",
+      "lat": 22.34734,
+      "lng": 103.77243
+    },
+    {
+      "name": "헤븐 게이트",
+      "day": "DAY 04 · 11/16",
+      "desc": "전망 포인트. 구름·비가 심하면 다른 일정으로 전환.",
+      "status": "날씨 확인",
+      "query": "O Quy Ho Heaven Gate Sapa",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/O%20Quy%20Ho%20pass.jpg",
+      "tip": "시내에서 차량 이동과 날씨를 고려해 사랑폭포와 묶을지 결정.",
+      "check": "도로 상황·입장/주차 비용·당일 시야",
+      "time": "이동 포함 2–3시간",
+      "city": "sapa",
+      "lat": 22.3527,
+      "lng": 103.7766
+    },
+    {
+      "name": "사파 호수",
+      "ig": [
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        }
+      ],
+      "day": "DAY 03–04 · 시내 산책",
+      "desc": "사파 시내에서 가볍게 걷기 좋은 산책 후보.",
+      "status": "가벼운 산책",
+      "query": "Sapa Lake Vietnam",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLOtLofwxz0IH_vr4ooTaR19m2qDm3fqpjDJdKfDhcN7H46Iikr-KJ6Ng1S7WQsKZjM6YgBWOVexz32OXL9-8No1pTmOsNjFw9b2z7HnAkoY2TM-sctVezI34mXcdpFLOOtpVBVg=w1200-h800-k-no",
+      "tip": "도착 당일 컨디션이 좋지 않으면 시내 호수 주변 산책 정도로 가볍게.",
+      "check": "날씨·일몰 시간·주변 카페 동선",
+      "time": "30–60분",
+      "city": "sapa",
+      "lat": 22.3380984,
+      "lng": 103.8459004
+    },
+    {
+      "name": "사파 마을 힐링 트레킹",
+      "ig": [
+        {
+          "id": "ryu_journey_",
+          "url": "https://www.instagram.com/ryu_journey_/"
+        }
+      ],
+      "day": "DAY 04 · 여유 일정",
+      "desc": "계단식 논과 마을 풍경을 천천히 걷는 체험 후보.",
+      "status": "체력·날씨 확인",
+      "query": "Sapa village healing trek Muong Hoa valley",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rj6Z_e_NRlaL0qxF-uoHw-KaF3Zb3yHEZEOUfRPNAAMfvNIJYgHtzO9w3eM-td6rS2k1D3agjO98SLvRZwh9how-iWEa60LYVSerjwEwAfGY1sxF_bH0EPiwG_sUC8qmUrGsVw95p0Xyd_=w1200-h800-k-no",
+      "tip": "Slope Cafe 주변의 마을 트레킹 메모와 연결. 비 온 뒤 진흙길·오르막을 고려해 짧은 코스로 선택. · ryu_journey_: 가이드 없이 셀프 트레킹도 가능 — 길 따라 소수민족 상인이 함께 걸어오기도 함. 돌아올 땐 상점·호텔에 택시 불러달라고 하면 보통 1만원 안팎.",
+      "check": "현지 가이드 필요 여부·거리·난이도·날씨",
+      "time": "1.5–3시간",
+      "city": "sapa",
+      "lat": 22.304,
+      "lng": 103.885
+    },
+    {
+      "name": "MASSAGE 017",
+      "day": "DAY 05 · 하노이 복귀 후 또는 사파 시내",
+      "desc": "이른 시간 운영과 짐 보관 팁으로 메모된 마사지 후보.",
+      "status": "마사지 후보",
+      "query": "MASSAGE 017 Sapa Vietnam",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TG9PYmwUH8V7ozA9ewmx6cH7lfIw56Ez0IBNqbPvFA86qYzxqgzJYfifL2ZrXiRTsPWxHxdHikUOqa4OQHPDc8dlVDElGtZ8vIJ2r4B9bcoFumbDutEki05mlK2Di9LMn1YKGuu8-07LnB=w1200-h800-k-no",
+      "tip": "사용자 메모: 일찍 문을 열고 짐 보관 팁이 있음. 실제 지점과 서비스 운영 여부를 지도/메시지로 확인.",
+      "check": "영업 시작 시각·짐 보관 책임·90분 마사지 가격",
+      "time": "90분",
+      "city": "sapa",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-QkSuIGOzZIfxrn6u49h7u_fwHtBvaa0seOi8a_zacJHYrT2MKN94HWOqsHWRcW_Uomx1YklSHFKhNluDA-LsYAVag8GWB33lCnLFM60xWLHF4HFvCZ-4f4-E3UtXrsqtpgzd9g=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "깟깟마을 알파인 코스터/슬라이드",
+      "ig": [
+        {
+          "id": "high_jeju",
+          "url": "https://www.instagram.com/reel/DdpuSDmpYtj/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DdpuSDmpYtj",
+          "by": "@high_jeju",
+          "cap": "브레이크 잡으면 뷰맛집, 손 놓으면 스피드 레이싱 · 곡선 드리프트 구간 스릴"
+        }
+      ],
+      "day": "DAY 03 · 11/15",
+      "desc": "깟깟마을 안에서 별도 비용이 들 수 있는 체험.",
+      "status": "현장 가격 확인",
+      "query": "Cat Cat Village Sapa alpine coaster rainbow slide",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rhw4Kz3btM2oGyOZU88aDXSbUp8Ys4OKcdKmfD3zng3rYI-6NpoVcb0gc4fef-aW4zmPIrWROncJXZSsyJXjNsUkaW5X5bjKfnbUSYAFtP4oFDTxqKe9_MRDFxcXQT4aNRJj-z_AQ57riL=w1200-h800-k-no",
+      "tip": "깟깟마을 입장료와 별도 비용으로 예산에 반영. 네 메모는 2,000,원 다른 안내는 약 2,100원 (40,000 VND)/회라 현장 가격 확인. · high_jeju: 속도를 직접 조절 — 브레이크 잡으면 판시판 산맥 뷰, 놓으면 짜릿한 스피드. 올라갈 땐 산맥 배경 셀카 타임. 비 소식 있으면 매표소에서 주는 우비 꼭 받기!",
+      "check": "운영 여부·키/안전 제한·가격·현금 결제",
+      "time": "대기 포함 15–30분",
+      "city": "sapa",
+      "lat": 22.3304,
+      "lng": 103.8353
+    },
+    {
+      "name": "사파 야시장",
+      "ig": [
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        }
+      ],
+      "day": "DAY 03 · 11/15 저녁",
+      "desc": "핫팟 후 산책하며 꼬치·간식과 기념품 구경 (지구놀이터 1일차 코스).",
+      "query": "Sa Pa Night Market",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvYUvuLLnJDYlFksRcumwroVHFlorX1KjvivTA9yDZ14BWmVbV_siiMZ3dys3TxndwLY3nVLGA3cLjqxMzf7BEkfejoz17ZIgdnG0kVpwgGU3QQpuD13O4cc5mjxbWnxcLPxmNHICpd_ah=w1200-h800-k-no",
+      "tip": "사파 광장·성당 근처. 저녁 7시 이후가 가장 활기차.",
+      "check": "주말·평일 운영 차이, 현금 준비",
+      "time": "30–60분",
+      "city": "sapa",
+      "lat": 22.3359,
+      "lng": 103.8446
+    },
+    {
+      "name": "사파 돌 성당 (노트르담)",
+      "ig": [
+        {
+          "id": "1amny",
+          "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        }
+      ],
+      "day": "DAY 03–04 · 시내 산책",
+      "desc": "사파 시내 중심의 돌 성당. 광장과 함께 대표 사진 명소.",
+      "query": "Sa Pa Stone Church",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_64X-B1IJ1JEyf_V48B8zDqjHajbRmYhamhvQPiIR8S31rbVN6GrtspXz9dA8hkwepH0Fq654-ZoSAG3MSa9-inLuJqxJeDsvyK7QtREBrl2A34DxScf4cTsMKXnjvBBt47R_=w1200-h800-k-no",
+      "tip": "야시장·사파 호수와 도보로 묶기 좋아.",
+      "check": "내부 개방 시간",
+      "time": "20–30분",
+      "city": "sapa",
+      "lat": 22.3350884,
+      "lng": 103.8423651
+    }
+  ]
 }
