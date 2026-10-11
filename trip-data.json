@@ -5079,5 +5079,331 @@
       ],
       "city": "hanoi"
     }
-  ]
+  ],
+  "sujin": {
+    "title": "수진 연장 플랜",
+    "who": "수진",
+    "base": {
+      "label": "원래 귀국편 (친구들과 같이)",
+      "p": 175509,
+      "when": "11/18(수) 01:45 → 07:55 · 비엣젯 VJ960"
+    },
+    "rule": "11/13(금) 친구들과 같이 출국 → 11/18 친구들 귀국 후 혼자 연장 → 늦어도 11/22(일) 서울 도착. 경유 최대 1회 · 경유 대기 4시간 이내 · 성인 1명 편도 최저가.",
+    "checked": "2026-10-12 04:50 (KST) 구글 항공편 기준 · LCC는 위탁수하물 별도 · 가격은 매일 변동",
+    "options": [
+      {
+        "name": "하노이 더 머물기",
+        "tag": "추가 항공비 0원",
+        "score": "가성비 1위",
+        "days": "11/18–21 하노이 4일 더",
+        "legs": [
+          {
+            "r": "HAN → ICN",
+            "when": "11/22(일) 01:45 → 07:55",
+            "al": "비엣젯 VJ960",
+            "p": 175509,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-22%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "원래 귀국편(VJ960)과 같은 편을 날짜만 11/22로 → 항공비 차이 없음",
+          "하롱베이·닌빈 당일투어, 못 가본 미쉐린 맛집·카페 정복 가능"
+        ],
+        "cons": [
+          "숙소 4박 추가",
+          "새로운 나라 느낌은 없음"
+        ],
+        "total": 175509,
+        "diff": 0
+      },
+      {
+        "name": "나트랑 (바다·리조트)",
+        "tag": "+2.9만원",
+        "score": "가성비 2위",
+        "days": "11/18–21 나트랑 3박",
+        "legs": [
+          {
+            "r": "HAN → CXR",
+            "when": "11/18(수) 10:30 → 12:20",
+            "al": "비엣젯",
+            "p": 45911,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20CXR%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "CXR → ICN",
+            "when": "11/22(일) 00:30 → 07:25",
+            "al": "에어서울",
+            "p": 158224,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20CXR%20to%20ICN%20on%202026-11-22%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "친구들 보내고 오전 비행기로 바로 바다",
+          "국내선이라 싸고 짧음(1시간 50분)",
+          "하루 줄여 11/21(토) 00:30편(=금요일 밤 출발)을 타면 8.6만원 → 원래 귀국보다 오히려 4.4만원 절약"
+        ],
+        "cons": [
+          "11월은 나트랑 우기 끝물이라 비 올 수 있음"
+        ],
+        "total": 204135,
+        "diff": 28626
+      },
+      {
+        "name": "다낭·호이안",
+        "tag": "+7.2만원",
+        "score": "",
+        "days": "11/18 밤–21 다낭 3박",
+        "legs": [
+          {
+            "r": "HAN → DAD",
+            "when": "11/18(수) 21:40 → 23:00",
+            "al": "비엣젯",
+            "p": 40320,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20DAD%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "DAD → ICN",
+            "when": "11/22(일) 01:20 → 08:05",
+            "al": "이스타항공",
+            "p": 207400,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20DAD%20to%20ICN%20on%202026-11-22%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "호이안 올드타운 야경 + 미케비치",
+          "국내선 4만원대"
+        ],
+        "cons": [
+          "저렴한 하노이→다낭편은 밤 출발",
+          "11월 다낭도 우기"
+        ],
+        "total": 247720,
+        "diff": 72211
+      },
+      {
+        "name": "푸꾸옥 (섬·리조트)",
+        "tag": "+12.3만원",
+        "score": "",
+        "days": "11/18–21 푸꾸옥 3박",
+        "legs": [
+          {
+            "r": "HAN → PQC",
+            "when": "11/18(수) 05:55 · 16:00 · 17:40 출발",
+            "al": "비엣젯",
+            "p": 51503,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20PQC%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "PQC → ICN",
+            "when": "11/21(토) 10:30 → 21:05",
+            "al": "홍콩익스프레스",
+            "p": 247457,
+            "stop": "1회 경유 · 홍콩 2시간",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20PQC%20to%20ICN%20on%202026-11-21%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "11월부터 건기 시작 → 날씨 운 좋음",
+          "선셋타운·케이블카"
+        ],
+        "cons": [
+          "직항 귀국편은 29만원대라 경유가 쌈",
+          "하루 일찍(토요일) 귀국"
+        ],
+        "total": 298960,
+        "diff": 123451
+      },
+      {
+        "name": "방콕",
+        "tag": "+16.3만원",
+        "score": "",
+        "days": "11/18–21 방콕 4일",
+        "legs": [
+          {
+            "r": "HAN → BKK",
+            "when": "11/18(수) 10:55 → 12:55",
+            "al": "Vietravel Airlines",
+            "p": 102937,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20BKK%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "BKK → ICN",
+            "when": "11/22(일) 02:40 → 10:00",
+            "al": "비엣젯 타이",
+            "p": 235862,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20BKK%20to%20ICN%20on%202026-11-22%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "쇼핑·마사지·야시장 천국",
+          "항공편 많아서 시간 고르기 쉬움"
+        ],
+        "cons": [
+          "비엣젯 타이·LCC는 수하물 별도"
+        ],
+        "total": 338799,
+        "diff": 163290
+      },
+      {
+        "name": "타이베이",
+        "tag": "+22.1만원",
+        "score": "",
+        "days": "11/18–21 타이베이 3박",
+        "legs": [
+          {
+            "r": "HAN → TPE",
+            "when": "11/18(수) 08:25 or 17:30 출발",
+            "al": "베트남항공",
+            "p": 211852,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20TPE%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "TPE → ICN",
+            "when": "11/21(토) 20:00 → 23:30",
+            "al": "타이거항공 타이완",
+            "p": 184552,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20TPE%20to%20ICN%20on%202026-11-21%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "베트남항공 FSC로 이동",
+          "지우펀·야시장·온천"
+        ],
+        "cons": [
+          "11/22(일) 20:00편은 22.7만원"
+        ],
+        "total": 396404,
+        "diff": 220895
+      },
+      {
+        "name": "쿠알라룸푸르",
+        "tag": "+22.7만원",
+        "score": "",
+        "days": "11/18–21 KL 3박",
+        "legs": [
+          {
+            "r": "HAN → KUL",
+            "when": "11/18(수) 12:40 → 17:00",
+            "al": "Batik Air",
+            "p": 127177,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20KUL%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "KUL → ICN",
+            "when": "11/21(토) 22:40 → 11/22 06:20",
+            "al": "에어아시아",
+            "p": 275150,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20KUL%20to%20ICN%20on%202026-11-21%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "물가 저렴, 호텔 가성비 최고"
+        ],
+        "cons": [
+          "볼거리는 하루이틀이면 충분"
+        ],
+        "total": 402327,
+        "diff": 226818
+      },
+      {
+        "name": "싱가포르",
+        "tag": "+34.8만원",
+        "score": "비추",
+        "days": "11/18–20 싱가포르 2박",
+        "legs": [
+          {
+            "r": "HAN → SIN",
+            "when": "11/18(수) 09:35 → 14:10",
+            "al": "스쿳",
+            "p": 111415,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20SIN%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "SIN → ICN",
+            "when": "11/21(토) 02:55 → 10:10",
+            "al": "스쿳",
+            "p": 411854,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20SIN%20to%20ICN%20on%202026-11-21%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "도시 여행·야경"
+        ],
+        "cons": [
+          "귀국편이 41만원대로 비쌈 (11/22 도착편은 60만원대)",
+          "물가도 높아 짧게 가기엔 아까움"
+        ],
+        "total": 523269,
+        "diff": 347760
+      },
+      {
+        "name": "호주 시드니",
+        "tag": "+93.3만원",
+        "score": "비추 → 12월 따로",
+        "days": "11/19 아침–21 낮 시드니 2일",
+        "legs": [
+          {
+            "r": "HAN → SYD",
+            "when": "11/18(수) 15:40 → 11/19 10:35",
+            "al": "샤먼항공",
+            "p": 411038,
+            "stop": "1회 경유 · 샤먼 3시간 20분",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20SYD%20on%202026-11-18%20one%20way&hl=ko&curr=KRW&gl=KR"
+          },
+          {
+            "r": "SYD → ICN",
+            "when": "11/21(토) 12:15 → 21:15",
+            "al": "직항",
+            "p": 697395,
+            "stop": "직항",
+            "url": "https://www.google.com/travel/flights?q=Flights%20from%20SYD%20to%20ICN%20on%202026-11-21%20one%20way&hl=ko&curr=KRW&gl=KR"
+          }
+        ],
+        "pros": [
+          "—"
+        ],
+        "cons": [
+          "비행만 25시간, 현지는 이틀뿐",
+          "항공권 110만원대 → 한국에서 12월에 따로 가는 게 나음"
+        ],
+        "total": 1108433,
+        "diff": 932924
+      }
+    ],
+    "dec": [
+      {
+        "name": "호주 시드니 (12월)",
+        "p": 1080605,
+        "note": "12/5–13 왕복 · 직항 10시간 15분",
+        "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20SYD%20on%202026-12-05%20through%202026-12-13&hl=ko&curr=KRW&gl=KR"
+      },
+      {
+        "name": "동유럽 프라하 (12월)",
+        "p": 925000,
+        "note": "12/5–13 왕복 · 에티하드 아부다비 경유 3시간 25분",
+        "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20PRG%20on%202026-12-05%20through%202026-12-13&hl=ko&curr=KRW&gl=KR"
+      },
+      {
+        "name": "동유럽 부다페스트 (12월)",
+        "p": 1007200,
+        "note": "12/5–13 왕복 · 루프트한자 뮌헨 경유 1시간 20분",
+        "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20BUD%20on%202026-12-05%20through%202026-12-13&hl=ko&curr=KRW&gl=KR"
+      }
+    ],
+    "verdict": "추천 순서: ① 하노이 연장(항공비 그대로) ② 나트랑(+3만원, 하루 줄이면 오히려 절약) ③ 다낭·푸꾸옥. 싱가포르·호주는 짧은 일정에 비해 귀국편이 비싸서, 호주·동유럽은 12월에 한국에서 따로 가는 게 가성비가 좋아."
+  }
 }
