@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#f7d8ad"/><stop offset=".48" stop-color="#e6b98d"/><stop offset="1" stop-color="#6e9d9a"/></linearGradient>
+ <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#527d79"/><stop offset="1" stop-color="#233f46"/></linearGradient>
+ <linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6c77c"/><stop offset="1" stop-color="#547c56"/></linearGradient>
+ <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#142b31" stop-opacity="0"/><stop offset="1" stop-color="#142b31" stop-opacity=".7"/></linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#sky)"/>
+<circle cx="970" cy="128" r="64" fill="#fff0c7" opacity=".9"/>
+<path d="M0 280 L95 210 185 245 300 150 400 235 525 172 640 260 770 177 900 235 1010 160 1200 255V630H0Z" fill="#789c91" opacity=".72"/>
+<path d="M0 335 L115 250 230 305 360 220 495 330 650 230 790 330 930 230 1080 300 1200 240V630H0Z" fill="url(#mount)"/>
+<path d="M0 375 Q150 320 280 370 T540 365 T820 360 T1200 330V630H0Z" fill="#3e6a5b"/>
+<path d="M0 430 Q170 345 350 420 T710 400 T1200 375V630H0Z" fill="url(#field)"/>
+<g fill="none" stroke="#d8d99b" stroke-width="7" opacity=".9">
+<path d="M-30 455 Q140 385 320 455 T670 435 T1230 410"/>
+<path d="M-30 485 Q140 415 320 485 T670 465 T1230 440"/>
+<path d="M-30 515 Q140 445 320 515 T670 495 T1230 470"/>
+<path d="M-30 545 Q140 475 320 545 T670 525 T1230 500"/>
+<path d="M-30 575 Q140 505 320 575 T670 555 T1230 530"/>
+<path d="M-30 605 Q140 535 320 605 T670 585 T1230 560"/>
+</g>
+<g fill="#f7f1dc" opacity=".92">
+<rect x="100" y="340" width="38" height="25" rx="2"/><path d="M93 341l26-20 27 20Z" fill="#a96e53"/>
+<rect x="145" y="355" width="30" height="22" rx="2"/><path d="M139 356l21-16 22 16Z" fill="#a96e53"/>
+<rect x="198" y="333" width="43" height="28" rx="2"/><path d="M191 334l29-22 29 22Z" fill="#a96e53"/>
+</g>
+<rect width="1200" height="630" fill="url(#shade)"/>
+<g font-family="Arial,'Noto Sans KR',sans-serif" fill="#fffdf4">
+ <text x="76" y="90" font-size="20" font-weight="700" letter-spacing="6" opacity=".9">VIETNAM · TRAVEL JOURNAL</text>
+ <text x="70" y="190" font-size="76" font-weight="800" letter-spacing="-3">Hanoi <tspan fill="#f3d79c">&amp;</tspan> Sapa</text>
+ <text x="77" y="244" font-size="34" font-weight="700">하노이 &amp; 사파 여행 일정북</text>
+ <rect x="76" y="272" width="290" height="2" fill="#f3d79c"/>
+ <text x="77" y="310" font-size="20" font-weight="500" opacity=".95">2026. 11. 13 — 11. 18  ·  5박 6일</text>
+ <text x="77" y="580" font-size="17" font-weight="600" letter-spacing="1.5" opacity=".95">맛집  ·  숙소  ·  교통  ·  DAY 1–6</text>
+</g>
+</svg>
