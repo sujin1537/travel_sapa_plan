@@ -371,6 +371,13 @@ body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFo
 a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--lantern);outline-offset:2px}
 .hero.hero2::before,.hero.hero2::after{display:none!important}
 .navbtn.active{background:var(--green)!important;color:#fff!important}
+.hero2-route{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr));gap:0!important;max-width:560px;position:relative;margin-top:4px!important}
+.hero2-route::before{content:'';position:absolute;left:5px;right:calc(20% - 5px);top:5px;height:1px;background:rgba(255,255,255,.55)}
+.hero2-route li{padding:18px 6px 0 0!important;margin:0!important;font-size:14px}
+.hero2-route li::after{content:''!important;display:block!important;position:absolute;left:0;top:0;width:11px;height:11px;border-radius:50%;background:#fff;right:auto!important}
+.hero2-route li:first-child::after,.hero2-route li:last-child::after{background:var(--lantern);box-shadow:0 0 0 2px #fff}
+.hero2-route small{line-height:1.35}
+@media(max-width:760px){.hero.hero2{padding-top:150px}.hero2-route li{font-size:12.5px}.hero2-route small{font-size:10px}.hero2-who{font-size:14px}}
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
