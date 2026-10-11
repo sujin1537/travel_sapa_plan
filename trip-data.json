@@ -869,6 +869,10 @@
             {
               "id": "grace1631_joymom",
               "url": "https://www.instagram.com/grace1631_joymom/"
+            },
+            {
+              "id": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/"
             }
           ],
           "reviews": [
@@ -900,6 +904,17 @@
                 "셔틀은 최소 24시간 전 예약 필수",
                 "짐은 캐리어 1개 + 기내용 1개까지",
                 "안전벨트 꼭 착용"
+              ]
+            },
+            {
+              "by": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/",
+              "pros": [
+                "산과 계곡을 바라보는 인피니티풀",
+                "세 곳 중 풍경·휴양 만족도 가장 높았음"
+              ],
+              "cons": [
+                "시내에서 차로 약 45분 · 가격대 높은 편"
               ]
             }
           ]
@@ -962,48 +977,6 @@
           ]
         },
         {
-          "name": "Ville de Mont Mountain Resort (빌드몽)",
-          "url": "https://villedemont.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=29851736&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "1amny·travelaaalice 추천 · 5성급, 평점 9.1(813건) · 타반 방향 절벽 위, 시내 1.6km · 사파 산맥 환상 뷰, 절벽 위 야외 카페 · “잠시 천국에 왔어요”",
-          "photo": "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768"
-          ],
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 433771,
-            "pp": 144590,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
-            "extraBed": false,
-            "rank": 3,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "ig": [
-            {
-              "id": "travelaaalice",
-              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ],
-          "videos": [
-            {
-              "code": "C7T4lTrpHcR",
-              "by": "@travelaaalice",
-              "cap": "“저는 잠시 천국에 왔어요” · 여유롭고 천국 같은 분위기"
-            }
-          ]
-        },
-        {
           "name": "Viettrekking Sapa Hotel",
           "url": "https://viettrekkingsapa.com/standard/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=26852142&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1018,7 +991,7 @@
             "left": "마지막 1개",
             "room": "슈페리어룸",
             "extraBed": true,
-            "rank": 4,
+            "rank": 3,
             "note": "시내 도보권 · 가성비",
             "rooms": 1,
             "bfOption": null
@@ -1065,40 +1038,51 @@
           ]
         },
         {
-          "name": "Eco Palms House",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인 · 숙소 리스트 글: 3성급, 논밭 꼭대기 뷰 맛집 리조트(1박 13.7만원~)",
-          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "name": "Hotel de la Coupole",
+          "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "zzm_vietnam: 위치·서비스·균형 1등 (MGallery 5성급, 독특한 인테리어) · 시내 중심 고급형 비교 후보 · 판시판 케이블카 역과 바로 연결. 공식 안내상 일부 객실은 성인 3명 가능하지만 객실 유형·가격 비교 필수",
+          "photo": "https://www.ahstatic.com/photos/a5v2_roskb_00_p_3000x2250.jpg",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 170949,
-            "pp": 56983,
+            "nightTotal": 431476,
+            "pp": 143825,
             "breakfast": false,
-            "left": "2",
-            "room": "방갈로 (퀸베드 1개)",
+            "left": null,
+            "room": "클래식 트윈 2실",
             "extraBed": false,
-            "rank": 5,
-            "note": "",
-            "rooms": 1,
-            "bfOption": "조식 포함 요금 1박 186,490원"
+            "rank": 4,
+            "note": "3명이면 객실 2개 예약 필요",
+            "rooms": 2,
+            "bfOption": "조식 1인 26,937원 추가"
           },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/0974199bdccd355b7f4ced6d3d612468.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/ad7ea17a5752ebffa00e02dbfbd02b93.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/0f2201db61344f6dbdc8bd887b1c5e94.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/bc940a46ecd1fed04a0d028255b6e993.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/24a90e6201cc771fcdab98c933e9dd4f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/351f09f2062a92895a80fb6199284087.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/5649846/-1/733ab00d06f3490b71d7a556532ce09e.jpg?s=1024x768"
+          ],
           "ig": [
             {
-              "id": "jxxha_",
-              "url": "https://www.instagram.com/p/Cior9EoPLV-/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+              "id": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/"
             }
           ],
-          "videos": [
+          "reviews": [
             {
-              "code": "Cior9EoPLV-",
-              "by": "@jxxha_",
-              "cap": "“요기는 뷰가 진짜 최고였다”"
+              "by": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/",
+              "pros": [
+                "사파 중심부 · 시내 관광·판시판 이동 편리",
+                "독특한 인테리어, 5성급 수준 시설",
+                "세 곳 중 서비스 만족도 가장 높았음 · 위치·시설·서비스 균형"
+              ],
+              "cons": []
             }
           ]
         },
@@ -1117,7 +1101,7 @@
             "left": "2",
             "room": "마운틴뷰 방갈로",
             "extraBed": true,
-            "rank": 6,
+            "rank": 5,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1142,6 +1126,48 @@
               "code": "DP0SbScE0UX",
               "by": "@uucode_yui",
               "cap": "해발 1,600m 구름 위 럭셔리 방갈로 · 반신욕 · 수영장·사우나 · 조식 완벽"
+            }
+          ]
+        },
+        {
+          "name": "Ville de Mont Mountain Resort (빌드몽)",
+          "url": "https://villedemont.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=29851736&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "1amny·travelaaalice 추천 · 5성급, 평점 9.1(813건) · 타반 방향 절벽 위, 시내 1.6km · 사파 산맥 환상 뷰, 절벽 위 야외 카페 · “잠시 천국에 왔어요”",
+          "photo": "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 433771,
+            "pp": 144590,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 6,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "ig": [
+            {
+              "id": "travelaaalice",
+              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "C7T4lTrpHcR",
+              "by": "@travelaaalice",
+              "cap": "“저는 잠시 천국에 왔어요” · 여유롭고 천국 같은 분위기"
             }
           ]
         },
@@ -1182,58 +1208,41 @@
           ]
         },
         {
-          "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=30726011&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "숙소 리스트 글 추천: 4성급 가성비 시내 호텔 · 평점 8.9(2,459건), 위치 9.3 · 돌 성당 344m, 케이블카역 도보 · 마운틴뷰, 파노라마 뷔페 조식 · 최근 리노베이션",
-          "photo": "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768"
-          ],
+          "name": "Eco Palms House",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인 · 숙소 리스트 글: 3성급, 논밭 꼭대기 뷰 맛집 리조트(1박 13.7만원~)",
+          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 136765,
-            "pp": 45588,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "nightTotal": 170949,
+            "pp": 56983,
+            "breakfast": false,
+            "left": "2",
+            "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
             "rank": 8,
             "note": "",
             "rooms": 1,
-            "bfOption": null
-          }
-        },
-        {
-          "name": "Pao’s Sapa Leisure Hotel",
-          "url": "https://paoshotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
-          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 299599,
-            "pp": 99866,
-            "breakfast": true,
-            "left": "2",
-            "room": "H'Mong 스위트",
-            "extraBed": true,
-            "rank": 9,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
+            "bfOption": "조식 포함 요금 1박 186,490원"
           },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/-1/1d71e63f4ea115038da02b9c79eabef8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/-1/80705aef282f3e6b66b89f369833395c.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/0/a76611e8d53fa05c37ecff3606967545.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/0/30f557682faf97534525981e6845e05b.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/2607925/0/98baa507422b91bec95596d3aacda1e2.jpeg?s=1024x768"
+          "ig": [
+            {
+              "id": "jxxha_",
+              "url": "https://www.instagram.com/p/Cior9EoPLV-/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "Cior9EoPLV-",
+              "by": "@jxxha_",
+              "cap": "“요기는 뷰가 진짜 최고였다”"
+            }
           ]
         },
         {
@@ -1251,7 +1260,7 @@
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
             "extraBed": false,
-            "rank": 10,
+            "rank": 9,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1282,7 +1291,7 @@
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
             "extraBed": false,
-            "rank": 11,
+            "rank": 10,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 1인 28,491원 추가"
@@ -1299,34 +1308,103 @@
           ]
         },
         {
-          "name": "Hotel de la Coupole",
-          "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 중심 고급형 비교 후보 · 판시판 케이블카 역과 바로 연결. 공식 안내상 일부 객실은 성인 3명 가능하지만 객실 유형·가격 비교 필수",
-          "photo": "https://www.ahstatic.com/photos/a5v2_roskb_00_p_3000x2250.jpg",
+          "name": "Pao’s Sapa Leisure Hotel",
+          "url": "https://paoshotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
+          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 431476,
-            "pp": 143825,
-            "breakfast": false,
-            "left": null,
-            "room": "클래식 트윈 2실",
-            "extraBed": false,
-            "rank": 12,
-            "note": "3명이면 객실 2개 예약 필요",
-            "rooms": 2,
-            "bfOption": "조식 1인 26,937원 추가"
+            "nightTotal": 299599,
+            "pp": 99866,
+            "breakfast": true,
+            "left": "2",
+            "room": "H'Mong 스위트",
+            "extraBed": true,
+            "rank": 11,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
           },
           "gallery": [
-            "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/0974199bdccd355b7f4ced6d3d612468.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/ad7ea17a5752ebffa00e02dbfbd02b93.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/0f2201db61344f6dbdc8bd887b1c5e94.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/bc940a46ecd1fed04a0d028255b6e993.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/24a90e6201cc771fcdab98c933e9dd4f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/351f09f2062a92895a80fb6199284087.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/5649846/-1/733ab00d06f3490b71d7a556532ce09e.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/-1/1d71e63f4ea115038da02b9c79eabef8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/-1/80705aef282f3e6b66b89f369833395c.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/0/a76611e8d53fa05c37ecff3606967545.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/0/30f557682faf97534525981e6845e05b.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/2607925/0/98baa507422b91bec95596d3aacda1e2.jpeg?s=1024x768"
+          ]
+        },
+        {
+          "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=30726011&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 4성급 가성비 시내 호텔 · 평점 8.9(2,459건), 위치 9.3 · 돌 성당 344m, 케이블카역 도보 · 마운틴뷰, 파노라마 뷔페 조식 · 최근 리노베이션",
+          "photo": "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 136765,
+            "pp": 45588,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 12,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Pistachio Hotel Sapa",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "zzm_vietnam: 시내 중심 + 실내 온수풀·옥상 인피니티풀 · 전망형 호텔 후보 · 실제 3인실·가격 확인 · 숙소 리스트 글: 수영장 뷰 조식 맛집(1박 9.1만원~)",
+          "photo": "https://cdn.asahiluxstay.com/uploads/big/media/2022/0317/0327-0954ccdc52309c8-200759701.jpg?s=aHR0cHM6Ly9jZG4uYXNhaGlsdXhzdGF5LmNvbS9tZWRpYS8yMDIyLzAzMTcvMDMyNy0wOTU0Y2NkYzUyMzA5YzgtMjAwNzU5NzAxLmpwZw%3D%3D",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 92,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "ig": [
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            },
+            {
+              "id": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/"
+            }
+          ],
+          "reviews": [
+            {
+              "by": "zzm_vietnam",
+              "url": "https://www.instagram.com/zzm_vietnam/",
+              "pros": [
+                "사파 시내 중심이라 관광·식당 접근 편리",
+                "실내 온수풀 + 옥상 인피니티풀",
+                "시내 관광과 수영장을 함께 즐기기 좋음"
+              ],
+              "cons": [
+                "예약 문제 생겼을 때 직원 대응은 아쉬웠다는 후기"
+              ]
+            }
           ]
         },
         {
@@ -1350,6 +1428,33 @@
             "rooms": 1,
             "bfOption": null
           }
+        },
+        {
+          "name": "Rock Garden Homestay · Round House (Airbnb)",
+          "url": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
+          "bookingUrl": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
+          "bookingPlatform": "Airbnb",
+          "note": "travelaaalice 추천 Airbnb · 11/15–17 2박 후보 · 예산 메모 8만원대(1박/2박 합계인지 미확인) · 무옹화 계곡·산 전망. 리스팅은 최대 2명 표기로 보였다는 메모가 있어 3인 투숙 가능 여부·침대 구성·총액을 호스트에게 확인. 버스안 사파 3박과 달리 야간열차안은 11/15–17 일정과 잘 맞음.",
+          "photo": "https://a0.muscache.com/im/pictures/miso/Hosting-39121676/original/952060da-bc5c-4a0c-bf89-ed2263c72f86.jpeg",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 93,
+            "note": "Airbnb 11/15–17 예약 불가",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "ig": [
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ]
         },
         {
           "name": "Sapa Soleil Hotel",
@@ -1392,60 +1497,6 @@
             "rooms": 1,
             "bfOption": null
           }
-        },
-        {
-          "name": "Pistachio Hotel Sapa",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 호텔 후보 · 실제 3인실·가격 확인 · 숙소 리스트 글: 수영장 뷰 조식 맛집(1박 9.1만원~)",
-          "photo": "https://cdn.asahiluxstay.com/uploads/big/media/2022/0317/0327-0954ccdc52309c8-200759701.jpg?s=aHR0cHM6Ly9jZG4uYXNhaGlsdXhzdGF5LmNvbS9tZWRpYS8yMDIyLzAzMTcvMDMyNy0wOTU0Y2NkYzUyMzA5YzgtMjAwNzU5NzAxLmpwZw%3D%3D",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 92,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "ig": [
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ]
-        },
-        {
-          "name": "Rock Garden Homestay · Round House (Airbnb)",
-          "url": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
-          "bookingUrl": "https://www.airbnb.com/rooms/39121676?check_in=2026-11-15&check_out=2026-11-17&adults=3",
-          "bookingPlatform": "Airbnb",
-          "note": "travelaaalice 추천 Airbnb · 11/15–17 2박 후보 · 예산 메모 8만원대(1박/2박 합계인지 미확인) · 무옹화 계곡·산 전망. 리스팅은 최대 2명 표기로 보였다는 메모가 있어 3인 투숙 가능 여부·침대 구성·총액을 호스트에게 확인. 버스안 사파 3박과 달리 야간열차안은 11/15–17 일정과 잘 맞음.",
-          "photo": "https://a0.muscache.com/im/pictures/miso/Hosting-39121676/original/952060da-bc5c-4a0c-bf89-ed2263c72f86.jpeg",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 93,
-            "note": "Airbnb 11/15–17 예약 불가",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "ig": [
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ]
         }
       ],
       "decisions": [
@@ -2569,6 +2620,12 @@
                 "id": "ville",
                 "label": "Ville de Mont",
                 "meta": "시내 1.6km 절벽뷰 · 1인 1박 144,590원"
+              },
+              {
+                "id": "coupole",
+                "label": "Hotel de la Coupole",
+                "meta": "시내 중심 · 판시판 역 연결 · 1인 1박 143,825원 (방 2개)",
+                "tag": "서비스 1등 후기"
               },
               {
                 "id": "laxsik",
