@@ -494,6 +494,159 @@
       "hanoiTitle": "하노이 후보",
       "hanoi": [
         {
+          "name": "Little Diamond Hotel",
+          "url": "https://littlediamondhotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "구시가지 후보 · 실제 3인 객실 구성·요금·새벽 체크인 확인",
+          "photo": "https://content.r9cdn.net/rimg/himg/17/91/93/expedia_group-144606-c5f0ec-196269.jpg?crop=true&height=768&width=1366",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 79229,
+            "pp": 26410,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "패밀리 디럭스 (최대 4인)",
+            "extraBed": false,
+            "rank": 1,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/d49f532fbf285041726f3c39033161e3.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/e914ddc5931465dd2f28c9abd70c8177.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/5ea58b8b9eebc2330896e2aab2a4616c.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/3fba15ef4813721d13e404e87a747057.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/584e7df2f88e0b67af4e5ec169018622.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/280805/0/458f09065f9de82a46caddfa684d7453.jpeg?s=1024x768",
+            "https://pix8.agoda.net/property/280805/0/05a9d44842e5d04ed0258a228831e08b.jpeg?s=1024x768"
+          ],
+          "lat": 21.0337023,
+          "lng": 105.8475903
+        },
+        {
+          "name": "Hanoi Boutique Hotel & Spa",
+          "url": "https://www.hanoiboutiquehotel.vn/accommodation",
+          "note": "7 Ngõ Gạch · 일반 객실은 최대 2명 표기라 성인 3명은 커넥팅룸 필요 여부 확인. 늦은 밤/새벽 체크인 확인",
+          "photo": "https://assets.waybird.com/cdn-cgi/image/width%3D1024%2Cquality%3D50%2Cformat%3Dauto/https%3A/assets.waybird.com/lodge_images/images/000/141/437/original/4_%281%29.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=230721&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 367842,
+            "pp": 122614,
+            "breakfast": true,
+            "left": "2",
+            "room": "스위트 시티뷰",
+            "extraBed": true,
+            "rank": 2,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/b765ee526fd658bae08b4b4968b053eb.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/69b395cd38ed13f51e024bea3ac81ea4.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/da11a9be0a0de930066405c886d879fd.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/0/3b921ab0053cce105e97bd0094cfd49a.png?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
+          ],
+          "lat": 21.0362202,
+          "lng": 105.8504472
+        },
+        {
+          "name": "Hanoi Nostalgia Hotel & Spa",
+          "url": "https://www.hanoinostalgiahotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2915548&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "구시가지 후보 · 킹베드+싱글베드 트리플룸과 11/14 새벽 체크인 가능 여부 확인",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156779818.jpg?k=bebb49981bad25db2a8cb777a9438b765858da6e5b33101405089f9d3d27d5cc&o=",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 105639,
+            "pp": 35213,
+            "breakfast": true,
+            "left": "3",
+            "room": "트리플룸",
+            "extraBed": false,
+            "rank": 3,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/2915548/-1/2803b0436946a314399b2c555caaacc7.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/-1/e25f3fb428de8cfe36a469e84dd64540.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/-1/c3d4206142045c9b7a2ed6948ab2515b.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/0/6ef3c214260467a98cd420f0a45d7f22.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/-1/1b8e93ed9c125bf0baee9266f1620ac5.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/-1/f8e18a4900f3c06748efe23a7cd8b4a6.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/-1/bcbfa81df62e2e123dfb1a6d56fa09e8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2915548/0/223ecd6a391778e7a0878a4c5b7f7ebb.jpg?s=1024x768"
+          ],
+          "lat": 21.0346847,
+          "lng": 105.8530289
+        },
+        {
+          "name": "Acoustic Hotel & Spa (어쿠스틱)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6393504&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 하노이역·기찻길 인접 가성비 · 4성급, 평점 9.2(7,586건) · 하노이역 525m라 야간열차 타기 최적 · 성당 527m · 루프탑 바, 투숙객 마사지 할인 · 2025 아고다 인기 숙소",
+          "photo": "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6393504/0/1f9cac1d84fd084610dc7f5ad8a84001.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 179547,
+            "pp": 59849,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
+            "extraBed": false,
+            "rank": 4,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "lat": 21.0276833,
+          "lng": 105.8445803
+        },
+        {
+          "name": "Aira Boutique Hanoi Hotel & Spa (아이라)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=21761551&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 하노이 기찻길 도보 3분 · 4.5성급, 평점 9.2(2,562건) · 하노이역 719m · 좋은 위치·친절한 직원",
+          "photo": "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/21761551/-1/399a108ea4d0fd53b57445f27cc0bd72.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 371016,
+            "pp": 123672,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실",
+            "extraBed": false,
+            "rank": 5,
+            "note": "조식 포함 여부 확인 필요",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "lat": 21.0307215,
+          "lng": 105.8418808
+        },
+        {
           "name": "Hanoi Le Jardin Hotel & Spa (하노이 르 자르댕)",
           "url": "https://lejardinhotelhanoi.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6600413&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
@@ -508,7 +661,7 @@
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 1,
+            "rank": 6,
             "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
             "rooms": 1,
             "bfOption": null
@@ -526,6 +679,29 @@
           "lng": 105.8438568
         },
         {
+          "name": "L’HÔTEL du LAC Hanoi",
+          "url": "https://www.hoteldulachanoi.com/hotel-gallery.html",
+          "note": "35–37 Hàng Trống · 구시가지 후보. 객실 정원·새벽 체크인·요금 확인",
+          "photo": "https://images.trvl-media.com/lodging/83000000/82990000/82988600/82988573/577e9d62.jpg?h=800&impolicy=fcrop&p=1&q=medium&w=1200",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=34114945&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 523978,
+            "pp": 174659,
+            "breakfast": true,
+            "left": "4",
+            "room": "주니어 스위트 (발코니)",
+            "extraBed": false,
+            "rank": 7,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "lat": 21.0306722,
+          "lng": 105.8496657
+        },
+        {
           "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
           "url": "https://all.accor.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6542427&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
@@ -540,7 +716,7 @@
             "left": "",
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
             "extraBed": false,
-            "rank": 2,
+            "rank": 8,
             "note": "TOP5 글 기준 124,493원~ (2인가)",
             "rooms": 1,
             "bfOption": null
@@ -573,7 +749,7 @@
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
             "extraBed": false,
-            "rank": 3,
+            "rank": 9,
             "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
             "rooms": 1,
             "bfOption": null
@@ -590,205 +766,6 @@
           ],
           "lat": 21.0320526,
           "lng": 105.8130247
-        },
-        {
-          "name": "Aira Boutique Hanoi Hotel & Spa (아이라)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=21761551&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "숙소 리스트 글 추천: 하노이 기찻길 도보 3분 · 4.5성급, 평점 9.2(2,562건) · 하노이역 719m · 좋은 위치·친절한 직원",
-          "photo": "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/21761551/-1/399a108ea4d0fd53b57445f27cc0bd72.jpg?s=1024x768"
-          ],
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 371016,
-            "pp": 123672,
-            "breakfast": false,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실",
-            "extraBed": false,
-            "rank": 4,
-            "note": "조식 포함 여부 확인 필요",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 21.0307215,
-          "lng": 105.8418808
-        },
-        {
-          "name": "Acoustic Hotel & Spa (어쿠스틱)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6393504&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "숙소 리스트 글 추천: 하노이역·기찻길 인접 가성비 · 4성급, 평점 9.2(7,586건) · 하노이역 525m라 야간열차 타기 최적 · 성당 527m · 루프탑 바, 투숙객 마사지 할인 · 2025 아고다 인기 숙소",
-          "photo": "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6393504/0/1f9cac1d84fd084610dc7f5ad8a84001.jpg?s=1024x768"
-          ],
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 179547,
-            "pp": 59849,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
-            "extraBed": false,
-            "rank": 5,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 21.0276833,
-          "lng": 105.8445803
-        },
-        {
-          "name": "Little Diamond Hotel",
-          "url": "https://littlediamondhotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "구시가지 후보 · 실제 3인 객실 구성·요금·새벽 체크인 확인",
-          "photo": "https://content.r9cdn.net/rimg/himg/17/91/93/expedia_group-144606-c5f0ec-196269.jpg?crop=true&height=768&width=1366",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 79229,
-            "pp": 26410,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "패밀리 디럭스 (최대 4인)",
-            "extraBed": false,
-            "rank": 6,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/d49f532fbf285041726f3c39033161e3.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/e914ddc5931465dd2f28c9abd70c8177.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/5ea58b8b9eebc2330896e2aab2a4616c.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/3fba15ef4813721d13e404e87a747057.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/584e7df2f88e0b67af4e5ec169018622.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/280805/0/458f09065f9de82a46caddfa684d7453.jpeg?s=1024x768",
-            "https://pix8.agoda.net/property/280805/0/05a9d44842e5d04ed0258a228831e08b.jpeg?s=1024x768"
-          ],
-          "lat": 21.0337023,
-          "lng": 105.8475903
-        },
-        {
-          "name": "Hanoi Nostalgia Hotel & Spa",
-          "url": "https://www.hanoinostalgiahotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2915548&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "구시가지 후보 · 킹베드+싱글베드 트리플룸과 11/14 새벽 체크인 가능 여부 확인",
-          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156779818.jpg?k=bebb49981bad25db2a8cb777a9438b765858da6e5b33101405089f9d3d27d5cc&o=",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 105639,
-            "pp": 35213,
-            "breakfast": true,
-            "left": "3",
-            "room": "트리플룸",
-            "extraBed": false,
-            "rank": 7,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/2915548/-1/2803b0436946a314399b2c555caaacc7.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/-1/e25f3fb428de8cfe36a469e84dd64540.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/-1/c3d4206142045c9b7a2ed6948ab2515b.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/0/6ef3c214260467a98cd420f0a45d7f22.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/-1/1b8e93ed9c125bf0baee9266f1620ac5.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/-1/f8e18a4900f3c06748efe23a7cd8b4a6.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/-1/bcbfa81df62e2e123dfb1a6d56fa09e8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2915548/0/223ecd6a391778e7a0878a4c5b7f7ebb.jpg?s=1024x768"
-          ],
-          "lat": 21.0346847,
-          "lng": 105.8530289
-        },
-        {
-          "name": "Hanoi Boutique Hotel & Spa",
-          "url": "https://www.hanoiboutiquehotel.vn/accommodation",
-          "note": "7 Ngõ Gạch · 일반 객실은 최대 2명 표기라 성인 3명은 커넥팅룸 필요 여부 확인. 늦은 밤/새벽 체크인 확인",
-          "photo": "https://assets.waybird.com/cdn-cgi/image/width%3D1024%2Cquality%3D50%2Cformat%3Dauto/https%3A/assets.waybird.com/lodge_images/images/000/141/437/original/4_%281%29.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=230721&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 367842,
-            "pp": 122614,
-            "breakfast": true,
-            "left": "2",
-            "room": "스위트 시티뷰",
-            "extraBed": true,
-            "rank": 8,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/b765ee526fd658bae08b4b4968b053eb.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/69b395cd38ed13f51e024bea3ac81ea4.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/da11a9be0a0de930066405c886d879fd.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/0/3b921ab0053cce105e97bd0094cfd49a.png?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
-          ],
-          "lat": 21.0362202,
-          "lng": 105.8504472
-        },
-        {
-          "name": "L’HÔTEL du LAC Hanoi",
-          "url": "https://www.hoteldulachanoi.com/hotel-gallery.html",
-          "note": "35–37 Hàng Trống · 구시가지 후보. 객실 정원·새벽 체크인·요금 확인",
-          "photo": "https://images.trvl-media.com/lodging/83000000/82990000/82988600/82988573/577e9d62.jpg?h=800&impolicy=fcrop&p=1&q=medium&w=1200",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=34114945&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 523978,
-            "pp": 174659,
-            "breakfast": true,
-            "left": "4",
-            "room": "주니어 스위트 (발코니)",
-            "extraBed": false,
-            "rank": 9,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 21.0306722,
-          "lng": 105.8496657
-        },
-        {
-          "name": "Hanoi Fiesta Grand Hotel & Spa",
-          "url": "https://www.hanoifiestagrandhotel.com/photo-gallery",
-          "note": "65 Hàng Bè · 구시가지 후보. 다수 객실은 2명 기준이므로 3인 가능 객실과 새벽 체크인 확인",
-          "photo": "https://hanoifiestagrandhotel.com/UploadFile/Gallery/Rooms/Superior-Room/1.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=35957908&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 90,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 21.0322535,
-          "lng": 105.8538996
         },
         {
           "name": "Hanoi Golden Holiday Hotel",
@@ -812,6 +789,29 @@
           },
           "lat": 21.0357215,
           "lng": 105.8476901
+        },
+        {
+          "name": "Hanoi Fiesta Grand Hotel & Spa",
+          "url": "https://www.hanoifiestagrandhotel.com/photo-gallery",
+          "note": "65 Hàng Bè · 구시가지 후보. 다수 객실은 2명 기준이므로 3인 가능 객실과 새벽 체크인 확인",
+          "photo": "https://hanoifiestagrandhotel.com/UploadFile/Gallery/Rooms/Superior-Room/1.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=35957908&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 90,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "lat": 21.0322535,
+          "lng": 105.8538996
         }
       ],
       "sapa": [
@@ -2793,29 +2793,28 @@
             "q": "11/13 체크인 · 1박, 어디서?",
             "due": "10월 중",
             "goto": "lodging",
-            "hint": "새벽 00:40 도착이라 11/13 체크인으로 잡아야 바로 입실 · 저녁 열차까지 짐 보관",
+            "hint": "새벽 00:40 도착이라 11/13 체크인으로 잡아야 바로 입실 · 역·구시가지·호수 가까운 곳 우선",
             "options": [
               {
-                "id": "acoustic",
-                "label": "Acoustic Hotel & Spa",
-                "meta": "하노이역 525m · 조식·무료취소 · 1인 59,849원",
-                "tag": "열차 동선 최적",
+                "id": "ld",
+                "label": "Little Diamond Hotel",
+                "meta": "역 1.2km · 호수 750m · 1인 26,410원 · 가성비 · 4인 패밀리룸",
                 "rec": true
               },
               {
-                "id": "jardin",
-                "label": "Le Jardin Hotel & Spa",
-                "meta": "평점 9.0 · 조식 포함 · 1인 70,553원"
+                "id": "hb",
+                "label": "Hanoi Boutique Hotel & Spa",
+                "meta": "역 1.6km · 호수 850m · 1인 122,614원 · 구시가지"
               },
               {
-                "id": "lotte",
-                "label": "롯데호텔 하노이",
-                "meta": "수영장·야경 · 역에서 택시 15분 · 1인 84,729원"
+                "id": "hn",
+                "label": "Hanoi Nostalgia Hotel & Spa",
+                "meta": "역 1.7km · 호수 650m · 1인 35,213원 · 구시가지"
               },
               {
-                "id": "aira",
-                "label": "Aira Boutique",
-                "meta": "기찻길 도보 3분 · 1인 123,672원"
+                "id": "acoustic",
+                "label": "Acoustic Hotel & Spa",
+                "meta": "역 500m · 호수 850m · 1인 59,849원 · 역 제일 가까움"
               }
             ],
             "step": 4,
