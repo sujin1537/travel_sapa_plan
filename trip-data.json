@@ -1449,11 +1449,10 @@
         }
       ],
       "decisions": [
-        "A/B안은 사파 3박(11/14·15·16) 기준",
-        "C안은 사파 2박(11/15·16) + 하노이 도착 직후 휴식 숙소 검토",
-        "11/17 밤은 기본적으로 숙박 없이 공항 이동",
-        "11/14 새벽 도착 후 바로 체크인하려면 숙박 시작일을 11/13으로 예약해야 할 수 있음",
-        "3인실 침대 구성, 창문 유무, 무료 취소, 짐 보관, 조식, 체크인 가능 시간을 확인"
+        "하노이 1박(11/13 체크인) · 사파 2박(11/15–17)",
+        "새벽 00:40 도착이라 하노이는 11/13 체크인으로 예약해야 바로 입실",
+        "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
+        "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
       "checkedAt": "2026-10-11 17:20 (KST) 아고다 기준",
       "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)"
@@ -2516,5 +2515,508 @@
         }
       ]
     }
+  },
+  "decisionBoard": {
+    "done": [
+      "이동 흐름: 하노이 1박 → 야간열차 → 사파 2박 → 공항 직행 버스",
+      "지영 항공권 발권 완료 (7C2201 가는 편 · VJ960 오는 편)",
+      "사파 첫날 저녁은 철갑상어 핫팟 🔥",
+      "마지막 날은 사파 숙소 체크아웃까지 즐기기"
+    ],
+    "groups": [
+      {
+        "id": "book",
+        "title": "예약부터",
+        "sub": "늦을수록 비싸지거나 자리가 없어지는 것",
+        "items": [
+          {
+            "id": "flight",
+            "q": "수진·소영 항공권",
+            "due": "지금",
+            "goto": "flights",
+            "hint": "우리 유니온페이로 가는 편 결제 시 제주항공 10%",
+            "options": [
+              {
+                "id": "a",
+                "label": "지영이랑 같은 편 (편도 2장)",
+                "meta": "제주 7C2201 + 비엣젯 VJ960 · 1인 368,500원",
+                "rec": true
+              },
+              {
+                "id": "b",
+                "label": "제주항공 왕복",
+                "meta": "1인 382,400원 · 오는 편이 7C2202라 지영이랑 따로"
+              }
+            ]
+          },
+          {
+            "id": "train",
+            "q": "야간열차 어느 칸으로?",
+            "due": "빨리",
+            "goto": "transport",
+            "hint": "셋이니까 4인실 한 칸 통째로 + 라오까이→사파 셔틀 포함 상품으로",
+            "options": [
+              {
+                "id": "chapa",
+                "label": "차파 익스프레스",
+                "meta": "샤워 가능 · 빅사파보다 약 3만원 더 · @ji_won90 후기"
+              },
+              {
+                "id": "big",
+                "label": "빅사파",
+                "meta": "샤워 불가 · 간식·어메니티 기본 · @woonimong 후기"
+              }
+            ]
+          },
+          {
+            "id": "traintime",
+            "q": "몇 시 열차?",
+            "due": "빨리",
+            "goto": "transport",
+            "options": [
+              {
+                "id": "sp15",
+                "label": "21:45 SP15",
+                "meta": "하노이에서 저녁 먹고 바로"
+              },
+              {
+                "id": "sp3",
+                "label": "22:00 SP3",
+                "meta": "무난"
+              },
+              {
+                "id": "sp7",
+                "label": "22:40 SP7",
+                "meta": "하노이 저녁을 여유 있게"
+              }
+            ]
+          },
+          {
+            "id": "hanoi",
+            "q": "하노이 숙소 (11/13 체크인 · 1박)",
+            "due": "10월 중",
+            "goto": "lodging",
+            "hint": "새벽 00:40 도착이라 11/13 체크인으로 잡아야 바로 입실 · 저녁 열차까지 짐 보관",
+            "options": [
+              {
+                "id": "acoustic",
+                "label": "Acoustic Hotel & Spa",
+                "meta": "하노이역 525m · 조식·무료취소 · 1인 59,849원",
+                "tag": "열차 동선 최적",
+                "rec": true
+              },
+              {
+                "id": "jardin",
+                "label": "Le Jardin Hotel & Spa",
+                "meta": "평점 9.0 · 조식 포함 · 1인 70,553원"
+              },
+              {
+                "id": "lotte",
+                "label": "롯데호텔 하노이",
+                "meta": "수영장·야경 · 역에서 택시 15분 · 1인 84,729원"
+              },
+              {
+                "id": "aira",
+                "label": "Aira Boutique",
+                "meta": "기찻길 도보 3분 · 1인 123,672원"
+              }
+            ]
+          },
+          {
+            "id": "sapa",
+            "q": "사파 숙소 (11/15–17 · 2박)",
+            "due": "10월 중",
+            "goto": "lodging",
+            "hint": "마지막 날 체크아웃까지 숙소에서 놀 거라 뷰가 중요 · 외곽이면 시내 셔틀 확인",
+            "options": [
+              {
+                "id": "topas",
+                "label": "Topas Ecolodge",
+                "meta": "끝판 뷰 · 1인 1박 159,710원 · 셔틀 시간 확인",
+                "tag": "인스타 추천 1위",
+                "rec": true
+              },
+              {
+                "id": "ville",
+                "label": "Ville de Mont",
+                "meta": "시내 1.6km 절벽뷰 · 1인 1박 144,590원"
+              },
+              {
+                "id": "laxsik",
+                "label": "Laxsik Ecolodge",
+                "meta": "외곽 에코로지 · 1인 1박 93,941원"
+              },
+              {
+                "id": "split",
+                "label": "1박씩 나누기",
+                "meta": "첫날 시내 가성비(Viettrekking 40,802원) + 둘째 날 뷰 숙소"
+              }
+            ]
+          },
+          {
+            "id": "bus",
+            "q": "11/17 공항 가는 버스",
+            "due": "11월 초",
+            "goto": "transport",
+            "options": [
+              {
+                "id": "14",
+                "label": "14:00 사오비엣 직행",
+                "meta": "20:30 공항 도착 · 숙소 점심까지 OK",
+                "rec": true
+              },
+              {
+                "id": "15",
+                "label": "15:00 직행",
+                "meta": "21:30 도착 · 숙소 1시간 더"
+              },
+              {
+                "id": "12",
+                "label": "12:00 하노이 시내행",
+                "meta": "하노이에서 마지막 저녁 → 그랩으로 공항"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "days",
+        "title": "날짜별 어디 갈지",
+        "sub": "후보 중에 하나씩만 고르면 돼",
+        "days": [
+          {
+            "label": "D2",
+            "date": "11/14 토 · 하노이",
+            "slots": [
+              {
+                "id": "d2lunch",
+                "slot": "점심",
+                "options": [
+                  {
+                    "id": "huong",
+                    "label": "분짜 흐엉리엔",
+                    "meta": "예슬 추천"
+                  },
+                  {
+                    "id": "nga",
+                    "label": "분짜 응아 까잉",
+                    "meta": "1amny"
+                  },
+                  {
+                    "id": "duyen",
+                    "label": "Duyên Béo",
+                    "meta": "풍향고"
+                  }
+                ]
+              },
+              {
+                "id": "d2cafe",
+                "slot": "오후 카페",
+                "options": [
+                  {
+                    "id": "sbux",
+                    "label": "스타벅스 성당점",
+                    "meta": "예슬 추천"
+                  },
+                  {
+                    "id": "high",
+                    "label": "Highlands",
+                    "meta": "예슬·풍향고"
+                  },
+                  {
+                    "id": "phuc",
+                    "label": "Phúc Long",
+                    "meta": "예슬 추천"
+                  },
+                  {
+                    "id": "lang",
+                    "label": "Lang Biang",
+                    "meta": "풍향고"
+                  }
+                ]
+              },
+              {
+                "id": "d2walk",
+                "slot": "산책 하나 더",
+                "options": [
+                  {
+                    "id": "hangma",
+                    "label": "항마 등불 골목",
+                    "meta": "호안끼엠 도보권"
+                  },
+                  {
+                    "id": "badinh",
+                    "label": "호치민 묘 · 바딘광장"
+                  },
+                  {
+                    "id": "rest",
+                    "label": "숙소에서 쉬기",
+                    "meta": "열차 전 체력 보충"
+                  }
+                ]
+              },
+              {
+                "id": "d2dinner",
+                "slot": "열차 전 저녁",
+                "options": [
+                  {
+                    "id": "4ps",
+                    "label": "Pizza 4P's",
+                    "meta": "예슬 추천"
+                  },
+                  {
+                    "id": "hoang",
+                    "label": "Hoang's Restaurant",
+                    "meta": "예슬 추천"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "D3",
+            "date": "11/15 일 · 사파",
+            "slots": [
+              {
+                "id": "d3late",
+                "slot": "깟깟마을 다음",
+                "options": [
+                  {
+                    "id": "ham",
+                    "label": "함종산 전망대",
+                    "meta": "맑을 때만"
+                  },
+                  {
+                    "id": "coaster",
+                    "label": "알파인 코스터"
+                  },
+                  {
+                    "id": "massage",
+                    "label": "마사지",
+                    "meta": "MASSAGE 017"
+                  },
+                  {
+                    "id": "none",
+                    "label": "숙소 체크인 · 휴식"
+                  }
+                ]
+              },
+              {
+                "id": "d3hotpot",
+                "slot": "철갑상어 핫팟 🔥",
+                "options": [
+                  {
+                    "id": "emotion",
+                    "label": "Sapa Emotion"
+                  },
+                  {
+                    "id": "center",
+                    "label": "Hotpot Center Sapa"
+                  },
+                  {
+                    "id": "moment",
+                    "label": "Moment Romantic",
+                    "meta": "풍향고"
+                  }
+                ]
+              },
+              {
+                "id": "d3hanbok",
+                "slot": "깟깟마을 전통의상",
+                "options": [
+                  {
+                    "id": "yes",
+                    "label": "빌려 입기",
+                    "meta": "사진 시간 넉넉히"
+                  },
+                  {
+                    "id": "no",
+                    "label": "그냥 구경"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "D4",
+            "date": "11/16 월 · 사파",
+            "slots": [
+              {
+                "id": "d4fansipan",
+                "slot": "판시판",
+                "options": [
+                  {
+                    "id": "am",
+                    "label": "오전에 바로",
+                    "meta": "날씨 보고 당일 클룩 구매",
+                    "rec": true
+                  },
+                  {
+                    "id": "swap",
+                    "label": "날씨 안 좋으면 D3이랑 바꾸기"
+                  }
+                ]
+              },
+              {
+                "id": "d4pm",
+                "slot": "오후",
+                "options": [
+                  {
+                    "id": "love",
+                    "label": "사랑폭포"
+                  },
+                  {
+                    "id": "heaven",
+                    "label": "헤븐 게이트"
+                  },
+                  {
+                    "id": "trek",
+                    "label": "마을 힐링 트레킹"
+                  },
+                  {
+                    "id": "rest",
+                    "label": "숙소 휴식"
+                  }
+                ]
+              },
+              {
+                "id": "d4cafe",
+                "slot": "뷰 카페",
+                "options": [
+                  {
+                    "id": "vt",
+                    "label": "Viettrekking Coffee",
+                    "meta": "산악열차 뷰"
+                  },
+                  {
+                    "id": "violet",
+                    "label": "Phansi Coffee Violet"
+                  },
+                  {
+                    "id": "slope",
+                    "label": "Slope Cafe",
+                    "meta": "논뷰"
+                  },
+                  {
+                    "id": "ladao",
+                    "label": "La Dao",
+                    "meta": "풍향고 · 외곽"
+                  }
+                ]
+              },
+              {
+                "id": "d4dinner",
+                "slot": "저녁",
+                "options": [
+                  {
+                    "id": "little",
+                    "label": "Little Sapa",
+                    "meta": "풍향고"
+                  },
+                  {
+                    "id": "chusu",
+                    "label": "CHUSU KITCHEN",
+                    "meta": "풍향고"
+                  },
+                  {
+                    "id": "anise",
+                    "label": "어나이스"
+                  },
+                  {
+                    "id": "chicago",
+                    "label": "시카고피자"
+                  },
+                  {
+                    "id": "india",
+                    "label": "India Gate"
+                  }
+                ]
+              },
+              {
+                "id": "d4bar",
+                "slot": "밤",
+                "options": [
+                  {
+                    "id": "wild",
+                    "label": "The Wildbeast",
+                    "meta": "논뷰 칵테일 · 디제잉"
+                  },
+                  {
+                    "id": "color",
+                    "label": "Color Bar"
+                  },
+                  {
+                    "id": "no",
+                    "label": "일찍 자기"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "D5",
+            "date": "11/17 화 · 사파 → 공항",
+            "slots": [
+              {
+                "id": "d5lunch",
+                "slot": "마지막 점심",
+                "options": [
+                  {
+                    "id": "hotel",
+                    "label": "숙소 레스토랑",
+                    "meta": "짐 맡기고 편하게"
+                  },
+                  {
+                    "id": "cafe",
+                    "label": "근처 뷰 카페"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rules",
+        "title": "같이 정할 규칙",
+        "sub": "돈 얘기는 미리 해두면 편해",
+        "items": [
+          {
+            "id": "money",
+            "q": "공동 경비는 어떻게?",
+            "options": [
+              {
+                "id": "pool",
+                "label": "미리 공금 모으기",
+                "meta": "모임통장·트래블카드 하나로"
+              },
+              {
+                "id": "one",
+                "label": "한 명이 결제 후 정산"
+              }
+            ]
+          },
+          {
+            "id": "agoda",
+            "q": "숙소 결제 카드",
+            "goto": "cards",
+            "hint": "카드 탭 ★ 혜택 기준",
+            "options": [
+              {
+                "id": "woori",
+                "label": "우리카드",
+                "meta": "아고다 최대 10%",
+                "rec": true
+              },
+              {
+                "id": "etc",
+                "label": "신한·KB",
+                "meta": "아고다 7% (USD 결제)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
