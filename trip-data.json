@@ -968,7 +968,14 @@
             }
           ],
           "lat": 22.3338122,
-          "lng": 103.8367324
+          "lng": 103.8367324,
+          "videos": [
+            {
+              "code": "C6oTisdp7lQ",
+              "by": "@obbahere",
+              "cap": "뷰가 미친 사파 호텔 — 방갈로·5층 수영장"
+            }
+          ]
         },
         {
           "name": "Hotel de la Coupole",
@@ -3324,16 +3331,22 @@
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TRThfzIJzMYV-wlNKG8isFlFLMp9s2sfa80QW-haFN4SPvwmSYVGoZxQsR5zjdksupwnr56dsNwMYpWMtN2fmLtN9RQf8ff3aT7mBndgpKs2WTDE4SGgDIJQlvhGYlKjh6KmhAfvpEGDWm=w1200-h900-k-no",
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUwrlnK48tozI4EB0TwU0IheFA3Q1KKLEIyV8qVeXTy-EXkkGN5Tiy_ybp-ZTSIGcMtKT5vZpc3V2TZisMo5ZQJaVaqsgqnwxFflWVJ93Dm-bcCiOQGduxdEpREqsZL-ThWGY8TA=w1200-h900-k-no"
       ],
-      "tip": "성당 앞 광장·골목 카페가 포토 스팟. 미사 시간엔 내부 관람 제한될 수 있어.",
+      "tip": "성당 앞 광장·골목 카페가 포토 스팟. 미사 시간엔 내부 관람 제한될 수 있어. · hanoi.xinchao: “성당 레몬티” — 성당 옆 노상에서 레몬티 한 잔 시켜 놓고 거리 구경하는 게 하노이 국룰. 가을엔 꼼(cốm) 간식도 같이 (음식 탭에 있음)",
       "check": "내부 개방 시간",
       "time": "20–30분",
       "lat": 21.0285957,
-      "lng": 105.8488606
+      "lng": 105.8488606,
+      "ig": [
+        {
+          "id": "hanoi.xinchao",
+          "url": "https://www.instagram.com/p/DdD4rsGSV34/"
+        }
+      ]
     },
     {
-      "name": "호치민 묘 · 바딘광장 · 한기둥사원",
+      "name": "호치민 묘 · 관저 · 바딘광장 · 한기둥사원",
       "day": "DAY 05 · 11/17 오후 선택",
-      "desc": "사파에서 하노이 도착이 빠르고 피로가 적을 때만 선택하는 역사 명소 코스.",
+      "desc": "사파에서 하노이 도착이 빠르고 피로가 적을 때만 선택하는 역사 명소 코스. 묘 뒤편 호치민 관저(나무 수상가옥)도 같은 기념공원 안 — yrmm.ha: “생각보다 검소하고 아름다운 곳”.",
       "status": "시간 남을 때만",
       "query": "Ho Chi Minh Mausoleum Ba Dinh Square One Pillar Pagoda Hanoi",
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjPrsW1A2i-kmVRBNShH-jaXx5eltlm6Z7KXmV-NWHsef1MKY69xB1WFBxuFq8ook39GXWuWk4iLTpevWI_Ht_7ojyDopDWuNkcwv-xSL3WtV9hhKJA6DkKXbprrD8rLanZ0k7pa6wL2mo=w1200-h800-k-no",
@@ -3342,7 +3355,13 @@
       "time": "2–3시간",
       "city": "hanoi",
       "lat": 21.0368973,
-      "lng": 105.8346667
+      "lng": 105.8346667,
+      "ig": [
+        {
+          "id": "yrmm.ha",
+          "url": "https://www.instagram.com/p/DaNmFy4AY5C/"
+        }
+      ]
     },
     {
       "name": "항마 거리 (Hàng Mã) 등불 골목",
@@ -3370,6 +3389,278 @@
       "city": "hanoi",
       "lat": 21.0367993,
       "lng": 105.8473641
+    },
+    {
+      "name": "하노이 기찻길 – 북쪽 풍흥 (29A Nguyễn Thái Học)",
+      "day": "DAY 02 · 11/14",
+      "desc": "골목 카페 사이로 기차가 스치듯 지나가는 기찻길. 북쪽 풍흥 구간.",
+      "status": "시간표 확인",
+      "time": "1시간 (기차 30분 전 도착)",
+      "tip": "평일 08:30 · 09:30 · 11:50 · 15:15 · 19:50 · 21:15 · 21:30 · 22:00 · 주말 06:00 · 07:15 · 09:30 · 11:50 · 15:30 · 17:30 · 19:30 · 19:50 · 21:15 · 21:30 · 22:00 · wait_japan: 30분 전 도착하면 자리 잡기 쉬움, 시간은 10–30분 오차, 낮엔 사진·밤엔 조명 분위기",
+      "check": "당일 운행 시간 (베트남항공 여행 가이드에서도 확인 가능)",
+      "query": "29A Nguyễn Thái Học Hà Nội train street",
+      "ig": [
+        {
+          "id": "wait_japan",
+          "url": "https://www.instagram.com/p/DeWj-JETXLM/"
+        },
+        {
+          "id": "two_peas_abroad",
+          "url": "https://www.instagram.com/p/DYPBk5epM8w/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DeWj-JETXLM",
+          "by": "@wait_japan",
+          "cap": "하노이 기찻길 카페 시간표"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0285023,
+      "lng": 105.8421006,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "하노이 기찻길 – 남쪽 레주언 (Lê Duẩn)",
+      "day": "DAY 02 · 11/14",
+      "desc": "남쪽 레주언·캄티엔 구간. 북쪽보다 덜 붐비는 편.",
+      "status": "시간표 확인",
+      "time": "1시간",
+      "tip": "매일 06:10 · 11:40 · 15:30 · 18:00 · 19:10 · 19:50 · 21:00 · 기차 30분 전 도착 추천",
+      "check": "당일 운행 시간",
+      "query": "Lê Duẩn train street Hanoi",
+      "ig": [
+        {
+          "id": "wait_japan",
+          "url": "https://www.instagram.com/p/DeWj-JETXLM/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0176282,
+      "lng": 105.840885,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tch2PWiOOkcu-mA8k3kyCoTUaqmS94VgN0ydL_Btuqaaz3kP7UlNzz7RU7eteZyeEkErgSS_28Nz4Xej5FgVxpWwXgd1mztr6k_PNB26hRrw2kXGu8CI7RDrge-FA2eBRSf55tk0cSqkg=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tch2PWiOOkcu-mA8k3kyCoTUaqmS94VgN0ydL_Btuqaaz3kP7UlNzz7RU7eteZyeEkErgSS_28Nz4Xej5FgVxpWwXgd1mztr6k_PNB26hRrw2kXGu8CI7RDrge-FA2eBRSf55tk0cSqkg=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "The Hanoi Train (관광열차)",
+      "day": "DAY 02 · 오전 (선택)",
+      "desc": "하노이역 출발 신상 관광열차. 음료·간식, 베트남 전통 공연, 리 왕조 유적 ‘덴도’ 방문 후 복귀.",
+      "status": "예약 필요",
+      "time": "왕복 약 3시간 30분",
+      "tip": "1층 객차 37,500원 · 2층 43,600원 · 평일 08:00 · 주말 08:00/13:30 출발 · 클룩 평점 4.5 (uiland.kr)",
+      "check": "클룩 예약 가능일·11/14(토) 시간",
+      "query": "The Hanoi Train Tàu Hà Nội ga Hà Nội",
+      "ig": [
+        {
+          "id": "uiland.kr",
+          "url": "https://www.instagram.com/p/Da-SGNhP7KN/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "Da-SGNhP7KN",
+          "by": "@uiland.kr",
+          "cap": "단돈 3만원 럭셔리 기차 여행"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.009002,
+      "lng": 105.810877,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sg4fljfKc475ecoOiV7pTJjWxUKfKK8V45g6ZhSoP6RyKYTSG7zc3DcwKMTKJq4Z2NlM-2qPl5TFecBpdh6qIc_PP20i5RE3a6I9A2UPqgkocm22LllWsCB47dbeiKiM8W9XMGVToqzOmk=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sg4fljfKc475ecoOiV7pTJjWxUKfKK8V45g6ZhSoP6RyKYTSG7zc3DcwKMTKJq4Z2NlM-2qPl5TFecBpdh6qIc_PP20i5RE3a6I9A2UPqgkocm22LllWsCB47dbeiKiM8W9XMGVToqzOmk=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "탕롱 황성 (Hoàng thành Thăng Long)",
+      "day": "DAY 02 · 11/14",
+      "desc": "유네스코 세계유산 왕궁터. 지하 벙커(베트남전 사령부)는 꼭 내려가 보기.",
+      "status": "입장료",
+      "time": "1–1.5시간",
+      "tip": "yrmm.ha: 지하벙커 방문 필수 · me.you_travel 하노이 6시간 코스 첫 스팟",
+      "check": "입장료·월요일 휴무 여부",
+      "query": "Imperial Citadel of Thang Long",
+      "ig": [
+        {
+          "id": "yrmm.ha",
+          "url": "https://www.instagram.com/p/DaNmFy4AY5C/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0352231,
+      "lng": 105.8402594,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI-K4WGPfaCtR1uOqnLge-CU10468BGITfTB2pLyGdfNA4trBBQxoE-oyCw-am4BftwnfbbrxzOlDE84rSiBJ5VJFwPr3vnaUDWrZNGkJqXZkqItR7JuqpBPPylkHas-XewQybFQ=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI-K4WGPfaCtR1uOqnLge-CU10468BGITfTB2pLyGdfNA4trBBQxoE-oyCw-am4BftwnfbbrxzOlDE84rSiBJ5VJFwPr3vnaUDWrZNGkJqXZkqItR7JuqpBPPylkHas-XewQybFQ=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "응오시리엔 시장 (Chợ Ngô Sĩ Liên)",
+      "day": "DAY 02 · 아침",
+      "desc": "베트남어 리뷰밖에 없는 오래된 재래시장. 시장 안 닭국수(분탕 바똥)로 하루 시작.",
+      "status": "로컬 시장",
+      "time": "40분",
+      "tip": "yrmm.ha: 진짜 로컬에 목마른 사람용 코스의 시작점",
+      "check": "오전 운영",
+      "query": "Chợ Ngô Sĩ Liên Hà Nội",
+      "ig": [
+        {
+          "id": "yrmm.ha",
+          "url": "https://www.instagram.com/p/DaNmFy4AY5C/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.026558,
+      "lng": 105.839181,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SawiCZQu5CcuzhF47HEFnmbhNs7E9TSZXm_yMDx-nIM0voQTThjRCbCZhJ0kQ8m7eXrQnU6qYGXMz2DSdYj20blAdj7L9jVMu-75zDH9y5kho_2B0bfSdHrWZW7GoxaG5nLXsBxvNeDDlN=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SawiCZQu5CcuzhF47HEFnmbhNs7E9TSZXm_yMDx-nIM0voQTThjRCbCZhJ0kQ8m7eXrQnU6qYGXMz2DSdYj20blAdj7L9jVMu-75zDH9y5kho_2B0bfSdHrWZW7GoxaG5nLXsBxvNeDDlN=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "맥주거리 (Tạ Hiện)",
+      "day": "DAY 02 · 밤",
+      "desc": "목욕탕 의자에 앉아 맥주 한 잔 하는 구시가지 야장 거리.",
+      "status": "밤 산책",
+      "time": "1시간",
+      "tip": "matzip_note: 한국어 잘하는 직원 많고 가격은 다 비슷하니 분위기 좋은 곳으로",
+      "check": "주말 밤 차 없는 거리 운영",
+      "query": "Tạ Hiện beer street",
+      "ig": [
+        {
+          "id": "matzip_note",
+          "url": "https://www.instagram.com/p/DeL-L7lR5pV/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0342888,
+      "lng": 105.8521586,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9St37zQFSDObUACEOdfI2O15bFnH9IE42DWt8ACIxbAnPYAq6NEakiMwBVcUmsadmLf0fwr5UCZ3x_-mp7zYaciSVhAYS3HNJsVn9fB_zBMl5ogPOnTawEn9e0z68bmrEiwX-yO=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9St37zQFSDObUACEOdfI2O15bFnH9IE42DWt8ACIxbAnPYAq6NEakiMwBVcUmsadmLf0fwr5UCZ3x_-mp7zYaciSVhAYS3HNJsVn9fB_zBMl5ogPOnTawEn9e0z68bmrEiwX-yO=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "롱비엔 다리 (Cầu Long Biên)",
+      "day": "DAY 02 · 해질녘",
+      "desc": "100년 넘은 철교. 기차·오토바이가 지나가는 다리 위 노을 산책.",
+      "status": "산책 코스",
+      "time": "30–40분",
+      "tip": "me.you_travel 하노이 코스 마지막 스팟",
+      "check": "보행로 개방",
+      "query": "Long Bien Bridge Hanoi",
+      "city": "hanoi",
+      "lat": 21.0417839,
+      "lng": 105.8545026,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz08D_tXE8RNoxz22eQAUEXBlqUHHa-Iy1Eu8ou_TjzYsrxqHUwrfbmXgBUPN-KinUzogR48jD41Lex8IOTB8tdsoXAjdMWkfaz13s1rCJAl16Lnga3ML3ITSoL5pHwKr_C3QG9OMJYf0V=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz08D_tXE8RNoxz22eQAUEXBlqUHHa-Iy1Eu8ou_TjzYsrxqHUwrfbmXgBUPN-KinUzogR48jD41Lex8IOTB8tdsoXAjdMWkfaz13s1rCJAl16Lnga3ML3ITSoL5pHwKr_C3QG9OMJYf0V=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "센스파 (Sen Spa)",
+      "day": "하노이 · 마사지",
+      "desc": "poponme24 하노이 마사지 추천 1위.",
+      "status": "마사지",
+      "time": "60–90분",
+      "tip": "poponme24 추천 1위 · 예약 후 방문",
+      "check": "가격·예약",
+      "query": "Sen Spa Hà Nội Hoàn Kiếm",
+      "ig": [
+        {
+          "id": "poponme24",
+          "url": "https://www.instagram.com/poponme24/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0313183,
+      "lng": 105.8500415,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUJiO1JVj9ZGkdEZ-wDRDBTWSw5lKE12VfSSEUEKqiBwJVHtDhJhGtPQnVaJj-eLutVy_Mr4magpzOkb_4CGPN5QFLhoNHNKkExWbE47-_Repyy8sJAu4wPcnGk-VSc1YGVHAGfcIKsVOQ=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUJiO1JVj9ZGkdEZ-wDRDBTWSw5lKE12VfSSEUEKqiBwJVHtDhJhGtPQnVaJj-eLutVy_Mr4magpzOkb_4CGPN5QFLhoNHNKkExWbE47-_Repyy8sJAu4wPcnGk-VSc1YGVHAGfcIKsVOQ=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "레센스스파 (L’essence Spa)",
+      "day": "하노이 · 마사지",
+      "desc": "poponme24 하노이 마사지 추천 2위. 구시가지 중심.",
+      "status": "마사지",
+      "time": "60–90분",
+      "tip": "poponme24 추천 2위",
+      "check": "가격·예약",
+      "query": "L'essence Spa Hanoi",
+      "ig": [
+        {
+          "id": "poponme24",
+          "url": "https://www.instagram.com/poponme24/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.0325657,
+      "lng": 105.8518287,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK13nudIX9xrTvjkSOmHjhQyCEKgvvf7ib7645Led1fRoFmoPbNP3UvHoJJM-Mq8pDyVkxT0I7Kkj_YzisKjd4NENWU5WNTUvzftQ9zqhlCRZx_ln7Bq8Q_FlGD9FQr35rzGZnARck_Ig=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK13nudIX9xrTvjkSOmHjhQyCEKgvvf7ib7645Led1fRoFmoPbNP3UvHoJJM-Mq8pDyVkxT0I7Kkj_YzisKjd4NENWU5WNTUvzftQ9zqhlCRZx_ln7Bq8Q_FlGD9FQr35rzGZnARck_Ig=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "Thu An Spa",
+      "day": "하노이 · 마사지",
+      "desc": "poponme24 하노이 마사지 추천 3위.",
+      "status": "마사지",
+      "time": "60–90분",
+      "tip": "poponme24 추천 3위",
+      "check": "가격·예약",
+      "query": "Thu An Spa Hà Nội",
+      "ig": [
+        {
+          "id": "poponme24",
+          "url": "https://www.instagram.com/poponme24/"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.033012,
+      "lng": 105.8529038,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0kyoZ8MdPw_PxAKyLGhyWP-lGtoqbMdg-tyPvbSH8mwrSbZQQo8cvAwJ2I0m8gkxBAIWJlyS9Owjc31VPMWU5WFUhcG5HhczQJseRo0yAuNXLs3b3Co2wa8fqyoBKYS60KhmX9G0txRk=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0kyoZ8MdPw_PxAKyLGhyWP-lGtoqbMdg-tyPvbSH8mwrSbZQQo8cvAwJ2I0m8gkxBAIWJlyS9Owjc31VPMWU5WFUhcG5HhczQJseRo0yAuNXLs3b3Co2wa8fqyoBKYS60KhmX9G0txRk=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "쓰리따봉 스파 (Three Tabom Spa)",
+      "day": "하노이 · 공항 가기 전",
+      "desc": "깔끔·쾌적한 마사지샵. 24시간 무료 짐 보관이라 출국 전 코스로 좋음 (더 가든 쇼핑센터 1층, 시내에서 차로 20–30분).",
+      "status": "마사지 · 외곽",
+      "time": "60–90분",
+      "tip": "seoa_1992: 60분 50만동(약 2.5만원)/90분 60만동, 팁 포함 · 10월부터 10만동 인상 예정 · 웰컴 생망고·음료 무료 · 룸마다 샤워실 · 한국어 직원 · 09:30–24:00 · 예약: 구글/인스타/카톡/0384308587",
+      "check": "인상된 가격·예약",
+      "query": "THREE TABOM SPA The Garden Hà Nội",
+      "ig": [
+        {
+          "id": "seoa_1992",
+          "url": "https://www.instagram.com/p/DdjM7IcBZP2/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DdjM7IcBZP2",
+          "by": "@seoa_1992",
+          "cap": "완전 깔끔 쾌적한 하노이 마사지샵"
+        }
+      ],
+      "city": "hanoi",
+      "lat": 21.014839,
+      "lng": 105.777117,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QraI-nz58EbJPsUMAGmFPupBW16H5i4U8EcehyZi6-4fnyOMMvk92pJDvRUPHNNq9b8NmO1xnCdyqT9uQ2ImOYIhaUYkgj3kVs437KbqPHGVZZk9Hs1Ybkv2TNiiNGcyRVgJMPtKZePqs=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QraI-nz58EbJPsUMAGmFPupBW16H5i4U8EcehyZi6-4fnyOMMvk92pJDvRUPHNNq9b8NmO1xnCdyqT9uQ2ImOYIhaUYkgj3kVs437KbqPHGVZZk9Hs1Ybkv2TNiiNGcyRVgJMPtKZePqs=w1200-h900-k-no"
+      ]
     },
     {
       "name": "Moana Sapa",
@@ -3610,9 +3901,18 @@
         {
           "id": "high_jeju",
           "url": "https://www.instagram.com/reel/DdpuSDmpYtj/"
+        },
+        {
+          "id": "everywhere.lucas",
+          "url": "https://www.instagram.com/p/DPqMD28gYj5/"
         }
       ],
       "videos": [
+        {
+          "code": "DPqMD28gYj5",
+          "by": "@everywhere.lucas",
+          "cap": "이거 안 타면 후회, 비 오는 날 더 짜릿"
+        },
         {
           "code": "DdpuSDmpYtj",
           "by": "@high_jeju",
@@ -3624,7 +3924,7 @@
       "status": "현장 가격 확인",
       "query": "Cat Cat Village Sapa alpine coaster rainbow slide",
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rhw4Kz3btM2oGyOZU88aDXSbUp8Ys4OKcdKmfD3zng3rYI-6NpoVcb0gc4fef-aW4zmPIrWROncJXZSsyJXjNsUkaW5X5bjKfnbUSYAFtP4oFDTxqKe9_MRDFxcXQT4aNRJj-z_AQ57riL=w1200-h800-k-no",
-      "tip": "깟깟마을 입장료와 별도 비용으로 예산에 반영. 네 메모는 2,000,원 다른 안내는 약 2,100원 (40,000 VND)/회라 현장 가격 확인. · high_jeju: 속도를 직접 조절 — 브레이크 잡으면 판시판 산맥 뷰, 놓으면 짜릿한 스피드. 올라갈 땐 산맥 배경 셀카 타임. 비 소식 있으면 매표소에서 주는 우비 꼭 받기!",
+      "tip": "이용료 40,000동 (약 2,000원) — everywhere.lucas 기준 · 깟깟마을 갔다가 올라오는 길에 있음, 너무 재밌어서 두 번 탔다는 후기 · high_jeju: 속도를 직접 조절 — 브레이크 잡으면 판시판 산맥 뷰, 놓으면 짜릿한 스피드. 올라갈 땐 산맥 배경 셀카 타임. 비 소식 있으면 매표소에서 주는 우비 꼭 받기!",
       "check": "운영 여부·키/안전 제한·가격·현금 결제",
       "time": "대기 포함 15–30분",
       "city": "sapa",
@@ -3637,18 +3937,29 @@
         {
           "id": "1amny",
           "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+        },
+        {
+          "id": "cherish.travel",
+          "url": "https://www.instagram.com/p/DEtqyTkzBX3/"
         }
       ],
       "day": "DAY 03 · 11/15 저녁",
       "desc": "핫팟 후 산책하며 꼬치·간식과 기념품 구경 (지구놀이터 1일차 코스).",
       "query": "Sa Pa Night Market",
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvYUvuLLnJDYlFksRcumwroVHFlorX1KjvivTA9yDZ14BWmVbV_siiMZ3dys3TxndwLY3nVLGA3cLjqxMzf7BEkfejoz17ZIgdnG0kVpwgGU3QQpuD13O4cc5mjxbWnxcLPxmNHICpd_ah=w1200-h800-k-no",
-      "tip": "사파 광장·성당 근처. 저녁 7시 이후가 가장 활기차.",
+      "tip": "18:30–23:30 · Lương Định Của 거리 · cherish.travel: 칼·과일·옷 쇼핑, 즉석 꼬치 + 맥주 한 잔, 이른 시간엔 한산, 베트남식 운세 봐주는 할머니도 · 사파 광장·성당 근처. 저녁 7시 이후가 가장 활기차.",
       "check": "주말·평일 운영 차이, 현금 준비",
       "time": "30–60분",
       "city": "sapa",
-      "lat": 22.3359,
-      "lng": 103.8446
+      "lat": 22.3385359,
+      "lng": 103.8515354,
+      "videos": [
+        {
+          "code": "DEtqyTkzBX3",
+          "by": "@cherish.travel",
+          "cap": "사파 야시장 다녀온 후기"
+        }
+      ]
     },
     {
       "name": "사파 돌 성당 (노트르담)",
@@ -3668,6 +3979,743 @@
       "city": "sapa",
       "lat": 22.3350884,
       "lng": 103.8423651
+    },
+    {
+      "name": "사파 사우나 (Sapa sauna)",
+      "day": "DAY 03–04 · 저녁",
+      "desc": "트레킹 후 몸 녹이기 좋은 사우나 체험. 영상 속 장소 이름이 공개되지 않아 정확한 위치는 확인 필요.",
+      "status": "위치 확인 필요",
+      "time": "1시간",
+      "tip": "sapatours.vietnam: 쌀쌀한 날 사우나는 사파의 작은 탈출. 비슷한 대안으로 레드다오 약초 목욕(herbal bath)도 있음",
+      "check": "영상 댓글에서 장소명 확인",
+      "query": "sauna Sa Pa",
+      "ig": [
+        {
+          "id": "sapatours.vietnam",
+          "url": "https://www.instagram.com/p/DbUkLIixqW4/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DbUkLIixqW4",
+          "by": "@sapatours.vietnam",
+          "cap": "사파에서 꼭 해볼 사우나"
+        }
+      ],
+      "city": "sapa"
+    }
+  ],
+  "shop": {
+    "tabs": [
+      {
+        "id": "mart",
+        "label": "🛒 마트·기념품",
+        "note": "롯데마트 한 곳에서 거의 해결. 가격은 게시물 기준이라 매장마다 조금씩 달라.",
+        "items": [
+          {
+            "name": "적후추 (Red pepper)",
+            "price": "4,500–8,000원",
+            "where": "롯데마트",
+            "src": {
+              "id": "ootb_studio",
+              "url": "https://www.instagram.com/ootb_studio/"
+            }
+          },
+          {
+            "name": "믹스후추",
+            "price": "3,000–4,500원",
+            "where": "롯데마트",
+            "src": {
+              "id": "ootb_studio",
+              "url": "https://www.instagram.com/ootb_studio/"
+            }
+          },
+          {
+            "name": "백후추",
+            "price": "2,500–5,500원",
+            "where": "롯데마트",
+            "src": {
+              "id": "ootb_studio",
+              "url": "https://www.instagram.com/ootb_studio/"
+            }
+          },
+          {
+            "name": "새우소금 (Muối tôm)",
+            "price": "31,000동 (약 1,600원)",
+            "where": "롯데마트",
+            "src": {
+              "id": "ootb_studio",
+              "url": "https://www.instagram.com/ootb_studio/"
+            }
+          },
+          {
+            "name": "Mango Yumo 초코 건망고",
+            "price": "195,900동 (약 1만원) · 약 18개 개별포장",
+            "where": "하노이 롯데마트",
+            "note": "hello._.hani: 지금까지 먹은 건망고 중 후회 없는 첫 소비, 선물용",
+            "src": {
+              "id": "hello._.hani",
+              "url": "https://www.instagram.com/p/Dd36JMoMZGV/"
+            }
+          },
+          {
+            "name": "미스터비엣 드라이망고 (말차/초콜릿)",
+            "price": "97,000–135,000동 (약 5,200–7,300원)",
+            "where": "롯데마트 · 안남고메 · 파머스마켓 · 공항 면세",
+            "note": "고급스러운 선물용",
+            "src": {
+              "id": "yeorumnara",
+              "url": "https://www.instagram.com/p/DdqzGqIyL3B/"
+            }
+          },
+          {
+            "name": "파머스마켓 매운 건망고",
+            "price": "95,000–185,000동 (약 5,000–1만원)",
+            "where": "Farmers Market",
+            "note": "단짠단매 맥주 안주",
+            "src": {
+              "id": "yeorumnara",
+              "url": "https://www.instagram.com/p/DdqzGqIyL3B/"
+            }
+          },
+          {
+            "name": "콩카페 인스턴트 코코넛커피",
+            "price": "72,000–96,000동 (약 3,800–5,100원)",
+            "where": "콩카페 · 롯데마트 · WinMart",
+            "src": {
+              "id": "yeorumnara",
+              "url": "https://www.instagram.com/p/DdqzGqIyL3B/"
+            }
+          },
+          {
+            "name": "G7 코코넛커피",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          },
+          {
+            "name": "친수 칠리소스 · 마기 간장",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          },
+          {
+            "name": "콜게이트 해리포터 치약",
+            "price": "65,000–99,000동 (약 3,500–5,500원)",
+            "where": "대형마트 · 드럭스토어",
+            "src": {
+              "id": "yeorumnara",
+              "url": "https://www.instagram.com/p/DdqzGqIyL3B/"
+            }
+          },
+          {
+            "name": "콜게이트 하트 치약 · 일반 치약",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          },
+          {
+            "name": "호랑이연고",
+            "price": "가격 현장 확인",
+            "where": "롯데마트 · 약국",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          },
+          {
+            "name": "키티 크록스",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "snack",
+        "label": "🍬 과자·젤리",
+        "note": "회사 동료 나눔용은 “회사용” 라벨.",
+        "items": [
+          {
+            "name": "Alpenliebe 2Chew 패션후르츠 카라멜",
+            "price": "약 800원",
+            "where": "롯데마트",
+            "note": "베트남판 마이쮸, 패션후르츠 맛으로",
+            "src": {
+              "id": "게시물",
+              "url": "https://www.instagram.com/p/DZcCJs8RJ2Y/"
+            }
+          },
+          {
+            "name": "커피조이 (Coffee Joy)",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "hae_bbang2",
+              "url": "https://www.instagram.com/p/DdahuXwgWlW/"
+            }
+          },
+          {
+            "name": "게리 치즈크래커",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "hae_bbang2",
+              "url": "https://www.instagram.com/p/DdahuXwgWlW/"
+            }
+          },
+          {
+            "name": "코코넛 초코쿠키",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "hae_bbang2",
+              "url": "https://www.instagram.com/p/DdahuXwgWlW/"
+            }
+          },
+          {
+            "name": "망고스틴 젤리",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "note": "체리쉬 푸딩 말고 이거 (hae_bbang2)",
+            "src": {
+              "id": "hae_bbang2",
+              "url": "https://www.instagram.com/p/DdahuXwgWlW/"
+            }
+          },
+          {
+            "name": "체리쉬 망고스틴 소프트캔디",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "label": "회사용",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "패션후르츠 젤리 (Kẹo Dẻo Chanh Dây)",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "label": "회사용",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "3D Fruit 젤리",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "label": "회사용",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "롯데 Choice L 망고젤리 (Kẹo Dẻo Xoài)",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "label": "회사용",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "안과자 (옥수수 버터구이맛)",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          },
+          {
+            "name": "칼치즈 · 아하과자",
+            "price": "가격 현장 확인",
+            "where": "롯데마트",
+            "src": {
+              "id": "_joyful_he",
+              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pharm",
+        "label": "💊 약국템",
+        "note": "bysu.zip: 약국에서 이 리스트 사진을 보여주면 바로 줘. 복용·사용 전 약사와 상담.",
+        "items": [
+          {
+            "name": "디페린 겔 15g",
+            "price": "9,500원 (한국은 처방+진료비 약 3만원)",
+            "where": "약국",
+            "note": "좁쌀여드름·화이트헤드. 처음엔 따갑고 각질 가능, 낮엔 선크림",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "비아핀 크림 100g",
+            "price": "6,700원 (한국 50g 1만원)",
+            "where": "약국",
+            "note": "가벼운 화상·햇볕 진정·보습",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "후시코트 크림 15g",
+            "price": "3,000원대",
+            "where": "약국",
+            "note": "모기 물려 긁어 덧난 곳. 스테로이드 포함이라 소량·단기간만",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "더마틱스 울트라 15g",
+            "price": "12,000원 (한국 2.8만원)",
+            "where": "약국",
+            "note": "흉터 관리 실리콘 겔",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "볼타렌 겔 50g",
+            "price": "4,000원대 (한국 1.2만원)",
+            "where": "약국",
+            "note": "근육통·관절. 부모님 선물 1위",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "카네스텐 크림",
+            "price": "3,300원",
+            "where": "약국",
+            "note": "습한 날씨 피부 트러블",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "비판텐 밤 30g",
+            "price": "3,800원",
+            "where": "약국",
+            "note": "입술 갈라짐·건조 부위",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "프로스판 시럽",
+            "price": "4,600원",
+            "where": "약국",
+            "note": "아이비엽 기침 시럽",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/p/DdTpK4Shn0l/"
+            }
+          },
+          {
+            "name": "스트렙실",
+            "price": "49,000동 (약 2,700원)",
+            "where": "약국",
+            "src": {
+              "id": "ootb_studio",
+              "url": "https://www.instagram.com/ootb_studio/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "beauty",
+        "label": "💄 뷰티 (하사키)",
+        "note": "하사키(Hasaki) = 베트남판 올리브영. 가격표가 없으면 매장 바코드 기계나 Hasaki 앱으로 확인. 50원 같은 가격은 08·13·18시 “빅딜” 행사가라 평소엔 아님.",
+        "items": [
+          {
+            "name": "도브 바디 스크럽",
+            "price": "128,000동 (약 6,000원대) · 빅딜 5,000–5,600원",
+            "where": "하사키",
+            "note": "롯데마트는 8–9천원대",
+            "src": {
+              "id": "twyreecrew",
+              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
+            }
+          },
+          {
+            "name": "바세린 로션",
+            "price": "109,000동 (약 5,000원대) · 빅딜 4,600원",
+            "where": "하사키",
+            "src": {
+              "id": "twyreecrew",
+              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
+            }
+          },
+          {
+            "name": "코쿤 비건 립밤",
+            "price": "23,000동 (약 1,000원 초반)",
+            "where": "하사키",
+            "note": "한시장 약국은 40,000동",
+            "src": {
+              "id": "twyreecrew",
+              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
+            }
+          },
+          {
+            "name": "엘립스 헤어오일 (6개)",
+            "price": "23,000동 · 빅딜 50원",
+            "where": "하사키",
+            "src": {
+              "id": "twyreecrew",
+              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
+            }
+          },
+          {
+            "name": "로레알 아이 리무버 9.5ml",
+            "price": "빅딜 500원",
+            "where": "하사키",
+            "src": {
+              "id": "min_hcmc",
+              "url": "https://www.instagram.com/p/DeTrDUwBksE/"
+            }
+          },
+          {
+            "name": "Selsun 비듬 샴푸",
+            "price": "빅딜 6,400원",
+            "where": "하사키",
+            "src": {
+              "id": "min_hcmc",
+              "url": "https://www.instagram.com/p/DeTrDUwBksE/"
+            }
+          },
+          {
+            "name": "립글로즈 (베트남 MZ 픽)",
+            "price": "빅딜 50원",
+            "where": "하사키",
+            "src": {
+              "id": "min_hcmc",
+              "url": "https://www.instagram.com/p/DeTrDUwBksE/"
+            }
+          },
+          {
+            "name": "도도닷 아크네 패치 (베트남 한정 디자인)",
+            "price": "75,000–140,000동 (약 4,000–7,500원)",
+            "where": "Watsons · Guardian · Sociolla",
+            "src": {
+              "id": "yeorumnara",
+              "url": "https://www.instagram.com/p/DdqzGqIyL3B/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "place",
+        "label": "👟 쇼핑 장소",
+        "note": "",
+        "places": [
+          {
+            "name": "롯데마트 하노이 센터",
+            "desc": "기념품·과자·커피 한 번에. 호텔까지 배달해 주는 롯데마트 앱도 있어(정보 탭 → 앱).",
+            "query": "Lotte Mart Hanoi Center Liễu Giai",
+            "lat": 21.032199,
+            "lng": 105.8123834,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ShIoBhzqIKcyFWM8N85FVAA4YA5Ura_5IDHsWQr4DQwvM33m9uFt_BImGo192RWlYugS-v3rZnP3kHeVjwNwwwfeL-PsxKHNlCmcV13tw5AZltuHq1cfjYzuWz417gViUDwOh5=w1200-h900-k-no"
+          },
+          {
+            "name": "하사키 (Hasaki)",
+            "desc": "베트남 MZ 뷰티스토어. 빅딜 시간(08·13·18시) 노리기.",
+            "query": "Hasaki Hà Nội",
+            "src": {
+              "id": "twyreecrew",
+              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
+            },
+            "lat": 21.034303,
+            "lng": 105.830119,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_Eu617cO9GqBz1KsT91LBAsTUmwbm9NuZT5AcrEJKaa5pa4T4lV91HRwCZobBtw4q592uZZ4vFP8nQlNhNK1ayy0Wha9HQhEzRsk30ZPZ7ZwpdY9GrFSZKMqnoH4YQTg2iLJLefJAcI3q=w1200-h900-k-no"
+          },
+          {
+            "name": "RITZ (정품 오버런 의류)",
+            "desc": "글로벌 브랜드 OEM 공장 정품 초과생산품(Overrun). 시장 짝퉁과 원단·봉제 퀄리티가 다름. 2층, số 4 ngõ 62 Khúc Thừa Dụ, Cầu Giấy (시내에서 차로 20분).",
+            "query": "Thời trang Xuất Khẩu RITZ Khúc Thừa Dụ",
+            "src": {
+              "id": "lovely_hanoi",
+              "url": "https://www.instagram.com/p/DcX15iBPwGW/"
+            },
+            "lat": 21.0326213,
+            "lng": 105.7912832,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RH-iD0pbP76OlT0KBHLu8p3YW05b2797ajr4RlcSURIpsA5_Ylz5XR8TrcUShJye5US-3AC_eOT0u6Y_L5KEoJaR7BP5eLqsBgymeSI5T5KOmtC_L4v9-RlgI-tqcUM_JkaiexSSYdTpU=w1200-h900-k-no"
+          },
+          {
+            "name": "Better Shoes – Hàng Da",
+            "desc": "구시가지 항다 거리 신발 가게.",
+            "query": "Better Shoes Hàng Da Hà Nội",
+            "lat": 21.0308902,
+            "lng": 105.8467155,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TNDPASCGXomQhD4Yd59u-j3aGk5FBY69Qe7rPhix0BKG9K5LqqayuPemfzWXXY3zfSASqMeX4GmUPsq09dz969zkeMJtmyXeVKqqJ8L7R8rYE6x4SAUIXr8T82hrdKti-ih2e1uJg30AI=w1200-h900-k-no"
+          }
+        ]
+      }
+    ]
+  },
+  "info": {
+    "fx": {
+      "title": "환전 비교 (100달러 기준)",
+      "by": {
+        "id": "sena_in_vnspace",
+        "url": "https://www.instagram.com/p/DaaWxHVSKfT/"
+      },
+      "rows": [
+        [
+          "금은방 (달러)",
+          "2,630,000동",
+          "환율 우대 80% 이상일 때"
+        ],
+        [
+          "트래블월렛 ATM",
+          "2,603,000동",
+          "수수료 없는 ATM 기준"
+        ],
+        [
+          "금은방 (원화)",
+          "2,601,000동",
+          ""
+        ],
+        [
+          "시내 환전소",
+          "약 2,580,000동",
+          "가게마다 차이"
+        ],
+        [
+          "공항 환전",
+          "약 2,550,000동",
+          "급할 때만"
+        ]
+      ],
+      "tips": [
+        "큰 금액은 100달러 신권을 준비해 금은방에서 환전이 제일 유리 (구겨진 지폐·소액권은 덜 쳐줌)",
+        "소액은 5만원권 원화도 충분 — 100달러당 1,500–1,600원 차이",
+        "트래블월렛은 VPBank ATM 출금 수수료 0원, 다른 ATM은 3–7만동",
+        "현지 이체는 환율이 안 좋으니 미리 바꿔 가기"
+      ]
+    },
+    "atm": {
+      "title": "카드별 수수료 없는 ATM",
+      "by": {
+        "id": "soodori_travel",
+        "url": "https://www.instagram.com/p/Da6tOh4PIq9/"
+      },
+      "rows": [
+        [
+          "트래블월렛 (VISA)",
+          "VP · TP · EXIM · SCB · OCB · VIET"
+        ],
+        [
+          "하나 트래블로그 (마스터)",
+          "VP · TP · EXIM · SCB · OCB · VIET"
+        ],
+        [
+          "신한 SOL트래블 (마스터)",
+          "VP · EXIM · SCB · OCB · VIET"
+        ],
+        [
+          "토스 · KB 트래블러스 · 우리 위비 (마스터)",
+          "VP · EXIM · SCB · OCB · VIET"
+        ],
+        [
+          "하나 트래블로그 (유니온페이)",
+          "EXIM · VIETIN · BIDV · AGRI"
+        ]
+      ],
+      "tips": [
+        "잘못 뽑으면 건당 2–3천원 수수료",
+        "트래블로그·트래블월렛이면 VP Bank(초록색)·TP Bank(보라색) 두 기계만 찾으면 끝"
+      ]
+    },
+    "apps": [
+      {
+        "name": "Grab",
+        "what": "택시·오토바이·음식 배달",
+        "tip": "공항 도착층에 그랩 픽업 지점 안내가 나와"
+      },
+      {
+        "name": "Xanh SM (싼택시)",
+        "what": "전기차 택시 앱",
+        "tip": "요즘 베트남 택시 1위, 차 깨끗하고 가격 안정적"
+      },
+      {
+        "name": "배달K",
+        "what": "한국어 배달 앱",
+        "tip": "음식·마트·세탁까지"
+      },
+      {
+        "name": "롯데마트 앱",
+        "what": "특산품 온라인 주문",
+        "tip": "호텔까지 배달 가능"
+      },
+      {
+        "name": "LocalPay / 퍼플 GLN",
+        "what": "QR 결제",
+        "tip": "한시장·롯데마트 등 현금 없이 결제"
+      },
+      {
+        "name": "트래블월렛",
+        "what": "해외 결제·ATM 출금",
+        "tip": "환전 탭 참고"
+      },
+      {
+        "name": "환율 계산기",
+        "what": "VND↔KRW 계산",
+        "tip": "돈 계산 헷갈리지 않게"
+      },
+      {
+        "name": "구글맵",
+        "what": "길찾기·맛집",
+        "tip": "이 사이트 카드의 “Google 지도” 버튼과 같이"
+      }
+    ],
+    "appsBy": [
+      {
+        "id": "trip_yedol",
+        "url": "https://www.instagram.com/p/DWv_qGykx32/"
+      },
+      {
+        "id": "soodori_travel",
+        "url": "https://www.instagram.com/p/DdnaZn1Pj9e/"
+      }
+    ],
+    "airport": {
+      "title": "입국 패스트트랙 살까?",
+      "by": {
+        "id": "soodori_travel",
+        "url": "https://www.instagram.com/p/DacrXTvPWfu/"
+      },
+      "body": "패스트트랙은 무조건 사는 게 아니라, 내 도착 시간 1시간 전후로 도착하는 항공편 수·좌석 수를 보고 판단. 혼잡도 사이트(Do you recommend Fast Track?)에서 날짜·공항을 고르면 혼잡 지수를 보여줘.",
+      "link": "https://dyrft.bangnuller.com/",
+      "caveat": "현재 지원 공항은 다낭·나트랑·푸꾸옥뿐이라 우리 노이바이(하노이)는 조회가 안 돼. 하노이는 Flightradar24 등에서 도착 시각 전후 국제선 도착편 수를 보고 판단."
+    },
+    "atmTip": {
+      "id": "soodori_travel",
+      "url": "https://www.instagram.com/p/Db2tEaQg6Sk/"
+    }
+  },
+  "routes": [
+    {
+      "id": "meyou",
+      "title": "하노이 6시간 핵심 코스",
+      "by": {
+        "id": "me.you_travel",
+        "url": "https://www.instagram.com/me.you_travel/"
+      },
+      "tag": "하노이 · 반나절",
+      "summary": "유적 → 성당 → 구시가지 → 저녁 → 기찻길 → 호수 → 다리 노을",
+      "stops": [
+        {
+          "n": "탕롱 황성",
+          "q": "탕롱 황성"
+        },
+        {
+          "n": "성 요셉 대성당",
+          "q": "성 요셉 성당"
+        },
+        {
+          "n": "타히엔 맥주거리",
+          "q": "맥주거리"
+        },
+        {
+          "n": "저녁 식사",
+          "q": ""
+        },
+        {
+          "n": "기찻길 카페",
+          "q": "기찻길"
+        },
+        {
+          "n": "호안끼엠 호수 & 응옥선 사당",
+          "q": "호안끼엠"
+        },
+        {
+          "n": "롱비엔 다리",
+          "q": "롱비엔"
+        }
+      ]
+    },
+    {
+      "id": "yrmm",
+      "title": "찐 로컬 하노이 하루",
+      "by": {
+        "id": "yrmm.ha",
+        "url": "https://www.instagram.com/p/DaNmFy4AY5C/"
+      },
+      "tag": "하노이 · 7–8시간",
+      "summary": "재래시장 아침 → 스페셜티 커피 → 호치민 유적 → 탕롱 황성 지하벙커 → 콩카페",
+      "stops": [
+        {
+          "n": "응오시리엔 시장 · 분탕 바똥",
+          "q": "Bún Thang"
+        },
+        {
+          "n": "refined. coffee",
+          "q": "refined"
+        },
+        {
+          "n": "호치민 관저 · 못꼿 사원 · 묘소",
+          "q": "호치민"
+        },
+        {
+          "n": "탕롱 황성 (지하벙커)",
+          "q": "탕롱 황성"
+        },
+        {
+          "n": "콩카페",
+          "q": "콩카페"
+        }
+      ]
+    },
+    {
+      "id": "heeary",
+      "title": "하노이–사파 6일 일정",
+      "by": {
+        "id": "hee__ary",
+        "url": "https://www.instagram.com/hee__ary/"
+      },
+      "tag": "하노이+사파 · 6일",
+      "summary": "보내준 스크린샷의 일자별 상세는 아직 못 옮겼어. 이미지를 한 번 더 보내주면 일자별로 채울게.",
+      "stops": []
+    },
+    {
+      "id": "sapanomad",
+      "title": "사파 2박 3일",
+      "by": {
+        "id": "sapanomad_",
+        "url": "https://www.instagram.com/sapanomad_/"
+      },
+      "tag": "사파 · 3일",
+      "summary": "보내준 이미지의 일자별 상세는 아직 못 옮겼어. 이미지를 한 번 더 보내주면 채울게.",
+      "stops": []
     }
   ]
 }
