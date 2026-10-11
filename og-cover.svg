@@ -1,36 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
 <defs>
- <linearGradient id="sky" x1="0" y1="0" x2="0.8" y2="1"><stop stop-color="#f7d8ad"/><stop offset=".48" stop-color="#e6b98d"/><stop offset="1" stop-color="#6e9d9a"/></linearGradient>
- <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#527d79"/><stop offset="1" stop-color="#233f46"/></linearGradient>
- <linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6c77c"/><stop offset="1" stop-color="#547c56"/></linearGradient>
- <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#142b31" stop-opacity="0"/><stop offset="1" stop-color="#142b31" stop-opacity=".7"/></linearGradient>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f7d8bd"/><stop offset=".42" stop-color="#eebc9a"/><stop offset="1" stop-color="#90aaa1"/></linearGradient>
+ <linearGradient id="mount" x2=".1" y2="1"><stop stop-color="#78988d"/><stop offset="1" stop-color="#3b625d"/></linearGradient>
+ <linearGradient id="dark" x2="0" y2="1"><stop stop-color="#466e61"/><stop offset="1" stop-color="#1f443d"/></linearGradient>
+ <linearGradient id="rice" x2="1" y2="1"><stop stop-color="#d5b86c"/><stop offset=".5" stop-color="#78965c"/><stop offset="1" stop-color="#355f4c"/></linearGradient>
+ <linearGradient id="wood" x2="0" y2="1"><stop stop-color="#8b6145"/><stop offset="1" stop-color="#382c27"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
 </defs>
 <rect width="1200" height="630" fill="url(#sky)"/>
-<circle cx="970" cy="128" r="64" fill="#fff0c7" opacity=".9"/>
-<path d="M0 280 L95 210 185 245 300 150 400 235 525 172 640 260 770 177 900 235 1010 160 1200 255V630H0Z" fill="#789c91" opacity=".72"/>
-<path d="M0 335 L115 250 230 305 360 220 495 330 650 230 790 330 930 230 1080 300 1200 240V630H0Z" fill="url(#mount)"/>
-<path d="M0 375 Q150 320 280 370 T540 365 T820 360 T1200 330V630H0Z" fill="#3e6a5b"/>
-<path d="M0 430 Q170 345 350 420 T710 400 T1200 375V630H0Z" fill="url(#field)"/>
-<g fill="none" stroke="#d8d99b" stroke-width="7" opacity=".9">
-<path d="M-30 455 Q140 385 320 455 T670 435 T1230 410"/>
-<path d="M-30 485 Q140 415 320 485 T670 465 T1230 440"/>
-<path d="M-30 515 Q140 445 320 515 T670 495 T1230 470"/>
-<path d="M-30 545 Q140 475 320 545 T670 525 T1230 500"/>
-<path d="M-30 575 Q140 505 320 575 T670 555 T1230 530"/>
-<path d="M-30 605 Q140 535 320 605 T670 585 T1230 560"/>
+<circle cx="870" cy="120" r="58" fill="#fff1cf" opacity=".65"/>
+<g fill="#fff2df" opacity=".38" filter="url(#blur)"><ellipse cx="290" cy="105" rx="210" ry="27"/><ellipse cx="800" cy="205" rx="270" ry="32"/><ellipse cx="1030" cy="270" rx="200" ry="24"/></g>
+<path d="M0 300 L100 235 180 260 300 165 420 260 535 200 660 285 785 160 930 250 1045 185 1200 270 V470 H0Z" fill="#829e96" opacity=".8"/>
+<path d="M0 350 L125 270 220 315 350 210 480 320 610 248 735 340 875 225 1010 315 1125 240 1200 290 V510 H0Z" fill="url(#mount)"/>
+<path d="M0 385 Q160 325 300 380 T590 380 T880 355 T1200 365 V630 H0Z" fill="#456f5a"/>
+<path d="M0 415 Q160 365 330 420 T650 415 T930 390 T1200 420 V630 H0Z" fill="#2f5d4a"/>
+<g fill="none" stroke-linecap="round">
+ <path d="M0 400 Q170 365 340 410 T680 405 T1000 390 T1200 420" stroke="#e5c778" stroke-width="5" opacity=".85"/>
+ <path d="M0 435 Q160 390 340 445 T680 438 T1000 420 T1200 450" stroke="#c9b66c" stroke-width="4"/>
+ <path d="M0 475 Q180 430 365 480 T720 472 T1030 455 T1200 480" stroke="#e0c879" stroke-width="4"/>
+ <path d="M0 520 Q180 470 390 525 T760 515 T1080 500 T1200 515" stroke="#9cb16c" stroke-width="5"/>
+ <path d="M0 565 Q180 515 390 570 T760 555 T1080 545 T1200 560" stroke="#d2bd72" stroke-width="4"/>
 </g>
-<g fill="#f7f1dc" opacity=".92">
-<rect x="100" y="340" width="38" height="25" rx="2"/><path d="M93 341l26-20 27 20Z" fill="#a96e53"/>
-<rect x="145" y="355" width="30" height="22" rx="2"/><path d="M139 356l21-16 22 16Z" fill="#a96e53"/>
-<rect x="198" y="333" width="43" height="28" rx="2"/><path d="M191 334l29-22 29 22Z" fill="#a96e53"/>
+<g opacity=".95"><path d="M70 335 l34 -30 37 30 v36 H70Z" fill="#a75f48"/><path d="M60 336 l44 -39 47 39Z" fill="#633f35"/><rect x="83" y="347" width="12" height="24" fill="#f0d4a4"/><rect x="112" y="347" width="10" height="10" fill="#f4d8a5"/>
+<path d="M175 350 l30 -25 34 25 v29 H175Z" fill="#d3a06c"/><path d="M167 350 l38 -33 42 33Z" fill="#725044"/><rect x="190" y="360" width="11" height="19" fill="#f2d4a0"/></g>
+<rect x="0" y="0" width="1200" height="630" fill="#172e2a" opacity=".12"/>
+<rect x="38" y="35" width="1124" height="560" rx="24" fill="none" stroke="#fff7e9" stroke-opacity=".7" stroke-width="2"/>
+<rect x="0" y="0" width="1200" height="630" fill="url(#sky)" opacity=".03"/>
+<g text-anchor="middle" font-family="'Noto Serif', Georgia, serif" fill="#fff9ef">
+ <text x="600" y="190" font-size="21" letter-spacing="7" font-family="Arial,sans-serif" font-weight="600">VIETNAM · AUTUMN JOURNEY</text>
+ <text x="600" y="270" font-size="78" font-weight="700" letter-spacing="1">Hanoi &amp; Sapa</text>
+ <path d="M410 295 H790" stroke="#fff4df" stroke-width="1.5" opacity=".85"/>
+ <text x="600" y="340" font-size="31" font-family="sans-serif" font-weight="600">하노이 &amp; 사파 여행 일정북</text>
+ <text x="600" y="380" font-size="17" font-family="Arial,sans-serif" letter-spacing="4">TRAVEL PLAN · 3 PEOPLE</text>
+ <text x="600" y="425" font-size="22" font-family="Arial,sans-serif" letter-spacing="2">2026. 11. 13 (FRI) — 11. 18 (WED)</text>
 </g>
-<rect width="1200" height="630" fill="url(#shade)"/>
-<g font-family="Arial,'Noto Sans KR',sans-serif" fill="#fffdf4">
- <text x="76" y="90" font-size="20" font-weight="700" letter-spacing="6" opacity=".9">VIETNAM · TRAVEL JOURNAL</text>
- <text x="70" y="190" font-size="76" font-weight="800" letter-spacing="-3">Hanoi <tspan fill="#f3d79c">&amp;</tspan> Sapa</text>
- <text x="77" y="244" font-size="34" font-weight="700">하노이 &amp; 사파 여행 일정북</text>
- <rect x="76" y="272" width="290" height="2" fill="#f3d79c"/>
- <text x="77" y="310" font-size="20" font-weight="500" opacity=".95">2026. 11. 13 — 11. 18  ·  5박 6일</text>
- <text x="77" y="580" font-size="17" font-weight="600" letter-spacing="1.5" opacity=".95">맛집  ·  숙소  ·  교통  ·  DAY 1–6</text>
+<g transform="translate(850 475)">
+ <path d="M-40 55 Q0 30 95 47 L130 70 H-55Z" fill="url(#wood)"/>
+ <ellipse cx="20" cy="47" rx="57" ry="15" fill="#d5b18a"/>
+ <ellipse cx="20" cy="43" rx="47" ry="11" fill="#f7e9d0"/>
+ <ellipse cx="20" cy="42" rx="37" ry="8" fill="#8c5b3f"/>
+ <ellipse cx="20" cy="41" rx="30" ry="6" fill="#d3a06e"/>
+ <path d="M51 34 Q83 5 78 -14 Q60 -29 48 -9 Q44 12 51 34" fill="#f5eee0" stroke="#fff8eb" stroke-width="4"/>
+ <ellipse cx="62" cy="7" rx="13" ry="9" fill="#b77b50"/>
+ <path d="M-85 58 Q-70 20 -54 48 Q-30 8 -20 48 Q-3 19 5 55" fill="#e5e7bd"/>
 </g>
+<g fill="#f6f0d9" opacity=".9"><circle cx="105" cy="505" r="3"/><circle cx="120" cy="490" r="2"/><circle cx="1090" cy="500" r="3"/><circle cx="1105" cy="482" r="2"/></g>
 </svg>
