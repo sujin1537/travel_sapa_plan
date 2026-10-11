@@ -494,6 +494,148 @@
       "hanoiTitle": "하노이 후보",
       "hanoi": [
         {
+          "name": "Hanoi Le Jardin Hotel & Spa (하노이 르 자르댕)",
+          "url": "https://lejardinhotelhanoi.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6600413&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "여행사 '지난달 하노이·사파 예약수 TOP5' 추천 · 4성급, 평점 9.0(2,943건) · 서호·구시가 사이 바딘, 조식 뷔페 포함 · 주변 맛집 인프라 좋음",
+          "photo": "https://pix8.agoda.net/hotelImages/6600413/0/79f0839dda93b2892d43b359510a819e.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 211658,
+            "pp": 70553,
+            "breakfast": true,
+            "left": "5",
+            "room": "성인 3명 기준 최저가 객실",
+            "extraBed": false,
+            "rank": 1,
+            "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/6600413/-1/49ed1731e7821f58b490e31ac308ede0.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/-1/0a6c2b596d16dd0ab587d773512e8f7f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/80785393/555ddbf1fcc240296c61f52549c999a3.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/-1/fa7110beb27b0ccb20c1c4d41f6b96e1.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/0/79f0839dda93b2892d43b359510a819e.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/-1/0f529c64f6daea3f192db843ab76918a.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6600413/0/eb1140f452c0b755dd707e24f187e895.png?s=1024x768"
+          ]
+        },
+        {
+          "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
+          "url": "https://all.accor.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6542427&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "여행사 TOP5 추천 · 5성급 인터내셔널 체인, 평점 8.7 · 동다 지역(구시가에서 택시 10–15분) · 조식 메뉴 다양하다는 후기",
+          "photo": "https://pix8.agoda.net/hotelImages/6542427/0/8d2c0ba01938de9e0155ac785b53920c.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 239677,
+            "pp": 79892,
+            "breakfast": false,
+            "left": "",
+            "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
+            "extraBed": false,
+            "rank": 2,
+            "note": "TOP5 글 기준 124,493원~ (2인가)",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/a609a63f5df9bf0265049c4a7aab6267.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/a17574c15f78a98e2845e76325de75ef.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/b4c17499c2ee350913bf87e4e37b818f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/9314a490cc63420693b432ddbfdd9b30.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/66ea48663532f85afcc6cff1faf794a7.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/51b30f05b60a63342f5cbb2eecc5b188.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/16b6dcefa0b5b25019fd35cf5aac65ad.jpg?s=1024x768"
+          ]
+        },
+        {
+          "name": "Lotte Hotel Hanoi (롯데호텔 하노이)",
+          "url": "https://www.lottehotel.com/hanoi-hotel/ko.html",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=665815&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "여행사 TOP5 1위 · 5성급, 평점 9.2(13,076건) · 고층 시티뷰·야경, 실내외 수영장·자쿠지 · 바딘(구시가에서 택시 15분) · 루프탑 바 유명",
+          "photo": "https://pix8.agoda.net/hotelImages/665815/0/11c8c43d531c7368fff39c9c92397c70.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 254186,
+            "pp": 84729,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
+            "extraBed": false,
+            "rank": 3,
+            "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/665815/0/9cffb5af0972736329ab5e64f058a6df.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/0/9df1dde60ac2ffa0e5b010d64e0fdc17.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/-1/7bf78f95a19a572557250258b29ceffa.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/0/4c3dcf6ae83ad2bbe39a5db2313151c8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/0/11c8c43d531c7368fff39c9c92397c70.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/1077790092/1aed0f3adfb3739f03ad43d7b8790d74.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/-1/3e958b75c68dd96d7ac5917f5728aa54.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/665815/0/45d95d4587ac08ab77c6862a0c01003b.jpg?s=1024x768"
+          ]
+        },
+        {
+          "name": "Aira Boutique Hanoi Hotel & Spa (아이라)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=21761551&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 하노이 기찻길 도보 3분 · 4.5성급, 평점 9.2(2,562건) · 하노이역 719m · 좋은 위치·친절한 직원",
+          "photo": "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/21761551/-1/29cd0668de7365f27f7792f530f3bb55.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/21761551/-1/399a108ea4d0fd53b57445f27cc0bd72.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 371016,
+            "pp": 123672,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실",
+            "extraBed": false,
+            "rank": 4,
+            "note": "조식 포함 여부 확인 필요",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
+          "name": "Acoustic Hotel & Spa (어쿠스틱)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6393504&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 하노이역·기찻길 인접 가성비 · 4성급, 평점 9.2(7,586건) · 하노이역 525m라 야간열차 타기 최적 · 성당 527m · 루프탑 바, 투숙객 마사지 할인 · 2025 아고다 인기 숙소",
+          "photo": "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6393504/0/1f9cac1d84fd084610dc7f5ad8a84001.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 179547,
+            "pp": 59849,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
+            "extraBed": false,
+            "rank": 5,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
           "name": "Little Diamond Hotel",
           "url": "https://littlediamondhotel.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
@@ -508,7 +650,7 @@
             "left": "마지막 1개",
             "room": "패밀리 디럭스 (최대 4인)",
             "extraBed": false,
-            "rank": 1,
+            "rank": 6,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -539,7 +681,7 @@
             "left": "3",
             "room": "트리플룸",
             "extraBed": false,
-            "rank": 2,
+            "rank": 7,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -570,7 +712,7 @@
             "left": "2",
             "room": "스위트 시티뷰",
             "extraBed": true,
-            "rank": 3,
+            "rank": 8,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -584,98 +726,6 @@
             "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
             "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
-          ]
-        },
-        {
-          "name": "Hanoi Le Jardin Hotel & Spa (하노이 르 자르댕)",
-          "url": "https://lejardinhotelhanoi.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6600413&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "여행사 '지난달 하노이·사파 예약수 TOP5' 추천 · 4성급, 평점 9.0(2,943건) · 서호·구시가 사이 바딘, 조식 뷔페 포함 · 주변 맛집 인프라 좋음",
-          "photo": "https://pix8.agoda.net/hotelImages/6600413/0/79f0839dda93b2892d43b359510a819e.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 211658,
-            "pp": 70553,
-            "breakfast": true,
-            "left": "5",
-            "room": "성인 3명 기준 최저가 객실",
-            "extraBed": false,
-            "rank": 4,
-            "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/6600413/-1/49ed1731e7821f58b490e31ac308ede0.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/-1/0a6c2b596d16dd0ab587d773512e8f7f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/80785393/555ddbf1fcc240296c61f52549c999a3.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/-1/fa7110beb27b0ccb20c1c4d41f6b96e1.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/0/79f0839dda93b2892d43b359510a819e.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/-1/0f529c64f6daea3f192db843ab76918a.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6600413/0/eb1140f452c0b755dd707e24f187e895.png?s=1024x768"
-          ]
-        },
-        {
-          "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
-          "url": "https://all.accor.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6542427&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "여행사 TOP5 추천 · 5성급 인터내셔널 체인, 평점 8.7 · 동다 지역(구시가에서 택시 10–15분) · 조식 메뉴 다양하다는 후기",
-          "photo": "https://pix8.agoda.net/hotelImages/6542427/0/8d2c0ba01938de9e0155ac785b53920c.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 239677,
-            "pp": 79892,
-            "breakfast": false,
-            "left": "",
-            "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
-            "extraBed": false,
-            "rank": 5,
-            "note": "TOP5 글 기준 124,493원~ (2인가)",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/a609a63f5df9bf0265049c4a7aab6267.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/a17574c15f78a98e2845e76325de75ef.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/b4c17499c2ee350913bf87e4e37b818f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/9314a490cc63420693b432ddbfdd9b30.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/66ea48663532f85afcc6cff1faf794a7.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/51b30f05b60a63342f5cbb2eecc5b188.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/16b6dcefa0b5b25019fd35cf5aac65ad.jpg?s=1024x768"
-          ]
-        },
-        {
-          "name": "Lotte Hotel Hanoi (롯데호텔 하노이)",
-          "url": "https://www.lottehotel.com/hanoi-hotel/ko.html",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=665815&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "여행사 TOP5 1위 · 5성급, 평점 9.2(13,076건) · 고층 시티뷰·야경, 실내외 수영장·자쿠지 · 바딘(구시가에서 택시 15분)",
-          "photo": "https://pix8.agoda.net/hotelImages/665815/0/11c8c43d531c7368fff39c9c92397c70.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 254186,
-            "pp": 84729,
-            "breakfast": false,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
-            "extraBed": false,
-            "rank": 6,
-            "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/665815/0/9cffb5af0972736329ab5e64f058a6df.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/0/9df1dde60ac2ffa0e5b010d64e0fdc17.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/-1/7bf78f95a19a572557250258b29ceffa.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/0/4c3dcf6ae83ad2bbe39a5db2313151c8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/0/11c8c43d531c7368fff39c9c92397c70.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/1077790092/1aed0f3adfb3739f03ad43d7b8790d74.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/-1/3e958b75c68dd96d7ac5917f5728aa54.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/665815/0/45d95d4587ac08ab77c6862a0c01003b.jpg?s=1024x768"
           ]
         },
         {
@@ -693,7 +743,7 @@
             "left": "4",
             "room": "주니어 스위트 (발코니)",
             "extraBed": false,
-            "rank": 7,
+            "rank": 9,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -747,7 +797,7 @@
           "name": "Topas Ecolodge",
           "url": "https://topasecolodge.com/location/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=445774&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "수미·스테이폴리오·1amny·yonii 추천 · 내셔널지오그래픽 선정 친환경 리조트 · TV·와이파이 대신 운무 뷰 · 해피아워 1+1, 저녁 야외 영화관 · 시내↔숙소 무료 셔틀(24시간 전 예약, 1인 캐리어1+기내용1)",
+          "note": "수미·스테이폴리오·1amny·yonii 추천 · 내셔널지오그래픽 선정 친환경 리조트 · 마크 저커버그가 2011년 사파 여행 때 묵은 곳(현지 언론 보도) · TV·와이파이 대신 운무 뷰 · 해피아워 1+1, 저녁 야외 영화관 · 시내↔숙소 무료 셔틀(24시간 전 예약, 1인 캐리어1+기내용1)",
           "photo": "https://indochinacharmtours.com/data/images/topas-ecolodge-sapa-ivivu-13.jpg",
           "bookingPlatform": "Agoda",
           "avail": {
@@ -1017,7 +1067,7 @@
         {
           "name": "Eco Palms House",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인",
+          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인 · 숙소 리스트 글: 3성급, 논밭 꼭대기 뷰 맛집 리조트(1박 13.7만원~)",
           "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
@@ -1132,6 +1182,32 @@
           ]
         },
         {
+          "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=30726011&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 4성급 가성비 시내 호텔 · 평점 8.9(2,459건), 위치 9.3 · 돌 성당 344m, 케이블카역 도보 · 마운틴뷰, 파노라마 뷔페 조식 · 최근 리노베이션",
+          "photo": "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 136765,
+            "pp": 45588,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 8,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
+        },
+        {
           "name": "Pao’s Sapa Leisure Hotel",
           "url": "https://paoshotel.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1146,7 +1222,7 @@
             "left": "2",
             "room": "H'Mong 스위트",
             "extraBed": true,
-            "rank": 8,
+            "rank": 9,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1175,7 +1251,7 @@
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
             "extraBed": false,
-            "rank": 9,
+            "rank": 10,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1206,7 +1282,7 @@
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
             "extraBed": false,
-            "rank": 10,
+            "rank": 11,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 1인 ₩28,491 추가"
@@ -1237,7 +1313,7 @@
             "left": null,
             "room": "클래식 트윈 2실",
             "extraBed": false,
-            "rank": 11,
+            "rank": 12,
             "note": "3명이면 객실 2개 예약 필요",
             "rooms": 2,
             "bfOption": "조식 1인 ₩26,937 추가"
@@ -1320,7 +1396,7 @@
         {
           "name": "Pistachio Hotel Sapa",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 호텔 후보 · 실제 3인실·가격 확인",
+          "note": "전망형 호텔 후보 · 실제 3인실·가격 확인 · 숙소 리스트 글: 수영장 뷰 조식 맛집(1박 9.1만원~)",
           "photo": "https://cdn.asahiluxstay.com/uploads/big/media/2022/0317/0327-0954ccdc52309c8-200759701.jpg?s=aHR0cHM6Ly9jZG4uYXNhaGlsdXhzdGF5LmNvbS9tZWRpYS8yMDIyLzAzMTcvMDMyNy0wOTU0Y2NkYzUyMzA5YzgtMjAwNzU5NzAxLmpwZw%3D%3D",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5831353&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
@@ -1379,7 +1455,7 @@
         "11/14 새벽 도착 후 바로 체크인하려면 숙박 시작일을 11/13으로 예약해야 할 수 있음",
         "3인실 침대 구성, 창문 유무, 무료 취소, 짐 보관, 조식, 체크인 가능 시간을 확인"
       ],
-      "checkedAt": "2026-10-11 15:35 (KST) 아고다 기준 · 하노이 신규 3곳 추가",
+      "checkedAt": "2026-10-11 17:20 (KST) 아고다 기준",
       "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)"
     },
     "food": {
