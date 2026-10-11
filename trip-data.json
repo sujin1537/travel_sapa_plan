@@ -364,7 +364,7 @@
         [
           "저녁",
           "사파 저녁 식사",
-          "철갑상어 핫팟을 전날 먹었다면 무제한 삼겹살 또는 Yummy Sapa의 코코넛 커리·볶음밥 후보를 비교. 경치 좋은 볶음밥 식당은 실제 위치·전망 사진 확인 후 선택."
+          "음식 탭 추천 순(인스타 추천 많은 곳)에서 고르기 — 어나이스, India Gate, Chicago Pizza, Yummy Sapa 등. 경치 좋은 볶음밥 식당은 실제 위치·전망 사진 확인 후 선택."
         ],
         [
           "저녁 이후",
@@ -587,27 +587,6 @@
           ]
         },
         {
-          "name": "L’HÔTEL du LAC Hanoi",
-          "url": "https://www.hoteldulachanoi.com/hotel-gallery.html",
-          "note": "35–37 Hàng Trống · 구시가지 후보. 객실 정원·새벽 체크인·요금 확인",
-          "photo": "https://images.trvl-media.com/lodging/83000000/82990000/82988600/82988573/577e9d62.jpg?h=800&impolicy=fcrop&p=1&q=medium&w=1200",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=34114945&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 523978,
-            "pp": 174659,
-            "breakfast": true,
-            "left": "4",
-            "room": "주니어 스위트 (발코니)",
-            "extraBed": false,
-            "rank": 4,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          }
-        },
-        {
           "name": "Hanoi Le Jardin Hotel & Spa (하노이 르 자르댕)",
           "url": "https://lejardinhotelhanoi.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6600413&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
@@ -622,7 +601,7 @@
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 5,
+            "rank": 4,
             "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
             "rooms": 1,
             "bfOption": null
@@ -652,7 +631,7 @@
             "left": "",
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
             "extraBed": false,
-            "rank": 6,
+            "rank": 5,
             "note": "TOP5 글 기준 124,493원~ (2인가)",
             "rooms": 1,
             "bfOption": null
@@ -683,7 +662,7 @@
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
             "extraBed": false,
-            "rank": 7,
+            "rank": 6,
             "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
             "rooms": 1,
             "bfOption": null
@@ -698,6 +677,27 @@
             "https://pix8.agoda.net/hotelImages/665815/-1/3e958b75c68dd96d7ac5917f5728aa54.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/665815/0/45d95d4587ac08ab77c6862a0c01003b.jpg?s=1024x768"
           ]
+        },
+        {
+          "name": "L’HÔTEL du LAC Hanoi",
+          "url": "https://www.hoteldulachanoi.com/hotel-gallery.html",
+          "note": "35–37 Hàng Trống · 구시가지 후보. 객실 정원·새벽 체크인·요금 확인",
+          "photo": "https://images.trvl-media.com/lodging/83000000/82990000/82988600/82988573/577e9d62.jpg?h=800&impolicy=fcrop&p=1&q=medium&w=1200",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=34114945&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 523978,
+            "pp": 174659,
+            "breakfast": true,
+            "left": "4",
+            "room": "주니어 스위트 (발코니)",
+            "extraBed": false,
+            "rank": 7,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          }
         },
         {
           "name": "Hanoi Fiesta Grand Hotel & Spa",
@@ -744,63 +744,6 @@
       ],
       "sapa": [
         {
-          "name": "Laxsik Ecolodge",
-          "url": "https://www.laxsik.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=10560296&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 외곽 · 계단식 논·마을 트레킹 동선과 차량 이동 필요",
-          "photo": "https://www.laxsik.com/public/storage/rooms/1724733005_Lao-Chai-21_01.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 281823,
-            "pp": 93941,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "디럭스 프리미어 룸",
-            "extraBed": true,
-            "rank": 1,
-            "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/-1/8f0fd3e11585efe2b92b47aed50b573a.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/-1/0e249dfd636a57d520c9fd1621fa6f23.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/-1/77ae71b5e13af3ae39bdfd83202e3da6.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/-1/9afc4510f78c86d5130a3e455f881aea.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/1583751983/684738428414cc9fd796ed17416577c7.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/10560296/-1/4d77dd1518514f13d5df10bac91a7752.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/10560296/0/dd48356bc6c2766f2290b5f7609c52a5.jpeg?s=1024x768"
-          ],
-          "videos": [
-            {
-              "code": "DdOg6_rE5nV",
-              "by": "@sum2__chip",
-              "cap": "10만원 초중반 · 문 열면 바로 수영장 룸 · 조식 쌀국수가 제일 맛있었다 · 계단식 논밭이 더 가까이"
-            },
-            {
-              "code": "DeEH8IliTSI",
-              "by": "@u__w.c",
-              "cap": "“베트남의 스위스” 뷰 하나로 가는 길 피로가 다 풀린 곳"
-            }
-          ],
-          "ig": [
-            {
-              "id": "sum2__chip",
-              "url": "https://www.instagram.com/p/DdOg6_rE5nV/"
-            },
-            {
-              "id": "u__w.c",
-              "url": "https://www.instagram.com/p/DeEH8IliTSI/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ]
-        },
-        {
           "name": "Topas Ecolodge",
           "url": "https://topasecolodge.com/location/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=445774&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -815,7 +758,7 @@
             "left": "3",
             "room": "Premium Executive",
             "extraBed": true,
-            "rank": 2,
+            "rank": 1,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
             "rooms": 1,
             "bfOption": null
@@ -890,6 +833,63 @@
                 "시내와 멀어 숙소 밖에 나가기 어려움(숙소 안에서 즐기는 곳)",
                 "고산지대라 춥고 뷰가 날씨 영향을 많이 받음"
               ]
+            }
+          ]
+        },
+        {
+          "name": "Laxsik Ecolodge",
+          "url": "https://www.laxsik.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=10560296&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 외곽 · 계단식 논·마을 트레킹 동선과 차량 이동 필요",
+          "photo": "https://www.laxsik.com/public/storage/rooms/1724733005_Lao-Chai-21_01.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 281823,
+            "pp": 93941,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "디럭스 프리미어 룸",
+            "extraBed": true,
+            "rank": 2,
+            "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/-1/8f0fd3e11585efe2b92b47aed50b573a.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/-1/0e249dfd636a57d520c9fd1621fa6f23.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/-1/77ae71b5e13af3ae39bdfd83202e3da6.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/-1/9afc4510f78c86d5130a3e455f881aea.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/1583751983/684738428414cc9fd796ed17416577c7.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/10560296/-1/4d77dd1518514f13d5df10bac91a7752.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/10560296/0/dd48356bc6c2766f2290b5f7609c52a5.jpeg?s=1024x768"
+          ],
+          "videos": [
+            {
+              "code": "DdOg6_rE5nV",
+              "by": "@sum2__chip",
+              "cap": "10만원 초중반 · 문 열면 바로 수영장 룸 · 조식 쌀국수가 제일 맛있었다 · 계단식 논밭이 더 가까이"
+            },
+            {
+              "code": "DeEH8IliTSI",
+              "by": "@u__w.c",
+              "cap": "“베트남의 스위스” 뷰 하나로 가는 길 피로가 다 풀린 곳"
+            }
+          ],
+          "ig": [
+            {
+              "id": "sum2__chip",
+              "url": "https://www.instagram.com/p/DdOg6_rE5nV/"
+            },
+            {
+              "id": "u__w.c",
+              "url": "https://www.instagram.com/p/DeEH8IliTSI/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
             }
           ]
         },
@@ -997,6 +997,87 @@
           ]
         },
         {
+          "name": "Eco Palms House",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인",
+          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 170949,
+            "pp": 56983,
+            "breakfast": false,
+            "left": "2",
+            "room": "방갈로 (퀸베드 1개)",
+            "extraBed": false,
+            "rank": 5,
+            "note": "",
+            "rooms": 1,
+            "bfOption": "조식 포함 요금 1박 ₩186,490"
+          },
+          "ig": [
+            {
+              "id": "jxxha_",
+              "url": "https://www.instagram.com/p/Cior9EoPLV-/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "Cior9EoPLV-",
+              "by": "@jxxha_",
+              "cap": "“요기는 뷰가 진짜 최고였다”"
+            }
+          ]
+        },
+        {
+          "name": "Sapa Jade Hill Resort & Spa",
+          "url": "https://sapajadehillresort.com/accommodation/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인 · uucode_yui: 해발 1,600m, 1박 10만원대 럭셔리 방갈로 · 구름 위 반신욕 · 레스토랑·조식 맛있음 · 수영장+사우나",
+          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 148044,
+            "pp": 49348,
+            "breakfast": false,
+            "left": "2",
+            "room": "마운틴뷰 방갈로",
+            "extraBed": true,
+            "rank": 6,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/9d6c5cbd930c90d4b8f55c266ffeaac5.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/1361ddf30d98e9ed5cb10267adf13b5d.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/b369ee000e16084ff202096ac1640317.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/31946897ac0b1ad34c4109e38f2c34cb.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/ab78a64af95daf45e4b2dd85393cf205.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/1506288/1321816520/4983a4cff82bebed77654d14bb2f7f1c.jpeg?s=1024x768"
+          ],
+          "ig": [
+            {
+              "id": "uucode_yui",
+              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "DP0SbScE0UX",
+              "by": "@uucode_yui",
+              "cap": "해발 1,600m 구름 위 럭셔리 방갈로 · 반신욕 · 수영장·사우나 · 조식 완벽"
+            }
+          ]
+        },
+        {
           "name": "Catcat Hills Resort & Spa",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
@@ -1011,7 +1092,7 @@
             "left": "마지막 1개",
             "room": "패밀리 마운틴뷰 (최대 4인)",
             "extraBed": false,
-            "rank": 5,
+            "rank": 7,
             "note": "침대 넉넉한 패밀리룸",
             "rooms": 1,
             "bfOption": null
@@ -1047,7 +1128,7 @@
             "left": "2",
             "room": "H'Mong 스위트",
             "extraBed": true,
-            "rank": 6,
+            "rank": 8,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1076,7 +1157,7 @@
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
             "extraBed": false,
-            "rank": 7,
+            "rank": 9,
             "note": "",
             "rooms": 1,
             "bfOption": null
@@ -1107,7 +1188,7 @@
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
             "extraBed": false,
-            "rank": 8,
+            "rank": 10,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 1인 ₩28,491 추가"
@@ -1121,74 +1202,6 @@
             "https://pix8.agoda.net/hotelImages/39797512/-1/9bb07ba5b92380bc3a380f341fa5fb3b.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?s=1024x768",
             "https://pix8.agoda.net/hotelImages/39797512/658250390/3da2400d429e3a65f83c1aa6c88d47b8.jpg?s=1024x768"
-          ]
-        },
-        {
-          "name": "Sapa Jade Hill Resort & Spa",
-          "url": "https://sapajadehillresort.com/accommodation/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인",
-          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 148044,
-            "pp": 49348,
-            "breakfast": false,
-            "left": "2",
-            "room": "마운틴뷰 방갈로",
-            "extraBed": true,
-            "rank": 9,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/9d6c5cbd930c90d4b8f55c266ffeaac5.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/1361ddf30d98e9ed5cb10267adf13b5d.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/b369ee000e16084ff202096ac1640317.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/31946897ac0b1ad34c4109e38f2c34cb.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/ab78a64af95daf45e4b2dd85393cf205.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/1506288/1321816520/4983a4cff82bebed77654d14bb2f7f1c.jpeg?s=1024x768"
-          ]
-        },
-        {
-          "name": "Eco Palms House",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인",
-          "photo": "https://www.mrlinhadventure.com/UserFiles/image/Travel-blog/Image-content/Eco-Palms-House.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 170949,
-            "pp": 56983,
-            "breakfast": false,
-            "left": "2",
-            "room": "방갈로 (퀸베드 1개)",
-            "extraBed": false,
-            "rank": 10,
-            "note": "",
-            "rooms": 1,
-            "bfOption": "조식 포함 요금 1박 ₩186,490"
-          },
-          "ig": [
-            {
-              "id": "jxxha_",
-              "url": "https://www.instagram.com/p/Cior9EoPLV-/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ],
-          "videos": [
-            {
-              "code": "Cior9EoPLV-",
-              "by": "@jxxha_",
-              "cap": "“요기는 뷰가 진짜 최고였다”"
-            }
           ]
         },
         {
@@ -1348,7 +1361,8 @@
         "11/14 새벽 도착 후 바로 체크인하려면 숙박 시작일을 11/13으로 예약해야 할 수 있음",
         "3인실 침대 구성, 창문 유무, 무료 취소, 짐 보관, 조식, 체크인 가능 시간을 확인"
       ],
-      "checkedAt": "2026-10-11 15:35 (KST) 아고다 기준 · 하노이 신규 3곳 추가"
+      "checkedAt": "2026-10-11 15:35 (KST) 아고다 기준 · 하노이 신규 3곳 추가",
+      "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)"
     },
     "food": {
       "intro": "음식은 하노이에 시간을 더 배정해 탐방하고, 사파에서는 철갑상어 샤브샤브를 최우선으로. 코코넛 커리·볶음밥, 오만동 분짜, Color Bar는 일정·동선에 맞춰 후보로 둔다.",
@@ -1366,10 +1380,10 @@
         {
           "title": "사파 저녁 메뉴",
           "where": "11/14–16 저녁",
-          "detail": "삼겹살, 야시장 먹거리, 카페 등을 날씨와 체력에 맞춰 배치."
+          "detail": "야시장 먹거리, 카페 등을 날씨와 체력에 맞춰 배치."
         }
       ],
-      "note": "식당 이름·주소·영업시간·가격은 실제 조사 후 후보/확정 상태를 구분해 추가할 예정. 지구놀이터 코스의 BB 레스토랑 반미, 철갑상어·연어 핫팟, 무제한 삼겹살은 자유여행용 후보이며 예약된 식사가 아님."
+      "note": "식당 이름·주소·영업시간·가격은 실제 조사 후 후보/확정 상태를 구분해 추가할 예정. 지구놀이터 코스의 BB 레스토랑 반미, 철갑상어·연어 핫팟은 자유여행용 후보이며 예약된 식사가 아님."
     }
   },
   "flightWatch": {
