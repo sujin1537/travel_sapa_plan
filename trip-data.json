@@ -3,7 +3,7 @@
     "title": "하노이 · 사파 여행 플래너",
     "subtitle": "친구 3명 · 2026.11.13–18 · Day 1–6",
     "travelers": 3,
-    "updatedAt": "2026-10-11",
+    "updatedAt": "2026-10-12",
     "note": "3인 여행 · 11/13 밤 출국, 11/14 하노이에서 충분히 쉰 뒤 낭만 야간열차 우선 검토. 11/17 하노이에서 음식·휴식 후 11/18 01:45 귀국편 탑승. 교통·객실·영업 정보는 예약 전 공식 채널에서 재확인."
   },
   "flights": [
@@ -510,8 +510,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 179547,
-            "pp": 59849,
+            "nightTotal": 179512,
+            "pp": 59837,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
@@ -519,7 +519,10 @@
             "rank": 1,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 59849,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "lat": 21.0276833,
           "lng": 105.8445803,
@@ -534,8 +537,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 105639,
-            "pp": 35213,
+            "nightTotal": 105661,
+            "pp": 35220,
             "breakfast": true,
             "left": "3",
             "room": "트리플룸",
@@ -543,7 +546,10 @@
             "rank": 2,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 35213,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2915548/-1/2803b0436946a314399b2c555caaacc7.jpg?s=1024x768",
@@ -567,8 +573,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 211658,
-            "pp": 70553,
+            "nightTotal": 211617,
+            "pp": 70539,
             "breakfast": true,
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
@@ -576,7 +582,10 @@
             "rank": 3,
             "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 70553,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6600413/-1/49ed1731e7821f58b490e31ac308ede0.jpg?s=1024x768",
@@ -599,8 +608,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 239677,
-            "pp": 79892,
+            "nightTotal": 239615,
+            "pp": 79872,
             "breakfast": false,
             "left": "",
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
@@ -608,7 +617,10 @@
             "rank": 4,
             "note": "TOP5 글 기준 124,493원~ (2인가)",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 79892,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
@@ -632,8 +644,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 254186,
-            "pp": 84729,
+            "nightTotal": 242201,
+            "pp": 80734,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
@@ -641,7 +653,10 @@
             "rank": 5,
             "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 84729,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/665815/0/9cffb5af0972736329ab5e64f058a6df.jpg?s=1024x768",
@@ -665,8 +680,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 79229,
-            "pp": 26410,
+            "nightTotal": 79245,
+            "pp": 26415,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "패밀리 디럭스 (최대 4인)",
@@ -674,7 +689,10 @@
             "rank": 6,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 26410,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
@@ -699,8 +717,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 367842,
-            "pp": 122614,
+            "nightTotal": 367755,
+            "pp": 122585,
             "breakfast": true,
             "left": "2",
             "room": "스위트 시티뷰",
@@ -708,7 +726,10 @@
             "rank": 7,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "prevPp": 122614,
+            "prevAt": "10/11",
+            "checked": "10/12"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
@@ -745,7 +766,8 @@
             "rank": 8,
             "note": "조식 포함 여부 확인 필요",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "lat": 21.0307215,
           "lng": 105.8418808
@@ -768,7 +790,8 @@
             "rank": 9,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "lat": 21.0306722,
           "lng": 105.8496657,
@@ -845,7 +868,8 @@
             "rank": 1,
             "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
@@ -925,7 +949,8 @@
             "rank": 2,
             "note": "시내 도보권 · 가성비",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/26852142/-1/559dfe52702f36178417d9e6334ee38d.png?s=1024x768",
@@ -995,7 +1020,8 @@
             "rank": 3,
             "note": "3명이면 객실 2개 예약 필요",
             "rooms": 2,
-            "bfOption": "조식 1인 26,937원 추가"
+            "bfOption": "조식 1인 26,937원 추가",
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
@@ -1046,7 +1072,8 @@
             "rank": 4,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/445/445774/445774_15081411340034274185.jpg?s=1024x768",
@@ -1174,7 +1201,8 @@
             "rank": 5,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
@@ -1240,7 +1268,8 @@
             "rank": 6,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "ig": [
             {
@@ -1291,7 +1320,8 @@
             "rank": 7,
             "note": "침대 넉넉한 패밀리룸",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/18516076/0/49ad2a11b47c623383260ab26dc63c37.jpg?s=1024x768",
@@ -1342,7 +1372,8 @@
             "rank": 8,
             "note": "",
             "rooms": 1,
-            "bfOption": "조식 포함 요금 1박 186,490원"
+            "bfOption": "조식 포함 요금 1박 186,490원",
+            "checked": "10/11"
           },
           "ig": [
             {
@@ -1401,7 +1432,8 @@
             "rank": 9,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2639415/-1/4cfd2a52f64a1f759aac81f79a008f0c.jpg?s=1024x768",
@@ -1434,7 +1466,8 @@
             "rank": 10,
             "note": "",
             "rooms": 1,
-            "bfOption": "조식 1인 28,491원 추가"
+            "bfOption": "조식 1인 28,491원 추가",
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/39797512/0/a7a27b914a8864a80e8f5e9b4790d36d.jpg?s=1024x768",
@@ -1467,7 +1500,8 @@
             "rank": 11,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
@@ -1507,7 +1541,8 @@
             "rank": 12,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/11"
           },
           "lat": 22.332362,
           "lng": 103.8435226
@@ -1708,7 +1743,7 @@
         "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
-      "checkedAt": "2026-10-11 17:20 (KST) 아고다 기준",
+      "checkedAt": "2026-10-12 09:00 (KST) 아고다 기준 (하노이 7곳 재확인 · 나머지는 10/11 가격)",
       "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)",
       "landmarks": {
         "hanoi": [
@@ -1774,7 +1809,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-11 14:55 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-12 09:00 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -1797,7 +1832,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 202000,
+                "total": 202200,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -1823,12 +1858,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 166500,
+                "total": 165500,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 175451,
+                "total": 175509,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -1867,12 +1902,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 382400,
+                "total": 347400,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 402400,
+                "total": 377400,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -1899,6 +1934,25 @@
           "B": {
             "s": 382400,
             "g": 402400
+          }
+        }
+      },
+      {
+        "date": "2026-10-12",
+        "A": 367700,
+        "B": 347400,
+        "detail": {
+          "A_out": {
+            "s": 202200,
+            "g": 210100
+          },
+          "A_ret": {
+            "s": 165500,
+            "g": 175509
+          },
+          "B": {
+            "s": 347400,
+            "g": 377400
           }
         }
       }
