@@ -2268,7 +2268,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-12 09:21 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-12 19:45 (KST) 구글 항공편·스카이스캐너 · 성인 1명 (네이버 가격알림 272,900원 확인 후 재조회)",
     "options": [
       {
         "key": "A",
@@ -2291,12 +2291,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 202200,
+                "total": 151100,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 210100,
+                "total": 155100,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2317,12 +2317,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 165100,
+                "total": 114530,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 175509,
+                "total": 141835,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2361,7 +2361,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 347400,
+                "total": 304030,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -2411,6 +2411,25 @@
           },
           "B": {
             "s": 347400,
+            "g": 377400
+          }
+        }
+      },
+      {
+        "date": "2026-10-12 19:45",
+        "A": 265630,
+        "B": 304030,
+        "detail": {
+          "A_out": {
+            "s": 151100,
+            "g": 155100
+          },
+          "A_ret": {
+            "s": 114530,
+            "g": 141835
+          },
+          "B": {
+            "s": 304030,
             "g": 377400
           }
         }
@@ -3344,13 +3363,13 @@
               {
                 "id": "a",
                 "label": "지영이랑 같은 편 (편도 2장)",
-                "meta": "제주 7C2201 + 비엣젯 VJ960 · 1인 367,300원 (10/12)",
+                "meta": "제주 7C2201 + 비엣젯 VJ960 · 1인 265,630원 (10/12 저녁 ▼101,670)",
                 "rec": true
               },
               {
                 "id": "b",
                 "label": "제주항공 왕복",
-                "meta": "1인 347,400원 (10/12 ▼35,000) · 2만원 싸지만 오는 편이 7C2202(01:40)라 지영이랑 따로",
+                "meta": "1인 304,030원 (10/12 저녁) · 이제 편도 2장보다 3.8만원 비싸고 오는 편도 지영이랑 따로",
                 "tag": "지금 더 쌈"
               }
             ],
