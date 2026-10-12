@@ -510,8 +510,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 179512,
-            "pp": 59837,
+            "nightTotal": 179637,
+            "pp": 59879,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
@@ -537,8 +537,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 105661,
-            "pp": 35220,
+            "nightTotal": 105732,
+            "pp": 35244,
             "breakfast": true,
             "left": "3",
             "room": "트리플룸",
@@ -573,8 +573,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 211617,
-            "pp": 70539,
+            "nightTotal": 211735,
+            "pp": 70578,
             "breakfast": true,
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
@@ -611,7 +611,7 @@
             "nightTotal": 239615,
             "pp": 79872,
             "breakfast": false,
-            "left": "",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
             "extraBed": false,
             "rank": 4,
@@ -644,8 +644,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 242201,
-            "pp": 80734,
+            "nightTotal": 243645,
+            "pp": 81215,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
@@ -680,8 +680,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 79245,
-            "pp": 26415,
+            "nightTotal": 79221,
+            "pp": 26407,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "패밀리 디럭스 (최대 4인)",
@@ -717,8 +717,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 367755,
-            "pp": 122585,
+            "nightTotal": 368072,
+            "pp": 122691,
             "breakfast": true,
             "left": "2",
             "room": "스위트 시티뷰",
@@ -757,8 +757,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 371016,
-            "pp": 123672,
+            "nightTotal": 309100,
+            "pp": 103033,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실",
@@ -767,7 +767,9 @@
             "note": "조식 포함 여부 확인 필요",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 123672,
+            "prevAt": "10/11"
           },
           "lat": 21.0307215,
           "lng": 105.8418808
@@ -781,8 +783,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 523978,
-            "pp": 174659,
+            "nightTotal": 523842,
+            "pp": 174614,
             "breakfast": true,
             "left": "4",
             "room": "주니어 스위트 (발코니)",
@@ -791,7 +793,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 174659,
+            "prevAt": "10/11"
           },
           "lat": 21.0306722,
           "lng": 105.8496657,
@@ -801,29 +805,6 @@
             "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGPSs2eFQT8NFmoApn0dEOkFEwYR_AA2O29kGmGRw4-iqqmqsVuJeoukgntVRiBbas0_vlUpnMOdvdygBDcjMQtS4m9GNXNl7UuMIeydYEvNtN4RlNgekiC7NzjfnE0BqReLf8Ek6RcdY=w1200-h900-k-no",
             "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rd-QzAPyKs0bmnnlN7Iv9zMhxwH9dYGMPP5rAgEDStqImAb3Gm3qoQTIBTUB1Z4XsnFgDXQsl6C1BlIyn2xRrGHFrJACsYVj_fATpQx_vf9wFxisRMmCQEjmWtVxwKFPOzl0E=w1200-h900-k-no"
           ]
-        },
-        {
-          "name": "Hanoi Golden Holiday Hotel",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2062073&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "성인 3명 후보로 기록 · 객실 구성·후기·새벽 체크인 재확인",
-          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97107701.jpg?k=e639c2dcac4ddff3a0aafc970c8ced27ae140242c9fb007002c6982882a6e29d&o=",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2062073&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 91,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 21.0357215,
-          "lng": 105.8476901
         },
         {
           "name": "Hanoi Fiesta Grand Hotel & Spa",
@@ -843,10 +824,35 @@
             "rank": 90,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/12"
           },
           "lat": 21.0322535,
           "lng": 105.8538996
+        },
+        {
+          "name": "Hanoi Golden Holiday Hotel",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2062073&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "성인 3명 후보로 기록 · 객실 구성·후기·새벽 체크인 재확인",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97107701.jpg?k=e639c2dcac4ddff3a0aafc970c8ced27ae140242c9fb007002c6982882a6e29d&o=",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2062073&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 91,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12"
+          },
+          "lat": 21.0357215,
+          "lng": 105.8476901
         }
       ],
       "sapa": [
@@ -859,8 +865,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 281823,
-            "pp": 93941,
+            "nightTotal": 281985,
+            "pp": 93995,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "디럭스 프리미어 룸",
@@ -869,7 +875,9 @@
             "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 93941,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
@@ -932,77 +940,6 @@
           ]
         },
         {
-          "name": "Viettrekking Sapa Hotel",
-          "url": "https://viettrekkingsapa.com/standard/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=26852142&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "33 Hoàng Liên · 시내 도보 5분 · 4층까지 객실, 5층 야외수영장 · 홈페이지 연결 페이스북 메신저로 영어 문의하면 조금 더 저렴 · 성인 3명은 추가침대 문의",
-          "photo": "https://cdn.vivutour.vn/2025/12/khach-san-viettrekking-sapa_room_10143-23.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 122405,
-            "pp": 40802,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "슈페리어룸",
-            "extraBed": true,
-            "rank": 2,
-            "note": "시내 도보권 · 가성비",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/26852142/-1/559dfe52702f36178417d9e6334ee38d.png?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/-1/be638f0e6040a24f353436eeea132355.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/-1/d7d008d0dbd99e482ae6999928503bd8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/-1/d71b696a382ee3df85271fbc93c3d1aa.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/762963260/e50ddd37db46494583084c8227680bb4.jpeg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/-1/c355763eec02dfe1e5e3af4434e5b9a6.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/370036978/73be07a2d825834e5d042e9aad159f4e.jpeg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/26852142/-1/9f8deaa71e11bac79cea74f339f0b770.png?s=1024x768"
-          ],
-          "ig": [
-            {
-              "id": "obbahere",
-              "url": "https://www.instagram.com/obbahere/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ],
-          "reviews": [
-            {
-              "by": "obbahere",
-              "url": "https://www.instagram.com/obbahere/",
-              "pros": [
-                "방갈로 룸 테라스에서 창밖 즐기기 좋음",
-                "사파 시내 도보 5분",
-                "모든 단점을 커버하는 마운틴뷰",
-                "조식 쌀국수 “인생 존맛”",
-                "넓고 깊은 5층 야외수영장, 쉬기 좋은 카페(뷰 미침)",
-                "친절한 직원"
-              ],
-              "cons": [
-                "밤길이 어둡고 공사 중",
-                "방음 아쉬움",
-                "벌레가 많았음",
-                "조식 종류가 다양하지 않음"
-              ]
-            }
-          ],
-          "lat": 22.3338122,
-          "lng": 103.8367324,
-          "videos": [
-            {
-              "code": "C6oTisdp7lQ",
-              "by": "@obbahere",
-              "cap": "뷰가 미친 사파 호텔 — 방갈로·5층 수영장"
-            }
-          ]
-        },
-        {
           "name": "Hotel de la Coupole",
           "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1011,8 +948,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 431476,
-            "pp": 143825,
+            "nightTotal": 432540,
+            "pp": 144180,
             "breakfast": false,
             "left": null,
             "room": "클래식 트윈 2실",
@@ -1021,7 +958,9 @@
             "note": "3명이면 객실 2개 예약 필요",
             "rooms": 2,
             "bfOption": "조식 1인 26,937원 추가",
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 143825,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
@@ -1063,17 +1002,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 479129,
-            "pp": 159710,
+            "nightTotal": 479337,
+            "pp": 159779,
             "breakfast": true,
-            "left": "3",
+            "left": "2",
             "room": "Premium Executive",
             "extraBed": true,
             "rank": 4,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 159710,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/445/445774/445774_15081411340034274185.jpg?s=1024x768",
@@ -1192,17 +1133,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 148044,
-            "pp": 49348,
+            "nightTotal": 148117,
+            "pp": 49372,
             "breakfast": false,
-            "left": "2",
+            "left": "마지막 1개",
             "room": "마운틴뷰 방갈로",
             "extraBed": true,
             "rank": 5,
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 49348,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
@@ -1259,8 +1202,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 433771,
-            "pp": 144590,
+            "nightTotal": 450906,
+            "pp": 150302,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
@@ -1269,7 +1212,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 144590,
+            "prevAt": "10/11"
           },
           "ig": [
             {
@@ -1311,8 +1256,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 175726,
-            "pp": 58575,
+            "nightTotal": 175868,
+            "pp": 58623,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "패밀리 마운틴뷰 (최대 4인)",
@@ -1321,7 +1266,9 @@
             "note": "침대 넉넉한 패밀리룸",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 58575,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/18516076/0/49ad2a11b47c623383260ab26dc63c37.jpg?s=1024x768",
@@ -1363,17 +1310,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 170949,
-            "pp": 56983,
+            "nightTotal": 170905,
+            "pp": 56968,
             "breakfast": false,
-            "left": "2",
+            "left": "마지막 1개",
             "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
             "rank": 8,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 포함 요금 1박 186,490원",
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 56983,
+            "prevAt": "10/11"
           },
           "ig": [
             {
@@ -1423,8 +1372,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 337419,
-            "pp": 112473,
+            "nightTotal": 344808,
+            "pp": 114936,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
@@ -1433,7 +1382,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 112473,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2639415/-1/4cfd2a52f64a1f759aac81f79a008f0c.jpg?s=1024x768",
@@ -1457,8 +1408,8 @@
           "url": "https://ladyhillsapa.com/",
           "avail": {
             "soldOut": false,
-            "nightTotal": 381993,
-            "pp": 127331,
+            "nightTotal": 390151,
+            "pp": 130050,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
@@ -1467,7 +1418,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": "조식 1인 28,491원 추가",
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 127331,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/39797512/0/a7a27b914a8864a80e8f5e9b4790d36d.jpg?s=1024x768",
@@ -1491,17 +1444,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 299599,
-            "pp": 99866,
+            "nightTotal": 300783,
+            "pp": 100261,
             "breakfast": true,
-            "left": "2",
+            "left": "마지막 1개",
             "room": "H'Mong 스위트",
             "extraBed": true,
             "rank": 11,
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 99866,
+            "prevAt": "10/11"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
@@ -1532,8 +1487,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 136765,
-            "pp": 45588,
+            "nightTotal": 138349,
+            "pp": 46116,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
@@ -1542,10 +1497,103 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/11"
+            "checked": "10/12",
+            "prevPp": 45588,
+            "prevAt": "10/11"
           },
           "lat": 22.332362,
           "lng": 103.8435226
+        },
+        {
+          "name": "Canvas Sapa Legend Hotel",
+          "note": "사파 호수 바로 앞 시내 중심 3.5성 · 아고다 평점 8.4 (후기 1,309개) · 위치 평점 9.0, 식당·야시장 모두 도보권",
+          "photo": "https://pix8.agoda.net/hotelImages/1187717/0/f2abe9e9d5b37426ce16d62b9bf3d42f.jpg?ce=3&s=1024x768",
+          "bookingPlatform": "Agoda",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "recBy": "예슬",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 89,
+            "note": "취소 물량이 나오면 바로 잡기",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12"
+          },
+          "lat": 22.3366469,
+          "lng": 103.844393,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sd3R5MyIXLbO4mrqAQZF0s2RSwcsnglKJHYg53vD2GU1pc6zc0YlO9yX3Xphtnnh_BDxlwXBzStQaeeMCOWfjbuCJ9EMzpVq-fKXIQ9ENDRHH7axWF3GweGfQw55FeTLm3aRs=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDfgmCcV-dqA9kxwTyKzv2m2RU0WbJa72xY7uVczXrW7uhbChl49afnZ8AoyOL0xOSDJSRwAziwceHELlXL8lx2B7bvfMX6cb2vaR0GNfyVFVYfAqUKNDFU0mh1UyQb9RxVVwCm9m-Ednw=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RFyqFaTxYdsupDIhf57FV2nXPTok5exKSG4csng06CwHFKIsHopc79XwyeINp2MVtDVDr7RFw_hWG9eyY2nXofeaALf05v7v13w3TSiEpeODS6AXr3YqeX5jzWG0keTSJNU9027fbpYbYp=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2vAR5PqOIY60nHMw7UKiSGtQCD-ol-quf76wJ4LWLueruPOT6y0JeU1Fe_orhNPVclTN_yoUVOqn3bmaV2Rj0m3E37iZQ_INmxAhkTxaft00zgFVMoec3eFGyHkkDfIbruPk=w1200-h900-k-no"
+          ]
+        },
+        {
+          "name": "Sapa Soleil Hotel",
+          "url": "https://sapasoleilhotel.com/en/accommodation/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=48562162&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 중심 후보 · 창문 없는 트리플룸은 피하고 전망 객실 확인",
+          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558561593.jpg?hp=1&k=de8d88f1f905aa7f7326d59411acccb35b70014eed36b3389e4e7f3d8e438503&o=",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 90,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12"
+          },
+          "lat": 22.3328104,
+          "lng": 103.843522,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfHYb2VaZMw-k4j_Xz5PHtyUt5L3dXBWP7jCgAc_QsbIedKGCJcoB65JD1rmkR8-8evpdwLLJL1xQ1NUh10S0STxsyek649WPbdL4uQplhTmdxmPkr-TuV6_MxsuMvfEn7ylfh6n3aIK6b=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2Uu-zAb1nzUK0DkdtCrLiviDB2a7H-DsCBxIzXXCuIi1vutqbI9gX7FU536qIfmnx76DuGPZz2L5OvpRYU8RhLRw6FhK8F-cuTjeWj4WOPQE2-qpSGhadVRpO6jbYsQIEvAA1_lJYEax7=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SEru-bh7ZBbDrm0X9tbfJBoQFsI8LBpmUhVjy3vC4tz9Nd9YRrvsZclroPFct0OzezPRgyeTMFAMI0wH4bXyDNxLzGxNUYMfcTc1g0rkIbN14KRRl1QG8Z7nd_EExTqtFz-w4kKsuWURlj=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSw3m9nU7agDGNCi8Te5_lOtA0Tb-CfZA0p4_DTCCVlomCi6ZvYexcfddIgJKQ4wCfk6LPPreUkPlenoPu3WIg_LYgr3tRkb-7QtUhrsXMsggGg_eoCBPkhPg7SxRazn2Fkl0=w1200-h900-k-no"
+          ]
+        },
+        {
+          "name": "The View Sapa Hotel",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "시내 접근성 후보 · 실제 객실·3인 정원 확인",
+          "photo": "https://mia.vn/media/uploads/blog-du-lich/cua-so-the-view-sapa-hotel-mo-ra-du-khach-se-nghet-tho-khi-nhin-thay-day-nui-hoang-lien-son-noi-tieng-1624036721.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 91,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12"
+          },
+          "lat": 22.3312963,
+          "lng": 103.8435113,
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyB83z6QbuLhncuOTlsC9htO-B0YxdBVGd-OkrFPw6GPdbC1IgnGN-ilHaa4Fvey8P6VdmckMsPhNcFopkat-nToKbZfu-RTVQxt7o5WxJAjFF3LClSJxRYlFq-1Kab78FdMKs=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHQ9ukLbk48kz-Oprdg6IjR1NeoBwZdK1OtTNF-Y67sZctnt9lghtE92q8WhVhwOX2iVsCABsmP-RZzcbF7GsaAYjkAFwZt-eeTnaMZ0yg_c140vGADNfF4-XYJ6WtuDsbZ7cP8XmAoHiS=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCRgVhvuNOgVdKnYaAerYEYsAeC3mkZ4evVLCwuSXIK_QFuxla3l0OysgUXsxhyvazqIqjiV8gsNPMNll1b59Y4OBeZ67CUaZFRaRdUaSZg9lqcrUSXBduAh2Dsx82tFQXuvFl=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdORUN5njznljVwtN1L9sp5UqVnkLA_aM-fGUk16LWp4Wb2lCVwaCJ-CuTEba_OLRP31wmx4BuUCr-bm7QjA0FGL6-KgjOjlSobnJzBXa5ELBqxjPtpqQkoi2YijZYlwaHF8Kg7w=w1200-h900-k-no"
+          ]
         },
         {
           "name": "Pistachio Hotel Sapa",
@@ -1565,7 +1613,8 @@
             "rank": 92,
             "note": "",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/12"
           },
           "ig": [
             {
@@ -1598,36 +1647,6 @@
             "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T8W28fD1lnlkulXGWnXNyhpXMbj40L95mODMIm-9SycDvIft62gV82v1DRpB22pMMC9QS0H2XxOaDvJxQlXMXbiSB33DyZ8_3XAh5kK3SPFNXl2xIYipAIFKNTgFvMvC4G51y7NcgMtbJR=w1200-h900-k-no",
             "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8xtM3JCkhMlzW64IAbaauFtLl2-9BmHFCIe31neKUak89fsjofAWiu3o9kaAvqYgh4dCSYlE9mf9QGS1HZHObwJCEUOC3qXvpanoZ9DbEDNsn-NApXOlEpBqbfrLObYBIo25CU-jXh9k=w1200-h900-k-no",
             "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SkL7zsHfMKvwTLKM4NIEAGHuxZs3RDHkm-VqPXXqMadPjSJbzCSoREcSwJFFJ-APATB0SnB3cGLzK8ArfETKvvGhpcDmT3sfot6zBK2_0-gqNtRcsoNVqr7LX12ggGiH4qO8UG3g=w1200-h900-k-no"
-          ]
-        },
-        {
-          "name": "Canvas Sapa Legend Hotel",
-          "note": "사파 호수 바로 앞 시내 중심 3.5성 · 아고다 평점 8.4 (후기 1,309개) · 위치 평점 9.0, 식당·야시장 모두 도보권",
-          "photo": "https://pix8.agoda.net/hotelImages/1187717/0/f2abe9e9d5b37426ce16d62b9bf3d42f.jpg?ce=3&s=1024x768",
-          "bookingPlatform": "Agoda",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1187717&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "recBy": "예슬",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 89,
-            "note": "취소 물량이 나오면 바로 잡기",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 22.3366469,
-          "lng": 103.844393,
-          "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sd3R5MyIXLbO4mrqAQZF0s2RSwcsnglKJHYg53vD2GU1pc6zc0YlO9yX3Xphtnnh_BDxlwXBzStQaeeMCOWfjbuCJ9EMzpVq-fKXIQ9ENDRHH7axWF3GweGfQw55FeTLm3aRs=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDfgmCcV-dqA9kxwTyKzv2m2RU0WbJa72xY7uVczXrW7uhbChl49afnZ8AoyOL0xOSDJSRwAziwceHELlXL8lx2B7bvfMX6cb2vaR0GNfyVFVYfAqUKNDFU0mh1UyQb9RxVVwCm9m-Ednw=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RFyqFaTxYdsupDIhf57FV2nXPTok5exKSG4csng06CwHFKIsHopc79XwyeINp2MVtDVDr7RFw_hWG9eyY2nXofeaALf05v7v13w3TSiEpeODS6AXr3YqeX5jzWG0keTSJNU9027fbpYbYp=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q2vAR5PqOIY60nHMw7UKiSGtQCD-ol-quf76wJ4LWLueruPOT6y0JeU1Fe_orhNPVclTN_yoUVOqn3bmaV2Rj0m3E37iZQ_INmxAhkTxaft00zgFVMoec3eFGyHkkDfIbruPk=w1200-h900-k-no"
           ]
         },
         {
@@ -1679,11 +1698,11 @@
           ]
         },
         {
-          "name": "Sapa Soleil Hotel",
-          "url": "https://sapasoleilhotel.com/en/accommodation/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=48562162&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 중심 후보 · 창문 없는 트리플룸은 피하고 전망 객실 확인",
-          "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558561593.jpg?hp=1&k=de8d88f1f905aa7f7326d59411acccb35b70014eed36b3389e4e7f3d8e438503&o=",
+          "name": "Viettrekking Sapa Hotel",
+          "url": "https://viettrekkingsapa.com/standard/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=26852142&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "33 Hoàng Liên · 시내 도보 5분 · 4층까지 객실, 5층 야외수영장 · 홈페이지 연결 페이스북 메신저로 영어 문의하면 조금 더 저렴 · 성인 3명은 추가침대 문의",
+          "photo": "https://cdn.vivutour.vn/2025/12/khach-san-viettrekking-sapa_room_10143-23.jpg",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": true,
@@ -1691,49 +1710,64 @@
             "pp": null,
             "breakfast": null,
             "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 90,
-            "note": "",
+            "room": "슈페리어룸",
+            "extraBed": true,
+            "rank": 94,
+            "note": "시내 도보권 · 가성비",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 40802,
+            "prevAt": "10/11"
           },
-          "lat": 22.3328104,
-          "lng": 103.843522,
           "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfHYb2VaZMw-k4j_Xz5PHtyUt5L3dXBWP7jCgAc_QsbIedKGCJcoB65JD1rmkR8-8evpdwLLJL1xQ1NUh10S0STxsyek649WPbdL4uQplhTmdxmPkr-TuV6_MxsuMvfEn7ylfh6n3aIK6b=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2Uu-zAb1nzUK0DkdtCrLiviDB2a7H-DsCBxIzXXCuIi1vutqbI9gX7FU536qIfmnx76DuGPZz2L5OvpRYU8RhLRw6FhK8F-cuTjeWj4WOPQE2-qpSGhadVRpO6jbYsQIEvAA1_lJYEax7=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SEru-bh7ZBbDrm0X9tbfJBoQFsI8LBpmUhVjy3vC4tz9Nd9YRrvsZclroPFct0OzezPRgyeTMFAMI0wH4bXyDNxLzGxNUYMfcTc1g0rkIbN14KRRl1QG8Z7nd_EExTqtFz-w4kKsuWURlj=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SSw3m9nU7agDGNCi8Te5_lOtA0Tb-CfZA0p4_DTCCVlomCi6ZvYexcfddIgJKQ4wCfk6LPPreUkPlenoPu3WIg_LYgr3tRkb-7QtUhrsXMsggGg_eoCBPkhPg7SxRazn2Fkl0=w1200-h900-k-no"
-          ]
-        },
-        {
-          "name": "The View Sapa Hotel",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "시내 접근성 후보 · 실제 객실·3인 정원 확인",
-          "photo": "https://mia.vn/media/uploads/blog-du-lich/cua-so-the-view-sapa-hotel-mo-ra-du-khach-se-nghet-tho-khi-nhin-thay-day-nui-hoang-lien-son-noi-tieng-1624036721.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5777970&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": null,
-            "left": null,
-            "room": "",
-            "extraBed": false,
-            "rank": 91,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null
-          },
-          "lat": 22.3312963,
-          "lng": 103.8435113,
-          "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyB83z6QbuLhncuOTlsC9htO-B0YxdBVGd-OkrFPw6GPdbC1IgnGN-ilHaa4Fvey8P6VdmckMsPhNcFopkat-nToKbZfu-RTVQxt7o5WxJAjFF3LClSJxRYlFq-1Kab78FdMKs=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHQ9ukLbk48kz-Oprdg6IjR1NeoBwZdK1OtTNF-Y67sZctnt9lghtE92q8WhVhwOX2iVsCABsmP-RZzcbF7GsaAYjkAFwZt-eeTnaMZ0yg_c140vGADNfF4-XYJ6WtuDsbZ7cP8XmAoHiS=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCRgVhvuNOgVdKnYaAerYEYsAeC3mkZ4evVLCwuSXIK_QFuxla3l0OysgUXsxhyvazqIqjiV8gsNPMNll1b59Y4OBeZ67CUaZFRaRdUaSZg9lqcrUSXBduAh2Dsx82tFQXuvFl=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdORUN5njznljVwtN1L9sp5UqVnkLA_aM-fGUk16LWp4Wb2lCVwaCJ-CuTEba_OLRP31wmx4BuUCr-bm7QjA0FGL6-KgjOjlSobnJzBXa5ELBqxjPtpqQkoi2YijZYlwaHF8Kg7w=w1200-h900-k-no"
+            "https://pix8.agoda.net/hotelImages/26852142/-1/559dfe52702f36178417d9e6334ee38d.png?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/-1/be638f0e6040a24f353436eeea132355.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/-1/d7d008d0dbd99e482ae6999928503bd8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/-1/d71b696a382ee3df85271fbc93c3d1aa.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/762963260/e50ddd37db46494583084c8227680bb4.jpeg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/-1/c355763eec02dfe1e5e3af4434e5b9a6.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/370036978/73be07a2d825834e5d042e9aad159f4e.jpeg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/26852142/-1/9f8deaa71e11bac79cea74f339f0b770.png?s=1024x768"
+          ],
+          "ig": [
+            {
+              "id": "obbahere",
+              "url": "https://www.instagram.com/obbahere/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "reviews": [
+            {
+              "by": "obbahere",
+              "url": "https://www.instagram.com/obbahere/",
+              "pros": [
+                "방갈로 룸 테라스에서 창밖 즐기기 좋음",
+                "사파 시내 도보 5분",
+                "모든 단점을 커버하는 마운틴뷰",
+                "조식 쌀국수 “인생 존맛”",
+                "넓고 깊은 5층 야외수영장, 쉬기 좋은 카페(뷰 미침)",
+                "친절한 직원"
+              ],
+              "cons": [
+                "밤길이 어둡고 공사 중",
+                "방음 아쉬움",
+                "벌레가 많았음",
+                "조식 종류가 다양하지 않음"
+              ]
+            }
+          ],
+          "lat": 22.3338122,
+          "lng": 103.8367324,
+          "videos": [
+            {
+              "code": "C6oTisdp7lQ",
+              "by": "@obbahere",
+              "cap": "뷰가 미친 사파 호텔 — 방갈로·5층 수영장"
+            }
           ]
         }
       ],
@@ -1743,7 +1777,7 @@
         "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
-      "checkedAt": "2026-10-12 09:00 (KST) 아고다 기준 (하노이 7곳 재확인 · 나머지는 10/11 가격)",
+      "checkedAt": "2026-10-12 09:21 (KST) 아고다 기준",
       "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)",
       "landmarks": {
         "hanoi": [
@@ -1809,7 +1843,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-12 09:00 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-12 09:21 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -1858,7 +1892,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 165500,
+                "total": 165100,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -1939,7 +1973,7 @@
       },
       {
         "date": "2026-10-12",
-        "A": 367700,
+        "A": 367300,
         "B": 347400,
         "detail": {
           "A_out": {
@@ -1947,7 +1981,7 @@
             "g": 210100
           },
           "A_ret": {
-            "s": 165500,
+            "s": 165100,
             "g": 175509
           },
           "B": {
