@@ -1234,7 +1234,13 @@
               ],
               "url": "https://www.instagram.com/reel/DdGQRahp77s/"
             }
-          ]
+          ],
+          "tv": {
+            "v": "IXPYFdSIUnI",
+            "t": 838,
+            "tl": "13:58",
+            "show": "톡파원25시"
+          }
         },
         {
           "name": "Silk Path Grand Sapa Resort & Spa",
@@ -5939,7 +5945,8 @@
             "t": 216,
             "tl": "3:36",
             "desc": "구시가지 베트남 식당",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SQnUwenjHdpdoDtMCn1Y_98mpyfKfzKrs24gl5hMawQGxjSjU-5xn8aQP4Wj9hIGd7l20SHMioD7yVk9dutolq1pQnv0s11uC8TOd2FyoJn0G7cRROn3Lz0VKDKiYHVPny6lzq2-9LLi8s=w800-h600-k-no"
           },
           {
             "cat": "food",
@@ -5949,7 +5956,8 @@
             "t": 462,
             "tl": "7:42",
             "desc": "130 Phố Huế · 그릴·핫팟 (사파에서 돌아온 날 저녁)",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpjqxAToO07lkoNFYVs9iEpnLTRwnOyxuT8iDIqU9-cGEUoq2A0BWmcmo8AncZUx5nGReqPhWghxg_kABmXLQ-cgeMoenNgdUOcoihP-XWz2LgyZ5HejOe365Hup4fNQPVffog2IB_LS8s=w800-h600-k-no"
           },
           {
             "cat": "food",
@@ -5959,7 +5967,8 @@
             "t": 580,
             "tl": "9:40",
             "desc": "미쉐린 1스타 베트남 가정식",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QN6N2tonqNKcETH3CcPcmjy5XKTwS0lUttVguOMoLcC3f2VJobSU4yeQUZbqcB9r0CeA6IfCBhvySVXx0CaH6zSgWAAapokkZ6xGwTHmRz_k87YrssTZFI-UAuQ_iGe1HmDcfOBO6svP-q=w1200-h900-k-no"
           },
           {
             "cat": "food",
@@ -5969,7 +5978,8 @@
             "t": 1144,
             "tl": "19:04",
             "desc": "롯데센터점 · 예슬 추천 피자",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qx3Igmzd0NKsYxoEAbOhnpML8oJM8ghL6z0_pprjY37xy_Zr8xxfdwsERVPP6eU1-jvCo6BUyl53KsKgeiIPgYWRAwJI8F9A4HT6Zcj_7VWCTCgAmRSY3tSixgXZT9AWUTBzca=w800-h600-k-no"
           },
           {
             "cat": "food",
@@ -5979,7 +5989,8 @@
             "t": 968,
             "tl": "16:08",
             "desc": "사파 시내 식당",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQT_EH8W7btoJnOMoGvMdn5PbX07ocoF3mUh73-uT23nZmGCim4BOoEV3rNqvyRF5yUgfLKN7oADpUgIoFh7jFdcXysP-dlMYJ3cbaViwnt6Di7dL4rywFMetmDLXuDECPtEd1HA=w800-h600-k-no"
           },
           {
             "cat": "food",
@@ -5989,7 +6000,8 @@
             "t": 1392,
             "tl": "23:12",
             "desc": "사파 시내 정중앙 · 슈바인학센",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SOXs4l5Y72qxbg7cdpXdOouH1S_SUAzMY5kZd0SaYvgT5y4zC7AXLa7exzn6tIz3QbBmnNMZVz9diaxWQJW__rLptWggPLSf3tCEdCL3XiAKTgpR-2yRuPJkb9bJuBUerrgRmnyBATi0U=w1200-h900-k-no"
           },
           {
             "cat": "cafe",
@@ -5999,7 +6011,8 @@
             "t": 243,
             "tl": "4:03",
             "desc": "카페 + 로컬 아트·기념품 (성당점은 2편 10:21)",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0IMCgTzHeFqNWpB8Z49HHibB7c7qckJnOsqwBbK6eqe5iTfMfAvvp9-22wrzKXySKrirKAgk82-MyO6qv3aK7ehz9QfRb7_G2pkBf16W96Rg2DAbIOJOVOeZAa4M3BOoFQ1S4p4VAXLMF=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6009,7 +6022,8 @@
             "t": 284,
             "tl": "4:44",
             "desc": "구시가지 로컬 카페",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QU56t9jzitszIzWnjk0TxYkDNlmrk1zXuq8YSBX5u6hHMCFIuKKt_3BiwlRKaOP-dxPTIzYoyPaTZyP7AhR6yEJJ6ctqs3YUQdZBwlxG9ciQmpW7JEMWJfy3QGSx_jnrcrY74h=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6029,7 +6043,8 @@
             "t": 737,
             "tl": "12:17",
             "desc": "과일 스무디·요거트 (신또)",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QVm36_bRPQ81zA7UWaZKOT5LsVb1-S9rT3GHybpV3ZYzEpkNij3RBwBKOI3GRuxHr4vATNFWVob3tHtgyWhXqNd42k9qyaFNlhqXSK16WFoj4lnakCcrKgoDONmN9KFkAGVk8nJz_ZgmH2=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6039,7 +6054,8 @@
             "t": 976,
             "tl": "16:16",
             "desc": "로스터리 카페",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TdwZA7RXY6-YmlKADm7wiWa3FMDpGGVzHaTv6UX0d4Adz3ShaYxPXmfl-1zsNbTHYibbeWZwkNioaoX8rH4jCwo1FkNWWYiqdFEnLzFhFox0GnFjJ8hn1A_nvFokk7L44j7VfUpod8vW9T=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6049,7 +6065,8 @@
             "t": 1045,
             "tl": "17:25",
             "desc": "감성 카페",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SbDMASKb6yA5CjV3XZ_R10Yj0vxm1kvFGb0_Eqb1Y-9ACx0q3YVMfoAghsiyR9yiEL24QEeX9s3Q3Zo2aY8C5JgyuJ6lspHuoAZhrhbMZXTN_Xd0Fegtb_p9270edSaXvwjsOEIjI1sds3=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6059,7 +6076,8 @@
             "t": 844,
             "tl": "14:04",
             "desc": "계곡 뷰 갤러리 카페 겸 홈스테이",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S6tje9uG7MUlfw0ugqO5SrA5WtCMo7hCTGo2FWWHZOz8fILj_yscO-1_ayZLR0TlhCNhHdkw6LLmQilUqQWOFW_ATXOBEGtEvAAIa7li0NncK5k6k2So6J3pvDRaYN_aOhlW4AL2h1UFR1=w800-h600-k-no"
           },
           {
             "cat": "cafe",
@@ -6079,7 +6097,8 @@
             "t": 128,
             "tl": "2:08",
             "desc": "사파 대자연 뷰 카페",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sscje2LRPF7jlnVLnxGHQa_wnkrPRqyqBcOGLQGTydg7rd6me0lb1wg2efbccAGVt-d6OPY3BnyYZabOUJZt2GxdqP07y7kNDI3BkcDmQhYrqFzuWfvylnONiHGcpS_Z5Cv0qNcgAX9epC=w1200-h900-k-no"
           },
           {
             "cat": "cafe",
@@ -6089,7 +6108,8 @@
             "t": 295,
             "tl": "4:55",
             "desc": "산악열차 지나가는 뷰 · 풍향고",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPMYy9C3-qA9Bqa9yyqQYRDRS6PQBUQIplaTCx7XdrFr4XRrhYM3GCAu6WWvCAcn9N1QZ9n_aw0Hp6D0xIGawp1RXvCcCJNySMdfKBuPDTCpEBil2cbCEI96pd1N3uZYsCKym6S9Nyxi9D=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6099,7 +6119,8 @@
             "t": 130,
             "tl": "2:10",
             "desc": "구시가지 중심 호수 산책",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1Dx_eAE84PhRi74j-Cg7Jt9ngNQkdDGK7F1e9NtRcLl4seVEUmFStutO4o5T95qH-1uDpZfWcFa9CnuniBV1h38CPmRlKycs2ftaGzbnWlaCqps3Rb7gAWd_u1H1FoLM2wbAI=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6109,7 +6130,8 @@
             "t": 149,
             "tl": "2:29",
             "desc": "호수 위 붉은 다리 건너 사당",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1Dx_eAE84PhRi74j-Cg7Jt9ngNQkdDGK7F1e9NtRcLl4seVEUmFStutO4o5T95qH-1uDpZfWcFa9CnuniBV1h38CPmRlKycs2ftaGzbnWlaCqps3Rb7gAWd_u1H1FoLM2wbAI=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6119,7 +6141,8 @@
             "t": 328,
             "tl": "5:28",
             "desc": "북쪽 풍흥 기찻길 카페 골목 · 30 Train(5:41) 포함",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6129,7 +6152,8 @@
             "t": 414,
             "tl": "6:54",
             "desc": "구시가지 대성당",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QriVu7bjeqhrDkUFIQNJpCJg3PiVwBW0NohBYxgeO6R0QPnADGLXmLhLgdvWmRk1fmyw5gInQsBOC6kyfiDLrnuRDBmlhW-6wOVQ5QizYxe5txw7D9L5ilMl3aPt25jnx9UgY_hw=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6139,7 +6163,8 @@
             "t": 541,
             "tl": "9:01",
             "desc": "서호의 하노이에서 가장 오래된 사원",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TMANV9xXco4d9DRGX99GkaquQeQwbTP6O9E78ViC5eAPSOIyr9-WwH5AGHs-di6Y-n8QdXx8zAftUbEZ5K4t96Ylyp6I1-I1C3NX3z9nKYaSstN3JxQyT_4piaF4yW4TdSGNe-Sw=w800-h600-k-no"
           },
           {
             "cat": "see",
@@ -6149,7 +6174,8 @@
             "t": 1014,
             "tl": "16:54",
             "desc": "Sun Plaza(16:29)에서 산악열차 → 케이블카 → 정상",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbrXWKtUJLoZA0gpovWqn59opNljTmfD68hknz6LtzzrYSbR-EIiMbODt2jz-G_3qa1UrMmS3p5L6HzpBTW_nRspb3eDhE2ysHfY_2J1ht7JK4gXKL2VQNcpf8mNiv9U_k0l7A=w1200-h800-k-no"
           },
           {
             "cat": "see",
@@ -6159,7 +6185,8 @@
             "t": 1249,
             "tl": "20:49",
             "desc": "소수민족 마을 산책",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGbSdvavTy47cDxg2cLlii_q9pcFvJBZRWKn1kwgkxmYZB942ja1kx1NHFcC3-RYFTqT8D98arPiXmqsbY0RCU_qDQTt19v_vqFIqsNSyJDsZD-5MwfUC99l1S1p8SBV9qwfpL9Q=w1200-h900-k-no"
           },
           {
             "cat": "see",
@@ -6169,7 +6196,8 @@
             "t": 1321,
             "tl": "22:01",
             "desc": "마을 안 썰매 체험",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rhw4Kz3btM2oGyOZU88aDXSbUp8Ys4OKcdKmfD3zng3rYI-6NpoVcb0gc4fef-aW4zmPIrWROncJXZSsyJXjNsUkaW5X5bjKfnbUSYAFtP4oFDTxqKe9_MRDFxcXQT4aNRJj-z_AQ57riL=w1200-h800-k-no"
           },
           {
             "cat": "shop",
@@ -6179,7 +6207,8 @@
             "t": 193,
             "tl": "3:13",
             "desc": "보석·원석 가게",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQGmniOW5MVc_fM2sOfgU95bpipWvTDRhKVDTosaTJEQzdbdKFvpKAf0I2elvsezrBQ_nirkZEpxJ7T8kHFVbdF3xtRK5_X7RRUgW8EpnCJ0kpK3HKLA6-nT4Fxti4YX0ClP9tdqi73Q-I=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6189,7 +6218,8 @@
             "t": 621,
             "tl": "10:21",
             "desc": "성당 앞 로컬 아트·기념품",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tw-sDaa2oZWd_u9eLuwsPmYDJdLRNjXB4QIvP5BAnGzb8TWk9VBAXc3jwC-fsHm1HvCiqfJYBrMSoJB-mtxbrXAdoZbyhPQYczytB4MMXnI6-mO5I6PVLPAnh715fQUDOZWIbWmyKcLk0=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6199,7 +6229,8 @@
             "t": 778,
             "tl": "12:58",
             "desc": "감각적인 소품샵",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxY0a_rZcqFKSXqhID0HdIBWvbbwEN5GP2zUclaXV_ALX6zQvoa4vTFUaFq7sANFHvyrUv4yl9yDE4lhGgHK_gZd0JqJIN5llCyPN9BWC2QpWq6xVA4PGaifF8HE8f4wl2PVDm3pV-ROWz=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6209,7 +6240,8 @@
             "t": 863,
             "tl": "14:23",
             "desc": "주방·그릇 편집샵",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TK68zfQuAf3WbdPzeyWkU-38YLplwEOFrt4qk8vograS-jal1qXcoW9KJD7GMFF39jp2Iwtt_4YDY9_3uokYO4SKw9I74aemOX3YRTJ9bODUiDJFJha2kcJry7fd03KyC6ZyqVYei8tRW4=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6219,7 +6251,8 @@
             "t": 946,
             "tl": "15:46",
             "desc": "편집샵",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXLtvWJZ2bdWbuCSsVL_gl1MApNs_v6Z8Ui11R_bFXae_v7Xhi870Sp2ngaJjrN5-cc-oTyh8XV38M3FSIET_4bDlsl5PCfeADV9_kUBCWoDaSm8FR-SUb6SFZ9nL6Jo63FgbNtKU8Hkq8=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6229,7 +6262,8 @@
             "t": 1207,
             "tl": "20:07",
             "desc": "기념품·과자 쇼핑",
-            "have": true
+            "have": true,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCj2gJZjRoZZUJrFThH99Qw6KIBsrj0DtfKbpum8e5Hnn4M2wx3gBersnDKi2pmXPnoFpergyZDX7Cq7F0BYjvsPl-Rdyquz9UvLr2jWQXjyZwa8SRfv5u8vbPc3xos35_o2slwRWliSKD=w800-h600-k-no"
           },
           {
             "cat": "shop",
@@ -6259,7 +6293,8 @@
             "t": 439,
             "tl": "7:19",
             "desc": "버스 타기 전 머문 숙소",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBdEtY1ZyDrqECw3OqK33Vy1U4YJHCAB6StVeM9_cZbGGZangGM-0aH7NyuMnCluGuweqw1LnFeg_y7Cpe0HL9_y6YO8vNKWKF5AbEKPGYDKL6WkPQdm6OuTsngYV7QvT9PQA=w800-h600-k-no"
           },
           {
             "cat": "stay",
@@ -6269,7 +6304,8 @@
             "t": 636,
             "tl": "10:36",
             "desc": "사파 숙소 · 우리 후보 6위",
-            "have": true
+            "have": true,
+            "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800"
           },
           {
             "cat": "move",
@@ -6279,7 +6315,8 @@
             "t": 508,
             "tl": "8:28",
             "desc": "하노이→사파 슬리핑 버스 탑승 (8:46)",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUXGZUc1Dez4aTfufCh2O6E8WuT-PpKP6vjSlBwMsqTnyJdl5C_o1Fj_3CQDTx8DQOGWNJ73PRPmnlqOu6X4wrTy2cKE1-TZZ89FDcdI5GP0suUUIqT3zkEXdu31zSU-Ew9yTPYUTX4nYf=w800-h600-k-no"
           },
           {
             "cat": "move",
@@ -6289,10 +6326,35 @@
             "t": 335,
             "tl": "5:35",
             "desc": "사파→하노이 버스 · 우리도 HK 탈 예정",
-            "have": false
+            "have": false,
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RvU31KRrcDCttYZOGFtprzA3eKILsEVKHMWStSv1LuM9h89boJOkJcAgeyoACcEYPvuv6Aad4lk-kR-b54WTKsqs7XVmL2qtzB_C5BXn6cHc6inBnjaGezf30zJODH7B_wy_iGGW8X7GMF=w800-h600-k-no"
           }
         ],
         "note": "4박 6일 하노이·사파 · 관광지보다 좋아하는 공간·풍경 위주 · 하노이↔사파 둘 다 HK Buslines"
+      },
+      {
+        "id": "talkpawon",
+        "name": "톡파원25시",
+        "videos": [
+          {
+            "id": "IXPYFdSIUnI",
+            "title": "톡파원25시 · 사파 편"
+          }
+        ],
+        "note": "방송에 나온 곳 중 우리 후보 리스트와 겹치는 곳",
+        "items": [
+          {
+            "cat": "stay",
+            "city": "사파",
+            "name": "Cat Cat Hills Resort & Spa",
+            "v": "IXPYFdSIUnI",
+            "t": 838,
+            "tl": "13:58",
+            "desc": "방송에 나온 숙소 · 우리 사파 숙소 후보(숙소 탭)에 있음",
+            "have": true,
+            "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800"
+          }
+        ]
       }
     ]
   }
