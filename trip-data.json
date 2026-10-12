@@ -3943,7 +3943,8 @@
       "check": "응옥선 사당 입장료·운영시간",
       "time": "40–60분",
       "lat": 21.0286669,
-      "lng": 105.8521484
+      "lng": 105.8521484,
+      "cat": "spot"
     },
     {
       "name": "성 요셉 성당",
@@ -3969,7 +3970,8 @@
           "id": "hanoi.xinchao",
           "url": "https://www.instagram.com/p/DdD4rsGSV34/"
         }
-      ]
+      ],
+      "cat": "spot"
     },
     {
       "name": "호치민 묘 · 관저 · 바딘광장 · 한기둥사원",
@@ -3989,7 +3991,8 @@
           "id": "yrmm.ha",
           "url": "https://www.instagram.com/p/DaNmFy4AY5C/"
         }
-      ]
+      ],
+      "cat": "spot"
     },
     {
       "name": "항마 거리 (Hàng Mã) 등불 골목",
@@ -4016,7 +4019,8 @@
       ],
       "city": "hanoi",
       "lat": 21.0367993,
-      "lng": 105.8473641
+      "lng": 105.8473641,
+      "cat": "street"
     },
     {
       "name": "하노이 기찻길 – 북쪽 풍흥 (29A Nguyễn Thái Học)",
@@ -4050,7 +4054,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "exp"
     },
     {
       "name": "하노이 기찻길 – 남쪽 레주언 (Lê Duẩn)",
@@ -4073,7 +4078,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tch2PWiOOkcu-mA8k3kyCoTUaqmS94VgN0ydL_Btuqaaz3kP7UlNzz7RU7eteZyeEkErgSS_28Nz4Xej5FgVxpWwXgd1mztr6k_PNB26hRrw2kXGu8CI7RDrge-FA2eBRSf55tk0cSqkg=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tch2PWiOOkcu-mA8k3kyCoTUaqmS94VgN0ydL_Btuqaaz3kP7UlNzz7RU7eteZyeEkErgSS_28Nz4Xej5FgVxpWwXgd1mztr6k_PNB26hRrw2kXGu8CI7RDrge-FA2eBRSf55tk0cSqkg=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "exp"
     },
     {
       "name": "The Hanoi Train (관광열차)",
@@ -4103,7 +4109,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sg4fljfKc475ecoOiV7pTJjWxUKfKK8V45g6ZhSoP6RyKYTSG7zc3DcwKMTKJq4Z2NlM-2qPl5TFecBpdh6qIc_PP20i5RE3a6I9A2UPqgkocm22LllWsCB47dbeiKiM8W9XMGVToqzOmk=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sg4fljfKc475ecoOiV7pTJjWxUKfKK8V45g6ZhSoP6RyKYTSG7zc3DcwKMTKJq4Z2NlM-2qPl5TFecBpdh6qIc_PP20i5RE3a6I9A2UPqgkocm22LllWsCB47dbeiKiM8W9XMGVToqzOmk=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "exp"
     },
     {
       "name": "탕롱 황성 (Hoàng thành Thăng Long)",
@@ -4126,7 +4133,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI-K4WGPfaCtR1uOqnLge-CU10468BGITfTB2pLyGdfNA4trBBQxoE-oyCw-am4BftwnfbbrxzOlDE84rSiBJ5VJFwPr3vnaUDWrZNGkJqXZkqItR7JuqpBPPylkHas-XewQybFQ=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI-K4WGPfaCtR1uOqnLge-CU10468BGITfTB2pLyGdfNA4trBBQxoE-oyCw-am4BftwnfbbrxzOlDE84rSiBJ5VJFwPr3vnaUDWrZNGkJqXZkqItR7JuqpBPPylkHas-XewQybFQ=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spot"
     },
     {
       "name": "응오시리엔 시장 (Chợ Ngô Sĩ Liên)",
@@ -4149,7 +4157,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SawiCZQu5CcuzhF47HEFnmbhNs7E9TSZXm_yMDx-nIM0voQTThjRCbCZhJ0kQ8m7eXrQnU6qYGXMz2DSdYj20blAdj7L9jVMu-75zDH9y5kho_2B0bfSdHrWZW7GoxaG5nLXsBxvNeDDlN=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SawiCZQu5CcuzhF47HEFnmbhNs7E9TSZXm_yMDx-nIM0voQTThjRCbCZhJ0kQ8m7eXrQnU6qYGXMz2DSdYj20blAdj7L9jVMu-75zDH9y5kho_2B0bfSdHrWZW7GoxaG5nLXsBxvNeDDlN=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "street"
     },
     {
       "name": "맥주거리 (Tạ Hiện)",
@@ -4172,7 +4181,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9St37zQFSDObUACEOdfI2O15bFnH9IE42DWt8ACIxbAnPYAq6NEakiMwBVcUmsadmLf0fwr5UCZ3x_-mp7zYaciSVhAYS3HNJsVn9fB_zBMl5ogPOnTawEn9e0z68bmrEiwX-yO=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9St37zQFSDObUACEOdfI2O15bFnH9IE42DWt8ACIxbAnPYAq6NEakiMwBVcUmsadmLf0fwr5UCZ3x_-mp7zYaciSVhAYS3HNJsVn9fB_zBMl5ogPOnTawEn9e0z68bmrEiwX-yO=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "street"
     },
     {
       "name": "롱비엔 다리 (Cầu Long Biên)",
@@ -4189,7 +4199,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz08D_tXE8RNoxz22eQAUEXBlqUHHa-Iy1Eu8ou_TjzYsrxqHUwrfbmXgBUPN-KinUzogR48jD41Lex8IOTB8tdsoXAjdMWkfaz13s1rCJAl16Lnga3ML3ITSoL5pHwKr_C3QG9OMJYf0V=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz08D_tXE8RNoxz22eQAUEXBlqUHHa-Iy1Eu8ou_TjzYsrxqHUwrfbmXgBUPN-KinUzogR48jD41Lex8IOTB8tdsoXAjdMWkfaz13s1rCJAl16Lnga3ML3ITSoL5pHwKr_C3QG9OMJYf0V=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spot"
     },
     {
       "name": "센스파 (Sen Spa)",
@@ -4212,7 +4223,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUJiO1JVj9ZGkdEZ-wDRDBTWSw5lKE12VfSSEUEKqiBwJVHtDhJhGtPQnVaJj-eLutVy_Mr4magpzOkb_4CGPN5QFLhoNHNKkExWbE47-_Repyy8sJAu4wPcnGk-VSc1YGVHAGfcIKsVOQ=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUJiO1JVj9ZGkdEZ-wDRDBTWSw5lKE12VfSSEUEKqiBwJVHtDhJhGtPQnVaJj-eLutVy_Mr4magpzOkb_4CGPN5QFLhoNHNKkExWbE47-_Repyy8sJAu4wPcnGk-VSc1YGVHAGfcIKsVOQ=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spa"
     },
     {
       "name": "레센스스파 (L’essence Spa)",
@@ -4235,7 +4247,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK13nudIX9xrTvjkSOmHjhQyCEKgvvf7ib7645Led1fRoFmoPbNP3UvHoJJM-Mq8pDyVkxT0I7Kkj_YzisKjd4NENWU5WNTUvzftQ9zqhlCRZx_ln7Bq8Q_FlGD9FQr35rzGZnARck_Ig=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK13nudIX9xrTvjkSOmHjhQyCEKgvvf7ib7645Led1fRoFmoPbNP3UvHoJJM-Mq8pDyVkxT0I7Kkj_YzisKjd4NENWU5WNTUvzftQ9zqhlCRZx_ln7Bq8Q_FlGD9FQr35rzGZnARck_Ig=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spa"
     },
     {
       "name": "Thu An Spa",
@@ -4258,7 +4271,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0kyoZ8MdPw_PxAKyLGhyWP-lGtoqbMdg-tyPvbSH8mwrSbZQQo8cvAwJ2I0m8gkxBAIWJlyS9Owjc31VPMWU5WFUhcG5HhczQJseRo0yAuNXLs3b3Co2wa8fqyoBKYS60KhmX9G0txRk=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0kyoZ8MdPw_PxAKyLGhyWP-lGtoqbMdg-tyPvbSH8mwrSbZQQo8cvAwJ2I0m8gkxBAIWJlyS9Owjc31VPMWU5WFUhcG5HhczQJseRo0yAuNXLs3b3Co2wa8fqyoBKYS60KhmX9G0txRk=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spa"
     },
     {
       "name": "쓰리따봉 스파 (Three Tabom Spa)",
@@ -4288,7 +4302,8 @@
       "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QraI-nz58EbJPsUMAGmFPupBW16H5i4U8EcehyZi6-4fnyOMMvk92pJDvRUPHNNq9b8NmO1xnCdyqT9uQ2ImOYIhaUYkgj3kVs437KbqPHGVZZk9Hs1Ybkv2TNiiNGcyRVgJMPtKZePqs=w1200-h900-k-no",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QraI-nz58EbJPsUMAGmFPupBW16H5i4U8EcehyZi6-4fnyOMMvk92pJDvRUPHNNq9b8NmO1xnCdyqT9uQ2ImOYIhaUYkgj3kVs437KbqPHGVZZk9Hs1Ybkv2TNiiNGcyRVgJMPtKZePqs=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spa"
     },
     {
       "name": "Moana Sapa",
@@ -4319,7 +4334,8 @@
       "time": "45–90분 권장",
       "city": "sapa",
       "lat": 22.3273593,
-      "lng": 103.8459589
+      "lng": 103.8459589,
+      "cat": "spot"
     },
     {
       "name": "판시판",
@@ -4368,7 +4384,8 @@
       "city": "sapa",
       "lat": 22.33456,
       "lng": 103.84048,
-      "fhy": true
+      "fhy": true,
+      "cat": "spot"
     },
     {
       "name": "무엉화 산악열차",
@@ -4382,7 +4399,8 @@
       "time": "30분–1시간 여유",
       "city": "sapa",
       "lat": 22.3349,
-      "lng": 103.8399
+      "lng": 103.8399,
+      "cat": "exp"
     },
     {
       "name": "깟깟마을",
@@ -4418,7 +4436,8 @@
       "city": "sapa",
       "lat": 22.32853,
       "lng": 103.83468,
-      "fhy": true
+      "fhy": true,
+      "cat": "spot"
     },
     {
       "name": "함종산 전망대",
@@ -4438,7 +4457,8 @@
       "time": "1.5–2.5시간 권장",
       "city": "sapa",
       "lat": 22.33443,
-      "lng": 103.84255
+      "lng": 103.84255,
+      "cat": "spot"
     },
     {
       "name": "사랑폭포",
@@ -4452,7 +4472,8 @@
       "time": "왕복 이동 포함 반나절",
       "city": "sapa",
       "lat": 22.34734,
-      "lng": 103.77243
+      "lng": 103.77243,
+      "cat": "spot"
     },
     {
       "name": "헤븐 게이트",
@@ -4466,7 +4487,8 @@
       "time": "이동 포함 2–3시간",
       "city": "sapa",
       "lat": 22.3527,
-      "lng": 103.7766
+      "lng": 103.7766,
+      "cat": "spot"
     },
     {
       "name": "사파 호수",
@@ -4486,7 +4508,8 @@
       "time": "30–60분",
       "city": "sapa",
       "lat": 22.3380984,
-      "lng": 103.8459004
+      "lng": 103.8459004,
+      "cat": "spot"
     },
     {
       "name": "사파 마을 힐링 트레킹",
@@ -4506,7 +4529,8 @@
       "time": "1.5–3시간",
       "city": "sapa",
       "lat": 22.304,
-      "lng": 103.885
+      "lng": 103.885,
+      "cat": "exp"
     },
     {
       "name": "MASSAGE 017",
@@ -4521,7 +4545,8 @@
       "city": "sapa",
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-QkSuIGOzZIfxrn6u49h7u_fwHtBvaa0seOi8a_zacJHYrT2MKN94HWOqsHWRcW_Uomx1YklSHFKhNluDA-LsYAVag8GWB33lCnLFM60xWLHF4HFvCZ-4f4-E3UtXrsqtpgzd9g=w1200-h900-k-no"
-      ]
+      ],
+      "cat": "spa"
     },
     {
       "name": "깟깟마을 알파인 코스터/슬라이드",
@@ -4557,7 +4582,8 @@
       "time": "대기 포함 15–30분",
       "city": "sapa",
       "lat": 22.3304,
-      "lng": 103.8353
+      "lng": 103.8353,
+      "cat": "exp"
     },
     {
       "name": "사파 야시장",
@@ -4587,7 +4613,8 @@
           "by": "@cherish.travel",
           "cap": "사파 야시장 다녀온 후기"
         }
-      ]
+      ],
+      "cat": "street"
     },
     {
       "name": "사파 돌 성당 (노트르담)",
@@ -4606,7 +4633,8 @@
       "time": "20–30분",
       "city": "sapa",
       "lat": 22.3350884,
-      "lng": 103.8423651
+      "lng": 103.8423651,
+      "cat": "spot"
     },
     {
       "name": "사파 사우나 (Sapa sauna)",
@@ -4630,7 +4658,8 @@
           "cap": "사파에서 꼭 해볼 사우나"
         }
       ],
-      "city": "sapa"
+      "city": "sapa",
+      "cat": "spa"
     }
   ],
   "shop": {
