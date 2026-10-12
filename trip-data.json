@@ -525,19 +525,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 179637,
-            "pp": 59879,
+            "nightTotal": 195579,
+            "pp": 65193,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": "2",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
             "extraBed": false,
             "rank": 1,
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 59849,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 59879,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "하노이역 500m라 22시 야간열차 타기 최적 · 조식·무료취소 · 평점 9.2(7.5천건) · 수진 픽",
             "cmp": {
               "at": "10/12",
@@ -561,8 +561,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 105732,
-            "pp": 35244,
+            "nightTotal": 105020,
+            "pp": 35007,
             "breakfast": true,
             "left": "3",
             "room": "트리플룸",
@@ -571,9 +571,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 35213,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 35244,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "구시가지·호수 700m · 조식 포함 1인 3.5만원 · 트리플룸 · 역까지 택시 5분",
             "cmp": {
               "at": "10/12",
@@ -605,8 +605,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 211735,
-            "pp": 70578,
+            "nightTotal": 210331,
+            "pp": 70110,
             "breakfast": true,
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
@@ -615,9 +615,9 @@
             "note": "TOP5 글 기준 83,437원~ (2인가) · 3인은 추가요금 반영",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 70553,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 70578,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "조식 뷔페 포함 1인 7만원 · 평점 9.0 · 다만 바딘이라 구시가지·역 2km",
             "cmp": {
               "at": "10/12",
@@ -650,8 +650,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 243645,
-            "pp": 81215,
+            "nightTotal": 287296,
+            "pp": 95765,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
@@ -660,9 +660,9 @@
             "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 84729,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 81215,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "5성 평점 9.2(1.3만건)·수영장 · 1인 8.1만원인데 조식 없음 · 구시가지 택시 15분",
             "cmp": {
               "at": "10/12",
@@ -694,19 +694,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 239615,
-            "pp": 79872,
+            "nightTotal": 238161,
+            "pp": 79387,
             "breakfast": false,
-            "left": null,
+            "left": "",
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
             "extraBed": false,
             "rank": 5,
             "note": "TOP5 글 기준 124,493원~ (2인가)",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 79892,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 79872,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "인터내셔널 체인 · 1인 8만원 조식 없음 · 동다 지역이라 관광 동선 멂",
             "cmp": {
               "at": "10/12",
@@ -739,8 +739,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 79221,
-            "pp": 26407,
+            "nightTotal": 78765,
+            "pp": 26255,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "패밀리 디럭스 (최대 4인)",
@@ -749,9 +749,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 26410,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 26407,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "구시가지에 1인 2.6만원으로 제일 쌈 · 사진상 낡아서 의심 → 10만원↑ 바로 위",
             "cmp": {
               "at": "10/12",
@@ -788,19 +788,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 309100,
-            "pp": 103033,
+            "nightTotal": 307225,
+            "pp": 102408,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": "",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
             "rank": 7,
             "note": "조식 포함 여부 확인 필요",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 123672,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 103033,
+            "prevAt": "10/12",
             "why": "역 700m·기찻길 3분 위치 최고 · 1인 10.3만원·조식 없음이라 예산 초과"
           },
           "lat": 21.0307215,
@@ -815,8 +815,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 368072,
-            "pp": 122691,
+            "nightTotal": 365520,
+            "pp": 121840,
             "breakfast": true,
             "left": "2",
             "room": "스위트 시티뷰",
@@ -825,9 +825,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "prevPp": 122614,
-            "prevAt": "10/11",
-            "checked": "10/12",
+            "prevPp": 122691,
+            "prevAt": "10/12",
+            "checked": "10/13",
             "why": "구시가지 · 1인 12.3만원 스위트 · 일반실은 2인 기준",
             "cmp": {
               "at": "10/12",
@@ -861,8 +861,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 523842,
-            "pp": 174614,
+            "nightTotal": 462813,
+            "pp": 154271,
             "breakfast": true,
             "left": "4",
             "room": "주니어 스위트 (발코니)",
@@ -871,9 +871,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 174659,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 174614,
+            "prevAt": "10/12",
             "why": "호수 400m 위치 최고 · 1인 17.5만원으로 1박 자고 나가기엔 과함",
             "cmp": {
               "at": "10/12",
@@ -912,7 +912,7 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "lat": 21.0322535,
           "lng": 105.8538996
@@ -936,7 +936,7 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "lat": 21.0357215,
           "lng": 105.8476901
@@ -960,23 +960,25 @@
           "lng": 103.8422884,
           "avail": {
             "soldOut": false,
-            "nightTotal": 244367,
-            "pp": 81456,
+            "nightTotal": 242724,
+            "pp": 80908,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": "",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 1,
             "note": "예슬 1순위 추천",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "why": "시내 한복판(광장 250m)·5성 9.6·조식·무료 얼리체크인 → 야간열차 도착 후 바로 쉬기 좋음",
             "cmp": {
               "at": "10/12",
               "p": {},
               "w": "구글호텔에 부킹 ₩40,650·아고다 ₩29,233이 뜨지만 도미토리/1인실로 보임 → 3인 기준은 아고다 객실가"
-            }
+            },
+            "prevPp": 81456,
+            "prevAt": "10/12"
           }
         },
         {
@@ -997,8 +999,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 138349,
-            "pp": 46116,
+            "nightTotal": 135941,
+            "pp": 45314,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
@@ -1007,9 +1009,9 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 45588,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 46116,
+            "prevAt": "10/12",
             "why": "시내 400m·조식 포함인데 1인 4.6만원 → 위치·가격 균형 최고",
             "cmp": {
               "at": "10/12",
@@ -1031,19 +1033,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 281985,
-            "pp": 93995,
+            "nightTotal": 280068,
+            "pp": 93356,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": "",
             "room": "디럭스 프리미어 룸",
             "extraBed": true,
             "rank": 3,
             "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹 · Trip.com 2박 563,916원 (아고다와 비슷)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 93941,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 93995,
+            "prevAt": "10/12",
             "why": "논뷰·인피니티풀 “사파 감성” 1위, 조식 포함 · 시내 4.5km라 차 이동 필요",
             "cmp": {
               "at": "10/12",
@@ -1131,8 +1133,8 @@
           "lng": 103.8565571,
           "avail": {
             "soldOut": false,
-            "nightTotal": 142990,
-            "pp": 47663,
+            "nightTotal": 141752,
+            "pp": 47251,
             "breakfast": true,
             "left": "2",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
@@ -1141,7 +1143,7 @@
             "note": "외곽(시내 차로 15분) · 풍향고 촬영지",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "why": "풍향고 촬영지·조식·무료취소에 1인 4.8만원 · 시내 차로 15분, 평점 8.0",
             "cmp": {
               "at": "10/12",
@@ -1149,7 +1151,9 @@
                 "부킹닷컴": 217919,
                 "bluepillow": 146381
               }
-            }
+            },
+            "prevPp": 47663,
+            "prevAt": "10/12"
           },
           "searchBy": "예슬&지영 서칭"
         },
@@ -1167,18 +1171,18 @@
           "lat": 22.3305348,
           "lng": 103.8446597,
           "avail": {
-            "soldOut": false,
-            "nightTotal": 132241,
-            "pp": 44080,
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
             "breakfast": false,
-            "left": "",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 5,
-            "note": "Trip.com이 1박 약 3.2만원 더 쌈",
+            "rank": 87,
+            "note": "10/13 성인 3명 기준 아고다 판매 종료(가격 미표시)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "why": "시내 600m·후기 1.2만건 9.2 · 조식 없음 · Trip.com이 더 쌈",
             "cmp": {
               "at": "10/12",
@@ -1186,7 +1190,9 @@
                 "트립닷컴": 100245
               },
               "w": "트립은 캡처(2박 ₩200,490) 기준 · 구글호텔의 부킹 ₩2만·호텔스 ₩2.5만은 2인 소형 객실로 보여 제외"
-            }
+            },
+            "prevPp": 44080,
+            "prevAt": "10/12"
           },
           "searchBy": "예슬&지영 서칭"
         },
@@ -1199,19 +1205,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 175868,
-            "pp": 58623,
+            "nightTotal": 193840,
+            "pp": 64613,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": "2",
             "room": "패밀리 마운틴뷰 (최대 4인)",
             "extraBed": false,
-            "rank": 6,
+            "rank": 5,
             "note": "침대 넉넉한 패밀리룸",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 58575,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 58623,
+            "prevAt": "10/12",
             "why": "4인 패밀리룸이라 3명 침대 넉넉·조식 · 깟깟마을 쪽 경사길",
             "cmp": {
               "at": "10/12",
@@ -1266,19 +1272,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 344808,
-            "pp": 114936,
+            "nightTotal": 363102,
+            "pp": 121034,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
             "extraBed": false,
-            "rank": 7,
+            "rank": 6,
             "note": "Trip.com 2박 687,840원 (ELITE_SALE 쿠폰 · 아고다와 비슷)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 112473,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 114936,
+            "prevAt": "10/12",
             "why": "시내 5성 리조트·조식 · 1인 11.5만원으로 예산 위쪽",
             "cmp": {
               "at": "10/12",
@@ -1319,24 +1325,26 @@
           "lng": 103.856557,
           "avail": {
             "soldOut": false,
-            "nightTotal": 244243,
-            "pp": 81414,
+            "nightTotal": 227520,
+            "pp": 75840,
             "breakfast": true,
             "left": "2",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
-            "rank": 8,
+            "rank": 7,
             "note": "외곽(시내 차로 15분) · 본관보다 새 건물",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "why": "몽빌리지 신관이라 새 건물 · 후기 4건뿐이고 가격이 본관보다 1.7배",
             "cmp": {
               "at": "10/12",
               "p": {
                 "부킹닷컴": 268102
               }
-            }
+            },
+            "prevPp": 81414,
+            "prevAt": "10/12"
           },
           "searchBy": "예슬&지영 서칭"
         },
@@ -1349,19 +1357,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 300783,
-            "pp": 100261,
+            "nightTotal": 287769,
+            "pp": 95923,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "H'Mong 스위트",
             "extraBed": true,
-            "rank": 9,
+            "rank": 8,
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 99866,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 100261,
+            "prevAt": "10/12",
             "why": "전망 스위트·조식 · 1인 10만원에 언덕길"
           },
           "gallery": [
@@ -1392,19 +1400,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 450906,
-            "pp": 150302,
+            "nightTotal": 435845,
+            "pp": 145282,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
-            "rank": 10,
+            "rank": 9,
             "note": "Trip.com 2박 900,290원 (아고다와 같음)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 144590,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 150302,
+            "prevAt": "10/12",
             "why": "절벽 뷰 5성 · 1인 15만원 — 한 번 플렉스용",
             "cmp": {
               "at": "10/12",
@@ -1457,19 +1465,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 432540,
-            "pp": 144180,
+            "nightTotal": 430500,
+            "pp": 143500,
             "breakfast": false,
-            "left": null,
+            "left": "",
             "room": "클래식 트윈 2실",
             "extraBed": false,
-            "rank": 11,
+            "rank": 10,
             "note": "3명이면 객실 2개 예약 필요",
             "rooms": 2,
             "bfOption": "조식 1인 26,937원 추가",
-            "checked": "10/12",
-            "prevPp": 143825,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 144180,
+            "prevAt": "10/12",
             "why": "케이블카역 연결 MGallery · 3명이면 방 2개라 1인 14.4만원, 조식 별도"
           },
           "gallery": [
@@ -1512,19 +1520,19 @@
           "url": "https://ladyhillsapa.com/",
           "avail": {
             "soldOut": false,
-            "nightTotal": 390151,
-            "pp": 130050,
+            "nightTotal": 380647,
+            "pp": 126882,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
             "extraBed": false,
-            "rank": 12,
+            "rank": 11,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 1인 28,491원 추가",
-            "checked": "10/12",
-            "prevPp": 127331,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 130050,
+            "prevAt": "10/12",
             "why": "5성·트리플룸 · 조식 없이 1인 13만원"
           },
           "gallery": [
@@ -1549,19 +1557,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 148117,
-            "pp": 49372,
+            "nightTotal": 147127,
+            "pp": 49042,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": "",
             "room": "마운틴뷰 방갈로",
             "extraBed": true,
-            "rank": 13,
+            "rank": 12,
             "note": "후기: 방 좁음",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 49348,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 49372,
+            "prevAt": "10/12",
             "why": "가격은 좋지만 방이 좁다는 후기 + 조식 없음 → 관광 위주 일정엔 비추",
             "cmp": {
               "at": "10/12",
@@ -1617,19 +1625,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 479337,
-            "pp": 159779,
+            "nightTotal": 637231,
+            "pp": 212410,
             "breakfast": true,
             "left": "2",
             "room": "Premium Executive",
             "extraBed": true,
-            "rank": 14,
+            "rank": 13,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 159710,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 159779,
+            "prevAt": "10/12",
             "why": "최고급 에코로지지만 시내 45분 → 판시판 당일·오전 버스 일정과 충돌, 1인 16만원"
           },
           "gallery": [
@@ -1749,19 +1757,19 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 170905,
-            "pp": 56968,
+            "nightTotal": 169868,
+            "pp": 56623,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": "",
             "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
-            "rank": 15,
+            "rank": 14,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 포함 요금 1박 186,490원",
-            "checked": "10/12",
-            "prevPp": 56983,
-            "prevAt": "10/11",
+            "checked": "10/13",
+            "prevPp": 56968,
+            "prevAt": "10/12",
             "why": "퀸베드 1개 방갈로라 3명 비현실적 · 시내 4.7km",
             "cmp": {
               "at": "10/12",
@@ -1826,17 +1834,17 @@
           "lng": 103.8454701,
           "avail": {
             "soldOut": false,
-            "nightTotal": 42053,
-            "pp": 14018,
+            "nightTotal": 41758,
+            "pp": 13919,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "최저가 객실 (무료 취소)",
             "extraBed": false,
-            "rank": 16,
+            "rank": 15,
             "note": "⚠ 너무 싸서 의심 — 2인 객실 가격일 가능성, 3인 침대·추가요금·실제 후기 확인 전엔 보류",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "why": "너무 싸서 의심 — 3인 객실 확인 전 보류",
             "cmp": {
               "at": "10/12",
@@ -1844,7 +1852,9 @@
                 "부킹닷컴": 113431
               },
               "w": "부킹은 4인 객실 ₩113,431 — 아고다 ₩4만대는 비정상적으로 싸서 객실 조건 꼭 확인"
-            }
+            },
+            "prevPp": 14018,
+            "prevAt": "10/12"
           },
           "searchBy": "예슬&지영 서칭",
           "noHi": true
@@ -1869,7 +1879,7 @@
             "note": "취소 물량이 나오면 바로 잡기",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "lat": 22.3366469,
           "lng": 103.844393,
@@ -1899,7 +1909,7 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "lat": 22.3328104,
           "lng": 103.843522,
@@ -1929,7 +1939,7 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "lat": 22.3312963,
           "lng": 103.8435113,
@@ -1959,7 +1969,7 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           },
           "ig": [
             {
@@ -2061,7 +2071,7 @@
             "note": "시내 도보권 · 가성비",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12",
+            "checked": "10/13",
             "prevPp": 40802,
             "prevAt": "10/11"
           },
@@ -2142,7 +2152,7 @@
             "note": "10/12 아고다 성인 3명 11/15–17 요금 안 뜸 · 취소 물량 나오면 잡기",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/13"
           }
         }
       ],
@@ -2152,8 +2162,8 @@
         "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
-      "checkedAt": "2026-10-12 09:21 (KST) 아고다 기준",
-      "sortNote": "Claude 검토 순위 (10/12): 우리 동선(11/15 새벽 야간열차 도착 → 판시판·깟깟마을, 11/17 오전 9시 버스) 기준 · 시내 접근성 > 1인 가격 > 조식·3인 침대 > 평점·후기 > 뷰 감성 순 · 예약 불가는 맨 아래",
+      "checkedAt": "2026-10-13 08:40 (KST) 아고다 기준",
+      "sortNote": "Claude 검토 순위 (10/13): 우리 동선(11/15 새벽 야간열차 도착 → 판시판·깟깟마을, 11/17 오전 9시 버스) 기준 · 시내 접근성 > 1인 가격 > 조식·3인 침대 > 평점·후기 > 뷰 감성 순 · 예약 불가는 맨 아래",
       "landmarks": {
         "hanoi": [
           {
@@ -2289,7 +2299,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-12 19:45 (KST) 구글 항공편·스카이스캐너 · 성인 1명 (네이버 가격알림 272,900원 확인 후 재조회)",
+    "checkedAt": "2026-10-13 08:20 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -2312,12 +2322,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 151100,
+                "total": 151000,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 155100,
+                "total": 155000,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2338,12 +2348,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 114530,
+                "total": 109600,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 141835,
+                "total": 142000,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2382,12 +2392,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 304030,
+                "total": 298100,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 377400,
+                "total": 296999,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2452,6 +2462,25 @@
           "B": {
             "s": 304030,
             "g": 377400
+          }
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "A": 260600,
+        "B": 296999,
+        "detail": {
+          "A_out": {
+            "s": 151000,
+            "g": 155000
+          },
+          "A_ret": {
+            "s": 109600,
+            "g": 142000
+          },
+          "B": {
+            "s": 298100,
+            "g": 296999
           }
         }
       }
@@ -3394,13 +3423,13 @@
             "id": "flight",
             "q": "수진·소영 항공권 지금 예매!",
             "goto": "flights",
-            "hint": "지영이랑 같은 편으로 각자 예매하면 끝 (10/12 저녁 가격 급락, 지금이 최저가)",
+            "hint": "지영이랑 같은 편으로 각자 예매하면 끝 (10/13 아침 또 소폭 하락, 역대 최저)",
             "step": 0,
             "label": "항공권",
             "todo": [
               "가는 편: 제주항공 7C2201 · 11/13(금) 21:20 → 00:40",
               "오는 편: 비엣젯 VJ960 · 11/18(수) 01:45 → 07:55",
-              "편도 2장 1인 약 26.6만원 (스카이스캐너 기준)",
+              "편도 2장 1인 약 26.1만원 (스카이스캐너 10/13 기준)",
               "수하물 포함 여부 결제 전 확인"
             ]
           },
@@ -3514,7 +3543,7 @@
               {
                 "id": "horizon",
                 "label": "사파 호라이즌 (5성)",
-                "meta": "2박 1인 16.3만 · 광장 250m · 예슬 1순위",
+                "meta": "2박 1인 16.2만 · 광장 250m · 예슬 1순위",
                 "rec": true,
                 "hotel": [
                   "sapa",
@@ -3524,7 +3553,7 @@
               {
                 "id": "delasol",
                 "label": "드라솔",
-                "meta": "2박 1인 9.2만 · 시내 400m · 가성비",
+                "meta": "2박 1인 9.1만 · 시내 400m · 가성비 · 마지막 1개",
                 "hotel": [
                   "sapa",
                   1
@@ -3533,7 +3562,7 @@
               {
                 "id": "laxsik",
                 "label": "락식 에코로지",
-                "meta": "2박 1인 18.8만 · 논뷰·인피니티풀 · 차 이동",
+                "meta": "2박 1인 18.7만 · 논뷰·인피니티풀 · 차 이동",
                 "hotel": [
                   "sapa",
                   2
@@ -3551,7 +3580,7 @@
               {
                 "id": "kk",
                 "label": "KK 사파",
-                "meta": "2박 1인 약 6.7만 · 시내 600m · 조식 없음",
+                "meta": "❌ 10/13 아고다 매진 (3인) · 시내 600m",
                 "hotel": [
                   "sapa",
                   4
@@ -3560,7 +3589,7 @@
               {
                 "id": "split",
                 "label": "1박씩 나누기",
-                "meta": "시내 1박 + 뷰 1박 (드라솔+락식 1인 14만)"
+                "meta": "시내 1박 + 뷰 1박 (드라솔+락식 1인 13.9만)"
               }
             ],
             "step": 5,
@@ -3575,7 +3604,7 @@
               {
                 "id": "acoustic",
                 "label": "어쿠스틱",
-                "meta": "1인 6만 · 역 500m · 조식·무료취소",
+                "meta": "1인 6.5만 · 역 500m · 조식·무료취소",
                 "rec": true,
                 "hotel": [
                   "hanoi",
@@ -3594,7 +3623,7 @@
               {
                 "id": "hb",
                 "label": "하노이 부티크",
-                "meta": "1인 12.3만 · 구시가지",
+                "meta": "1인 12.2만 · 구시가지",
                 "hotel": [
                   "hanoi",
                   7
@@ -3603,7 +3632,7 @@
               {
                 "id": "ld",
                 "label": "리틀 다이아몬드",
-                "meta": "1인 2.6만 · 제일 쌈 · 낡음",
+                "meta": "1인 2.6만 · 제일 쌈 · 낡음 · 마지막 1개",
                 "hotel": [
                   "hanoi",
                   5
