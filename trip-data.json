@@ -883,96 +883,45 @@
             "note": "예슬 1순위 추천",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "시내 한복판(광장 250m)·5성 9.6·조식·무료 얼리체크인 → 야간열차 도착 후 바로 쉬기 좋음"
           }
         },
         {
-          "name": "The Mong Village Resort & Spa (몽빌리지)",
-          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=36825623",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=36825623&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "note": "풍향고(핑계고) 촬영지 · 라오까이 타반 쪽, 시내에서 차로 약 15분 · 깟깟마을 차로 10분 · 방갈로가 마을처럼 모인 구조, 계단식 논·산 뷰 · 야외 수영장·레스토랑·스파",
-          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ST8mKEplCzjV2FCiHevLbTh7uMobHbvyd5jkwdTLuYGN4RuzlzZtacazcxM_9cS3VS5Lil6SGbzB8LTV5TrOaL1yyayidUlS9VJ3DTs2j48-X68skwQt6AzVCNE28Uj_DXSY4ufoYxzf3W=w1200-h900-k-no",
+          "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=30726011&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "숙소 리스트 글 추천: 4성급 가성비 시내 호텔 · 평점 8.9(2,459건), 위치 9.3 · 돌 성당 344m, 케이블카역 도보 · 마운틴뷰, 파노라마 뷔페 조식 · 최근 리노베이션",
+          "photo": "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
           "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ST8mKEplCzjV2FCiHevLbTh7uMobHbvyd5jkwdTLuYGN4RuzlzZtacazcxM_9cS3VS5Lil6SGbzB8LTV5TrOaL1yyayidUlS9VJ3DTs2j48-X68skwQt6AzVCNE28Uj_DXSY4ufoYxzf3W=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7tHkpsm-yPY4-Lzu0YeLUs2sbg-SsZrC6CMAfQMCJwSetVR89O5xPfC8lPXAEynAb4mmhFLCWDPt5D4YN3eP7zepoxVJ2uDj2qzDv702YFBn2PiR17-FoU750hl2wEoZ6MMF8JA=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SmDLFQ4-YhI_-zv_-LzaTS1B1pM2THwagQpyyr9jd_DvxGz781TgieFLWgmFuEGX5FpaKqTpB-uMHl98dHw3tv1Lsa4k8zYStc8iUTiuB36khTbObu5ojI-g8hBxnQH0eiTGFWfA=w1200-h900-k-no"
+            "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tmo2MQmQcwwiCZMLUbEJkmVEs6P6ASemUTbI7A7WI88B1FeaKfWBM2QucJ2QdCty5bJBQp6JjRLiALi315xVTleVfSuCbAmsuufOVoko4gJkX68P6o81lKsfZ6sZAmGcYJE1oFn73Ot_Eu=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ThTiSvmyEkEnhzmIynBwL5LHXan7y5T0pKRk04KKZtjCTDQIXgzV1ZpUGmshev3JKDoOktsQRw2x33GD9VzCuEC7vRFbjaspxYxGv3fcB4D6Pbe5eGTESvX_wc5SJeTErkgzt8YmGcQdY=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7EBaf5AWPCgfrBimYPPJgTMroEpnL0-k6TQe57o93wSq58mRuXnkpW-F1V5kvurU5aZopUXqKUBMFCWDTDlAouuaiq6KPVLAyYTDxrI3fBtrRJVHDVlG98Ft2mg0JdqBmAWMv=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLxJoOGLnwlvS7Ndpya7djgJm6R-B0J7p3mDvPhW4k4RXkgdM6d1k5xIsT3GZfXx_B0-TvX8DkBt1IFo8hRDPJjjFGP0Y8OYb-4lo2H_VbJz-l3APNJoY1fzsIDYNQfLWFBIh09LHlLm8=w1200-h900-k-no"
           ],
-          "lat": 22.3195118,
-          "lng": 103.8565571,
+          "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 142990,
-            "pp": 47663,
+            "nightTotal": 138349,
+            "pp": 46116,
             "breakfast": true,
-            "left": "2",
-            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 2,
-            "note": "외곽(시내 차로 15분) · 풍향고 촬영지",
+            "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/12",
+            "prevPp": 45588,
+            "prevAt": "10/11",
+            "why": "시내 400m·조식 포함인데 1인 4.6만원 → 위치·가격 균형 최고"
           },
-          "searchBy": "예슬&지영 서칭"
-        },
-        {
-          "name": "New Wing – The Mong Village Resort (몽빌리지 뉴윙)",
-          "url": "https://www.agoda.com/ko-kr/new-wing-the-mong-village-resort/hotel/sapa-vn.html",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=94616971&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "note": "몽빌리지 리조트 바로 옆 신관(뉴윙) · 4성급 · 신규라 후기 4건(9.8) · 타반 쪽, 시내 차로 약 15분",
-          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Syf5uAhuUFKEIvR5LlXGbb6Frz5sn4alfllqPZkdMpvQqHAS1rBUT88YhQqk2K3KwffH7ElcpARjrtZvqPQpfdBoBtfNd1vP6-T3Lf3gxNQVXUvQ1NiOp5uiKMf0kjN1cYDaSceIGXyWwP=w1200-h900-k-no",
-          "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Syf5uAhuUFKEIvR5LlXGbb6Frz5sn4alfllqPZkdMpvQqHAS1rBUT88YhQqk2K3KwffH7ElcpARjrtZvqPQpfdBoBtfNd1vP6-T3Lf3gxNQVXUvQ1NiOp5uiKMf0kjN1cYDaSceIGXyWwP=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rd74uc2cKH95XJbo8g4jihDCQiZlBHTmIjjBFAmPqYTgUQq5vcG61JQO1iP-GuRkjO4VGZr_2s9kO8zYmK4O46iWjnUjIcG57rLUlMWW1pp_E65NpxPOb-bzrdDG1qWoaPz2j_o37sanw=w1200-h900-k-no"
-          ],
-          "lat": 22.319513,
-          "lng": 103.856557,
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 244243,
-            "pp": 81414,
-            "breakfast": true,
-            "left": "2",
-            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
-            "extraBed": false,
-            "rank": 3,
-            "note": "외곽(시내 차로 15분) · 본관보다 새 건물",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12"
-          },
-          "searchBy": "예슬&지영 서칭"
-        },
-        {
-          "name": "KK Sapa Hotel (KK 사파 호텔)",
-          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=8099799",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8099799&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "note": "시내 중심가 · 발코니 전망 · 평점 9.2(1.2만건) · Trip.com 2박 총 200,490원(1박 약 10만원)으로 아고다보다 쌈 · 무료 취소",
-          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
-          "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RoqHFXH2dbrd4jlVBaKYqh6vJEti3pgS--DDwhYsyCG4IhshSFrNrzZAkPPjTNeYPCALVo7unV4LFXf110PY7RnzZ5r_fVZ2xoeJBEv_Qh0ndSsHad13Q7wVeLyBXPBJRF5yGJHW3j_tE=w1200-h900-k-no"
-          ],
-          "lat": 22.3305348,
-          "lng": 103.8446597,
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 132241,
-            "pp": 44080,
-            "breakfast": false,
-            "left": "",
-            "room": "성인 3명 기준 최저가 객실",
-            "extraBed": false,
-            "rank": 4,
-            "note": "Trip.com이 1박 약 3.2만원 더 쌈",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12"
-          },
-          "searchBy": "예슬&지영 서칭"
+          "lat": 22.332362,
+          "lng": 103.8435226
         },
         {
           "name": "Laxsik Ecolodge",
@@ -989,13 +938,14 @@
             "left": "마지막 1개",
             "room": "디럭스 프리미어 룸",
             "extraBed": true,
-            "rank": 5,
+            "rank": 3,
             "note": "슬로프 카페(Lô.Cồ) 도보 15분 · 논뷰 트레킹 · Trip.com 2박 563,916원 (아고다와 비슷)",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/12",
             "prevPp": 93941,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "논뷰·인피니티풀 “사파 감성” 1위, 조식 포함 · 시내 4.5km라 차 이동 필요"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
@@ -1058,6 +1008,287 @@
           ]
         },
         {
+          "name": "The Mong Village Resort & Spa (몽빌리지)",
+          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=36825623",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=36825623&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "note": "풍향고(핑계고) 촬영지 · 라오까이 타반 쪽, 시내에서 차로 약 15분 · 깟깟마을 차로 10분 · 방갈로가 마을처럼 모인 구조, 계단식 논·산 뷰 · 야외 수영장·레스토랑·스파",
+          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ST8mKEplCzjV2FCiHevLbTh7uMobHbvyd5jkwdTLuYGN4RuzlzZtacazcxM_9cS3VS5Lil6SGbzB8LTV5TrOaL1yyayidUlS9VJ3DTs2j48-X68skwQt6AzVCNE28Uj_DXSY4ufoYxzf3W=w1200-h900-k-no",
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ST8mKEplCzjV2FCiHevLbTh7uMobHbvyd5jkwdTLuYGN4RuzlzZtacazcxM_9cS3VS5Lil6SGbzB8LTV5TrOaL1yyayidUlS9VJ3DTs2j48-X68skwQt6AzVCNE28Uj_DXSY4ufoYxzf3W=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q7tHkpsm-yPY4-Lzu0YeLUs2sbg-SsZrC6CMAfQMCJwSetVR89O5xPfC8lPXAEynAb4mmhFLCWDPt5D4YN3eP7zepoxVJ2uDj2qzDv702YFBn2PiR17-FoU750hl2wEoZ6MMF8JA=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SmDLFQ4-YhI_-zv_-LzaTS1B1pM2THwagQpyyr9jd_DvxGz781TgieFLWgmFuEGX5FpaKqTpB-uMHl98dHw3tv1Lsa4k8zYStc8iUTiuB36khTbObu5ojI-g8hBxnQH0eiTGFWfA=w1200-h900-k-no"
+          ],
+          "lat": 22.3195118,
+          "lng": 103.8565571,
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 142990,
+            "pp": 47663,
+            "breakfast": true,
+            "left": "2",
+            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 4,
+            "note": "외곽(시내 차로 15분) · 풍향고 촬영지",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "why": "풍향고 촬영지·조식·무료취소에 1인 4.8만원 · 시내 차로 15분, 평점 8.0"
+          },
+          "searchBy": "예슬&지영 서칭"
+        },
+        {
+          "name": "KK Sapa Hotel (KK 사파 호텔)",
+          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=8099799",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8099799&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "note": "시내 중심가 · 발코니 전망 · 평점 9.2(1.2만건) · Trip.com 2박 총 200,490원(1박 약 10만원)으로 아고다보다 쌈 · 무료 취소",
+          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RoqHFXH2dbrd4jlVBaKYqh6vJEti3pgS--DDwhYsyCG4IhshSFrNrzZAkPPjTNeYPCALVo7unV4LFXf110PY7RnzZ5r_fVZ2xoeJBEv_Qh0ndSsHad13Q7wVeLyBXPBJRF5yGJHW3j_tE=w1200-h900-k-no"
+          ],
+          "lat": 22.3305348,
+          "lng": 103.8446597,
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 132241,
+            "pp": 44080,
+            "breakfast": false,
+            "left": "",
+            "room": "성인 3명 기준 최저가 객실",
+            "extraBed": false,
+            "rank": 5,
+            "note": "Trip.com이 1박 약 3.2만원 더 쌈",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "why": "시내 600m·후기 1.2만건 9.2 · 조식 없음 · Trip.com이 더 쌈"
+          },
+          "searchBy": "예슬&지영 서칭"
+        },
+        {
+          "name": "Catcat Hills Resort & Spa",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
+          "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 175868,
+            "pp": 58623,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "패밀리 마운틴뷰 (최대 4인)",
+            "extraBed": false,
+            "rank": 6,
+            "note": "침대 넉넉한 패밀리룸",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 58575,
+            "prevAt": "10/11",
+            "why": "4인 패밀리룸이라 3명 침대 넉넉·조식 · 깟깟마을 쪽 경사길"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/18516076/0/49ad2a11b47c623383260ab26dc63c37.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/-1/abef60d5d78f935f4bddecfa325adee2.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/0/d51026e481bff0ac95e4bfdcf1b4bf2f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/779420631/9dc410760bdf2bc65f85a94394c0a365.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/0/fb74a19c231de0e22591c9035d93e1bc.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/0/eccd691bbafeeb06a5d41e938bce507f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/18516076/-1/b74a0bbf24c7ecf9cc31b0c125463b49.jpg?s=1024x768"
+          ],
+          "ig": [
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "lat": 22.3328285,
+          "lng": 103.8343429,
+          "reviews": [
+            {
+              "by": "1amny",
+              "pros": [
+                "1amny 4박5일 사파 코스 숙소 리스트에 포함",
+                "깟깟마을 쪽이라 마을 산책 동선이 짧음"
+              ],
+              "cons": [
+                "경사길 · 시내까지 차량 이동 확인"
+              ],
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ]
+        },
+        {
+          "name": "Silk Path Grand Sapa Resort & Spa",
+          "url": "https://silkpathhotel.com/sapa/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2639415&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "전망형 리조트 비교 후보 · 시내 이동·예산·3인 객실 확인",
+          "photo": "https://res.cloudinary.com/the-romantic-tourist/image/upload/v1556104438/euixe2nbnrtyqnc1fh14.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 344808,
+            "pp": 114936,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "클래식 가든뷰 (발코니)",
+            "extraBed": false,
+            "rank": 7,
+            "note": "Trip.com 2박 687,840원 (ELITE_SALE 쿠폰 · 아고다와 비슷)",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 112473,
+            "prevAt": "10/11",
+            "why": "시내 5성 리조트·조식 · 1인 11.5만원으로 예산 위쪽"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/2639415/-1/4cfd2a52f64a1f759aac81f79a008f0c.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/a53d576a42ab23cd399db2e600fb8d66.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/3674d6140c14ded10e7a5df5cdd26fb8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/f68051519360e5746cdb71a77346e927.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/8335570fafa4e4cb9cdde75646853faa.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/ea608f1b30c2cd38dad285976fcc706a.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/b56fa6e5918648e8b8599114864c27aa.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2639415/-1/5034c1b06df4c20608234835dddf07f1.jpg?s=1024x768"
+          ],
+          "lat": 22.3376857,
+          "lng": 103.8382138
+        },
+        {
+          "name": "New Wing – The Mong Village Resort (몽빌리지 뉴윙)",
+          "url": "https://www.agoda.com/ko-kr/new-wing-the-mong-village-resort/hotel/sapa-vn.html",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=94616971&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "note": "몽빌리지 리조트 바로 옆 신관(뉴윙) · 4성급 · 신규라 후기 4건(9.8) · 타반 쪽, 시내 차로 약 15분",
+          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Syf5uAhuUFKEIvR5LlXGbb6Frz5sn4alfllqPZkdMpvQqHAS1rBUT88YhQqk2K3KwffH7ElcpARjrtZvqPQpfdBoBtfNd1vP6-T3Lf3gxNQVXUvQ1NiOp5uiKMf0kjN1cYDaSceIGXyWwP=w1200-h900-k-no",
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Syf5uAhuUFKEIvR5LlXGbb6Frz5sn4alfllqPZkdMpvQqHAS1rBUT88YhQqk2K3KwffH7ElcpARjrtZvqPQpfdBoBtfNd1vP6-T3Lf3gxNQVXUvQ1NiOp5uiKMf0kjN1cYDaSceIGXyWwP=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rd74uc2cKH95XJbo8g4jihDCQiZlBHTmIjjBFAmPqYTgUQq5vcG61JQO1iP-GuRkjO4VGZr_2s9kO8zYmK4O46iWjnUjIcG57rLUlMWW1pp_E65NpxPOb-bzrdDG1qWoaPz2j_o37sanw=w1200-h900-k-no"
+          ],
+          "lat": 22.319513,
+          "lng": 103.856557,
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 244243,
+            "pp": 81414,
+            "breakfast": true,
+            "left": "2",
+            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 8,
+            "note": "외곽(시내 차로 15분) · 본관보다 새 건물",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "why": "몽빌리지 신관이라 새 건물 · 후기 4건뿐이고 가격이 본관보다 1.7배"
+          },
+          "searchBy": "예슬&지영 서칭"
+        },
+        {
+          "name": "Pao’s Sapa Leisure Hotel",
+          "url": "https://paoshotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
+          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 300783,
+            "pp": 100261,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "H'Mong 스위트",
+            "extraBed": true,
+            "rank": 9,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 99866,
+            "prevAt": "10/11",
+            "why": "전망 스위트·조식 · 1인 10만원에 언덕길"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/-1/1d71e63f4ea115038da02b9c79eabef8.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/-1/80705aef282f3e6b66b89f369833395c.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/0/a76611e8d53fa05c37ecff3606967545.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/2607925/0/30f557682faf97534525981e6845e05b.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/2607925/0/98baa507422b91bec95596d3aacda1e2.jpeg?s=1024x768"
+          ],
+          "lat": 22.3271556,
+          "lng": 103.8465807
+        },
+        {
+          "name": "Ville de Mont Mountain Resort (빌드몽)",
+          "url": "https://villedemont.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=29851736&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "1amny·travelaaalice 추천 · 5성급, 평점 9.1(813건) · 타반 방향 절벽 위, 시내 1.6km · 사파 산맥 환상 뷰, 절벽 위 야외 카페 · “잠시 천국에 왔어요”",
+          "photo": "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_Kdio58gz8SywunyyQxLNwKXyT3nC0XkyE0NV7cuaxWWgnlmNw2a-EMcb_Yg8klepxmCOfd8dvfEy1PWdDjIFk2vsGtWPsaG4umR7KhFJHHkzhUY7kVMg7rTOUS2DeHAF3Ag=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Suz-_7KZkNCFGY_0nb5OIRu9m1gLWJoBD49geXymUHgHWsvjKf38juK752ZOaU-F6ifn8oOY73rRmhEJGoXo-k-KVnbRdgXmw7XT7l9rAz49yfwencrCxjsCfgKtTClKdM-rH8VEU31p2K=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQeWcdCL73t9mTOkzH8LTXbm1X60k_7OLzbEFxqj1uIN0v9awperraSBaKDjSUkWvGu56LnUp5q1fNR9Zd_J3TvoA3TSP_4gU7DW_hoS9nTYhBh0Z512boUmovOaZV8VYlP2gNeid4pDwC=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rh-00oF3cw9M6DoWJCoFhtQoEGC9qZovUM_e3QsDzNrEJankzvX1QO9pdtHpKNJlDqlY4_dlRr_B591y7XL_WRY-9NJl1WICH3uin7VbExn6UGbQbB2Pl-4ILnC_w__j08ilHfzA=w1200-h900-k-no"
+          ],
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 450906,
+            "pp": 150302,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "extraBed": false,
+            "rank": 10,
+            "note": "Trip.com 2박 900,290원 (아고다와 같음)",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 144590,
+            "prevAt": "10/11",
+            "why": "절벽 뷰 5성 · 1인 15만원 — 한 번 플렉스용"
+          },
+          "ig": [
+            {
+              "id": "travelaaalice",
+              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
+            },
+            {
+              "id": "1amny",
+              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "C7T4lTrpHcR",
+              "by": "@travelaaalice",
+              "cap": "“저는 잠시 천국에 왔어요” · 여유롭고 천국 같은 분위기"
+            }
+          ],
+          "lat": 22.3245962,
+          "lng": 103.8605905,
+          "reviews": [
+            {
+              "by": "travelaaalice",
+              "pros": [
+                "“저는 잠시 천국에 왔어요” · 여유로운 분위기",
+                "절벽 위 야외 카페 · 사파 산맥 뷰"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
+            }
+          ]
+        },
+        {
           "name": "Hotel de la Coupole",
           "url": "https://www.hoteldelacoupole.com/rooms-and-suites/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=5649846&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1072,13 +1303,14 @@
             "left": null,
             "room": "클래식 트윈 2실",
             "extraBed": false,
-            "rank": 6,
+            "rank": 11,
             "note": "3명이면 객실 2개 예약 필요",
             "rooms": 2,
             "bfOption": "조식 1인 26,937원 추가",
             "checked": "10/12",
             "prevPp": 143825,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "케이블카역 연결 MGallery · 3명이면 방 2개라 1인 14.4만원, 조식 별도"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
@@ -1112,6 +1344,105 @@
           "lng": 103.8401962
         },
         {
+          "name": "Lady Hill Sapa Resort",
+          "note": "판시판 케이블카 역 바로 앞 5성급 · 인피니티풀 · 싱글+더블 트리플룸",
+          "photo": "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?ce=0&s=1024x768",
+          "bookingPlatform": "Agoda",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=39797512&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "url": "https://ladyhillsapa.com/",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 390151,
+            "pp": 130050,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "프리미어 트리플 마운틴뷰",
+            "extraBed": false,
+            "rank": 12,
+            "note": "",
+            "rooms": 1,
+            "bfOption": "조식 1인 28,491원 추가",
+            "checked": "10/12",
+            "prevPp": 127331,
+            "prevAt": "10/11",
+            "why": "5성·트리플룸 · 조식 없이 1인 13만원"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/39797512/0/a7a27b914a8864a80e8f5e9b4790d36d.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/72c2b7c42487ada5d4069f17db97df62.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/2b003a9c5d42a36ccabe1582d2fb81d4.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/b7f0c326c05ec73b669e606674968084.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/cf86304ae72aae912a9158de2e8034ba.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/9bb07ba5b92380bc3a380f341fa5fb3b.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/39797512/658250390/3da2400d429e3a65f83c1aa6c88d47b8.jpg?s=1024x768"
+          ],
+          "lat": 22.3414346,
+          "lng": 103.8249663
+        },
+        {
+          "name": "Sapa Jade Hill Resort & Spa",
+          "url": "https://sapajadehillresort.com/accommodation/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인 · uucode_yui: 해발 1,600m, 1박 10만원대 럭셔리 방갈로 · 구름 위 반신욕 · 레스토랑·조식 맛있음 · 수영장+사우나 · ⚠ 카톡 공유 네이버 블로그 2박 후기: 방이 좁다 → 관광 위주 일정이면 약간 비추",
+          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 148117,
+            "pp": 49372,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "마운틴뷰 방갈로",
+            "extraBed": true,
+            "rank": 13,
+            "note": "후기: 방 좁음",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/12",
+            "prevPp": 49348,
+            "prevAt": "10/11",
+            "why": "가격은 좋지만 방이 좁다는 후기 + 조식 없음 → 관광 위주 일정엔 비추"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/9d6c5cbd930c90d4b8f55c266ffeaac5.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/1361ddf30d98e9ed5cb10267adf13b5d.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/b369ee000e16084ff202096ac1640317.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/31946897ac0b1ad34c4109e38f2c34cb.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/1506288/-1/ab78a64af95daf45e4b2dd85393cf205.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/1506288/1321816520/4983a4cff82bebed77654d14bb2f7f1c.jpeg?s=1024x768"
+          ],
+          "ig": [
+            {
+              "id": "uucode_yui",
+              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
+            }
+          ],
+          "videos": [
+            {
+              "code": "DP0SbScE0UX",
+              "by": "@uucode_yui",
+              "cap": "해발 1,600m 구름 위 럭셔리 방갈로 · 반신욕 · 수영장·사우나 · 조식 완벽"
+            }
+          ],
+          "lat": 22.3235641,
+          "lng": 103.8550771,
+          "reviews": [
+            {
+              "by": "uucode_yui",
+              "pros": [
+                "해발 1,600m 구름 위 럭셔리 방갈로 · 1박 10만원대",
+                "구름 위 반신욕",
+                "수영장 + 사우나",
+                "레스토랑·조식 맛있음"
+              ],
+              "cons": [],
+              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
+            }
+          ]
+        },
+        {
           "name": "Topas Ecolodge",
           "url": "https://topasecolodge.com/location/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=445774&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1126,13 +1457,14 @@
             "left": "2",
             "room": "Premium Executive",
             "extraBed": true,
-            "rank": 7,
+            "rank": 14,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/12",
             "prevPp": 159710,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "최고급 에코로지지만 시내 45분 → 판시판 당일·12시 버스 일정과 충돌, 1인 16만원"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/445/445774/445774_15081411340034274185.jpg?s=1024x768",
@@ -1243,183 +1575,6 @@
           "lng": 103.967024
         },
         {
-          "name": "Sapa Jade Hill Resort & Spa",
-          "url": "https://sapajadehillresort.com/accommodation/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1506288&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "무옹화 계곡 전망 방갈로 · 시내 중심보다 조용한 리조트형 후보. 3인 정원·셔틀 확인 · uucode_yui: 해발 1,600m, 1박 10만원대 럭셔리 방갈로 · 구름 위 반신욕 · 레스토랑·조식 맛있음 · 수영장+사우나 · ⚠ 카톡 공유 네이버 블로그 2박 후기: 방이 좁다 → 관광 위주 일정이면 약간 비추",
-          "photo": "https://www.handspan.com/uploads/4%20SAPA%20%26%20AROUND/620x400_blog/Deluxe-Bungalow-Sapa-Jade-Hill-Resort-Spa_1.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 148117,
-            "pp": 49372,
-            "breakfast": false,
-            "left": "마지막 1개",
-            "room": "마운틴뷰 방갈로",
-            "extraBed": true,
-            "rank": 8,
-            "note": "후기: 방 좁음",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 49348,
-            "prevAt": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/9d6c5cbd930c90d4b8f55c266ffeaac5.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/1361ddf30d98e9ed5cb10267adf13b5d.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/b369ee000e16084ff202096ac1640317.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/31946897ac0b1ad34c4109e38f2c34cb.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/1506288/-1/ab78a64af95daf45e4b2dd85393cf205.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/1506288/1321816520/4983a4cff82bebed77654d14bb2f7f1c.jpeg?s=1024x768"
-          ],
-          "ig": [
-            {
-              "id": "uucode_yui",
-              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
-            }
-          ],
-          "videos": [
-            {
-              "code": "DP0SbScE0UX",
-              "by": "@uucode_yui",
-              "cap": "해발 1,600m 구름 위 럭셔리 방갈로 · 반신욕 · 수영장·사우나 · 조식 완벽"
-            }
-          ],
-          "lat": 22.3235641,
-          "lng": 103.8550771,
-          "reviews": [
-            {
-              "by": "uucode_yui",
-              "pros": [
-                "해발 1,600m 구름 위 럭셔리 방갈로 · 1박 10만원대",
-                "구름 위 반신욕",
-                "수영장 + 사우나",
-                "레스토랑·조식 맛있음"
-              ],
-              "cons": [],
-              "url": "https://www.instagram.com/reel/DP0SbScE0UX/"
-            }
-          ]
-        },
-        {
-          "name": "Ville de Mont Mountain Resort (빌드몽)",
-          "url": "https://villedemont.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=29851736&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "1amny·travelaaalice 추천 · 5성급, 평점 9.1(813건) · 타반 방향 절벽 위, 시내 1.6km · 사파 산맥 환상 뷰, 절벽 위 야외 카페 · “잠시 천국에 왔어요”",
-          "photo": "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/29851736/-1/29daf7b1bc618dd16ddbc6b1da4054e9.jpg?s=1024x768",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T_Kdio58gz8SywunyyQxLNwKXyT3nC0XkyE0NV7cuaxWWgnlmNw2a-EMcb_Yg8klepxmCOfd8dvfEy1PWdDjIFk2vsGtWPsaG4umR7KhFJHHkzhUY7kVMg7rTOUS2DeHAF3Ag=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Suz-_7KZkNCFGY_0nb5OIRu9m1gLWJoBD49geXymUHgHWsvjKf38juK752ZOaU-F6ifn8oOY73rRmhEJGoXo-k-KVnbRdgXmw7XT7l9rAz49yfwencrCxjsCfgKtTClKdM-rH8VEU31p2K=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQeWcdCL73t9mTOkzH8LTXbm1X60k_7OLzbEFxqj1uIN0v9awperraSBaKDjSUkWvGu56LnUp5q1fNR9Zd_J3TvoA3TSP_4gU7DW_hoS9nTYhBh0Z512boUmovOaZV8VYlP2gNeid4pDwC=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rh-00oF3cw9M6DoWJCoFhtQoEGC9qZovUM_e3QsDzNrEJankzvX1QO9pdtHpKNJlDqlY4_dlRr_B591y7XL_WRY-9NJl1WICH3uin7VbExn6UGbQbB2Pl-4ILnC_w__j08ilHfzA=w1200-h900-k-no"
-          ],
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 450906,
-            "pp": 150302,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
-            "extraBed": false,
-            "rank": 9,
-            "note": "Trip.com 2박 900,290원 (아고다와 같음)",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 144590,
-            "prevAt": "10/11"
-          },
-          "ig": [
-            {
-              "id": "travelaaalice",
-              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
-            },
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ],
-          "videos": [
-            {
-              "code": "C7T4lTrpHcR",
-              "by": "@travelaaalice",
-              "cap": "“저는 잠시 천국에 왔어요” · 여유롭고 천국 같은 분위기"
-            }
-          ],
-          "lat": 22.3245962,
-          "lng": 103.8605905,
-          "reviews": [
-            {
-              "by": "travelaaalice",
-              "pros": [
-                "“저는 잠시 천국에 왔어요” · 여유로운 분위기",
-                "절벽 위 야외 카페 · 사파 산맥 뷰"
-              ],
-              "cons": [],
-              "url": "https://www.instagram.com/reel/C7T4lTrpHcR/"
-            }
-          ]
-        },
-        {
-          "name": "Catcat Hills Resort & Spa",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
-          "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 175868,
-            "pp": 58623,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "패밀리 마운틴뷰 (최대 4인)",
-            "extraBed": false,
-            "rank": 10,
-            "note": "침대 넉넉한 패밀리룸",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 58575,
-            "prevAt": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/18516076/0/49ad2a11b47c623383260ab26dc63c37.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/-1/abef60d5d78f935f4bddecfa325adee2.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/0/d51026e481bff0ac95e4bfdcf1b4bf2f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/779420631/9dc410760bdf2bc65f85a94394c0a365.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/0/fb74a19c231de0e22591c9035d93e1bc.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/0/eccd691bbafeeb06a5d41e938bce507f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/18516076/-1/b74a0bbf24c7ecf9cc31b0c125463b49.jpg?s=1024x768"
-          ],
-          "ig": [
-            {
-              "id": "1amny",
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ],
-          "lat": 22.3328285,
-          "lng": 103.8343429,
-          "reviews": [
-            {
-              "by": "1amny",
-              "pros": [
-                "1amny 4박5일 사파 코스 숙소 리스트에 포함",
-                "깟깟마을 쪽이라 마을 산책 동선이 짧음"
-              ],
-              "cons": [
-                "경사길 · 시내까지 차량 이동 확인"
-              ],
-              "url": "https://www.instagram.com/reel/DdGQRahp77s/"
-            }
-          ]
-        },
-        {
           "name": "Eco Palms House",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2507379&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "note": "전망형 홈스테이 후보 · 시내 외곽 교통·3인 객실 확인 · 숙소 리스트 글: 3성급, 논밭 꼭대기 뷰 맛집 리조트(1박 13.7만원~)",
@@ -1434,13 +1589,14 @@
             "left": "마지막 1개",
             "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
-            "rank": 11,
+            "rank": 15,
             "note": "",
             "rooms": 1,
             "bfOption": "조식 포함 요금 1박 186,490원",
             "checked": "10/12",
             "prevPp": 56983,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "퀸베드 1개 방갈로라 3명 비현실적 · 시내 4.7km"
           },
           "ig": [
             {
@@ -1482,147 +1638,6 @@
           ]
         },
         {
-          "name": "Silk Path Grand Sapa Resort & Spa",
-          "url": "https://silkpathhotel.com/sapa/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2639415&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "전망형 리조트 비교 후보 · 시내 이동·예산·3인 객실 확인",
-          "photo": "https://res.cloudinary.com/the-romantic-tourist/image/upload/v1556104438/euixe2nbnrtyqnc1fh14.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 344808,
-            "pp": 114936,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "클래식 가든뷰 (발코니)",
-            "extraBed": false,
-            "rank": 12,
-            "note": "Trip.com 2박 687,840원 (ELITE_SALE 쿠폰 · 아고다와 비슷)",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 112473,
-            "prevAt": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/2639415/-1/4cfd2a52f64a1f759aac81f79a008f0c.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/a53d576a42ab23cd399db2e600fb8d66.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/3674d6140c14ded10e7a5df5cdd26fb8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/f68051519360e5746cdb71a77346e927.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/8335570fafa4e4cb9cdde75646853faa.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/ea608f1b30c2cd38dad285976fcc706a.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/b56fa6e5918648e8b8599114864c27aa.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2639415/-1/5034c1b06df4c20608234835dddf07f1.jpg?s=1024x768"
-          ],
-          "lat": 22.3376857,
-          "lng": 103.8382138
-        },
-        {
-          "name": "Lady Hill Sapa Resort",
-          "note": "판시판 케이블카 역 바로 앞 5성급 · 인피니티풀 · 싱글+더블 트리플룸",
-          "photo": "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?ce=0&s=1024x768",
-          "bookingPlatform": "Agoda",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=39797512&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "url": "https://ladyhillsapa.com/",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 390151,
-            "pp": 130050,
-            "breakfast": false,
-            "left": "마지막 1개",
-            "room": "프리미어 트리플 마운틴뷰",
-            "extraBed": false,
-            "rank": 13,
-            "note": "",
-            "rooms": 1,
-            "bfOption": "조식 1인 28,491원 추가",
-            "checked": "10/12",
-            "prevPp": 127331,
-            "prevAt": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/39797512/0/a7a27b914a8864a80e8f5e9b4790d36d.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/72c2b7c42487ada5d4069f17db97df62.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/2b003a9c5d42a36ccabe1582d2fb81d4.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/b7f0c326c05ec73b669e606674968084.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/cf86304ae72aae912a9158de2e8034ba.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/9bb07ba5b92380bc3a380f341fa5fb3b.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/-1/3810f377caca888e9432d2256ca121b4.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/39797512/658250390/3da2400d429e3a65f83c1aa6c88d47b8.jpg?s=1024x768"
-          ],
-          "lat": 22.3414346,
-          "lng": 103.8249663
-        },
-        {
-          "name": "Pao’s Sapa Leisure Hotel",
-          "url": "https://paoshotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2607925&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "언덕 쪽 전망형 숙소 · 시내 이동수단·셔틀 고려",
-          "photo": "https://i2.ex-cdn.com/crystalbay.com/files/content/2025/11/11/pao-sapa-leisure-hotel-1-1619.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 300783,
-            "pp": 100261,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "H'Mong 스위트",
-            "extraBed": true,
-            "rank": 14,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 99866,
-            "prevAt": "10/11"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/-1/1d71e63f4ea115038da02b9c79eabef8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/-1/80705aef282f3e6b66b89f369833395c.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/0/a76611e8d53fa05c37ecff3606967545.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/2607925/0/30f557682faf97534525981e6845e05b.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/2607925/0/98baa507422b91bec95596d3aacda1e2.jpeg?s=1024x768"
-          ],
-          "lat": 22.3271556,
-          "lng": 103.8465807
-        },
-        {
-          "name": "DeLaSol Sapa – Central Boutique Hotel (드라솔)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=30726011&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "숙소 리스트 글 추천: 4성급 가성비 시내 호텔 · 평점 8.9(2,459건), 위치 9.3 · 돌 성당 344m, 케이블카역 도보 · 마운틴뷰, 파노라마 뷔페 조식 · 최근 리노베이션",
-          "photo": "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/30726011/0/c6d6662acfa6d3435e6068e3f7458fa8.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/30726011/-1/9691da64057536a9cbebf2903c6f4b3f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/30726011/0/1289776d7a79a36bf388cf5736234045.jpg?s=1024x768",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tmo2MQmQcwwiCZMLUbEJkmVEs6P6ASemUTbI7A7WI88B1FeaKfWBM2QucJ2QdCty5bJBQp6JjRLiALi315xVTleVfSuCbAmsuufOVoko4gJkX68P6o81lKsfZ6sZAmGcYJE1oFn73Ot_Eu=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ThTiSvmyEkEnhzmIynBwL5LHXan7y5T0pKRk04KKZtjCTDQIXgzV1ZpUGmshev3JKDoOktsQRw2x33GD9VzCuEC7vRFbjaspxYxGv3fcB4D6Pbe5eGTESvX_wc5SJeTErkgzt8YmGcQdY=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7EBaf5AWPCgfrBimYPPJgTMroEpnL0-k6TQe57o93wSq58mRuXnkpW-F1V5kvurU5aZopUXqKUBMFCWDTDlAouuaiq6KPVLAyYTDxrI3fBtrRJVHDVlG98Ft2mg0JdqBmAWMv=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLxJoOGLnwlvS7Ndpya7djgJm6R-B0J7p3mDvPhW4k4RXkgdM6d1k5xIsT3GZfXx_B0-TvX8DkBt1IFo8hRDPJjjFGP0Y8OYb-4lo2H_VbJz-l3APNJoY1fzsIDYNQfLWFBIh09LHlLm8=w1200-h900-k-no"
-          ],
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 138349,
-            "pp": 46116,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
-            "extraBed": false,
-            "rank": 15,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/12",
-            "prevPp": 45588,
-            "prevAt": "10/11"
-          },
-          "lat": 22.332362,
-          "lng": 103.8435226
-        },
-        {
           "name": "Sapa Valley View Hotel (사파 밸리 뷰)",
           "url": "https://www.agoda.com/ko-kr/sapa-valley-view-hotel/hotel/sapa-vn.html",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=7406420&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
@@ -1647,7 +1662,8 @@
             "note": "⚠ 너무 싸서 의심 — 2인 객실 가격일 가능성, 3인 침대·추가요금·실제 후기 확인 전엔 보류",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "너무 싸서 의심 — 3인 객실 확인 전 보류"
           },
           "searchBy": "예슬&지영 서칭",
           "noHi": true
@@ -1956,7 +1972,7 @@
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
       "checkedAt": "2026-10-12 09:21 (KST) 아고다 기준",
-      "sortNote": "인스타 추천·영상·후기·사진이 많은 순 (예약 불가는 맨 아래)",
+      "sortNote": "Claude 검토 순위 (10/12): 우리 동선(11/15 새벽 야간열차 도착 → 판시판·깟깟마을, 11/17 12시 버스) 기준 · 시내 접근성 > 1인 가격 > 조식·3인 침대 > 평점·후기 > 뷰 감성 순 · 예약 불가는 맨 아래",
       "landmarks": {
         "hanoi": [
           {
