@@ -522,7 +522,8 @@
             "bfOption": null,
             "prevPp": 59849,
             "prevAt": "10/11",
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "하노이역 500m라 22시 야간열차 타기 최적 · 조식·무료취소 · 평점 9.2(7.5천건) · 수진 픽"
           },
           "lat": 21.0276833,
           "lng": 105.8445803,
@@ -549,7 +550,8 @@
             "bfOption": null,
             "prevPp": 35213,
             "prevAt": "10/11",
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "구시가지·호수 700m · 조식 포함 1인 3.5만원 · 트리플룸 · 역까지 택시 5분"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2915548/-1/2803b0436946a314399b2c555caaacc7.jpg?s=1024x768",
@@ -585,7 +587,8 @@
             "bfOption": null,
             "prevPp": 70553,
             "prevAt": "10/11",
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "조식 뷔페 포함 1인 7만원 · 평점 9.0 · 다만 바딘이라 구시가지·역 2km"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6600413/-1/49ed1731e7821f58b490e31ac308ede0.jpg?s=1024x768",
@@ -598,42 +601,6 @@
           ],
           "lat": 21.0430583,
           "lng": 105.8438568
-        },
-        {
-          "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
-          "url": "https://all.accor.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6542427&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "여행사 TOP5 추천 · 5성급 인터내셔널 체인, 평점 8.7 · 동다 지역(구시가에서 택시 10–15분) · 조식 메뉴 다양하다는 후기",
-          "photo": "https://pix8.agoda.net/hotelImages/6542427/0/8d2c0ba01938de9e0155ac785b53920c.jpg",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 239615,
-            "pp": 79872,
-            "breakfast": false,
-            "left": null,
-            "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
-            "extraBed": false,
-            "rank": 4,
-            "note": "TOP5 글 기준 124,493원~ (2인가)",
-            "rooms": 1,
-            "bfOption": null,
-            "prevPp": 79892,
-            "prevAt": "10/11",
-            "checked": "10/12"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/a609a63f5df9bf0265049c4a7aab6267.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/a17574c15f78a98e2845e76325de75ef.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/b4c17499c2ee350913bf87e4e37b818f.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/0/9314a490cc63420693b432ddbfdd9b30.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/66ea48663532f85afcc6cff1faf794a7.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/51b30f05b60a63342f5cbb2eecc5b188.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/6542427/-1/16b6dcefa0b5b25019fd35cf5aac65ad.jpg?s=1024x768"
-          ],
-          "lat": 21.009892,
-          "lng": 105.824023
         },
         {
           "name": "Lotte Hotel Hanoi (롯데호텔 하노이)",
@@ -650,13 +617,14 @@
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
             "extraBed": false,
-            "rank": 5,
+            "rank": 4,
             "note": "TOP5 글 기준 206,606원~ (조식포함가) · 무료취소",
             "rooms": 1,
             "bfOption": null,
             "prevPp": 84729,
             "prevAt": "10/11",
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "5성 평점 9.2(1.3만건)·수영장 · 1인 8.1만원인데 조식 없음 · 구시가지 택시 15분"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/665815/0/9cffb5af0972736329ab5e64f058a6df.jpg?s=1024x768",
@@ -670,6 +638,43 @@
           ],
           "lat": 21.0320526,
           "lng": 105.8130247
+        },
+        {
+          "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
+          "url": "https://all.accor.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6542427&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "여행사 TOP5 추천 · 5성급 인터내셔널 체인, 평점 8.7 · 동다 지역(구시가에서 택시 10–15분) · 조식 메뉴 다양하다는 후기",
+          "photo": "https://pix8.agoda.net/hotelImages/6542427/0/8d2c0ba01938de9e0155ac785b53920c.jpg",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 239615,
+            "pp": 79872,
+            "breakfast": false,
+            "left": null,
+            "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
+            "extraBed": false,
+            "rank": 5,
+            "note": "TOP5 글 기준 124,493원~ (2인가)",
+            "rooms": 1,
+            "bfOption": null,
+            "prevPp": 79892,
+            "prevAt": "10/11",
+            "checked": "10/12",
+            "why": "인터내셔널 체인 · 1인 8만원 조식 없음 · 동다 지역이라 관광 동선 멂"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/a609a63f5df9bf0265049c4a7aab6267.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/a17574c15f78a98e2845e76325de75ef.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/b4c17499c2ee350913bf87e4e37b818f.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/0/9314a490cc63420693b432ddbfdd9b30.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/66ea48663532f85afcc6cff1faf794a7.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/51b30f05b60a63342f5cbb2eecc5b188.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/6542427/-1/16b6dcefa0b5b25019fd35cf5aac65ad.jpg?s=1024x768"
+          ],
+          "lat": 21.009892,
+          "lng": 105.824023
         },
         {
           "name": "Little Diamond Hotel",
@@ -692,7 +697,8 @@
             "bfOption": null,
             "prevPp": 26410,
             "prevAt": "10/11",
-            "checked": "10/12"
+            "checked": "10/12",
+            "why": "구시가지에 1인 2.6만원으로 제일 쌈 · 사진상 낡아서 의심 → 10만원↑ 바로 위"
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
@@ -707,42 +713,6 @@
           "lat": 21.0337023,
           "lng": 105.8475903,
           "pick": -6
-        },
-        {
-          "name": "Hanoi Boutique Hotel & Spa",
-          "url": "https://www.hanoiboutiquehotel.vn/accommodation",
-          "note": "7 Ngõ Gạch · 일반 객실은 최대 2명 표기라 성인 3명은 커넥팅룸 필요 여부 확인. 늦은 밤/새벽 체크인 확인",
-          "photo": "https://assets.waybird.com/cdn-cgi/image/width%3D1024%2Cquality%3D50%2Cformat%3Dauto/https%3A/assets.waybird.com/lodge_images/images/000/141/437/original/4_%281%29.jpg",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=230721&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 368072,
-            "pp": 122691,
-            "breakfast": true,
-            "left": "2",
-            "room": "스위트 시티뷰",
-            "extraBed": true,
-            "rank": 7,
-            "note": "",
-            "rooms": 1,
-            "bfOption": null,
-            "prevPp": 122614,
-            "prevAt": "10/11",
-            "checked": "10/12"
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/b765ee526fd658bae08b4b4968b053eb.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/69b395cd38ed13f51e024bea3ac81ea4.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/da11a9be0a0de930066405c886d879fd.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/0/3b921ab0053cce105e97bd0094cfd49a.png?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
-          ],
-          "lat": 21.0362202,
-          "lng": 105.8504472
         },
         {
           "name": "Aira Boutique Hanoi Hotel & Spa (아이라)",
@@ -763,16 +733,54 @@
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 8,
+            "rank": 7,
             "note": "조식 포함 여부 확인 필요",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/12",
             "prevPp": 123672,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "역 700m·기찻길 3분 위치 최고 · 1인 10.3만원·조식 없음이라 예산 초과"
           },
           "lat": 21.0307215,
           "lng": 105.8418808
+        },
+        {
+          "name": "Hanoi Boutique Hotel & Spa",
+          "url": "https://www.hanoiboutiquehotel.vn/accommodation",
+          "note": "7 Ngõ Gạch · 일반 객실은 최대 2명 표기라 성인 3명은 커넥팅룸 필요 여부 확인. 늦은 밤/새벽 체크인 확인",
+          "photo": "https://assets.waybird.com/cdn-cgi/image/width%3D1024%2Cquality%3D50%2Cformat%3Dauto/https%3A/assets.waybird.com/lodge_images/images/000/141/437/original/4_%281%29.jpg",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=230721&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 368072,
+            "pp": 122691,
+            "breakfast": true,
+            "left": "2",
+            "room": "스위트 시티뷰",
+            "extraBed": true,
+            "rank": 8,
+            "note": "",
+            "rooms": 1,
+            "bfOption": null,
+            "prevPp": 122614,
+            "prevAt": "10/11",
+            "checked": "10/12",
+            "why": "구시가지 · 1인 12.3만원 스위트 · 일반실은 2인 기준"
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/b765ee526fd658bae08b4b4968b053eb.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/69b395cd38ed13f51e024bea3ac81ea4.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/da11a9be0a0de930066405c886d879fd.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/0/3b921ab0053cce105e97bd0094cfd49a.png?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/3e2687710e255e371d44627bdad99e75.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/230721/-1/e2d7a50437f86906daa5593addbd7f45.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/230721/0/3c6faba19340e8b92e10fade90e36375.jpeg?s=1024x768"
+          ],
+          "lat": 21.0362202,
+          "lng": 105.8504472
         },
         {
           "name": "L’HÔTEL du LAC Hanoi",
@@ -795,7 +803,8 @@
             "bfOption": null,
             "checked": "10/12",
             "prevPp": 174659,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "why": "호수 400m 위치 최고 · 1인 17.5만원으로 1박 자고 나가기엔 과함"
           },
           "lat": 21.0306722,
           "lng": 105.8496657,
@@ -3095,8 +3104,7 @@
     "done": [
       "이동 흐름: 하노이 1박 → 11/14 밤 야간열차 → 사파 2박 → 11/17 12시 버스로 하노이 → 공항",
       "지영 항공권 발권 완료 (7C2201 가는 편 · VJ960 오는 편)",
-      "판시판은 날씨 이슈로 사파 첫날(11/15)부터 트라이",
-      "사파 첫날 저녁은 철갑상어 핫팟 🔥"
+      "판시판은 날씨 이슈로 사파 첫날(11/15)부터 트라이"
     ],
     "groups": [
       {
@@ -3463,20 +3471,28 @@
               },
               {
                 "id": "d3hotpot",
-                "slot": "철갑상어 핫팟 🔥",
+                "slot": "첫날 저녁 🍽",
                 "options": [
                   {
-                    "id": "emotion",
-                    "label": "Sapa Emotion"
+                    "id": "paradise",
+                    "label": "파라다이스 레스토랑",
+                    "meta": "사파 1등 뷰",
+                    "rec": true
                   },
                   {
-                    "id": "center",
-                    "label": "Hotpot Center Sapa"
+                    "id": "little",
+                    "label": "Little Sapa",
+                    "meta": "풍향고"
+                  },
+                  {
+                    "id": "chusu",
+                    "label": "CHUSU KITCHEN",
+                    "meta": "풍향고 퓨전"
                   },
                   {
                     "id": "moment",
                     "label": "Moment Romantic",
-                    "meta": "풍향고"
+                    "meta": "철갑상어 궁금하면 · 핫팟은 별로 후기"
                   }
                 ]
               },
