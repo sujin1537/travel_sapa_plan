@@ -561,8 +561,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 105020,
-            "pp": 35007,
+            "nightTotal": 104987,
+            "pp": 34996,
             "breakfast": true,
             "left": "3",
             "room": "트리플룸",
@@ -605,8 +605,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 210331,
-            "pp": 70110,
+            "nightTotal": 210328,
+            "pp": 70109,
             "breakfast": true,
             "left": "5",
             "room": "성인 3명 기준 최저가 객실",
@@ -650,8 +650,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 287296,
-            "pp": 95765,
+            "nightTotal": 287325,
+            "pp": 95775,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
@@ -697,7 +697,7 @@
             "nightTotal": 238161,
             "pp": 79387,
             "breakfast": false,
-            "left": "",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 불포함 요금)",
             "extraBed": false,
             "rank": 5,
@@ -739,8 +739,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 78765,
-            "pp": 26255,
+            "nightTotal": 78741,
+            "pp": 26247,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "패밀리 디럭스 (최대 4인)",
@@ -791,7 +791,7 @@
             "nightTotal": 307225,
             "pp": 102408,
             "breakfast": false,
-            "left": "",
+            "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
             "rank": 7,
@@ -960,10 +960,10 @@
           "lng": 103.8422884,
           "avail": {
             "soldOut": false,
-            "nightTotal": 242724,
-            "pp": 80908,
+            "nightTotal": 242739,
+            "pp": 80913,
             "breakfast": true,
-            "left": "",
+            "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 1,
@@ -999,16 +999,16 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 135941,
-            "pp": 45314,
-            "breakfast": true,
+            "nightTotal": 137536,
+            "pp": 45845,
+            "breakfast": false,
             "left": "마지막 1개",
-            "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
+            "room": "패밀리 마운틴뷰 (최대 4인)",
             "extraBed": false,
             "rank": 2,
             "note": "",
             "rooms": 1,
-            "bfOption": null,
+            "bfOption": "조식 1인 12,354원 추가",
             "checked": "10/13",
             "prevPp": 46116,
             "prevAt": "10/12",
@@ -1033,10 +1033,10 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 280068,
-            "pp": 93356,
+            "nightTotal": 280278,
+            "pp": 93426,
             "breakfast": true,
-            "left": "",
+            "left": "마지막 1개",
             "room": "디럭스 프리미어 룸",
             "extraBed": true,
             "rank": 3,
@@ -1133,8 +1133,8 @@
           "lng": 103.8565571,
           "avail": {
             "soldOut": false,
-            "nightTotal": 141752,
-            "pp": 47251,
+            "nightTotal": 142096,
+            "pp": 47365,
             "breakfast": true,
             "left": "2",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
@@ -1158,45 +1158,6 @@
           "searchBy": "예슬&지영 서칭"
         },
         {
-          "name": "KK Sapa Hotel (KK 사파 호텔)",
-          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=8099799",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8099799&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "note": "시내 중심가 · 발코니 전망 · 평점 9.2(1.2만건) · Trip.com 2박 총 200,490원(1박 약 10만원)으로 아고다보다 쌈 · 무료 취소",
-          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
-          "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RoqHFXH2dbrd4jlVBaKYqh6vJEti3pgS--DDwhYsyCG4IhshSFrNrzZAkPPjTNeYPCALVo7unV4LFXf110PY7RnzZ5r_fVZ2xoeJBEv_Qh0ndSsHad13Q7wVeLyBXPBJRF5yGJHW3j_tE=w1200-h900-k-no"
-          ],
-          "lat": 22.3305348,
-          "lng": 103.8446597,
-          "avail": {
-            "soldOut": true,
-            "nightTotal": null,
-            "pp": null,
-            "breakfast": false,
-            "left": null,
-            "room": "성인 3명 기준 최저가 객실",
-            "extraBed": false,
-            "rank": 87,
-            "note": "10/13 성인 3명 기준 아고다 판매 종료(가격 미표시)",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/13",
-            "why": "시내 600m·후기 1.2만건 9.2 · 조식 없음 · Trip.com이 더 쌈",
-            "cmp": {
-              "at": "10/12",
-              "p": {
-                "트립닷컴": 100245
-              },
-              "w": "트립은 캡처(2박 ₩200,490) 기준 · 구글호텔의 부킹 ₩2만·호텔스 ₩2.5만은 2인 소형 객실로 보여 제외"
-            },
-            "prevPp": 44080,
-            "prevAt": "10/12"
-          },
-          "searchBy": "예슬&지영 서칭"
-        },
-        {
           "name": "Catcat Hills Resort & Spa",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
@@ -1205,8 +1166,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 193840,
-            "pp": 64613,
+            "nightTotal": 193954,
+            "pp": 64651,
             "breakfast": true,
             "left": "2",
             "room": "패밀리 마운틴뷰 (최대 4인)",
@@ -1272,8 +1233,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 363102,
-            "pp": 121034,
+            "nightTotal": 370823,
+            "pp": 123608,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "클래식 가든뷰 (발코니)",
@@ -1327,14 +1288,14 @@
             "soldOut": false,
             "nightTotal": 227520,
             "pp": 75840,
-            "breakfast": true,
+            "breakfast": false,
             "left": "2",
-            "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
+            "room": "트리플룸 마운틴뷰",
             "extraBed": false,
             "rank": 7,
             "note": "외곽(시내 차로 15분) · 본관보다 새 건물",
             "rooms": 1,
-            "bfOption": null,
+            "bfOption": "조식 포함 요금 1박 242,685원 (무료취소)",
             "checked": "10/13",
             "why": "몽빌리지 신관이라 새 건물 · 후기 4건뿐이고 가격이 본관보다 1.7배",
             "cmp": {
@@ -1357,8 +1318,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 287769,
-            "pp": 95923,
+            "nightTotal": 293294,
+            "pp": 97765,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "H'Mong 스위트",
@@ -1400,8 +1361,8 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 435845,
-            "pp": 145282,
+            "nightTotal": 441111,
+            "pp": 147037,
             "breakfast": true,
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
@@ -1468,7 +1429,7 @@
             "nightTotal": 430500,
             "pp": 143500,
             "breakfast": false,
-            "left": "",
+            "left": null,
             "room": "클래식 트윈 2실",
             "extraBed": false,
             "rank": 10,
@@ -1520,8 +1481,8 @@
           "url": "https://ladyhillsapa.com/",
           "avail": {
             "soldOut": false,
-            "nightTotal": 380647,
-            "pp": 126882,
+            "nightTotal": 388660,
+            "pp": 129553,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "프리미어 트리플 마운틴뷰",
@@ -1557,10 +1518,10 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 147127,
-            "pp": 49042,
+            "nightTotal": 147219,
+            "pp": 49073,
             "breakfast": false,
-            "left": "",
+            "left": "마지막 1개",
             "room": "마운틴뷰 방갈로",
             "extraBed": true,
             "rank": 12,
@@ -1625,11 +1586,11 @@
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 637231,
-            "pp": 212410,
+            "nightTotal": 637626,
+            "pp": 212542,
             "breakfast": true,
-            "left": "2",
-            "room": "Premium Executive",
+            "left": "3",
+            "room": "디럭스 스위트 (Deluxe Suite)",
             "extraBed": true,
             "rank": 13,
             "note": "외곽(시내 45분) · 무료 셔틀 · 인피니티풀",
@@ -1760,7 +1721,7 @@
             "nightTotal": 169868,
             "pp": 56623,
             "breakfast": false,
-            "left": "",
+            "left": "마지막 1개",
             "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
             "rank": 14,
@@ -1834,8 +1795,8 @@
           "lng": 103.8454701,
           "avail": {
             "soldOut": false,
-            "nightTotal": 41758,
-            "pp": 13919,
+            "nightTotal": 41785,
+            "pp": 13928,
             "breakfast": false,
             "left": "마지막 1개",
             "room": "최저가 객실 (무료 취소)",
@@ -1858,6 +1819,36 @@
           },
           "searchBy": "예슬&지영 서칭",
           "noHi": true
+        },
+        {
+          "name": "Aliana Boutique Sapa Hotel & Spa (알리아나 부티크)",
+          "url": "https://www.agoda.com/ko-kr/aira-boutique-sapa-hotel-spa/hotel/sapa-vn.html",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1994627&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "searchBy": "예슬&지영 서칭",
+          "note": "예슬: “여기도 위치 좋아” · 4.5성급 · 아고다 9.1(2,331건) · 사파 광장 400m · 판시판 케이블카(선월드) 420m · 판시판 마운틴뷰 · 전기차 픽업",
+          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrxyZjb12XNk8ezbXtZGH_wmDTBUjpYtQ5_5QMnadjHxII_BiTmhEKI8UJigs9W41dbehmB22Reslzzp6cs43n07XmNKl-IVvi7K38iLCEOb0Jt37pq7j9giVK7JM2ncUgg1BZ=w1200-h900-k-no",
+          "gallery": [
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrxyZjb12XNk8ezbXtZGH_wmDTBUjpYtQ5_5QMnadjHxII_BiTmhEKI8UJigs9W41dbehmB22Reslzzp6cs43n07XmNKl-IVvi7K38iLCEOb0Jt37pq7j9giVK7JM2ncUgg1BZ=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTDs6E4WdPYLEfCZP-lrCsUBirjkSls0jT64e6j0fJXQFIsGhHP6uGe4-bIz2H9LmMv2NZS8fob2T9-oII-YI2q7S6mfqnLvbSJ4Buv0rPToZ4o-3c9ShCX10elWkFrtpFyn5syw=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7PSXzZveK9Lwz_uw6hRpWmRNPYNkp85GNZhVYJz_nno5PQtjbDoDhA3ezOodWVDXsvrwWt2oYPvEAyCo4lemLeLSihN_EDJgSsIhCxfCBJv_r4FUsV_JnMesYygsSxmozNhIELA=w1200-h900-k-no"
+          ],
+          "lat": 22.3341757,
+          "lng": 103.8364826,
+          "avail": {
+            "soldOut": true,
+            "nightTotal": null,
+            "pp": null,
+            "breakfast": null,
+            "left": null,
+            "room": "",
+            "extraBed": false,
+            "rank": 88,
+            "note": "10/12 아고다 성인 3명 11/15–17 요금 안 뜸 · 취소 물량 나오면 잡기",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/13"
+          }
         },
         {
           "name": "Canvas Sapa Legend Hotel",
@@ -2126,34 +2117,43 @@
           ]
         },
         {
-          "name": "Aliana Boutique Sapa Hotel & Spa (알리아나 부티크)",
-          "url": "https://www.agoda.com/ko-kr/aira-boutique-sapa-hotel-spa/hotel/sapa-vn.html",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=1994627&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
+          "name": "KK Sapa Hotel (KK 사파 호텔)",
+          "url": "https://www.agoda.com/ko-kr/search?selectedproperty=8099799",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8099799&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
-          "searchBy": "예슬&지영 서칭",
-          "note": "예슬: “여기도 위치 좋아” · 4.5성급 · 아고다 9.1(2,331건) · 사파 광장 400m · 판시판 케이블카(선월드) 420m · 판시판 마운틴뷰 · 전기차 픽업",
-          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrxyZjb12XNk8ezbXtZGH_wmDTBUjpYtQ5_5QMnadjHxII_BiTmhEKI8UJigs9W41dbehmB22Reslzzp6cs43n07XmNKl-IVvi7K38iLCEOb0Jt37pq7j9giVK7JM2ncUgg1BZ=w1200-h900-k-no",
+          "note": "시내 중심가 · 발코니 전망 · 평점 9.2(1.2만건) · Trip.com 2박 총 200,490원(1박 약 10만원)으로 아고다보다 쌈 · 무료 취소",
+          "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
           "gallery": [
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrxyZjb12XNk8ezbXtZGH_wmDTBUjpYtQ5_5QMnadjHxII_BiTmhEKI8UJigs9W41dbehmB22Reslzzp6cs43n07XmNKl-IVvi7K38iLCEOb0Jt37pq7j9giVK7JM2ncUgg1BZ=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTDs6E4WdPYLEfCZP-lrCsUBirjkSls0jT64e6j0fJXQFIsGhHP6uGe4-bIz2H9LmMv2NZS8fob2T9-oII-YI2q7S6mfqnLvbSJ4Buv0rPToZ4o-3c9ShCX10elWkFrtpFyn5syw=w1200-h900-k-no",
-            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7PSXzZveK9Lwz_uw6hRpWmRNPYNkp85GNZhVYJz_nno5PQtjbDoDhA3ezOodWVDXsvrwWt2oYPvEAyCo4lemLeLSihN_EDJgSsIhCxfCBJv_r4FUsV_JnMesYygsSxmozNhIELA=w1200-h900-k-no"
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYS5LC4jC1sovehm1V8TcRE4mhknwpfMGPbj6I8Lp_1yjikIx0vyAQcEyOfiRgmbWEYI58llOr_hz9Xyy7Sku8Th5fFyjI8qF_9Xfeu0u1t_lO_y-NMPJu6DYkVyE1it3ME0g=w1200-h900-k-no",
+            "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RoqHFXH2dbrd4jlVBaKYqh6vJEti3pgS--DDwhYsyCG4IhshSFrNrzZAkPPjTNeYPCALVo7unV4LFXf110PY7RnzZ5r_fVZ2xoeJBEv_Qh0ndSsHad13Q7wVeLyBXPBJRF5yGJHW3j_tE=w1200-h900-k-no"
           ],
-          "lat": 22.3341757,
-          "lng": 103.8364826,
+          "lat": 22.3305348,
+          "lng": 103.8446597,
           "avail": {
             "soldOut": true,
             "nightTotal": null,
             "pp": null,
-            "breakfast": null,
+            "breakfast": false,
             "left": null,
-            "room": "",
+            "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 88,
-            "note": "10/12 아고다 성인 3명 11/15–17 요금 안 뜸 · 취소 물량 나오면 잡기",
+            "rank": 95,
+            "note": "10/13 성인 3명 기준 아고다 판매 종료(가격 미표시)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/13"
-          }
+            "checked": "10/13",
+            "why": "시내 600m·후기 1.2만건 9.2 · 조식 없음 · Trip.com이 더 쌈",
+            "cmp": {
+              "at": "10/12",
+              "p": {
+                "트립닷컴": 100245
+              },
+              "w": "트립은 캡처(2박 ₩200,490) 기준 · 구글호텔의 부킹 ₩2만·호텔스 ₩2.5만은 2인 소형 객실로 보여 제외"
+            },
+            "prevPp": 44080,
+            "prevAt": "10/12"
+          },
+          "searchBy": "예슬&지영 서칭"
         }
       ],
       "decisions": [
@@ -2162,7 +2162,7 @@
         "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
-      "checkedAt": "2026-10-13 08:40 (KST) 아고다 기준",
+      "checkedAt": "2026-10-13 09:15 (KST) 아고다 기준",
       "sortNote": "Claude 검토 순위 (10/13): 우리 동선(11/15 새벽 야간열차 도착 → 판시판·깟깟마을, 11/17 오전 9시 버스) 기준 · 시내 접근성 > 1인 가격 > 조식·3인 침대 > 평점·후기 > 뷰 감성 순 · 예약 불가는 맨 아래",
       "landmarks": {
         "hanoi": [
@@ -2299,7 +2299,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-13 08:20 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-13 09:15 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -2348,12 +2348,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 109600,
+                "total": 109400,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 142000,
+                "total": 141980,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2392,12 +2392,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 298100,
+                "total": 308500,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 296999,
+                "total": 296980,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -2467,20 +2467,20 @@
       },
       {
         "date": "2026-10-13",
-        "A": 260600,
-        "B": 296999,
+        "A": 260400,
+        "B": 296980,
         "detail": {
           "A_out": {
             "s": 151000,
             "g": 155000
           },
           "A_ret": {
-            "s": 109600,
-            "g": 142000
+            "s": 109400,
+            "g": 141980
           },
           "B": {
-            "s": 298100,
-            "g": 296999
+            "s": 308500,
+            "g": 296980
           }
         }
       }
