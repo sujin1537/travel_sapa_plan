@@ -980,7 +980,7 @@
         {
           "name": "Catcat Hills Resort & Spa",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인",
+          "note": "깟깟마을 방향 숙소 후보 · 시내 이동과 경사·차량 동선 확인 · 조식 06:30–09:30 뷔페 (트립닷컴 설명엔 07:00부터 → 체크인 때 확인)",
           "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
@@ -3536,8 +3536,8 @@
             "options": [
               {
                 "id": "am",
-                "label": "09–10시대 버스 (G8·HK)",
-                "meta": "15–16시 하노이 · 마사지·카페·저녁",
+                "label": "08:00 HK (구시가지 하차) 외 09–10시대",
+                "meta": "HK 08:00 → 13:45 구시가지(70 Nguyễn Hữu Huân) · 지영 사오비엣(14:40 Trần Nhật Duật)과 도보 10–15분 · G8은 까우저이 하차",
                 "rec": true
               },
               {
