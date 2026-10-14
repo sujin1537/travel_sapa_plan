@@ -985,7 +985,7 @@
         {
           "name": "Catcat Hills Resort & Spa",
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
-          "note": "✅ 우리 숙소 (11/15–17 2박) · 체크인 14:00 / 체크아웃 12:00 · 얼리체크인·레이트체크아웃 유료(방 상황에 따라) · 24시간 프런트 · 짐 보관 · 조식 06:30–09:30 뷔페 · 깟깟마을 입구 쪽(마을까지 약 500m) · 11/17 버스 픽업은 숙소 앞 되는지 확인",
+          "note": "✅ 우리 숙소 (11/15–17 2박) · Family Mountain View · 성인 3 · 조식 포함 · 327,044원(WON트래블, 11/3 17:00까지 무료취소) · 체크인 14:00 / 체크아웃 12:00 · 얼리체크인·레이트체크아웃 유료(방 상황에 따라) · 24시간 프런트 · 짐 보관 · 조식 06:30–09:30 · 깟깟마을 입구 쪽(마을까지 약 500m)",
           "photo": "https://du-lich.chudu24.com/f/m/2407/11/sapa-cat-cat-hill-resort-spa-1.jpg?h=500&w=800",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=18516076&checkin=2026-11-15&checkout=2026-11-17&los=2&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
@@ -3452,7 +3452,7 @@
       "✈ 항공권: 수진·지영 발권 완료 — 제주항공 7C2201 (11/13 21:20) · 비엣젯 VJ960 (11/18 01:45)",
       "🚆 야간열차: 차파 익스프레스 · 4인실 칸 통째 · 라오까이 → 사파 셔틀 포함 예약 완료 (10/15)",
       "🕘 기차 시간: 차파 익스프레스 21:45 하노이역 출발 (예약 화면 기준)",
-      "🏨 사파 숙소: Sapa Catcat Hills Resort & Spa · 11/15–17 2박 예약 완료",
+      "🏨 사파 숙소: Sapa Catcat Hills Resort & Spa · 11/15–17 2박 · Family Mountain View·조식 포함 · 327,044원 예약 완료 (11/3까지 무료취소)",
       "🚌 11/17 버스: 수진·소영 HK 08:30 VIP 캐빈 · 지영 사오비엣 07:55(화장실) 예약 완료 → 14시대 구시가지 HK 사무소 앞에서 합류",
       "판시판은 날씨 이슈로 사파 첫날(11/15)부터 트라이"
     ],
@@ -6519,8 +6519,8 @@
       "ic": "🏨",
       "t": "사파 숙소 · 11/15–17",
       "st": "깟깟 힐스 리조트 예약 완료",
-      "d": "Sapa Catcat Hills Resort & Spa · 2박 · 체크인 14:00 / 체크아웃 12:00 · 조식 06:30–09:30",
-      "todo": "11/15 07시쯤 도착 → 얼리체크인(유료) 미리 메시지 문의",
+      "d": "Sapa Catcat Hills Resort & Spa · 2박 · Family Mountain View · 조식 포함 · 327,044원(WON트래블) · 체크인 14:00 / 체크아웃 12:00",
+      "todo": "11/3 17:00까지 무료취소 · 11/15 07시쯤 도착 → 얼리체크인(유료) 미리 메시지",
       "go": "lodging",
       "done": true
     },
