@@ -450,8 +450,8 @@
       "day": 5,
       "date": "11/17 화",
       "place": "사파 → 하노이 → 공항",
-      "theme": "오전 버스 · 합류 · 마지막 오후",
-      "summary": "08:30 버스로 하노이 → 14:50 합류 → 쇼핑·저녁·마사지 → 공항",
+      "theme": "오전 버스 · 내리자마자 스파",
+      "summary": "14:15 하차 → 바로 세린 스파에서 씻고 마사지·짐 맡기기 → 가볍게 구시가지 → 공항",
       "items": [
         [
           "06:30",
@@ -473,15 +473,21 @@
         ],
         [
           "14:15",
-          "Cafe Giảng 합류",
-          "수진·소영 14:15 HK 하차 → 카페 · 지영 14:40 하차 → 그랩 5분 · ②방식은 이동 탭",
-          "Cafe Giảng (카페 지앙)"
+          "세린 스파 · 샤워·마사지",
+          "수진·소영 HK 하차 → 걸어서 4분, 먼저 시작 · 지영 14:40 하차 → 걸어서 8분, 14:50 합류 · 짐은 저녁까지 맡기기",
+          "세린 스파 (Serene Spa)"
         ],
         [
-          "15:30",
-          "짐 보관 → 동쑤언 시장",
-          "Radical Storage(77 Hàng Lược) · 시장 18시 마감",
+          "16:30",
+          "동쑤언 시장",
+          "빈손으로 걸어서 6분 · 기념품·건과일 · 18시 마감",
           "동쑤언 시장 (Chợ Đồng Xuân)"
+        ],
+        [
+          "17:40",
+          "28 Coffee 소금커피",
+          "시장 맞은편",
+          "28 Coffee (28 커피)"
         ],
         [
           "18:30",
@@ -490,13 +496,19 @@
           "분보남보 박프엉 (Bún Bò Nam Bộ Bách Phương)"
         ],
         [
-          "20:00",
-          "쓰리따봉 마사지·샤워",
-          "19:30 짐 찾아 그랩 7인승 · 24시간 짐 보관",
-          "쓰리따봉 스파 (Three Tabom Spa)"
+          "19:45",
+          "맥주거리 · 호수 야경",
+          "따히엔 거리 한 바퀴 → 호안끼엠 호수",
+          "맥주거리 (Tạ Hiện)"
         ],
         [
-          "22:30",
+          "21:45",
+          "세린 스파 짐 찾기",
+          "22:30 마감 전 · 그랩 7인승 부르기",
+          ""
+        ],
+        [
+          "22:00",
           "그랩으로 공항",
           "40분–1시간",
           ""
@@ -4133,19 +4145,27 @@
           "icon": "🚌"
         }
       ],
-      "Cafe Giảng 합류": [
+      "세린 스파 · 샤워·마사지": [
         {
-          "name": "Cafe Giảng 합류",
-          "lat": 21.0334664,
-          "lng": 105.854518,
+          "name": "세린 스파 · 샤워·마사지",
+          "lat": 21.0347922,
+          "lng": 105.8533442,
           "icon": "📍"
         }
       ],
-      "짐 보관 → 동쑤언 시장": [
+      "동쑤언 시장": [
         {
-          "name": "짐 보관 → 동쑤언 시장",
+          "name": "동쑤언 시장",
           "lat": 21.0381434,
           "lng": 105.8500387,
+          "icon": "📍"
+        }
+      ],
+      "28 Coffee 소금커피": [
+        {
+          "name": "28 Coffee 소금커피",
+          "lat": 21.0377566,
+          "lng": 105.8488697,
           "icon": "📍"
         }
       ],
@@ -4157,11 +4177,11 @@
           "icon": "📍"
         }
       ],
-      "쓰리따봉 마사지·샤워": [
+      "맥주거리 · 호수 야경": [
         {
-          "name": "쓰리따봉 마사지·샤워",
-          "lat": 21.014839,
-          "lng": 105.777117,
+          "name": "맥주거리 · 호수 야경",
+          "lat": 21.0342888,
+          "lng": 105.8521586,
           "icon": "📍"
         }
       ],
@@ -4191,7 +4211,7 @@
       "🚆 야간열차: 차파 익스프레스 · 4인실 칸 통째 · 라오까이 → 사파 셔틀 포함 예약 완료 (10/15)",
       "🕘 기차 시간: 차파 익스프레스 21:45 하노이역 출발 (예약 화면 기준)",
       "🏨 사파 숙소: Sapa Catcat Hills Resort & Spa · 11/15–17 2박 · Family Mountain View·조식 포함 · 327,044원 예약 완료 (11/3까지 무료취소)",
-      "🚌 11/17 버스: 수진·소영 HK 08:30 VIP 캐빈 · 지영 사오비엣 07:55(화장실) 예약 완료 → 14시대 구시가지 HK 사무소 앞에서 합류",
+      "🚌 11/17 버스: 수진·소영 HK 08:30 VIP 캐빈 · 지영 사오비엣 07:55(화장실) 예약 완료 → 14시대 구시가지 세린 스파(68 Mã Mây)에서 합류 · 씻고 짐 맡기기",
       "판시판은 날씨 이슈로 사파 첫날(11/15)부터 트라이"
     ],
     "groups": [
@@ -4736,6 +4756,66 @@
       "cat": "spot"
     },
     {
+      "name": "세린 스파 (Serene Spa)",
+      "day": "D5 · 하노이 도착 직후 ✅ 1순위",
+      "desc": "HK 하차 지점에서 걸어서 4분, 지영 하차 지점에서 8분. 구글 4.9(리뷰 1.1만). 마사지 방 안에 샤워 공간이 있고, 리뷰에 ‘짐 맡기고 놀다 왔다’는 후기가 여럿이라 버스에서 내리자마자 씻고 짐 맡기기 좋아.",
+      "status": "마사지 · 샤워 · 짐 보관",
+      "time": "90분 추천",
+      "tip": "68 Mã Mây · 09:30–22:30 (짐은 22:30 전까지 찾기) · 바로 옆 61 Mã Mây에 같은 계열 ‘Serene Signature Spa’(5.0)도 있음 · 3명 14:30 시작으로 미리 예약 (지영은 14:50 합류)",
+      "check": "예약할 때 ‘짐 3개 저녁까지 보관 + 샤워’ 꼭 말하기",
+      "query": "Serene Spa Hanoi 68 Mã Mây",
+      "city": "hanoi",
+      "lat": 21.0347922,
+      "lng": 105.8533442,
+      "cat": "spa",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMFskxzWY_bVJ1UhohvnvKmE7K7VXGIql1kOXtXOivgu9lqohYWNlRluNg6h4AQ6PCINjqonkmbsFtt4s9E45bcjVNherfK6lU5SrLgDcJRP0DGGaCm1UPWW1uBS_ucdhMiFNgJxEncwX4=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMFskxzWY_bVJ1UhohvnvKmE7K7VXGIql1kOXtXOivgu9lqohYWNlRluNg6h4AQ6PCINjqonkmbsFtt4s9E45bcjVNherfK6lU5SrLgDcJRP0DGGaCm1UPWW1uBS_ucdhMiFNgJxEncwX4=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2UDvNd3j9C4VigPfOsRZ0emfhi7DRiAVlAcml8QA1fTEkXDA4p4feUnAWsNG7PI-i9AvUVVN7219p1fUt20O9a73ZLNzHSObBTP4wKz8maH4_lGzROT8Zu7ymUMdyn3KPlrKnVZ4aR7uM=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd1dlTh-QmoC5bmeXbDstm0aCBPJ2QdU2x67OcHz4mQbP0q57O8jANwxbwN3KVp4-js_buivqpVA6S_JPFhEzRI4uxGkB7xWro5xWOUVKXLdY5UP4f6EzHe_kDH079sHYYeCmyiIfD87MOy=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "라비엔 스파 (Ravien Spa)",
+      "day": "D5 · 하노이 도착 직후 · 대안",
+      "desc": "동쑤언 시장 가는 길(17 Hàng Cân). 한국 예약 사이트에 ‘룸마다 샤워 시설 + 무료 짐 보관’이 명시된 곳. 구글 4.7(470).",
+      "status": "마사지 · 샤워 · 무료 짐 보관",
+      "time": "60–90분",
+      "tip": "HK 하차에서 걸어서 7분, 지영 하차에서 7분 → 둘 다 비슷 · 22:00 마감이라 짐은 그 전에 찾기 · 당일 예약 불가 → 미리 예약",
+      "check": "짐 보관 시간 미리 말하기",
+      "query": "라비엔 스파 17 Hàng Cân",
+      "city": "hanoi",
+      "lat": 21.03463,
+      "lng": 105.849765,
+      "cat": "spa",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qm6WwJHB0ZJNI2UTyg01rRETftOPtywfn46CVkIqOAoZsI1rKOe1lHDQOT2c0ltRYOjndu16a8BYDs-Vo3me8uTMzG_ThbtsXmRzC42BUR7VqtXbKgNG4jilLojY0rIObkQE9i7b472SU=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qm6WwJHB0ZJNI2UTyg01rRETftOPtywfn46CVkIqOAoZsI1rKOe1lHDQOT2c0ltRYOjndu16a8BYDs-Vo3me8uTMzG_ThbtsXmRzC42BUR7VqtXbKgNG4jilLojY0rIObkQE9i7b472SU=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RYAZAzIqHQxpIEHHf_vrPa76mPYAzYOSN-792ec5qgnMU18NaHCQ2PMIVdo4JkpLNGAmhUfkW2FdAZtg73yQyTye4uJc0PXLA20OiCX5VCdsf_l9LlLAlLI0t6cCb4NHNl7YBQCU1GhFn9=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLccw-GVdK0pg-7bTjBztZiKtryKyXoMBydz1izMoHp871RESslobX_q2RiDGSLnTG2j1RLQcfVh5FDSZzRVy_GCyTxPWSN8SO0oFEsdxvY-zRthuN9UQdFmHeoUuu4bUZt1PPc0XJDpOuI=w1200-h900-k-no"
+      ]
+    },
+    {
+      "name": "라벨비 스파 (La Belle Vie Spa)",
+      "day": "D5 · 하노이 도착 직후 · 대안",
+      "desc": "호안끼엠 호수 북쪽 48 Lương Văn Can. 구글 4.9(리뷰 9,800+). 마사지 방에 개인 샤워실. 새벽 02:30까지 열어서 짐 찾는 시간이 넉넉해.",
+      "status": "마사지 · 개인 샤워",
+      "time": "90–120분",
+      "tip": "HK 하차에서 걸어서 6분 · 08:00–02:30 · 핫스톤·발마사지 평 좋음",
+      "check": "짐 보관 되는지 예약 때 확인 (리뷰로는 미확인)",
+      "query": "La Belle Vie Spa 48 Lương Văn Can",
+      "city": "hanoi",
+      "lat": 21.0327469,
+      "lng": 105.8504278,
+      "cat": "spa",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RE4e_sAcGg4TcuAcKCteWkTM-ZO-WJLtFFFYvWOdKzsZLrGmyloRjMAO0V9NEMOdsT85JK5kl7QYr2y_34ULVfidSi6bAKDfO09KaMih62Blwbd-ZgzI9lHa93byRwXkD3PqyZcQ=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RE4e_sAcGg4TcuAcKCteWkTM-ZO-WJLtFFFYvWOdKzsZLrGmyloRjMAO0V9NEMOdsT85JK5kl7QYr2y_34ULVfidSi6bAKDfO09KaMih62Blwbd-ZgzI9lHa93byRwXkD3PqyZcQ=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q57RE57KkPsuWtf5v9ZnYAQtPd4bx_iI8dWPp7FKEAqfyb6CWx1etLuAPT13GOFNK6y5m0KvM3JNlsZB1_Uhcg6skvZVMrjsGL_fSKRbBE9GjgT1iEgJWgbDu1uJLEDWD_wYBxIJmTbe6G=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVJXgWUGPiDM58mworjQl3gt4kfmkFhkSRwCOvM8u6CmuRkfZcNHbjatlUzNb3hvOOsHg301VVF5WimjAg0tR0uxvLBW_ZC60WwqcF5Px9LuPxxwgCTvIRUzYZvnzV6AyZtCv1Ow=w1200-h900-k-no"
+      ]
+    },
+    {
       "name": "센스파 (Sen Spa)",
       "day": "하노이 · 마사지",
       "desc": "poponme24 하노이 마사지 추천 1위.",
@@ -4809,9 +4889,9 @@
     },
     {
       "name": "쓰리따봉 스파 (Three Tabom Spa)",
-      "day": "하노이 · 공항 가기 전",
-      "desc": "깔끔·쾌적한 마사지샵. 24시간 무료 짐 보관이라 출국 전 코스로 좋음 (더 가든 쇼핑센터 1층, 시내에서 차로 20–30분).",
-      "status": "마사지 · 외곽",
+      "day": "D5 · 저녁 옵션 (일정 C)",
+      "desc": "깔끔·쾌적한 마사지샵. 24시간 무료 짐 보관·룸마다 샤워. 다만 구시가지에서 그랩 25–40분(퇴근 시간엔 더) 걸리는 외곽(더 가든 쇼핑센터 1층)이라, 도착 직후 씻기엔 세린 스파가 동선상 훨씬 나아.",
+      "status": "마사지 · 외곽 · 24시간 짐 보관",
       "time": "60–90분",
       "tip": "seoa_1992: 60분 50만동(약 2.5만원)/90분 60만동, 팁 포함 · 10월부터 10만동 인상 예정 · 웰컴 생망고·음료 무료 · 룸마다 샤워실 · 한국어 직원 · 09:30–24:00 · 예약: 구글/인스타/카톡/0384308587",
       "check": "인상된 가격·예약",
@@ -5014,14 +5094,19 @@
       "desc": "전망 포인트. 구름·비가 심하면 다른 일정으로 전환.",
       "status": "날씨 확인",
       "query": "O Quy Ho Heaven Gate Sapa",
-      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/O%20Quy%20Ho%20pass.jpg",
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLe7xjDeGfD4EMnEWi3qTEuXPQ6U2WjZ47__JpSE33POHPMP45t9Fir11C0-MMwGHvD-AdjeTxnYQGw-0FD6oWle_j4afLCQo9kjOgH54yjgpsfWyKF4y0qrudBd-QnQQju_Feno0Q=w1200-h900-k-no",
       "tip": "시내에서 차량 이동과 날씨를 고려해 사랑폭포와 묶을지 결정.",
       "check": "도로 상황·입장/주차 비용·당일 시야",
       "time": "이동 포함 2–3시간",
       "city": "sapa",
       "lat": 22.3527,
       "lng": 103.7766,
-      "cat": "spot"
+      "cat": "spot",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe7xjDeGfD4EMnEWi3qTEuXPQ6U2WjZ47__JpSE33POHPMP45t9Fir11C0-MMwGHvD-AdjeTxnYQGw-0FD6oWle_j4afLCQo9kjOgH54yjgpsfWyKF4y0qrudBd-QnQQju_Feno0Q=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXJgL8-jK1zfoFHi3TltYlJ0-dEbx1qfokLxtAs0XT9Qxe1BtPJdiD6C_0brA6QsdTl47Dp5Q6YdiS3XVjDwBZSmDCa_dV7IgkDfMddyrvmi52r5IkYpQmQgQ9niGyVWTvSESYAA=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-14bSmkxydYIOSQYpWzj-Fza1FBvmdHajszaPSOItRPGYwnCAu-09TctFqDdnTPwYCZAwDEHZjY4HjXSo1Ky97fNsxUjfdDj3ehxmb9Kki2UQBAgbmYopLf3idDpRF50npS2ax3sek0iE=w1200-h900-k-no"
+      ]
     },
     {
       "name": "사파 호수",
@@ -7323,7 +7408,7 @@
       "ic": "🚌",
       "t": "사파 → 하노이 버스 · 11/17",
       "st": "버스 예약 완료",
-      "d": "수진·소영 HK 08:30 VIP 캐빈(1층 싱글캐빈 A15·B15, 2장 104만동 · 소영 결제) → 14:15 구시가지 / 지영 사오비엣 07:55 (화장실) → 14:40 구시가지 · HK 사무소 앞에서 합류",
+      "d": "수진·소영 HK 08:30 VIP 캐빈(1층 싱글캐빈 A15·B15, 2장 104만동 · 소영 결제) → 14:15 구시가지 / 지영 사오비엣 07:55 (화장실) → 14:40 구시가지 · 세린 스파(68 Mã Mây)에서 합류 · 씻고 짐 맡기기",
       "todo": "HK 픽업 07:30(사파 시내) · 픽업 장소 = 깟깟 힐스 · 11/16 저녁 픽업 메시지 확인 · HK표는 환불 불가",
       "go": "transport",
       "done": true
@@ -7344,7 +7429,7 @@
       "id": "A",
       "label": "일정 A",
       "sub": "기본",
-      "desc": "D3 맑으면 바로 판시판 · D5 구시가지에서 쇼핑·저녁 후 쓰리따봉 (예약 기준 기본 플랜)",
+      "desc": "D3 맑으면 바로 판시판 · D5 하노이 도착하자마자 근처 세린 스파에서 씻고 짐 맡기고 시작 (기본 플랜)",
       "over": {}
     },
     {
@@ -7601,7 +7686,7 @@
       "id": "C",
       "label": "일정 C",
       "sub": "짐 먼저",
-      "desc": "D5 합류 후 바로 쓰리따봉에 짐 맡기고 마사지 먼저 · 일찍 씻고 쉬는 버전",
+      "desc": "D5 쓰리따봉 버전 · 합류 후 그랩으로 외곽 쓰리따봉 → 마사지·샤워 → 더 가든에서 저녁 (24시간 짐 보관 · 이동 25–40분)",
       "over": {
         "5": {
           "it": {
