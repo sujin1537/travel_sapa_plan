@@ -5209,7 +5209,13 @@
       "city2": "",
       "lat": 21.0381434,
       "lng": 105.8500387,
-      "cat": "street"
+      "cat": "street",
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpbSQEkNRWV2jHoI6IV-zwu32JQsLrJDp1m8gXm4CmtldW40ItD-dFR9bnajs-46_dK39DqHJkKw1OWFTJ-ioTswUphU83qa2GGmLvs95W7uD12PGwo7cdo7maiQW98gwLOlWv=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcpbSQEkNRWV2jHoI6IV-zwu32JQsLrJDp1m8gXm4CmtldW40ItD-dFR9bnajs-46_dK39DqHJkKw1OWFTJ-ioTswUphU83qa2GGmLvs95W7uD12PGwo7cdo7maiQW98gwLOlWv=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdKba948kt1VxwuPIIumJKFE2glns3y4RTZF8wC79vsHvRm4mp1csQIrsEFkPtiABffZTNt0xbesx9wmh4IW93aU3bwz7SReXs006gA0IfVv3M8OY5s_2OEbrrls3rQh6eiKhc8=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc_cwOdT9YGoE9G2prSnwUB0LVBu0W4a3lQrFXafVbSy48hRiPKxhT1kgGgeJAKlohNnG6zYCbx8wcfiqBfcjXimVOu5OYeqGFxx78yDQPkoDm_JfN6uyMPKo4eRwIzLGE1czb9=w1200-h900-k-no"
+      ]
     }
   ],
   "shop": {
