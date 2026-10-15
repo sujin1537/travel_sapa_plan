@@ -641,7 +641,7 @@
           "name": "Minerva Aparthotel (미네르바 아파트호텔)",
           "url": "https://www.agoda.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=80155509&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "4.5성급 · 아고다 9.4 · 위치 9.5 · 하노이역 631m · 기찻길 근처 조용한 골목 · 아파트형(세탁기·주방) · 24시간 리셉션 · 소영·친구들 반응 좋음 (침대 넉넉)",
+          "note": "4.5성급 · 아고다 9.4 · 위치 9.5 · 하노이역 631m · 기찻길 근처 조용한 골목 · 아파트형(세탁기·주방) · 24시간 리셉션",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
@@ -652,11 +652,11 @@
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 1,
-            "note": "앱 95,899원 (소영 확인 10/15 23:47) · 아침 없음 OK(맛집 가자)",
+            "note": "앱 95,899원",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "셋이 쓰기 넉넉한 쿼드러플룸+테라스 65m²(싱글2+퀸1) · 1인 3.2만 · 역 631m · 9.4 · 조식 X지만 하노이는 맛집으로",
+            "why": "1인 3.2만 · 9.4 · 역 631m · 테라스 쿼드러플룸 65m²로 셋이 제일 넉넉 · 무료취소 · 조식 없음",
             "prevPp": 45200,
             "prevAt": "10/15"
           },
@@ -669,49 +669,11 @@
           ]
         },
         {
-          "name": "Flora Centre Hotel & Spa (플로라 센터)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=36213196&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "bookingPlatform": "Agoda",
-          "note": "소영 픽 🆕 · 4성급 · 아고다 8.8 (3,272건) · 14A Lương Văn Can · 구시가지 한가운데(올드쿼터 92m · 성당 511m · 하노이역 1.4km) · 조식 뷔페 · 스파·사우나·스팀룸·헬스장 · 짐 보관 · 후기: 방은 조금 작지만 깨끗하고 위치·직원 응대 최고",
-          "photo": "https://pix8.agoda.net/hotelImages/36213196/-1/b0cce2c51cb395c4dc5a9e08391042b5.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/36213196/-1/b0cce2c51cb395c4dc5a9e08391042b5.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/76994011/0/52c4b60bff3784261a8f47b5bf6ebae2.jpeg?s=1024x768",
-            "https://pix8.agoda.net/property/76994011/0/f2f7d6525e63951477117dbcebb51b92.jpeg?s=1024x768",
-            "https://pix8.agoda.net/property/76994011/0/3b30950b388f8b4d9079244890e2007e.jpeg?s=1024x768"
-          ],
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 90000,
-            "pp": 30000,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "성인 3명 · 조식 포함 · 무료취소",
-            "extraBed": false,
-            "rank": 2,
-            "note": "WON트래블 약 9만원 (소영 확인) · 아고다 119,342원",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/16",
-            "why": "WON트래블 9만원대로 조식+스파 · 구시가지 맛집 동선 한가운데",
-            "cmp": {
-              "at": "10/16",
-              "p": {
-                "아고다": 119342,
-                "WON트래블": 90000
-              }
-            }
-          },
-          "lat": 21.0311,
-          "lng": 105.8505
-        },
-        {
           "name": "Bastra Classy Hotel (바스트라 클래시)",
           "url": "https://www.agoda.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=87901651&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
           "bookingPlatform": "Agoda",
-          "note": "지영 픽 🆕 · 4성급 · 아고다 9.6 최고 (148건 · 직원 9.9) · 6-8 Hàng Dầu (호안끼엠 호수 북동쪽 · 하노이역 1.6km) · 이그제큐티브 트리플룸 35m²(퀸1+싱글1 또는 싱글3) · 조식 · 무료취소 · 후기: 새벽 4시 도착에도 응대 빠르고, 이른 도착엔 짐 보관·샤워까지 도와줌 · 한국인 후기 좋음",
+          "note": "4성급 · 아고다 9.6 최고 (148건 · 직원 9.9) · 6-8 Hàng Dầu (호안끼엠 호수 북동쪽 · 하노이역 1.6km) · 이그제큐티브 트리플룸 35m²(퀸1+싱글1 또는 싱글3) · 조식 · 무료취소 · 후기: 새벽 4시 도착에도 응대 빠르고, 이른 도착엔 짐 보관·샤워까지 도와줌",
           "photo": "https://pix8.agoda.net/hotelImages/87901651/0/74b15a1004127327f9883b00fb25549a.jpg?s=1024x768",
           "gallery": [
             "https://pix8.agoda.net/hotelImages/87901651/0/74b15a1004127327f9883b00fb25549a.jpg?s=1024x768",
@@ -727,21 +689,91 @@
             "left": "마지막 1개",
             "room": "이그제큐티브 트리플룸 35m² · 조식 포함 · 무료취소(11/10까지)",
             "extraBed": false,
-            "rank": 3,
+            "rank": 2,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "평점 9.6 · 새벽 00:40 도착에 강한 응대 후기 · 트리플룸 침대 3개"
+            "why": "1인 3.9만 · 9.6(후기 148건) · 조식 · 트리플룸 · 새벽 도착 응대 후기 · 역 1.6km(구시가지 호수 쪽)"
           },
           "lat": 21.0312,
           "lng": 105.8541
         },
         {
+          "name": "Hanoi Bonsella Hotel (하노이 본셀라)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2172363&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "3.5성급 · 아고다 9.2(3,591건) · 위치 9.7 · 성 요셉 성당 210m · 쌀국수 조식 · 12층 루프탑 바 · 하노이역 1.2km",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 126639,
+            "pp": 42213,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
+            "extraBed": false,
+            "rank": 3,
+            "note": "아고다 앱 126,639원",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/16",
+            "why": "1인 4.2만 · 9.2 · 조식·무료취소 · 성당 210m",
+            "prevPp": 50077,
+            "prevAt": "10/15"
+          },
+          "lat": 21.0305333,
+          "lng": 105.8504925,
+          "photo": "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013010052505980.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013010052505980.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013120052506467.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013170052506787.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013150052506661.jpg?s=1024x768"
+          ]
+        },
+        {
+          "name": "Flora Centre Hotel & Spa (플로라 센터)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=36213196&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "bookingPlatform": "Agoda",
+          "note": "4성급 · 아고다 8.8 (3,272건) · 14A Lương Văn Can · 구시가지 한가운데(올드쿼터 92m · 성당 511m · 하노이역 1.4km) · 조식 뷔페 · 스파·사우나·스팀룸·헬스장 · 짐 보관 · 후기: 방은 조금 작지만 깨끗하고 위치·직원 응대 최고",
+          "photo": "https://pix8.agoda.net/hotelImages/36213196/-1/b0cce2c51cb395c4dc5a9e08391042b5.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/36213196/-1/b0cce2c51cb395c4dc5a9e08391042b5.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/76994011/0/52c4b60bff3784261a8f47b5bf6ebae2.jpeg?s=1024x768",
+            "https://pix8.agoda.net/property/76994011/0/f2f7d6525e63951477117dbcebb51b92.jpeg?s=1024x768",
+            "https://pix8.agoda.net/property/76994011/0/3b30950b388f8b4d9079244890e2007e.jpeg?s=1024x768"
+          ],
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 119342,
+            "pp": 39781,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "성인 3명 · 조식 포함 · 무료취소",
+            "extraBed": false,
+            "rank": 4,
+            "note": "아고다 119,342원 · WON트래블 약 9만원 (할인 적용 시)",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/16",
+            "why": "1인 4만(WON트래블 할인 시 약 3만) · 8.8 · 조식·스파 · 구시가지 중심 · 방이 작은 편",
+            "cmp": {
+              "at": "10/16",
+              "p": {
+                "WON트래블(할인 적용)": 90000
+              }
+            }
+          },
+          "lat": 21.0311,
+          "lng": 105.8505
+        },
+        {
           "name": "Acoustic Hotel & Spa (어쿠스틱)",
           "url": "https://www.agoda.com/",
           "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=6393504&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "수진 픽 · 사진상 객실이 깔끔 · 숙소 리스트 글 추천: 하노이역·기찻길 인접 가성비 · 4성급, 평점 9.2(7,586건) · 하노이역 525m라 야간열차 타기 최적 · 성당 527m · 루프탑 바, 투숙객 마사지 할인 · 2025 아고다 인기 숙소",
+          "note": "사진상 객실이 깔끔 · 숙소 리스트 글 추천: 하노이역·기찻길 인접 가성비 · 4성급, 평점 9.2(7,586건) · 하노이역 525m라 야간열차 타기 최적 · 성당 527m · 루프탑 바, 투숙객 마사지 할인 · 2025 아고다 인기 숙소",
           "photo": "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6393504/-1/dbcf2c677dbd0b68f9f23bd74987b264.jpg?s=1024x768",
@@ -760,14 +792,14 @@
             "left": "마지막 1개",
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
             "extraBed": false,
-            "rank": 4,
-            "note": "WON트래블 147,832원 (소영 확인)",
+            "rank": 5,
+            "note": "WON트래블 147,832원",
             "rooms": 1,
             "bfOption": null,
             "prevPp": 65590,
             "prevAt": "10/14",
             "checked": "10/16",
-            "why": "하노이역 500m라 22시 야간열차 타기 최적 · 조식·무료취소 · 평점 9.2(7.5천건) · 수진 픽",
+            "why": "1인 5.1만(WON트래블 4.9만) · 9.2(7.5천건) · 역 525m로 가장 가까움 · 조식·무료취소 · 후보 중 가격 높은 편",
             "cmp": {
               "at": "10/16",
               "p": {
@@ -777,40 +809,39 @@
             }
           },
           "lat": 21.0276833,
-          "lng": 105.8445803,
-          "pick": 6
+          "lng": 105.8445803
         },
         {
-          "name": "Hanoi Bonsella Hotel (하노이 본셀라)",
+          "name": "Bendecir Hotel & Spa (벤데시르)",
           "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=2172363&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "3.5성급 · 아고다 9.2(3,591건) · 위치 9.7 · 성 요셉 성당 210m · 쌀국수 조식 · 12층 루프탑 바 · 하노이역 1.2km",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=3552431&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "4성급 · 리뷰 4,926건 · 위치 9.3 · 프렌치 쿼터 Lò Sũ 거리 · 하노이역 1.7km",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 126639,
-            "pp": 42213,
+            "nightTotal": 97604,
+            "pp": 32535,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": "2개 남음",
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
-            "rank": 5,
-            "note": "아고다 앱 126,639원 (소영 확인)",
+            "rank": 6,
+            "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "조식 포함 · 무료취소 · 9.2점 · 성당·호수 코앞",
-            "prevPp": 50077,
+            "why": "4성 1인 3.4만 · 무료취소 · 역에선 조금 멂",
+            "prevPp": 34127,
             "prevAt": "10/15"
           },
-          "lat": 21.0305333,
-          "lng": 105.8504925,
-          "photo": "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013010052505980.jpg?s=1024x768",
+          "lat": 21.031209,
+          "lng": 105.8556893,
+          "photo": "https://pix8.agoda.net/hotelImages/3552431/-1/4778ee9878b994760d3ff5fef90b68ff.jpg?s=1024x768",
           "gallery": [
-            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013010052505980.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013120052506467.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013170052506787.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013150052506661.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/3552431/-1/4778ee9878b994760d3ff5fef90b68ff.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/3552431/-1/23efa2b34d1ce7d738410f3b311e2770.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/3552431/0/bbcc6814bbf478ebf2c0b8ea2a464188.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/3552431/0/4e812f864a428dfa3b2fbeea9621f9f3.jpg?s=1024x768"
           ]
         },
         {
@@ -828,14 +859,14 @@
             "left": "2개 남음",
             "room": "트리플룸",
             "extraBed": false,
-            "rank": 6,
+            "rank": 7,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
             "prevPp": 35278,
             "prevAt": "10/14",
             "checked": "10/16",
-            "why": "구시가지·호수 700m · 조식 포함 1인 3.9만원 · 트리플룸(침대 3개) → 첫날 피곤할 때 편함 (지영 픽)",
+            "why": "구시가지·호수 700m · 조식 포함 1인 3.9만원 · 트리플룸(침대 3개) → 첫날 피곤할 때 편함",
             "cmp": {
               "at": "10/12",
               "p": {
@@ -871,7 +902,7 @@
             "left": "마지막 1개",
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
-            "rank": 7,
+            "rank": 8,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
@@ -902,7 +933,7 @@
             "left": "마지막 1개",
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
-            "rank": 8,
+            "rank": 9,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
@@ -922,36 +953,112 @@
           ]
         },
         {
-          "name": "Bendecir Hotel & Spa (벤데시르)",
+          "name": "Hanoi Win Hotel & Travel (하노이 윈)",
           "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=3552431&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "4성급 · 리뷰 4,926건 · 위치 9.3 · 프렌치 쿼터 Lò Sũ 거리 · 하노이역 1.7km",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=58634497&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "3성급 · 위치 9.6 · 호안끼엠 호수 바로 옆 골목 · 객실 넓음 · 리뷰 적음(78건) · 하노이역 1.2km",
           "bookingPlatform": "Agoda",
           "avail": {
             "soldOut": false,
-            "nightTotal": 97604,
-            "pp": 32535,
-            "breakfast": true,
-            "left": "2개 남음",
-            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
+            "nightTotal": 84462,
+            "pp": 28154,
+            "breakfast": false,
+            "left": "3개 남음",
+            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
-            "rank": 9,
+            "rank": 10,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "4성 1인 3.4만 · 무료취소 · 역에선 조금 멂",
-            "prevPp": 34127,
+            "why": "위치 9.6 · 1인 3만 · 후기 적고 무료취소 X",
+            "prevPp": 29961,
             "prevAt": "10/15"
           },
-          "lat": 21.031209,
-          "lng": 105.8556893,
-          "photo": "https://pix8.agoda.net/hotelImages/3552431/-1/4778ee9878b994760d3ff5fef90b68ff.jpg?s=1024x768",
+          "lat": 21.031268,
+          "lng": 105.8502014,
+          "photo": "https://pix8.agoda.net/hotelImages/58634497/0/5ac1ce93e884d9cc7283d2773c6ae5ad.jpg?s=1024x768",
           "gallery": [
-            "https://pix8.agoda.net/hotelImages/3552431/-1/4778ee9878b994760d3ff5fef90b68ff.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/3552431/-1/23efa2b34d1ce7d738410f3b311e2770.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/3552431/0/bbcc6814bbf478ebf2c0b8ea2a464188.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/3552431/0/4e812f864a428dfa3b2fbeea9621f9f3.jpg?s=1024x768"
+            "https://pix8.agoda.net/hotelImages/58634497/0/5ac1ce93e884d9cc7283d2773c6ae5ad.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/58634497/881485811/971ce51e9f2599d63f7a071c603979fe.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/58634497/0/97b5d7af95d4db2b96dd7fce84cacb67.jpeg?s=1024x768"
+          ]
+        },
+        {
+          "name": "Little Diamond Hotel",
+          "url": "https://littlediamondhotel.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "구시가지 후보 · 실제 3인 객실 구성·요금·새벽 체크인 확인 · 사진상 객실이 낡아 보여 순위 내림",
+          "photo": "https://content.r9cdn.net/rimg/himg/17/91/93/expedia_group-144606-c5f0ec-196269.jpg?crop=true&height=768&width=1366",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 80440,
+            "pp": 26813,
+            "breakfast": true,
+            "left": "마지막 1개",
+            "room": "패밀리 디럭스 (최대 4인)",
+            "extraBed": false,
+            "rank": 11,
+            "note": "WEEKENDSALE 쿠폰가",
+            "rooms": 1,
+            "bfOption": null,
+            "prevPp": 26459,
+            "prevAt": "10/14",
+            "checked": "10/16",
+            "why": "구시가지에 1인 2.6만원으로 제일 쌈 · 사진상 낡아서 의심 → 10만원↑ 바로 위",
+            "cmp": {
+              "at": "10/12",
+              "p": {
+                "부킹닷컴": 162528
+              },
+              "w": "구글호텔 경유 아고다 ₩74,729 · 부킹은 4인 객실가"
+            }
+          },
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/d49f532fbf285041726f3c39033161e3.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/e914ddc5931465dd2f28c9abd70c8177.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/5ea58b8b9eebc2330896e2aab2a4616c.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/3fba15ef4813721d13e404e87a747057.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/280805/-1/584e7df2f88e0b67af4e5ec169018622.jpg?s=1024x768",
+            "https://pix8.agoda.net/property/280805/0/458f09065f9de82a46caddfa684d7453.jpeg?s=1024x768",
+            "https://pix8.agoda.net/property/280805/0/05a9d44842e5d04ed0258a228831e08b.jpeg?s=1024x768"
+          ],
+          "lat": 21.0337023,
+          "lng": 105.8475903
+        },
+        {
+          "name": "Hanoi Elpis Grand Hotel (엘피스 그랜드)",
+          "url": "https://www.agoda.com/",
+          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8853161&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
+          "note": "3성급 · 위치 9.1 · 항째 거리 · 사파 버스(HK·G8) 하차 지점 2분 · 소음 후기 · 하노이역 1.7km",
+          "bookingPlatform": "Agoda",
+          "avail": {
+            "soldOut": false,
+            "nightTotal": 54264,
+            "pp": 18088,
+            "breakfast": false,
+            "left": "마지막 1개",
+            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
+            "extraBed": false,
+            "rank": 12,
+            "note": "WEEKENDSALE 쿠폰가",
+            "rooms": 1,
+            "bfOption": null,
+            "checked": "10/16",
+            "why": "1인 2만 · 무료취소 · 소음 후기",
+            "prevPp": 20353,
+            "prevAt": "10/15"
+          },
+          "lat": 21.031914,
+          "lng": 105.8555916,
+          "photo": "https://pix8.agoda.net/hotelImages/8853161/-1/a0b67c0a6628fd21c4cb2ffc7d49866e.jpg?s=1024x768",
+          "gallery": [
+            "https://pix8.agoda.net/hotelImages/8853161/-1/a0b67c0a6628fd21c4cb2ffc7d49866e.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/885/8853161/8853161_19090301000080390473.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/8853161/-1/bde8ae0f2ca3843ee891c64cee0454f6.jpg?s=1024x768",
+            "https://pix8.agoda.net/hotelImages/8853161/-1/cf0349f6f2cec1b59fd5a40d39d43717.png?s=1024x768"
           ]
         },
         {
@@ -968,7 +1075,7 @@
             "left": "마지막 1개",
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
-            "rank": 10,
+            "rank": 13,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
@@ -1001,7 +1108,7 @@
             "left": "5개 남음",
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
-            "rank": 11,
+            "rank": 14,
             "note": "WEEKENDSALE 쿠폰가",
             "rooms": 1,
             "bfOption": null,
@@ -1030,116 +1137,6 @@
           ],
           "lat": 21.0430583,
           "lng": 105.8438568
-        },
-        {
-          "name": "Hanoi Win Hotel & Travel (하노이 윈)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=58634497&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "3성급 · 위치 9.6 · 호안끼엠 호수 바로 옆 골목 · 객실 넓음 · 리뷰 적음(78건) · 하노이역 1.2km",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 84462,
-            "pp": 28154,
-            "breakfast": false,
-            "left": "3개 남음",
-            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
-            "extraBed": false,
-            "rank": 12,
-            "note": "WEEKENDSALE 쿠폰가",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/16",
-            "why": "위치 9.6 · 1인 3만 · 후기 적고 무료취소 X",
-            "prevPp": 29961,
-            "prevAt": "10/15"
-          },
-          "lat": 21.031268,
-          "lng": 105.8502014,
-          "photo": "https://pix8.agoda.net/hotelImages/58634497/0/5ac1ce93e884d9cc7283d2773c6ae5ad.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/58634497/0/5ac1ce93e884d9cc7283d2773c6ae5ad.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/58634497/881485811/971ce51e9f2599d63f7a071c603979fe.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/58634497/0/97b5d7af95d4db2b96dd7fce84cacb67.jpeg?s=1024x768"
-          ]
-        },
-        {
-          "name": "Hanoi Elpis Grand Hotel (엘피스 그랜드)",
-          "url": "https://www.agoda.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=8853161&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "3성급 · 위치 9.1 · 항째 거리 · 사파 버스(HK·G8) 하차 지점 2분 · 소음 후기 · 하노이역 1.7km",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 54264,
-            "pp": 18088,
-            "breakfast": false,
-            "left": "마지막 1개",
-            "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
-            "extraBed": false,
-            "rank": 13,
-            "note": "WEEKENDSALE 쿠폰가",
-            "rooms": 1,
-            "bfOption": null,
-            "checked": "10/16",
-            "why": "1인 2만 · 무료취소 · 소음 후기",
-            "prevPp": 20353,
-            "prevAt": "10/15"
-          },
-          "lat": 21.031914,
-          "lng": 105.8555916,
-          "photo": "https://pix8.agoda.net/hotelImages/8853161/-1/a0b67c0a6628fd21c4cb2ffc7d49866e.jpg?s=1024x768",
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/8853161/-1/a0b67c0a6628fd21c4cb2ffc7d49866e.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/885/8853161/8853161_19090301000080390473.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/8853161/-1/bde8ae0f2ca3843ee891c64cee0454f6.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/8853161/-1/cf0349f6f2cec1b59fd5a40d39d43717.png?s=1024x768"
-          ]
-        },
-        {
-          "name": "Little Diamond Hotel",
-          "url": "https://littlediamondhotel.com/",
-          "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&hl=ko-kr&hid=280805&checkin=2026-11-13&checkout=2026-11-14&los=1&adults=3&rooms=1&childs=0",
-          "note": "구시가지 후보 · 실제 3인 객실 구성·요금·새벽 체크인 확인 · 사진상 객실이 낡아 보여 순위 내림",
-          "photo": "https://content.r9cdn.net/rimg/himg/17/91/93/expedia_group-144606-c5f0ec-196269.jpg?crop=true&height=768&width=1366",
-          "bookingPlatform": "Agoda",
-          "avail": {
-            "soldOut": false,
-            "nightTotal": 80440,
-            "pp": 26813,
-            "breakfast": true,
-            "left": "마지막 1개",
-            "room": "패밀리 디럭스 (최대 4인)",
-            "extraBed": false,
-            "rank": 14,
-            "note": "WEEKENDSALE 쿠폰가",
-            "rooms": 1,
-            "bfOption": null,
-            "prevPp": 26459,
-            "prevAt": "10/14",
-            "checked": "10/16",
-            "why": "구시가지에 1인 2.6만원으로 제일 쌈 · 사진상 낡아서 의심 → 10만원↑ 바로 위",
-            "cmp": {
-              "at": "10/12",
-              "p": {
-                "부킹닷컴": 162528
-              },
-              "w": "구글호텔 경유 아고다 ₩74,729 · 부킹은 4인 객실가"
-            }
-          },
-          "gallery": [
-            "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/d49f532fbf285041726f3c39033161e3.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/e914ddc5931465dd2f28c9abd70c8177.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/5ea58b8b9eebc2330896e2aab2a4616c.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/3fba15ef4813721d13e404e87a747057.jpg?s=1024x768",
-            "https://pix8.agoda.net/hotelImages/280805/-1/584e7df2f88e0b67af4e5ec169018622.jpg?s=1024x768",
-            "https://pix8.agoda.net/property/280805/0/458f09065f9de82a46caddfa684d7453.jpeg?s=1024x768",
-            "https://pix8.agoda.net/property/280805/0/05a9d44842e5d04ed0258a228831e08b.jpeg?s=1024x768"
-          ],
-          "lat": 21.0337023,
-          "lng": 105.8475903,
-          "pick": -6
         },
         {
           "name": "Novotel Hanoi Thai Ha (노보텔 타이하)",
@@ -1282,7 +1279,8 @@
             "note": "10/14엔 예약 불가 → 10/16 다시 열림",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/16"
+            "checked": "10/16",
+            "why": null
           },
           "lat": 21.0357215,
           "lng": 105.8476901
@@ -1707,7 +1705,8 @@
             "note": "3인 객실 가격 안 뜸 (10/16)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/16"
+            "checked": "10/16",
+            "why": null
           },
           "lat": 21.0322535,
           "lng": 105.8538996
@@ -1732,7 +1731,8 @@
             "note": "여전히 가격 안 뜸 (10/16)",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/16"
+            "checked": "10/16",
+            "why": null
           }
         },
         {
@@ -2985,7 +2985,7 @@
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
       "checkedAt": "2026-10-16 00:20 (KST) 아고다 기준 · 1박 총액(세금 포함, 쿠폰 적용가)",
-      "sortNote": "Claude 순위 (10/16 친구들 의견 반영): 하노이 조식은 안 먹어도 됨(맛집으로) → 셋이 넉넉한 침대 + 1인 가격 + 평점·위치 우선 · 1 미네르바 · 2 플로라(WON 9만) · 3 바스트라(9.6) · 4 어쿠스틱 · 5 본셀라",
+      "sortNote": "Claude 순위 (10/16, 누가 추천했는지는 반영 안 함): 셋이 쓰기 넉넉한 침대 > 1인 가격 > 평점·후기 수 > 위치(하노이역·구시가지) > 무료취소 > 조식",
       "landmarks": {
         "hanoi": [
           {
@@ -4439,12 +4439,12 @@
             "id": "hanoi",
             "q": "11/13 체크인 · 1박, 어디서?",
             "goto": "lodging",
-            "hint": "10/16 친구들 의견 반영 순위 · 하노이 조식은 패스해도 OK(맛집 가자) → 침대 넉넉·1인 가격·평점 우선 · 00:40 도착이라 11/13 체크인으로 예약 · 대부분 1개 남음이라 빨리 정하기",
+            "hint": "10/16 아고다 가격 기준 순위 (누가 추천했는지는 반영 안 함) · 침대 넉넉 > 1인 가격 > 평점 > 위치 · 00:40 도착이라 11/13 체크인으로 예약 · 대부분 1개 남음",
             "options": [
               {
                 "id": "minerva",
                 "label": "미네르바 아파트호텔 (4.5성)",
-                "meta": "1인 3.2만 (앱 95,899) · 쿼드러플룸+테라스 65m² 침대 넉넉 · 역 631m · 9.4 · 조식 X",
+                "meta": "1인 3.2만 · 9.4 · 쿼드러플룸 65m² 침대 넉넉 · 역 631m · 무료취소 · 조식 X",
                 "rec": true,
                 "hotel": [
                   "hanoi",
@@ -4452,36 +4452,36 @@
                 ]
               },
               {
-                "id": "flora",
-                "label": "플로라 센터 (4성) 🆕 소영",
-                "meta": "1인 약 3만 (WON트래블 9만) · 조식·스파 · 구시가지 한가운데 · 8.8",
+                "id": "bastra",
+                "label": "바스트라 클래시 (4성) 🆕",
+                "meta": "1인 3.9만 · 9.6 · 조식 · 트리플룸 · 새벽 도착 응대 후기",
                 "hotel": [
                   "hanoi",
                   1
                 ]
               },
               {
-                "id": "bastra",
-                "label": "바스트라 클래시 (4성) 🆕 지영",
-                "meta": "1인 3.9만 · 조식 · 트리플룸 · 9.6 최고 · 새벽 도착 응대 후기",
+                "id": "bonsella",
+                "label": "본셀라 (3.5성)",
+                "meta": "1인 4.2만 · 9.2 · 조식·무료취소 · 성당 210m",
                 "hotel": [
                   "hanoi",
                   2
                 ]
               },
               {
-                "id": "acoustic",
-                "label": "어쿠스틱 (4성) · 수진",
-                "meta": "1인 4.9만 (WON 147,832) · 역 525m · 조식·무료취소 · 9.2",
+                "id": "flora",
+                "label": "플로라 센터 (4성) 🆕",
+                "meta": "1인 4만 (WON트래블 할인 시 약 3만) · 8.8 · 조식·스파 · 구시가지",
                 "hotel": [
                   "hanoi",
                   3
                 ]
               },
               {
-                "id": "bonsella",
-                "label": "본셀라 (3.5성)",
-                "meta": "1인 4.2만 (앱 126,639) · 조식·무료취소 · 9.2 · 성당 210m",
+                "id": "acoustic",
+                "label": "어쿠스틱 (4성)",
+                "meta": "1인 5.1만 (WON 4.9만) · 9.2 · 역 525m · 조식·무료취소",
                 "hotel": [
                   "hanoi",
                   4
@@ -4490,10 +4490,10 @@
               {
                 "id": "hn",
                 "label": "하노이 노스탤지어",
-                "meta": "1인 3.6만 · 조식(평 별로) · 트리플룸",
+                "meta": "1인 3.6만 · 조식 · 트리플룸",
                 "hotel": [
                   "hanoi",
-                  5
+                  6
                 ]
               }
             ],
