@@ -4573,17 +4573,20 @@
                     "id": "pho10",
                     "label": "포10 쌀국수",
                     "meta": "미쉐린 · 따이찐",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Phở 10 Lý Quốc Sư (포10)"
                   },
                   {
                     "id": "ganguyet",
                     "label": "포가 응우옛",
-                    "meta": "닭쌀국수"
+                    "meta": "닭쌀국수",
+                    "peek": "포가응우옛 (Phở Gà Nguyệt)"
                   },
                   {
                     "id": "duyen",
                     "label": "Duyên Béo",
-                    "meta": "풍향고"
+                    "meta": "풍향고",
+                    "peek": "Duyên Béo"
                   }
                 ]
               },
@@ -4595,17 +4598,20 @@
                     "id": "hangquat",
                     "label": "분짜 항꿧",
                     "meta": "10–14시만 · 현지인 줄",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Bún chả 74 Hàng Quạt (분짜 항꿧)"
                   },
                   {
                     "id": "dackim",
                     "label": "분짜닥킴",
-                    "meta": "미쉐린 · 줄 길면 여기"
+                    "meta": "미쉐린 · 줄 길면 여기",
+                    "peek": "분짜닥킴 (Bún Chả Đắc Kim)"
                   },
                   {
                     "id": "huong",
                     "label": "분짜 흐엉리엔",
-                    "meta": "오바마 세트 · 예슬 추천"
+                    "meta": "오바마 세트 · 예슬 추천",
+                    "peek": "분짜 흐엉리엔 (오바마 분짜)"
                   }
                 ]
               },
@@ -4617,27 +4623,32 @@
                     "id": "cong",
                     "label": "콩카페 호수뷰",
                     "meta": "코코넛 스무디 커피",
-                    "rec": true
+                    "rec": true,
+                    "peek": "콩카페 호안끼엠점 (Cộng Cà Phê)"
                   },
                   {
                     "id": "lemon",
                     "label": "성당 레몬티",
-                    "meta": "노상 · 하노이 국룰"
+                    "meta": "노상 · 하노이 국룰",
+                    "peek": "성당 레몬티 (Trà chanh Nhà Thờ)"
                   },
                   {
                     "id": "giang",
                     "label": "카페 지앙 에그커피",
-                    "meta": "D5에도 있음"
+                    "meta": "D5에도 있음",
+                    "peek": "Cafe Giảng (카페 지앙)"
                   },
                   {
                     "id": "sbux",
                     "label": "스타벅스 성당점",
-                    "meta": "예슬 추천"
+                    "meta": "예슬 추천",
+                    "peek": "Starbucks (베트남 한정 메뉴)"
                   },
                   {
                     "id": "phuc",
                     "label": "Phúc Long",
-                    "meta": "예슬 추천"
+                    "meta": "예슬 추천",
+                    "peek": "Phúc Long"
                   }
                 ]
               },
@@ -4649,18 +4660,21 @@
                     "id": "kem",
                     "label": "짱띠엔 아이스크림",
                     "meta": "호수 남쪽",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Kem Tràng Tiền (짱띠엔 아이스크림)"
                   },
                   {
                     "id": "che",
                     "label": "쏘이째 바틴",
                     "meta": "쩨 · 기찻길 가는 길",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Xôi chè Bà Thìn (디저트)"
                   },
                   {
                     "id": "ovo",
                     "label": "OVO 에그타르트",
-                    "meta": "밤 기차 간식 포장"
+                    "meta": "밤 기차 간식 포장",
+                    "peek": "OVO Egg Tart (오보 에그타르트)"
                   }
                 ]
               },
@@ -4672,21 +4686,25 @@
                     "id": "rest",
                     "label": "숙소 휴식",
                     "meta": "열차 전 체력 보충",
-                    "rec": true
+                    "rec": true,
+                    "desc": "델리카 프리미엄에서 2시간쯤 쉬기·샤워. 밤 기차 타기 전에 체력 보충하는 옵션이야. 체크아웃 후라면 짐 맡긴 채 로비에서 쉬어도 OK."
                   },
                   {
                     "id": "massage",
                     "label": "마사지",
-                    "meta": "센스파"
+                    "meta": "센스파",
+                    "peek": "센스파 (Sen Spa)"
                   },
                   {
                     "id": "hangma",
-                    "label": "항마 등불 골목"
+                    "label": "항마 등불 골목",
+                    "peek": "항마 거리 (Hàng Mã) 등불 골목"
                   },
                   {
                     "id": "thanglong",
                     "label": "탕롱 황성",
-                    "meta": "지하벙커"
+                    "meta": "지하벙커",
+                    "peek": "탕롱 황성 (Hoàng thành Thăng Long)"
                   }
                 ]
               },
@@ -4698,12 +4716,14 @@
                     "id": "train",
                     "label": "17:30 기차 보기",
                     "meta": "토요일 15:30 · 17:30 · 19:30",
-                    "rec": true
+                    "rec": true,
+                    "peek": "하노이 기찻길 – 북쪽 풍흥 (29A Nguyễn Thái Học)"
                   },
                   {
                     "id": "skip",
                     "label": "패스",
-                    "meta": "시간 남으면 타히엔"
+                    "meta": "시간 남으면 타히엔",
+                    "desc": "기찻길을 건너뛰고 그 시간에 타히엔 맥주거리나 구시가지 산책. 기차 지나가는 건 토요일 15:30 · 17:30 · 19:30쯤."
                   }
                 ]
               },
@@ -4715,22 +4735,26 @@
                     "id": "ngon",
                     "label": "꽌안응온",
                     "meta": "대왕 반쎄오 · 토요일 예약 필수",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Quán Ăn Ngon (꽌안응온)"
                   },
                   {
                     "id": "uudam",
                     "label": "우담차이",
-                    "meta": "미쉐린 비건"
+                    "meta": "미쉐린 비건",
+                    "peek": "Ưu Đàm Chay (우담차이)"
                   },
                   {
                     "id": "hoang",
                     "label": "Hoang's Restaurant",
-                    "meta": "예슬 추천"
+                    "meta": "예슬 추천",
+                    "peek": "Hoang's Restaurant"
                   },
                   {
                     "id": "4ps",
                     "label": "Pizza 4P's",
-                    "meta": "예슬 추천"
+                    "meta": "예슬 추천",
+                    "peek": "Pizza 4P's"
                   }
                 ]
               }
@@ -4748,12 +4772,14 @@
                     "id": "go",
                     "label": "맑으면 바로 판시판",
                     "meta": "08:00 날씨 보고 당일 클룩 구매",
-                    "rec": true
+                    "rec": true,
+                    "peek": "판시판"
                   },
                   {
                     "id": "b",
                     "label": "흐리면 깟깟 먼저",
-                    "meta": "판시판은 D4 오전 재도전"
+                    "meta": "판시판은 D4 오전 재도전",
+                    "peek": "깟깟마을"
                   }
                 ]
               },
@@ -4765,17 +4791,20 @@
                     "id": "little",
                     "label": "Little Sapa",
                     "meta": "풍향고",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Little Sapa"
                   },
                   {
                     "id": "chusu",
                     "label": "CHUSU KITCHEN",
-                    "meta": "D4 점심 후보"
+                    "meta": "D4 점심 후보",
+                    "peek": "CHUSU KITCHEN"
                   },
                   {
                     "id": "sbux",
                     "label": "판시판 스타벅스",
-                    "meta": "케이블카 도착역에서 간단히"
+                    "meta": "케이블카 도착역에서 간단히",
+                    "peek": "스타벅스 판시판 (해발 3,143m)"
                   }
                 ]
               },
@@ -4786,11 +4815,13 @@
                   {
                     "id": "yes",
                     "label": "빌려 입기",
-                    "meta": "Peace's house 016 · 옥상 포토존"
+                    "meta": "Peace's house 016 · 옥상 포토존",
+                    "desc": "깟깟마을 입구 쪽 의상 대여점(Peace's house 016 등)에서 몽족 전통의상 빌려 입고 사진 찍기. 옥상 포토존이 있어."
                   },
                   {
                     "id": "no",
-                    "label": "그냥 구경"
+                    "label": "그냥 구경",
+                    "desc": "의상 대여 없이 마을만 구경하며 걷기."
                   }
                 ]
               },
@@ -4801,17 +4832,20 @@
                   {
                     "id": "none",
                     "label": "숙소 체크인 · 휴식",
-                    "rec": true
+                    "rec": true,
+                    "desc": "깟깟마을 다 보고 깟깟 힐스로 돌아가 체크인(14:00 이후)하고 쉬기. 새벽 기차라 피곤할 거라 추천."
                   },
                   {
                     "id": "coaster",
                     "label": "깟깟 슬라이드",
-                    "meta": "4만동 · 강추 후기"
+                    "meta": "4만동 · 강추 후기",
+                    "peek": "깟깟마을 알파인 코스터/슬라이드"
                   },
                   {
                     "id": "massage",
                     "label": "마사지",
-                    "meta": "MASSAGE 017"
+                    "meta": "MASSAGE 017",
+                    "peek": "MASSAGE 017"
                   }
                 ]
               },
@@ -4823,17 +4857,20 @@
                     "id": "paradise",
                     "label": "파라다이스 레스토랑",
                     "meta": "사파 1등 뷰 · 철갑상어 핫팟",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Paradise Restaurant (파라다이스 레스토랑)"
                   },
                   {
                     "id": "little",
                     "label": "Little Sapa",
-                    "meta": "풍향고"
+                    "meta": "풍향고",
+                    "peek": "Little Sapa"
                   },
                   {
                     "id": "moment",
                     "label": "Moment Romantic",
-                    "meta": "핫팟은 별로 후기"
+                    "meta": "핫팟은 별로 후기",
+                    "peek": "Moment Romantic"
                   }
                 ]
               },
@@ -4845,11 +4882,13 @@
                     "id": "market",
                     "label": "사파 야시장",
                     "meta": "꼬치 + 맥주",
-                    "rec": true
+                    "rec": true,
+                    "peek": "사파 야시장"
                   },
                   {
                     "id": "no",
-                    "label": "일찍 자기"
+                    "label": "일찍 자기",
+                    "desc": "야시장 패스하고 숙소에서 일찍 쉬기."
                   }
                 ]
               }
@@ -4867,17 +4906,20 @@
                     "id": "vt",
                     "label": "Viettrekking Coffee",
                     "meta": "산악열차 뷰",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Viettrekking Coffee & Restaurant"
                   },
                   {
                     "id": "slope",
                     "label": "Slope Cafe",
-                    "meta": "논뷰"
+                    "meta": "논뷰",
+                    "peek": "Slope Cafe"
                   },
                   {
                     "id": "lupin",
                     "label": "Lupin Coffee",
-                    "meta": "계곡뷰 · 외곽"
+                    "meta": "계곡뷰 · 외곽",
+                    "peek": "Lupin Coffee (루팡 커피)"
                   }
                 ]
               },
@@ -4888,19 +4930,23 @@
                   {
                     "id": "trek",
                     "label": "마을 힐링 트레킹",
-                    "rec": true
+                    "rec": true,
+                    "peek": "사파 마을 힐링 트레킹"
                   },
                   {
                     "id": "love",
-                    "label": "사랑폭포"
+                    "label": "사랑폭포",
+                    "peek": "사랑폭포"
                   },
                   {
                     "id": "heaven",
-                    "label": "헤븐 게이트"
+                    "label": "헤븐 게이트",
+                    "peek": "헤븐 게이트"
                   },
                   {
                     "id": "rest",
-                    "label": "숙소 휴식"
+                    "label": "숙소 휴식",
+                    "desc": "오전엔 리조트에서 쉬기. 판시판을 D3에 못 갔으면 이 시간에 판시판 재도전."
                   }
                 ]
               },
@@ -4912,15 +4958,18 @@
                     "id": "chusu",
                     "label": "CHUSU KITCHEN",
                     "meta": "풍향고",
-                    "rec": true
+                    "rec": true,
+                    "peek": "CHUSU KITCHEN"
                   },
                   {
                     "id": "anise",
-                    "label": "어나이스"
+                    "label": "어나이스",
+                    "peek": "Anise Restaurant (어나이스)"
                   },
                   {
                     "id": "india",
-                    "label": "India Gate"
+                    "label": "India Gate",
+                    "peek": "India Gate Restaurant"
                   }
                 ]
               },
@@ -4932,15 +4981,18 @@
                     "id": "ham",
                     "label": "함종산 전망대",
                     "meta": "맑을 때만",
-                    "rec": true
+                    "rec": true,
+                    "peek": "함종산 전망대"
                   },
                   {
                     "id": "massage",
-                    "label": "마사지"
+                    "label": "마사지",
+                    "peek": "MASSAGE 017"
                   },
                   {
                     "id": "rest",
-                    "label": "숙소 휴식"
+                    "label": "숙소 휴식",
+                    "desc": "오후에 리조트에서 쉬기 · 짐 미리 싸 두기."
                   }
                 ]
               },
@@ -4952,16 +5004,19 @@
                     "id": "white",
                     "label": "화이트클라우드",
                     "meta": "레스토랑 겸 카페",
-                    "rec": true
+                    "rec": true,
+                    "peek": "화이트클라우드 (레스토랑 겸 카페)"
                   },
                   {
                     "id": "little",
                     "label": "Little Sapa",
-                    "meta": "풍향고"
+                    "meta": "풍향고",
+                    "peek": "Little Sapa"
                   },
                   {
                     "id": "chicago",
-                    "label": "시카고피자"
+                    "label": "시카고피자",
+                    "peek": "시카고피자"
                   }
                 ]
               },
@@ -4973,15 +5028,18 @@
                     "id": "wild",
                     "label": "The Wildbeast",
                     "meta": "논뷰 칵테일 · 디제잉",
-                    "rec": true
+                    "rec": true,
+                    "peek": "The Wildbeast"
                   },
                   {
                     "id": "color",
-                    "label": "Color Bar"
+                    "label": "Color Bar",
+                    "peek": "Color Bar Sapa"
                   },
                   {
                     "id": "no",
-                    "label": "일찍 자기 · 짐 싸기"
+                    "label": "일찍 자기 · 짐 싸기",
+                    "desc": "바 패스하고 일찍 자기. 다음 날 06:30 조식 · 07:15 버스 픽업이라 짐 싸 두기."
                   }
                 ]
               }
@@ -4999,12 +5057,14 @@
                     "id": "buncha",
                     "label": "분짜따",
                     "meta": "세린 스파 2분 · 미쉐린",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Bun Cha Ta Hanoi (분짜따)"
                   },
                   {
                     "id": "pho10",
                     "label": "포10 쌀국수",
-                    "meta": "D2에 먹었으면 패스"
+                    "meta": "D2에 먹었으면 패스",
+                    "peek": "Phở 10 Lý Quốc Sư (포10)"
                   }
                 ]
               },
@@ -5016,15 +5076,18 @@
                     "id": "giang",
                     "label": "카페 지앙 에그커피",
                     "meta": "같은 거리",
-                    "rec": true
+                    "rec": true,
+                    "peek": "Cafe Giảng (카페 지앙)"
                   },
                   {
                     "id": "cafe28",
-                    "label": "28 Coffee"
+                    "label": "28 Coffee",
+                    "peek": "28 Coffee (28 커피)"
                   },
                   {
                     "id": "cong",
-                    "label": "콩카페"
+                    "label": "콩카페",
+                    "peek": "콩카페 호안끼엠점 (Cộng Cà Phê)"
                   }
                 ]
               },
@@ -5036,20 +5099,24 @@
                     "id": "serene",
                     "label": "세린 스파",
                     "meta": "도착지 4분 · 짐 먼저 맡기기",
-                    "rec": true
+                    "rec": true,
+                    "peek": "세린 스파 (Serene Spa)"
                   },
                   {
                     "id": "ravien",
-                    "label": "라비엔 스파"
+                    "label": "라비엔 스파",
+                    "peek": "라비엔 스파 (Ravien Spa)"
                   },
                   {
                     "id": "labelle",
-                    "label": "라벨비 스파"
+                    "label": "라벨비 스파",
+                    "peek": "라벨비 스파 (La Belle Vie Spa)"
                   },
                   {
                     "id": "3tabom",
                     "label": "쓰리따봉",
-                    "meta": "동선 멀어짐"
+                    "meta": "동선 멀어짐",
+                    "peek": "쓰리따봉 스파 (Three Tabom Spa)"
                   }
                 ]
               },
@@ -5061,16 +5128,19 @@
                     "id": "a",
                     "label": "일정 A · 마사지 → 롯데몰 → 공항",
                     "meta": "🚕 그랩 2번 · 롯데마트 쇼핑",
-                    "rec": true
+                    "rec": true,
+                    "desc": "일정 A: 구시가지 놀다가 17:45 세린 스파 마사지·샤워 → 그랩 ① 짐 들고 롯데몰 웨스트레이크(롯데마트 쇼핑) → 그랩 ② 공항. 마트 쇼핑을 하고 싶으면 이거."
                   },
                   {
                     "id": "d",
                     "label": "일정 D · 마사지 마지막 → 공항",
-                    "meta": "🚕 그랩 1번 · 구시가지·돈덕"
+                    "meta": "🚕 그랩 1번 · 구시가지·돈덕",
+                    "desc": "일정 D: 구시가지에서 반미·호안끼엠·항가이·돈덕까지 놀고 20:00 세린 스파에서 마사지·샤워를 마지막으로 → 그랩 1번으로 바로 공항. 이동이 제일 적고 개운하게 출발."
                   },
                   {
                     "id": "c",
-                    "label": "일정 C · 쓰리따봉"
+                    "label": "일정 C · 쓰리따봉",
+                    "desc": "일정 C: 쓰리따봉 스파(호안끼엠 바깥) 기준 코스. 구시가지에서 거리가 있어서 그랩이 더 필요해."
                   }
                 ]
               },
@@ -5082,21 +5152,25 @@
                     "id": "bachphuong",
                     "label": "분보남보 박프엉",
                     "meta": "시장 옆 · 이른 저녁",
-                    "rec": true
+                    "rec": true,
+                    "peek": "분보남보 박프엉 (Bún Bò Nam Bộ Bách Phương)"
                   },
                   {
                     "id": "donduc",
                     "label": "돈덕",
-                    "meta": "일정 D"
+                    "meta": "일정 D",
+                    "peek": "Don Duck (돈덕)"
                   },
                   {
                     "id": "ngon",
-                    "label": "꽌안응온"
+                    "label": "꽌안응온",
+                    "peek": "Quán Ăn Ngon (꽌안응온)"
                   },
                   {
                     "id": "mall",
                     "label": "롯데몰 식당",
-                    "meta": "쇼핑하면서"
+                    "meta": "쇼핑하면서",
+                    "peek": "롯데몰 웨스트레이크"
                   }
                 ]
               }
