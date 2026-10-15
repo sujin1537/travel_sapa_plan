@@ -483,7 +483,7 @@ a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:2px solid 
 .kw-opts{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
 .kw-opt{display:flex;flex-direction:column;align-items:flex-start;gap:2px;text-align:left;font:inherit;padding:10px 12px;border-radius:14px;border:1.5px solid #ececf0;border-left:4px solid var(--c);background:#fff;cursor:pointer;color:var(--ink)}
 .kw-opt b{font-size:14px}.kw-opt small{font-size:11.5px;color:var(--muted);line-height:1.4}.kw-opt .kw-x{color:#c0392b;font-weight:700}
-.kw-opt:active{transform:scale(.98)}
+.kw-opt:active{transform:scale(.98)}.kw-opt.soon{background:#f7f7f9;border-style:dashed}.kw-opt.soon .kw-x{color:#7a5a00}
 .kw-doneb{background:#fff;border:1.5px dashed #c9c9d1;border-radius:16px;padding:14px;font-weight:800;font-size:14px;line-height:1.6}.kw-doneb small{font-weight:600;color:var(--muted)}
 
 .db-i{display:inline-block;margin-top:5px;font-size:11.5px;font-weight:800;color:#3b6fd8;text-decoration:underline;text-underline-offset:2px;padding:2px 0}
@@ -3683,15 +3683,15 @@ function opts(cfg,st){if(st.done)return [];const out=[],end=cfg.end,t=st.t;const
  const cand=[];pool.forEach(p=>{if(st.used.has(p.id))return;if(p.req&&!(st.last&&st.last.name&&st.last.name.includes(p.req)))return;if(p.cat==='spa'&&(cfg.nospa||st.spa))return;if(p.cat==='bar'&&t<1080)return;
   if(p.cat==='meal'&&!mealNow&&t-st.lastMeal<300)return;if(p.cat==='cafe'&&(st.cafes>=3||t-st.lastCafe<100))return;if(p.cat==='snack'&&(st.snacks>=3||(st.last&&st.last.cat==='snack')))return;if(p.cat==='meal'&&t-st.lastMeal<120)return;
   const mv=MOVE(st.cur,p,cfg.city);if(cfg.city==='hanoi'&&mv.km>6)return;if(cfg.city==='sapa'&&p.cat!=='see'&&mv.km>6)return;
-  const arr=t+mv.min;let dur=p.dur,extra='',bonus=0;
+  let arr=t+mv.min,wait=0;let dur=p.dur,extra='',bonus=0;
   if(p.train&&cfg.trains){const tr=cfg.trains.find(x=>x-arr>=10&&x-arr<=50);if(!tr)return;dur=tr-arr+15;extra='🚂 '+fmt(tr)+' 기차';bonus=14}
-  if(p.o!=null&&arr<p.o-10)return;if(p.cl!=null&&arr+Math.min(dur,90)*.6>p.cl)return;
+  if(p.o!=null&&arr<p.o-10){if(mv.m==='walk'&&mv.min<=10&&p.o-arr<=180&&!p.train){wait=p.o-arr;arr=p.o;extra='⏰ '+fmt(p.o)+' 오픈 · '+wait+'분 기다리기'}else return}if(p.cl!=null&&arr+Math.min(dur,90)*.6>p.cl)return;
   const dep=arr+dur;const back=MOVE(p,end,cfg.city).min;if(dep+back>end.by)return;
   let sc=p.sc*.6+bonus-mv.min*1.8-(mv.m==='grab'?8:0)+(cfg.itn&&cfg.itn.has(p.id)?14:0);if(p.cat==='meal'&&mealNow)sc+=12;if(p.bf&&t<630)sc+=10;if(p.cat==='meal'&&!p.bf&&t<630)sc-=15;
-  cand.push({p,mv,arr,dep,dur,sc,extra,close:p.cl!=null&&p.cl<1440?fmt(p.cl)+' 마감':''})});
+  cand.push({p,mv,arr,dep,dur,sc:sc-wait*.3,extra,soon:wait>0,close:p.cl!=null&&p.cl<1440?fmt(p.cl)+' 마감':''})});
  const lim={meal:mealNow?4:2,cafe:3,snack:3,see:4,spa:2,bar:2};
- SEC.forEach(([k])=>{cand.filter(c=>c.p.cat===k).sort((a,b)=>b.sc-a.sc).slice(0,lim[k]).forEach(c=>out.push(c))});
- const ord=mealNow?['meal','see','cafe','snack','spa','bar']:['see','cafe','snack','meal','spa','bar'];out.sort((a,b)=>ord.indexOf(a.p.cat)-ord.indexOf(b.p.cat));
+ const soon=cand.filter(c=>c.soon).sort((a,b)=>a.mv.min-b.mv.min).slice(0,3);SEC.forEach(([k])=>{cand.filter(c=>c.p.cat===k&&!c.soon).sort((a,b)=>b.sc-a.sc).slice(0,lim[k]).forEach(c=>out.push(c))});
+ const ord=mealNow?['meal','see','cafe','snack','spa','bar']:['see','cafe','snack','meal','spa','bar'];out.sort((a,b)=>ord.indexOf(a.p.cat)-ord.indexOf(b.p.cat));soon.forEach(c=>out.push(c));
  const mvE=MOVE(st.cur,end,cfg.city);if(!out.length||t>=end.by-200)out.unshift({p:{id:'__end',name:end.name,s:'🏁 '+SN(end.name).split(' → ')[0],cat:'end'},mv:mvE,arr:t+mvE.min,dep:t+mvE.min+(end.dur||0),dur:end.dur||0,sc:0,extra:end.after});
  return out}
 function apply(st,o){const s=clone(st);s.cur=o.p.id==='__end'?{lat:o.p.lat,lng:o.p.lng}:o.p;if(o.p.id==='__end'){s.done=true}s.t=o.dep;s.used.add(o.p.id);s.last=o.p;if(o.p.cat==='meal'){s.ate[mealKey(o.arr)]=1;s.lastMeal=o.arr}if(o.p.cat==='spa')s.spa=1;if(o.p.cat==='cafe'){s.cafes++;s.lastCafe=o.arr}if(o.p.cat==='snack')s.snacks++;return s}
@@ -3715,8 +3715,8 @@ function render(){const B=build(DAY);const {cfg,st,lv,fr}=B;let walk=0,grab=0;lv
  h+='<div class="kw-top"><div><b>'+fmt(st.t)+'</b> '+(st.done?'· 완성! 🎉':'지금 시각 · '+fmt(cfg.end.by)+'까지 '+E(SN(cfg.end.name).split(' → ')[0]))+'</div><p>'+lv.length+'번 골랐어 · 🚶 '+walk.toFixed(1)+'km · 🚕 '+grab+'번'+(fr.length?' · 다음 갈래 <em>'+fr.length+'개</em> → 그 다음 <em>'+total+'개</em>':'')+'</p><div class="kw-act"><button type="button" data-kw-act="undo"'+(lv.length?'':' disabled')+'>↶ 하나 취소</button><button type="button" data-kw-act="reset"'+(lv.length?'':' disabled')+'>처음부터</button><button type="button" data-kw-act="auto"'+(st.done?' disabled':'')+'>✨ 추천대로 끝까지</button><button type="button" data-kw-act="rand"'+(st.done?' disabled':'')+'>🎲 랜덤</button><button type="button" data-kw-act="copy"'+(lv.length?'':' disabled')+'>📋 복사</button></div></div>';
  h+=svg(B)+'<p class="kw-hint">가로로 밀어서 보기 · 앞 단계 회색 갈래를 누르면 그 갈래로 바꿔 탈 수 있어 · +숫자 = 그 다음 갈래 수</p>';
  if(lv.length)h+='<ol class="kw-path"><li><time>'+fmt(cfg.start.t)+'</time><span>'+E(cfg.start.name)+'</span></li>'+lv.map(L=>'<li style="--c:'+CCOL[L.o.p.cat]+'"><time>'+fmt(L.o.arr)+'</time><span><b>'+E(L.o.p.s)+'</b><small>'+mvTxt(L.o.mv)+(L.o.dur?' · '+L.o.dur+'분 머무름':'')+(L.o.extra?' · '+E(L.o.extra):'')+'</small></span>'+(L.o.p.id!=='__end'?'<i class="db-i" role="link" tabindex="0" data-peek="'+E(L.o.p.name)+'">ⓘ</i>':'')+'</li>').join('')+'</ol>';
- if(fr.length){h+='<h3 class="kw-h">'+fmt(st.t)+' 다음은 어디로? <small>누르면 다음 갈래가 펼쳐져</small></h3>';const by={};fr.forEach(o=>{(by[o.p.cat]=by[o.p.cat]||[]).push(o)});
-  const order=[...new Set(fr.map(o=>o.p.cat))];h+=order.map(k=>'<div class="kw-sec"><div class="kw-sech">'+(k==='end'?'🏁 마무리':(SEC.find(s=>s[0]===k)||[,''])[1])+'</div><div class="kw-opts">'+by[k].map(o=>'<button type="button" class="kw-opt" data-kw-pick="'+E(o.p.id)+'" style="--c:'+CCOL[k]+'"><b>'+E(o.p.s)+'</b><small>'+mvTxt(o.mv)+' · '+fmt(o.arr)+' 도착'+(o.dur?' · '+o.dur+'분':'')+'</small>'+(o.extra||o.close?'<small class="kw-x">'+E([o.extra,o.close].filter(Boolean).join(' · '))+'</small>':'')+(k!=='end'?'<small class="kw-k">'+E((o.p.kind||'').split(' · ')[0])+' · 다음 '+nKids(cfg,st,o)+'갈래</small><span class="db-i" role="link" tabindex="0" data-peek="'+E(o.p.name)+'">ⓘ 설명 보기</span>':'')+'</button>').join('')+'</div></div>').join('')}
+ if(fr.length){h+='<h3 class="kw-h">'+fmt(st.t)+' 다음은 어디로? <small>누르면 다음 갈래가 펼쳐져</small></h3>';const by={};const SK=o=>o.soon?'soon':o.p.cat;fr.forEach(o=>{(by[SK(o)]=by[SK(o)]||[]).push(o)});
+  const order=[...new Set(fr.map(SK))];h+=order.map(k=>'<div class="kw-sec"><div class="kw-sech">'+(k==='end'?'🏁 마무리':k==='soon'?'⏰ 바로 근처인데 아직 안 열었어 (기다렸다 가기)':(SEC.find(s=>s[0]===k)||[,''])[1])+'</div><div class="kw-opts">'+by[k].map(o=>'<button type="button" class="kw-opt'+(o.soon?' soon':'')+'" data-kw-pick="'+E(o.p.id)+'" style="--c:'+CCOL[o.p.cat]+'"><b>'+E(o.p.s)+'</b><small>'+mvTxt(o.mv)+' · '+fmt(o.arr)+' 도착'+(o.dur?' · '+o.dur+'분':'')+'</small>'+(o.extra||o.close?'<small class="kw-x">'+E([o.extra,o.close].filter(Boolean).join(' · '))+'</small>':'')+(k!=='end'?'<small class="kw-k">'+E((o.p.kind||'').split(' · ')[0])+' · 다음 '+nKids(cfg,st,o)+'갈래</small><span class="db-i" role="link" tabindex="0" data-peek="'+E(o.p.name)+'">ⓘ 설명 보기</span>':'')+'</button>').join('')+'</div></div>').join('')}
  else if(st.done)h+='<div class="kw-doneb">🏁 '+E(cfg.end.after)+'<br><small>마음에 들면 📋 복사해서 단톡방에 공유해 줘 · 일정에 넣고 싶으면 나한테 붙여 줘</small></div>';
  root.innerHTML=h;const w=document.getElementById('kw-svgw');if(w)w.scrollLeft=w.scrollWidth}
 const setPath=p=>{PATHS[DAY]=p;save();render()};
