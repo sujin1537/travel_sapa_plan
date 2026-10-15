@@ -694,7 +694,7 @@
             "nightTotal": 118019,
             "pp": 39340,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "객실: 이그제큐티브 트리플룸 35m² — 퀸1+싱글1 또는 싱글 3개 (예약 시 \"싱글 3개\" 요청) · 조식 · 무료취소 11/10까지",
             "extraBed": false,
             "rank": 2,
@@ -702,7 +702,8 @@
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "침대 3개 가능 · 호안끼엠 호수 바로 옆 · 9.6 · 1인 3.9만(아고다)"
+            "why": "침대 3개 가능 · 호안끼엠 호수 바로 옆 · 9.6 · 1인 3.9만(아고다)",
+            "archived": true
           },
           "lat": 21.0312,
           "lng": 105.8541
@@ -719,7 +720,7 @@
             "nightTotal": 105235,
             "pp": 35078,
             "breakfast": true,
-            "left": "2개 남음",
+            "left": null,
             "room": "객실: 트리플룸 — 침대 3개 (킹1+싱글 또는 싱글3, 예약 시 확인) · 조식 · 무료취소",
             "extraBed": false,
             "rank": 3,
@@ -736,7 +737,8 @@
                 "부킹닷컴": 146275,
                 "bluepillow": 120187
               }
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2915548/-1/2803b0436946a314399b2c555caaacc7.jpg?s=1024x768",
@@ -762,7 +764,7 @@
             "nightTotal": 95899,
             "pp": 31966,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "객실: 쿼드러플룸 테라스 65m² — 싱글2+퀸1 (침대 3개) · 조식 없음 · 무료취소",
             "extraBed": false,
             "rank": 4,
@@ -772,7 +774,8 @@
             "checked": "10/16",
             "why": "침대 3개 · 제일 넓음 · 단 하노이역 쪽이라 구시가지까지 1.3km · 9.4 · 1인 3.2만(아고다)",
             "prevPp": 45200,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0282481,
           "lng": 105.8450656,
@@ -800,7 +803,7 @@
             "nightTotal": 90422,
             "pp": 30141,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "객실: WON \"Deluxe Triple Room, Courtyard View\" — 퀸1+큰 싱글1 (침대 2개) · 조식 · 무료취소 11/5까지 · 주문 141,673원",
             "extraBed": false,
             "rank": 5,
@@ -816,7 +819,8 @@
                 "WON트래블": 90422
               }
             },
-            "src": "WON트래블"
+            "src": "WON트래블",
+            "archived": true
           },
           "lat": 21.0311,
           "lng": 105.8505
@@ -832,7 +836,7 @@
             "nightTotal": 74111,
             "pp": 24704,
             "breakfast": true,
-            "left": "2개 남음",
+            "left": null,
             "room": "객실: WON 영문 \"Family Executive\" (주문금액 122,484원) — 침대 구성은 예약 화면에서 확인(같은 호텔 \"EXECUTIVE, FAMILY, 2 KING BEDS\"는 킹 2개) · 조식 · 무료취소 11/3까지 ⚠ 한글 \"패밀리 이그제큐티브\"(115,573원)는 쿠폰 X",
             "extraBed": false,
             "rank": 6,
@@ -850,7 +854,8 @@
                 "WON트래블": 74111
               }
             },
-            "src": "WON트래블"
+            "src": "WON트래블",
+            "archived": true
           },
           "lat": 21.031209,
           "lng": 105.8556893,
@@ -873,7 +878,7 @@
             "nightTotal": 109513,
             "pp": 36504,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "객실: WON \"FAMILY SUITE, 1 DOUBLE AND 1 SINGLE BED\"(171,922원) 또는 \"family suite\"(164,133원) — 더블1+싱글1 (침대 2개) · 조식 · 무료취소",
             "extraBed": false,
             "rank": 7,
@@ -891,7 +896,8 @@
                 "WON트래블": 109513
               }
             },
-            "src": "WON트래블"
+            "src": "WON트래블",
+            "archived": true
           },
           "lat": 21.0305333,
           "lng": 105.8504925,
@@ -921,7 +927,7 @@
             "nightTotal": 107480,
             "pp": 35827,
             "breakfast": true,
-            "left": "3개 남음",
+            "left": null,
             "room": "객실: WON \"Family Suite, City View\" — 킹베드 2개 · 조식 · 무료취소 11/5까지 · 주문 161,741원",
             "extraBed": false,
             "rank": 8,
@@ -937,7 +943,8 @@
               }
             },
             "why": "킹 2개 · 하노이역 270m(구시가지 1.3km) · 9.1(47건) · 1인 3.6만(WON)",
-            "src": "WON트래블"
+            "src": "WON트래블",
+            "archived": true
           },
           "lat": 21.0262,
           "lng": 105.8432
@@ -962,7 +969,7 @@
             "nightTotal": 123362,
             "pp": 41121,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "객실: WON \"시니어 디럭스 시티뷰\" — 침대 구성 확인 필요 · 조식 · 무료취소 11/5까지 · 주문 180,426원",
             "extraBed": false,
             "rank": 9,
@@ -980,7 +987,8 @@
                 "WON트래블": 123362
               }
             },
-            "src": "WON트래블"
+            "src": "WON트래블",
+            "archived": true
           },
           "lat": 21.0276833,
           "lng": 105.8445803
@@ -996,7 +1004,7 @@
             "nightTotal": 170729,
             "pp": 56910,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
             "rank": 10,
@@ -1006,7 +1014,8 @@
             "checked": "10/16",
             "why": "5성인데 1인 5.9만 · 9.3점 · 호수 뷰 수영장 · 단 무료취소 X",
             "prevPp": 58573,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0317858,
           "lng": 105.8496544,
@@ -1027,7 +1036,7 @@
             "nightTotal": 151835,
             "pp": 50612,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
             "rank": 11,
@@ -1037,7 +1046,8 @@
             "checked": "10/16",
             "why": "4성 · 호수 도보권 · 단 무료취소 X",
             "prevPp": 55894,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0305322,
           "lng": 105.8503324,
@@ -1060,7 +1070,7 @@
             "nightTotal": 84462,
             "pp": 28154,
             "breakfast": false,
-            "left": "3개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
             "rank": 12,
@@ -1070,7 +1080,8 @@
             "checked": "10/16",
             "why": "위치 9.6 · 1인 3만 · 후기 적고 무료취소 X",
             "prevPp": 29961,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.031268,
           "lng": 105.8502014,
@@ -1093,7 +1104,7 @@
             "nightTotal": 80440,
             "pp": 26813,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "패밀리 디럭스 (최대 4인)",
             "extraBed": false,
             "rank": 13,
@@ -1110,7 +1121,8 @@
                 "부킹닷컴": 162528
               },
               "w": "구글호텔 경유 아고다 ₩74,729 · 부킹은 4인 객실가"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/280805/-1/42e677514d34cbb32a6f50e4945d6eaf.jpg?s=1024x768",
@@ -1136,7 +1148,7 @@
             "nightTotal": 54264,
             "pp": 18088,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 14,
@@ -1146,7 +1158,8 @@
             "checked": "10/16",
             "why": "1인 2만 · 무료취소 · 소음 후기",
             "prevPp": 20353,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.031914,
           "lng": 105.8555916,
@@ -1169,7 +1182,7 @@
             "nightTotal": 234193,
             "pp": 78064,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소 불가",
             "extraBed": false,
             "rank": 15,
@@ -1179,7 +1192,8 @@
             "checked": "10/16",
             "why": "평점 9.5 최고 · 5성 · 1인 8.5만 · 단 무료취소 X",
             "prevPp": 84624,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0307869,
           "lng": 105.8482632,
@@ -1202,7 +1216,7 @@
             "nightTotal": 197532,
             "pp": 65844,
             "breakfast": true,
-            "left": "5개 남음",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실",
             "extraBed": false,
             "rank": 16,
@@ -1221,7 +1235,8 @@
                 "bluepillow": 214259
               },
               "w": "구글호텔 경유 아고다 4인 객실 ₩206,798도 보임"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6600413/-1/49ed1731e7821f58b490e31ac308ede0.jpg?s=1024x768",
@@ -1265,7 +1280,8 @@
                 "bluepillow": 238540
               },
               "w": "공식·아고다 사실상 동일가"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/6542427/0/e3713f6be88d08d9dae87103f9315068.jpg?s=1024x768",
@@ -1292,7 +1308,7 @@
             "nightTotal": 329466,
             "pp": 109822,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영, 조식 불포함)",
             "extraBed": false,
             "rank": 18,
@@ -1309,7 +1325,8 @@
                 "부킹닷컴": 301215,
                 "공식": 276418
               }
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/665815/0/9cffb5af0972736329ab5e64f058a6df.jpg?s=1024x768",
@@ -1335,7 +1352,7 @@
             "nightTotal": 79018,
             "pp": 26339,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 19,
@@ -1345,7 +1362,8 @@
             "checked": "10/16",
             "why": "싸지만 노후·위생 후기 → 비추",
             "prevPp": 27502,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0354315,
           "lng": 105.8502272,
@@ -1369,7 +1387,7 @@
             "nightTotal": 123229,
             "pp": 41076,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료취소)",
             "extraBed": false,
             "rank": 20,
@@ -1377,7 +1395,8 @@
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": null
+            "why": null,
+            "archived": true
           },
           "lat": 21.0357215,
           "lng": 105.8476901
@@ -1393,7 +1412,7 @@
             "nightTotal": 100383,
             "pp": 33461,
             "breakfast": false,
-            "left": "5개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 21,
@@ -1403,7 +1422,8 @@
             "checked": "10/16",
             "why": "신축이지만 위치 애매",
             "prevPp": 32128,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0381903,
           "lng": 105.8248475,
@@ -1426,7 +1446,7 @@
             "nightTotal": 58036,
             "pp": 19345,
             "breakfast": true,
-            "left": "2개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 22,
@@ -1436,7 +1456,8 @@
             "checked": "10/16",
             "why": "역 바로 옆이지만 평점 낮음",
             "prevPp": 19323,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0250302,
           "lng": 105.8413608,
@@ -1459,7 +1480,7 @@
             "nightTotal": 41801,
             "pp": 13934,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 23,
@@ -1469,7 +1490,8 @@
             "checked": "10/16",
             "why": "제일 싼 편 · 엘리베이터 X",
             "prevPp": 14823,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0339765,
           "lng": 105.8487238,
@@ -1491,7 +1513,7 @@
             "nightTotal": 58293,
             "pp": 19431,
             "breakfast": true,
-            "left": "3개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 24,
@@ -1501,7 +1523,8 @@
             "checked": "10/16",
             "why": "구시가지에서 멂",
             "prevPp": 20995,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.027573,
           "lng": 105.812759,
@@ -1523,7 +1546,7 @@
             "nightTotal": 60547,
             "pp": 20182,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 25,
@@ -1533,7 +1556,8 @@
             "checked": "10/16",
             "why": "외곽이라 비추",
             "prevPp": 21421,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0147119,
           "lng": 105.7804134,
@@ -1556,7 +1580,7 @@
             "nightTotal": 55365,
             "pp": 18455,
             "breakfast": false,
-            "left": "2개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 26,
@@ -1566,7 +1590,8 @@
             "checked": "10/16",
             "why": "소음 후기 → 비추",
             "prevPp": 13219,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0352425,
           "lng": 105.8532389,
@@ -1589,7 +1614,7 @@
             "nightTotal": 15753,
             "pp": 5251,
             "breakfast": false,
-            "left": "2개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 27,
@@ -1599,7 +1624,8 @@
             "checked": "10/16",
             "why": "백팩커 숙소 → 비추",
             "prevPp": 5245,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "lat": 21.0361228,
           "lng": 105.852328,
@@ -1622,7 +1648,7 @@
             "nightTotal": 43332,
             "pp": 14444,
             "breakfast": true,
-            "left": "2개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 28,
@@ -1632,7 +1658,8 @@
             "checked": "10/16",
             "why": "공항 근처 · 다음 날 시내 이동 필요",
             "prevPp": 14897,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           },
           "photo": "https://pix8.agoda.net/hotelImages/1161202/-1/e813fb5fe7afda86d99e41f3edea1ad7.jpg?s=1024x768",
           "gallery": [
@@ -1653,7 +1680,7 @@
             "nightTotal": 49227,
             "pp": 16409,
             "breakfast": false,
-            "left": "3개 남음",
+            "left": null,
             "room": "아고다 최저가 객실 · 3인 객실인지 예약 전 확인 · 무료취소",
             "extraBed": false,
             "rank": 29,
@@ -1663,7 +1690,8 @@
             "checked": "10/16",
             "why": "공항 근처 · 다음 날 시내 이동 필요",
             "prevPp": 16390,
-            "prevAt": "10/15"
+            "prevAt": "10/15",
+            "archived": true
           }
         },
         {
@@ -1678,7 +1706,7 @@
             "nightTotal": 360125,
             "pp": 120042,
             "breakfast": true,
-            "left": "2개 남음",
+            "left": null,
             "room": "스위트 시티뷰",
             "extraBed": true,
             "rank": 30,
@@ -1697,7 +1725,8 @@
                 "호텔스닷컴": 562336
               },
               "w": "타사 ₩19~24만은 2인 객실가로 보임 → 3인 객실은 아고다가 기준"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/230721/-1/ed7631589856846a569db63e7c4c9615.jpg?s=1024x768",
@@ -1724,7 +1753,7 @@
             "nightTotal": 440713,
             "pp": 146904,
             "breakfast": true,
-            "left": "4개 남음",
+            "left": null,
             "room": "주니어 스위트 (발코니)",
             "extraBed": false,
             "rank": 31,
@@ -1742,7 +1771,8 @@
                 "bluepillow": 471825
               },
               "w": "bluepillow는 메타검색(최종 결제처 확인 필요)"
-            }
+            },
+            "archived": true
           },
           "lat": 21.0306722,
           "lng": 105.8496657,
@@ -1772,7 +1802,8 @@
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": "역 294m · 무료취소 · 방 좁다는 후기"
+            "why": "역 294m · 무료취소 · 방 좁다는 후기",
+            "archived": true
           },
           "lat": 21.0265413,
           "lng": 105.8422424,
@@ -1803,7 +1834,8 @@
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": null
+            "why": null,
+            "archived": true
           },
           "lat": 21.0322535,
           "lng": 105.8538996
@@ -1829,7 +1861,8 @@
             "rooms": 1,
             "bfOption": null,
             "checked": "10/16",
-            "why": null
+            "why": null,
+            "archived": true
           }
         },
         {
@@ -1858,7 +1891,8 @@
             "checked": "10/16",
             "prevPp": 102408,
             "prevAt": "10/13",
-            "why": "1인 10만원↑ · 참고용 · 역 700m·기찻길 3분 위치 최고 · 1인 10.3만원·조식 없음이라 예산 초과"
+            "why": "1인 10만원↑ · 참고용 · 역 700m·기찻길 3분 위치 최고 · 1인 10.3만원·조식 없음이라 예산 초과",
+            "archived": true
           },
           "lat": 21.0307215,
           "lng": 105.8418808
@@ -1886,7 +1920,7 @@
             "nightTotal": 94733,
             "pp": 31578,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소) · 트리플룸 있음",
             "extraBed": false,
             "rank": 1,
@@ -1896,7 +1930,8 @@
             "checked": "10/14 저녁",
             "why": "시내·4성·조식·무료취소인데 1인 1박 3.2만원 · 트리플룸(침대 3) 있음 · 이 가격 남은 객실 1개",
             "prevPp": 32106,
-            "prevAt": "10/14 오전"
+            "prevAt": "10/14 오전",
+            "archived": true
           }
         },
         {
@@ -1986,7 +2021,7 @@
             "nightTotal": 258633,
             "pp": 86211,
             "breakfast": true,
-            "left": "",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 포함, WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 3,
@@ -2001,7 +2036,8 @@
               "w": "구글호텔에 부킹 ₩40,650·아고다 ₩29,233이 뜨지만 도미토리/1인실로 보임 → 3인 기준은 아고다 객실가"
             },
             "prevPp": 81344,
-            "prevAt": "10/14 오전"
+            "prevAt": "10/14 오전",
+            "archived": true
           }
         },
         {
@@ -2023,7 +2059,7 @@
             "nightTotal": 157277,
             "pp": 52426,
             "breakfast": true,
-            "left": "2",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (조식 포함, 무료 취소, WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 4,
@@ -2040,7 +2076,8 @@
               }
             },
             "prevPp": 47549,
-            "prevAt": "10/14 오전"
+            "prevAt": "10/14 오전",
+            "archived": true
           },
           "searchBy": "예슬&지영 서칭"
         },
@@ -2062,7 +2099,7 @@
             "nightTotal": 45737,
             "pp": 15246,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "최저가 객실 (무료 취소)",
             "extraBed": false,
             "rank": 5,
@@ -2079,7 +2116,8 @@
               "w": "부킹은 4인 객실 ₩113,431 — 아고다 ₩4만대는 비정상적으로 싸서 객실 조건 꼭 확인"
             },
             "prevPp": 14488,
-            "prevAt": "10/14 오전"
+            "prevAt": "10/14 오전",
+            "archived": true
           },
           "searchBy": "예슬&지영 서칭",
           "noHi": true
@@ -2115,7 +2153,8 @@
                 "공식": 382632
               },
               "w": "트립 ₩281,958은 캡처(2박 ₩563,916) 기준 · 구글호텔엔 트립 3인실 ₩352,656로 표시"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/10560296/-1/b2b29d9a7371aa940c0f8cc8edcdb655.jpg?s=1024x768",
@@ -2189,7 +2228,7 @@
             "nightTotal": 371561,
             "pp": 123854,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "클래식 가든뷰 (발코니)",
             "extraBed": false,
             "rank": 7,
@@ -2209,7 +2248,8 @@
                 "부킹닷컴": 681712
               },
               "w": "트립은 캡처(2박 ₩687,840) 기준 · 부킹은 4인 객실가"
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2639415/-1/4cfd2a52f64a1f759aac81f79a008f0c.jpg?s=1024x768",
@@ -2236,7 +2276,7 @@
             "nightTotal": 294500,
             "pp": 98167,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "클래식 더블룸 / 트윈룸",
             "extraBed": false,
             "rank": 8,
@@ -2246,7 +2286,8 @@
             "checked": "10/14",
             "prevPp": 97765,
             "prevAt": "10/13",
-            "why": "전망 스위트·조식 · 1인 10만원에 언덕길"
+            "why": "전망 스위트·조식 · 1인 10만원에 언덕길",
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/2607925/-1/37b4b28ccec7ca5fe59024818db4b5da.jpg?s=1024x768",
@@ -2279,7 +2320,7 @@
             "nightTotal": 442985,
             "pp": 147662,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "성인 3명 기준 최저가 객실 (WEEKENDSALE 쿠폰 반영)",
             "extraBed": false,
             "rank": 9,
@@ -2299,7 +2340,8 @@
                 "ZenHotels": 483256
               },
               "w": "트립은 캡처(2박 ₩900,290) 기준 · 공식은 4인 객실가 · Kiwi는 메타 예약처"
-            }
+            },
+            "archived": true
           },
           "ig": [
             {
@@ -2354,7 +2396,8 @@
             "checked": "10/14",
             "prevPp": 143500,
             "prevAt": "10/13",
-            "why": "케이블카역 연결 MGallery · 3명이면 방 2개라 1인 14.4만원, 조식 별도"
+            "why": "케이블카역 연결 MGallery · 3명이면 방 2개라 1인 14.4만원, 조식 별도",
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/5649846/-1/2606db694129ab3627cb117d650c1771.jpg?s=1024x768",
@@ -2399,7 +2442,7 @@
             "nightTotal": 389240,
             "pp": 129747,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "프리미어 트리플 마운틴뷰",
             "extraBed": false,
             "rank": 11,
@@ -2409,7 +2452,8 @@
             "checked": "10/14",
             "prevPp": 129553,
             "prevAt": "10/13",
-            "why": "5성·트리플룸 · 조식 없이 1인 13만원"
+            "why": "5성·트리플룸 · 조식 없이 1인 13만원",
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/39797512/0/a7a27b914a8864a80e8f5e9b4790d36d.jpg?s=1024x768",
@@ -2436,7 +2480,7 @@
             "nightTotal": 152580,
             "pp": 50860,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "마운틴뷰 방갈로",
             "extraBed": true,
             "rank": 12,
@@ -2452,7 +2496,8 @@
               "p": {
                 "Kiwi": 193144
               }
-            }
+            },
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/1506288/-1/d3ab2e637d440df4960b1e89ed26ca65.jpg?s=1024x768",
@@ -2504,7 +2549,7 @@
             "nightTotal": 668299,
             "pp": 222766,
             "breakfast": true,
-            "left": "2",
+            "left": null,
             "room": "디럭스 스위트 (Deluxe Suite)",
             "extraBed": true,
             "rank": 13,
@@ -2514,7 +2559,8 @@
             "checked": "10/14",
             "prevPp": 212542,
             "prevAt": "10/13",
-            "why": "최고급 에코로지지만 시내 45분 → 판시판 당일·오전 버스 일정과 충돌, 1인 16만원"
+            "why": "최고급 에코로지지만 시내 45분 → 판시판 당일·오전 버스 일정과 충돌, 1인 16만원",
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/445/445774/445774_15081411340034274185.jpg?s=1024x768",
@@ -2636,7 +2682,7 @@
             "nightTotal": 170798,
             "pp": 56933,
             "breakfast": false,
-            "left": "마지막 1개",
+            "left": null,
             "room": "방갈로 (퀸베드 1개)",
             "extraBed": false,
             "rank": 14,
@@ -2654,7 +2700,8 @@
                 "bluepillow": 170297
               },
               "w": "부킹·아고다 사실상 동일가 → 카드 할인 되는 아고다가 유리"
-            }
+            },
+            "archived": true
           },
           "ig": [
             {
@@ -2715,14 +2762,15 @@
             "nightTotal": 247645,
             "pp": 82548,
             "breakfast": true,
-            "left": "마지막 1개",
+            "left": null,
             "room": "스위트 발코니",
             "extraBed": false,
             "rank": 15,
             "note": "10/12 아고다 성인 3명 11/15–17 요금 안 뜸 · 취소 물량 나오면 잡기",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/14"
+            "checked": "10/14",
+            "archived": true
           }
         },
         {
@@ -2745,7 +2793,8 @@
             "note": "취소 물량이 나오면 바로 잡기",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/14"
+            "checked": "10/14",
+            "archived": true
           },
           "lat": 22.3366469,
           "lng": 103.844393,
@@ -2775,7 +2824,8 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/14"
+            "checked": "10/14",
+            "archived": true
           },
           "lat": 22.3328104,
           "lng": 103.843522,
@@ -2805,7 +2855,8 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/14"
+            "checked": "10/14",
+            "archived": true
           },
           "lat": 22.3312963,
           "lng": 103.8435113,
@@ -2835,7 +2886,8 @@
             "note": "",
             "rooms": 1,
             "bfOption": null,
-            "checked": "10/14"
+            "checked": "10/14",
+            "archived": true
           },
           "ig": [
             {
@@ -2888,7 +2940,8 @@
             "rank": 93,
             "note": "Airbnb 11/15–17 예약 불가",
             "rooms": 1,
-            "bfOption": null
+            "bfOption": null,
+            "archived": true
           },
           "ig": [
             {
@@ -2939,7 +2992,8 @@
             "bfOption": null,
             "checked": "10/14",
             "prevPp": 40802,
-            "prevAt": "10/11"
+            "prevAt": "10/11",
+            "archived": true
           },
           "gallery": [
             "https://pix8.agoda.net/hotelImages/26852142/-1/559dfe52702f36178417d9e6334ee38d.png?s=1024x768",
@@ -3026,7 +3080,8 @@
               "w": "트립은 캡처(2박 ₩200,490) 기준 · 구글호텔의 부킹 ₩2만·호텔스 ₩2.5만은 2인 소형 객실로 보여 제외"
             },
             "prevPp": 44080,
-            "prevAt": "10/12"
+            "prevAt": "10/12",
+            "archived": true
           },
           "searchBy": "예슬&지영 서칭"
         },
@@ -3068,7 +3123,8 @@
                 "트립닷컴": 175120
               },
               "w": "구글호텔 경유 아고다 ₩131,032도 보임"
-            }
+            },
+            "archived": true
           },
           "lat": 22.332362,
           "lng": 103.8435226
@@ -3081,8 +3137,8 @@
         "11/14 저녁 열차까지 짐 보관·레이트 체크아웃 문의",
         "3인 침대 구성·추가침대 요금 · 무료취소 기한 · 조식 확인"
       ],
-      "checkedAt": "2026-10-16 01:00 (KST) · 아고다 + WON트래블(주문금액 −5% −10% −우다페 3만, 12만원 이상) 중 싼 쪽",
-      "sortNote": "✅ 델리카 프리미엄으로 예약 완료 (10/16) · 아래는 참고용 후보 (침대 3개 > 시내 > 1인 가격 순)",
+      "checkedAt": "하노이 10/16 · 사파 10/14 기준으로 마감 · 예약 안 한 숙소는 나중에 하노이·사파 가는 사람 참고용 (가격·잔여 객실은 그때 기준이라 지금과 다를 수 있음)",
+      "sortNote": "✅ 예약: 하노이 델리카 프리미엄 · 사파 깟깟 힐스 · 나머지는 참고용 아카이브 (하노이 10/16 · 사파 10/14 마감 · 순위 = 침대 3개 > 시내 > 1인 가격)",
       "landmarks": {
         "hanoi": [
           {
