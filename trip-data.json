@@ -5610,6 +5610,10 @@
         {
           "id": "hanoi.xinchao",
           "url": "https://www.instagram.com/p/DdD4rsGSV34/"
+        },
+        {
+          "id": "cindy_travelus",
+          "url": "https://www.instagram.com/reel/DehCWFfJzj5/"
         }
       ],
       "cat": "spot"
@@ -5916,6 +5920,10 @@
         {
           "id": "poponme24",
           "url": "https://www.instagram.com/poponme24/"
+        },
+        {
+          "id": "cindy_travelus",
+          "url": "https://www.instagram.com/reel/DehCWFfJzj5/"
         }
       ],
       "city": "hanoi",
@@ -6440,6 +6448,39 @@
         0
       ],
       "ig": []
+    },
+    {
+      "name": "호아로 수용소 (Nhà tù Hỏa Lò)",
+      "city": "hanoi",
+      "day": "DAY 02 · 하노이",
+      "desc": "프랑스 식민지 시절 정치범을 가두던 감옥. 베트남 전쟁 때는 미군 포로 수용소('하노이 힐튼')로 쓰였고, 지금은 입구 쪽만 남아 박물관이 됐어.",
+      "status": "cindy_travelus 추천 · 구글 4.5 (2.3만)",
+      "query": "Hoa Lo Prison Hanoi",
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QMygjv9xvZ8PQRpOrSRpSlFX7cSa263jLLZwKHGWJeJz1eRYkPKZGegR7Rleyd-UjeZT4EGmzbieGEVtPzrfML70uX71tAP05Cl6CMxg6d8eKi1176-RSSDdDZCWy5uwJJqL-5=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QMygjv9xvZ8PQRpOrSRpSlFX7cSa263jLLZwKHGWJeJz1eRYkPKZGegR7Rleyd-UjeZT4EGmzbieGEVtPzrfML70uX71tAP05Cl6CMxg6d8eKi1176-RSSDdDZCWy5uwJJqL-5=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnF8y3GZVisc9yI2pnDsgGTOKQoQyMbYd7FM6wt216DxPIZeBBBsalSzDv9Qnh6V3VWI0uv52j7Qk8uFz3O9EUDzhxbAnOm7_eEll6ZVw1xTDZs2UCh-Hs75yUtqrBtGSLvVdO6yVGI1c=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAWJWhNTd29B8K31VbDxQiMTmBs_c1VRxYinILGvVfPanCS2ZQLCvVtOmct_L_MtgB-TzhcZ1QHNjlHaJes7hI_P-_ENNiKf1QrLWikHqfPG9LzsHXILEci8LOsgU5vHlWne6J=w1200-h900-k-no"
+      ],
+      "tip": "한국어 오디오 가이드 들으면서 보면 좋아 · 생각보다 마음 아프고 무거운 곳이라는 후기 · 호수에서 걸어서 15분, 기찻길(풍흥)과도 가까워",
+      "check": "보통 08:00–17:00 · 입장 약 5만동 · 방문 전 hoalo.vn 확인",
+      "time": "1시간",
+      "cat": "spot",
+      "lat": 21.0253297,
+      "lng": 105.8464781,
+      "ig": [
+        {
+          "id": "cindy_travelus",
+          "url": "https://www.instagram.com/reel/DehCWFfJzj5/"
+        }
+      ],
+      "videos": [
+        {
+          "code": "DehCWFfJzj5",
+          "by": "@cindy_travelus",
+          "cap": "하노이 2일차: 반미 → 호아로 → 망고빙수 → 센스파 → 포10 → 에그커피 (10/15)"
+        }
+      ]
     }
   ],
   "shop": {
