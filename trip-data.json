@@ -3290,7 +3290,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-17 08:57 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-18 00:36 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -3313,7 +3313,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 239000,
+                "total": 239300,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -3344,7 +3344,7 @@
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 174739,
+                "total": 174722,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3383,7 +3383,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 377000,
+                "total": 375300,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -3547,6 +3547,25 @@
           },
           "B": {
             "s": 377000,
+            "g": 408800
+          }
+        }
+      },
+      {
+        "date": "2026-10-18",
+        "A": 399096,
+        "B": 375300,
+        "detail": {
+          "A_out": {
+            "s": 239300,
+            "g": 250700
+          },
+          "A_ret": {
+            "s": 159796,
+            "g": 174722
+          },
+          "B": {
+            "s": 375300,
             "g": 408800
           }
         }
