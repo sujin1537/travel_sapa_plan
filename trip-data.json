@@ -7843,45 +7843,60 @@
           "반바오",
           "Bánh bao",
           "고기·버섯·메추리알 든 베트남식 찐빵 · 오토바이 노점에서도 팔아",
-          "15–20k"
+          "15–20k",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Banhbao.jpg/500px-Banhbao.jpg",
+          "https://commons.wikimedia.org/wiki/File:Banhbao.jpg"
         ],
         [
           "밥느엉",
           "Bắp nướng",
           "숯불 구운 옥수수 · 파기름 바른 '머하인' 버전 추천",
-          "노점마다"
+          "가게마다",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/B%E1%BA%AFp_n%C6%B0%E1%BB%9Bng_ki%E1%BB%83u_Vi%E1%BB%87t_Nam_%E1%BB%9F_%C4%90%C3%A0_L%E1%BA%A1t_n%C4%83m_2011.jpg/500px-B%E1%BA%AFp_n%C6%B0%E1%BB%9Bng_ki%E1%BB%83u_Vi%E1%BB%87t_Nam_%E1%BB%9F_%C4%90%C3%A0_L%E1%BA%A1t_n%C4%83m_2011.jpg",
+          "https://commons.wikimedia.org/wiki/File:B%E1%BA%AFp_n%C6%B0%E1%BB%9Bng_ki%E1%BB%83u_Vi%E1%BB%87t_Nam_%E1%BB%9F_%C4%90%C3%A0_L%E1%BA%A1t_n%C4%83m_2011.jpg"
         ],
         [
           "반짱쫀",
           "Bánh tráng trộn",
           "잘게 썬 라이스페이퍼 + 풋망고·메추리알·육포 무침 · 새콤매콤",
-          "20–25k"
+          "20–25k",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vietnamese_%22banh_trang_tron%22.JPG/500px-Vietnamese_%22banh_trang_tron%22.JPG",
+          "https://commons.wikimedia.org/wiki/File:Vietnamese_%22banh_trang_tron%22.JPG"
         ],
         [
           "반짱느엉",
           "Bánh tráng nướng",
           "라이스페이퍼에 달걀·파·소시지 올려 구운 '베트남 피자'",
-          "20–33k"
+          "20–33k",
+          "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pizzabanhtrangnuong1.jpg",
+          "https://commons.wikimedia.org/wiki/File:Pizzabanhtrangnuong1.jpg"
         ],
         [
           "쭈오이찐",
           "Chuối chiên",
           "반죽 입힌 바나나튀김 · 겉바속촉",
-          "5–10k"
+          "5–10k",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chu%E1%BB%91i_chi%C3%AAn.JPG/500px-Chu%E1%BB%91i_chi%C3%AAn.JPG",
+          "https://commons.wikimedia.org/wiki/File:Chu%E1%BB%91i_chi%C3%AAn.JPG"
         ],
         [
           "반띠에우",
           "Bánh tiêu",
           "참깨 박힌 속 빈 튀김빵 · 살짝 달아",
-          "약 5k"
+          "약 5k",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/B%C3%A1nh_ti%C3%AAu.jpg/500px-B%C3%A1nh_ti%C3%AAu.jpg",
+          "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_ti%C3%AAu.jpg"
         ],
         [
           "쩨",
           "Chè",
           "콩·젤리·찹쌀·과일에 코코넛 소스 · D2 쏘이째 바틴에서",
-          "25–30k"
+          "25–30k",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ch%C3%A8_Th%C6%B0ng.jpg/500px-Ch%C3%A8_Th%C6%B0ng.jpg",
+          "https://commons.wikimedia.org/wiki/File:Ch%C3%A8_Th%C6%B0ng.jpg"
         ]
-      ]
+      ],
+      "photoCredit": "사진: Wikimedia Commons (CC BY-SA 등 자유 라이선스 · 사진 누르면 원본·저작자)"
     }
   },
   "routes": [
