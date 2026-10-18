@@ -6545,7 +6545,7 @@
       {
         "id": "mart",
         "label": "🛒 마트·기념품",
-        "note": "롯데마트 한 곳에서 거의 해결. 가격은 게시물 기준이라 매장마다 조금씩 달라.",
+        "note": "롯데마트 한 곳에서 거의 해결. 가격은 게시물 기준이라 매장마다 조금씩 달라. · bysu.zip 꿀팁: 롯데마트는 20만동 이상 사면 계산할 때 여권 보여주고 부가세 환급 서류 받기 · 견과·라이스페이퍼는 옷 사이에 넣으면 안 깨짐.",
         "items": [
           {
             "name": "적후추 (Red pepper)",
@@ -6576,6 +6576,17 @@
               "url": "https://www.instagram.com/ootb_studio/"
             },
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRRTsh_dyTXM9BfKtf2JAljNkZwwVEGIKNVv3i9yN1A"
+          },
+          {
+            "name": "푸꾸옥 소금후추 (Muối tiêu)",
+            "price": "120g 25,000–32,000동 (약 1,300–1,700원)",
+            "where": "롯데마트 특산물 코너 · 윈마트",
+            "note": "빨간 통 = 소금후추 · 초록 통 = 라임 소금후추(더 인기) · 고기·해산물 찍먹 · 비닐 한 번 더 싸기",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuOeZCl4TjLL-C0p5o1ICJx9drIokRVfh7UF1lr9-iA&s=10"
           },
           {
             "name": "새우소금 (Muối tôm)",
@@ -6642,13 +6653,14 @@
           },
           {
             "name": "친수 칠리소스 · 마기 간장",
-            "price": "가격 현장 확인",
+            "price": "친수 250g 22,000동 (약 1,170원) · 작은 병 600원대",
             "where": "롯데마트",
             "src": {
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJ9RZwPP_s7sREwVy8rhHsWFM6Ne1l0NvJigisp_ZjA"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJ9RZwPP_s7sREwVy8rhHsWFM6Ne1l0NvJigisp_ZjA",
+            "note": "월남쌈 국민 소스 (bysu.zip)"
           },
           {
             "name": "콜게이트 해리포터 치약",
@@ -6688,6 +6700,61 @@
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
             }
+          },
+          {
+            "name": "캐슈넛 소금구이 (W240)",
+            "price": "250g 140,000동 (약 7,400원) · 한국 1.5–1.6만원",
+            "where": "롯데마트 견과 코너 · Co.opmart · 공항 기념품샵",
+            "note": "W240이 제일 큰 알(W320은 조금 작음) · 소금·마늘·꿀버터 중 소금이 무난 · 진공포장으로 사야 안 눅눅해짐 · 옷 사이에 넣어 오기",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/DdvyU23JLKB/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YSi31AhRLlsBRxHFjZg9uAVZzlfDdkVL4WeD2G-tow&s=10"
+          },
+          {
+            "name": "마카다미아 (껍질째)",
+            "price": "230g 80,000동대 (약 4,300원)",
+            "where": "롯데마트 견과 코너 · Co.opmart",
+            "note": "까먹는 재미 · 선물용",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHihIJH5BOp5CLIlZOrLkTlKrhN8x-bB7tSRtrQvUCiw&s"
+          },
+          {
+            "name": "라이스페이퍼 (Safoco · Three Ladies)",
+            "price": "Safoco 300g 800원대 · Three Ladies 400g 32,000동 (약 1,700원)",
+            "where": "롯데마트 쌀 코너 · Co.opmart · 윈마트",
+            "note": "22cm는 월남쌈, 16cm는 튀김용·제일 쓰기 쉬움 · 두꺼운 걸로 사야 안 찢어짐 · 물에 3초만",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/DdvyU23JLKB/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgQjrGItcGspZ1cOlAt5AlujccyNqEKtrLnzru3hlDA&s=10"
+          },
+          {
+            "name": "Vifon 퍼보 · Hảo Hảo 컵라면",
+            "price": "1컵 9,000동 (약 480원) · 한국 2,000–2,500원",
+            "where": "롯데마트 라면 코너(박스째) · Circle K",
+            "note": "Vifon은 빨간 Phở Bò가 무난 · Hảo Hảo는 Tôm chua cay(새콤매운 새우)가 제일 인기 · 미니 컵(47g)은 기내 OK",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_iZA0UD8_yrZTE9iMKj-IKjJkXpJDrnFKvEs2Mh5B_g&s=10"
+          },
+          {
+            "name": "쌀국수 육수 튜브 (Phở Bò)",
+            "price": "15,000동 (약 800원) · 한국 7,250원",
+            "where": "롯데마트 · 윈마트 소스 코너",
+            "note": "현지인도 집에서 쓰는 퍼 육수 베이스 · 종류별로 있음",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7rrEjMocHf9UKgOD8G-aNquSq8pGql-LX0201HkmdQ&s"
           }
         ]
       },
@@ -6808,6 +6875,17 @@
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
             }
+          },
+          {
+            "name": "Oishi × 콩카페 Pillows",
+            "price": "20팩 한 상자 200,000동 (1팩 약 530원)",
+            "where": "롯데마트 스낵 · Circle K · 패밀리마트",
+            "note": "한국엔 없는 콩카페 커피맛 필로우 과자 · 회사용으로 딱",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0fXyxr1BSoimW77f6CMwLXRHWmt1lgJe_tkkH_5oyw&s=10"
           }
         ]
       },
@@ -6913,13 +6991,24 @@
               "url": "https://www.instagram.com/ootb_studio/"
             },
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxL4F8-Mhgcn_8ponFRcx_ZmqUQIQ4ivUx75e9X2szfM9ivu7K-Ld"
+          },
+          {
+            "name": "Remos · Soffell 모기 스프레이",
+            "price": "25,000–35,000동 (약 1,300–1,800원)",
+            "where": "약국 · 롯데마트 생활용품 · Watsons/Guardian · 편의점",
+            "note": "피카리딘 성분 저자극 · 핑크 = 라벤더 플로랄향(인기) · 70ml는 기내 반입 OK · 사파 트레킹 때도 유용",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/DdvyU23JLKB/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0sBB0qP3iQOh5Ipn5qiBg2S3iAyYC7Cy1voKV8pl0A&s=10"
           }
         ]
       },
       {
         "id": "beauty",
-        "label": "💄 뷰티 (하사키)",
-        "note": "하사키(Hasaki) = 베트남판 올리브영. 가격표가 없으면 매장 바코드 기계나 Hasaki 앱으로 확인. 50원 같은 가격은 08·13·18시 “빅딜” 행사가라 평소엔 아님. · _minekoo(10/14): 카드·애플페이 결제 가능 · 금액별 사은품 · 롯데마트·쿠팡보다 30–50% 저렴 · D5 저녁 하사키 쑤언라점(짜오반→롯데몰 사이) 들르기.",
+        "label": "💄 뷰티",
+        "note": "하사키는 안 가기로 해서 롯데마트 뷰티 코너·Watsons·Guardian에서 사면 돼 (하사키보다 조금 비쌀 수 있음). 아래 하사키 가격은 참고용. · 하사키(Hasaki) = 베트남판 올리브영. 가격표가 없으면 매장 바코드 기계나 Hasaki 앱으로 확인. 50원 같은 가격은 08·13·18시 “빅딜” 행사가라 평소엔 아님. · _minekoo(10/14): 카드·애플페이 결제 가능 · 금액별 사은품 · 롯데마트·쿠팡보다 30–50% 저렴",
         "items": [
           {
             "name": "도브 바디 스크럽",
@@ -7071,6 +7160,28 @@
               "id": "_minekoo",
               "url": "https://www.instagram.com/reel/DegLw_ytBj3/"
             }
+          },
+          {
+            "name": "Secret 데오드란트 73g",
+            "price": "161,000–176,000동 (약 8,500–9,300원) · 한국 2.6만원",
+            "where": "롯데마트 뷰티 · Watsons · Guardian",
+            "note": "72시간 지속 · 하사키 안 가도 롯데마트에서 OK",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbnZfR25fHsTJ-SbfT1lB39UkxKb8pRf8D8R4aeB3Dg&s=10"
+          },
+          {
+            "name": "Cocoon 커피 바디스크럽",
+            "price": "200ml 125,000동 · 600ml 325,000동 (약 1.7만원) · 한국 2.5만원",
+            "where": "롯데마트 · Watsons · Guardian",
+            "note": "닥락 원두 100% 비건 · 선물 1위 · 기내는 100ml 넘으면 위탁 수하물로",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            },
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPfq-6H1GnB2Y2su4uuQWyl-ThlXu_NHRyxKPvQUEhw&s"
           }
         ]
       },
