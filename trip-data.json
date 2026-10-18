@@ -11497,5 +11497,254 @@
         }
       ]
     }
-  ]
+  ],
+  "tours": {
+    "intro": "클룩 판매 순위·예약 수·후기를 보고 우리 일정에 맞는 상품만 골랐어. 가격은 2026년 10월 클룩 표시가 기준이고 원화는 $1≈1,380원으로 대충 계산. 날짜·인원에 따라 달라지니까 예약 전에 다시 확인!",
+    "groups": [
+      {
+        "id": "d4",
+        "title": "🏔 D4(11/16) 오전 — 뭐 할지 고르기",
+        "sub": "판시판 다음 날 · 오후 3시 통킨 스파 전에 끝나는 4시간짜리들",
+        "pick": [
+          [
+            "다리 괜찮고 논뷰 제대로 걷고 싶다",
+            "A 소그룹 트레킹"
+          ],
+          [
+            "편하게, 조금만 걷고 족욕까지",
+            "B 안 걷는 계곡 투어"
+          ],
+          [
+            "폭포·유리다리·고개 뷰, 차로 편하게",
+            "C 은폭포 + 스카이워크 프라이빗"
+          ],
+          [
+            "유리다리 싸게 + 입장권 포함",
+            "D 롱메이 유리다리 반나절"
+          ],
+          [
+            "우리끼리 차만 빌려서 자유롭게",
+            "E 영어 기사 차량 하루"
+          ]
+        ],
+        "items": [
+          {
+            "k": "A",
+            "name": "무엉화 계곡 소그룹 트레킹",
+            "sub": "이린호 → 라오짜이 → 타반",
+            "price": "$22.35~ (약 3.1만원)",
+            "rate": "4.9 · 후기 1.5천 · 5천+ 예약",
+            "time": "4시간 · 08:20 사파 성당 집합 → 14:00쯤 성당 해산",
+            "walk": "🥾🥾🥾 많이 · 후기상 10–11km 내리막 위주, 진흙·미끄러운 구간",
+            "car": "❌ 이동 미포함 (끝나고 시내 복귀 방법 예약 전 확인)",
+            "inc": "영어 가이드 · 3개 마을 입장료 · 점심은 옵션",
+            "note": "24시간 전 무료 취소 · 따라붙는 몽족 아주머니 기념품은 흥정 · 운동화 필수",
+            "ver": "☀️ 맑은 날 버전 그대로",
+            "url": "https://www.klook.com/activity/140519-y-linh-ho-lao-chai-ta-van-village-trekking-day-tour/"
+          },
+          {
+            "k": "B",
+            "name": "안 걷는 무엉화 계곡 투어",
+            "sub": "전망대 + 라오짜이→타반 짧게 + 족욕 + 뷰 카페",
+            "price": "$27.09~ (약 3.7만원)",
+            "rate": "4.9 · 후기 619 · 4천+ 예약",
+            "time": "4시간 · 사파 성당 집합",
+            "walk": "🥾 조금 · 약 2–3km",
+            "car": "✅ 밴(호텔 픽업 옵션)",
+            "inc": "영어 가이드 · 레드다오 약초 족욕 · 계곡 뷰 카페 음료",
+            "note": "족욕만 있고 발 마사지는 없음 · 취소 규정 표시 없음 → 예약 전 확인 · 오후 스파랑 겹치는 느낌이면 족욕은 빼도 OK",
+            "ver": "☀️ 맑은 날 버전에서 트레킹만 이걸로",
+            "url": "https://www.klook.com/activity/177153-sapa-family-friendly-tour-muong-hoa-valley-ta-van-spa-cafe-views/"
+          },
+          {
+            "k": "C",
+            "name": "은폭포 + 클라우드 드래곤 스카이워크 (프라이빗)",
+            "sub": "은폭포 → 해발 2,200m 유리다리 → 오뀌호 사진",
+            "price": "$57.95 (약 8만원) · 2인 이상 · 3명이면 11% 할인",
+            "rate": "4.7 · 후기 645 · 1만+ 예약",
+            "time": "4시간",
+            "walk": "🥾🥾 중간 · 자연 산책 30분 + 계단",
+            "car": "✅ 프라이빗 차량 + 기사 + 영어 가이드 (호텔 픽업 옵션)",
+            "inc": "차량·가이드 · 유리다리 입장 포함 여부는 상품 페이지에서 확인",
+            "note": "안개 끼면 뷰가 줄 수 있음 · 유리다리 무섭다는 후기 · 따뜻하게 입기 · 가이드가 사진 잘 찍어 준다는 평",
+            "ver": "🚗 폭포 버전 (사랑폭포 대신 유리다리)",
+            "url": "https://www.klook.com/activity/35249-sapa-silver-waterfall-cloud-dragon-skywalk-private-tour/"
+          },
+          {
+            "k": "D",
+            "name": "롱메이 유리다리 + 은폭포 반나절",
+            "sub": "오뀌호 고개(차로 지나감) → 유리다리 1.5시간 → 은폭포 1시간",
+            "price": "$45.09~ (약 6.2만원)",
+            "rate": "4.6 · 후기 31 · 400+ 예약",
+            "time": "4시간 · 08:00–12:00 / 12:00–16:00",
+            "walk": "🥾 조금",
+            "car": "✅ 차량 + 기사 + 가이드 · 사파 시내 호텔 무료 픽업",
+            "inc": "유리다리·은폭포 입장권 포함 · 생수",
+            "note": "24시간 전 무료 취소 · 픽업이 1시간 늦었다·가이드보단 기사 느낌이었다는 후기도 · 후기 수 적음",
+            "ver": "🚗 폭포 버전",
+            "url": "https://www.klook.com/activity/213150-from-sapa-rong-may-glass-bridge-silver-waterfall-half-day-tour/"
+          },
+          {
+            "k": "E",
+            "name": "영어 기사 차량 하루 (맞춤 프라이빗)",
+            "sub": "가고 싶은 곳을 우리가 정해서",
+            "price": "$12.79~ (약 1.8만원)",
+            "rate": "4.9 · 후기 65 · 700+ 예약",
+            "time": "하루 (코스 자유)",
+            "walk": "우리 마음대로",
+            "car": "✅ 차량 + 영어 기사",
+            "inc": "차량만 · 입장료 별도",
+            "note": "은폭포·사랑폭포·천국의 문을 우리 속도로 · 사랑폭포 숲길까지 넣고 싶을 때",
+            "ver": "🚗 폭포 버전 그대로",
+            "url": "https://www.klook.com/activity/215993-custom-private-tour-sapa-day-tour-with-english-speaking-driver/"
+          }
+        ]
+      },
+      {
+        "id": "sapa",
+        "title": "🏔 사파 — 그 밖에 쓸 만한 것",
+        "items": [
+          {
+            "name": "판시판 케이블카 티켓 (썬월드)",
+            "price": "$41.49 (약 5.7만원)",
+            "rate": "4.8 · 후기 1.5만 · 60만+ 예약",
+            "note": "D3·D4 아침 날씨 보고 당일 구매",
+            "url": "https://www.klook.com/activity/11904-fansipan-cable-car-ticket-transfers-sapa/"
+          },
+          {
+            "name": "몽빌리지 알파인 코스터 (클룩 단독)",
+            "price": "$9.65 (약 1.3만원)",
+            "rate": "4.8 · 8만+ 예약",
+            "note": "깟깟마을 안 코스터와는 다른 곳",
+            "url": "https://www.klook.com/activity/43346-sapa-mong-village-alpine-coaster-experience/"
+          },
+          {
+            "name": "깟깟마을 + 모아나 + 코스터 인스타 투어",
+            "price": "$32.09",
+            "rate": "4.9 · 후기 2.3천 · 1만+",
+            "note": "D3 흐린 날 버전을 가이드랑",
+            "url": "https://www.klook.com/activity/160591-sapa-cat-cat-village-moana-alpine-roller-coaster-instagram-tour/"
+          },
+          {
+            "name": "애프터눈 티 @ KK 사파 호텔",
+            "price": "$4.99 (약 7천원)",
+            "rate": "4.6 · 1천+",
+            "note": "싸고 분위기 좋은 디저트 타임",
+            "url": "https://www.klook.com/activity/172537-afternoon-tea-at-kk-sapa-hotel/"
+          },
+          {
+            "name": "애프터눈 티 @ 피스타치오 호텔 (무엉화 계곡 뷰)",
+            "price": "$5.69",
+            "rate": "4.7",
+            "note": "계곡 뷰 · 파라다이스 대안",
+            "url": "https://www.klook.com/activity/181706-afternoon-tea-at-pistachio-hotel-sapa/"
+          },
+          {
+            "name": "사파 커피 워크숍 (시그니처 커피 6종)",
+            "price": "$19.85",
+            "rate": "4.9 · 600+",
+            "note": "비 오는 날 실내 · 최대 3시간",
+            "url": "https://www.klook.com/activity/183111-sapa-coffee-workshop-crafting-6-perfect-signature-coffee-styles/"
+          },
+          {
+            "name": "패러글라이딩 (호텔 픽업)",
+            "price": "$88.59~",
+            "rate": "4.8 · 2천+",
+            "note": "날씨 좋을 때만",
+            "url": "https://www.klook.com/experiences/list/sapa-tours/c290-cate9/"
+          },
+          {
+            "name": "스파: 에덴 센트럴 / 릴랙스 / 헤레나",
+            "price": "$13.50 / $19.10 / $18.15",
+            "rate": "4.6 / 4.7 / 4.7",
+            "note": "놀거리 탭 스파 카드에 상세 · 현장보다 쌈",
+            "url": "https://www.klook.com/experiences/list/sapa-tours/c290-cate9/"
+          },
+          {
+            "name": "사파 ↔ 라오까이역 프라이빗 차량",
+            "price": "€4.05~",
+            "rate": "—",
+            "note": "클룩 기차가 취소되면 셔틀 대안 · 12Go 택시(3.2만원)와 비교",
+            "url": "https://www.klook.com/experiences/list/sapa-tours/c290-cate9/"
+          }
+        ]
+      },
+      {
+        "id": "hanoi",
+        "title": "🇻🇳 하노이 — D2·D5에 넣을 만한 것",
+        "items": [
+          {
+            "name": "탕롱 수상인형극",
+            "price": "$4.89 (약 7천원)",
+            "rate": "판매 1위급",
+            "note": "호안끼엠 호수 앞 · 45분 · 하노이 대표 공연",
+            "url": "https://www-verify.klook.cn/city/34-hanoi-things-to-do"
+          },
+          {
+            "name": "Hanoi Spa 프리미엄 마사지",
+            "price": "할인가 매우 쌈 (80% 할인 표시)",
+            "rate": "5.0 · 7천+",
+            "note": "우리 🔎 Hanoi Spa(17 Hàng Hòm)로 보임 · 현장 60분 75만동보다 쌀 수 있음",
+            "url": "https://www.klook.com/en-SG/destination/p50194824-hanoi-old-quarter/1-things-to-do/"
+          },
+          {
+            "name": "Orient Spa",
+            "price": "약 $18",
+            "rate": "4.7 · 2만+",
+            "note": "대안 스파",
+            "url": "https://www.klook.com/en-SG/destination/p50194824-hanoi-old-quarter/1-things-to-do/"
+          },
+          {
+            "name": "올드쿼터 푸드투어 + 기찻길",
+            "price": "약 $23",
+            "rate": "4.8 · 1만+",
+            "note": "우리가 직접 도는 D2 코스와 비슷",
+            "url": "https://www.klook.com/en-IN/destination/p50180136-hanoi-train-street/1-things-to-do/"
+          },
+          {
+            "name": "미쉐린 스트리트푸드 워킹투어 + 기찻길",
+            "price": "약 $27",
+            "rate": "4.8 · 3천+",
+            "note": "가이드가 미쉐린 집 안내",
+            "url": "https://www.klook.com/en-IN/destination/p50180136-hanoi-train-street/1-things-to-do/"
+          },
+          {
+            "name": "카페 호핑 투어",
+            "price": "약 $27",
+            "rate": "4.7 · 300+",
+            "note": "에그커피·코코넛커피 돌기",
+            "url": "https://www.klook.com/en-IN/destination/p50180136-hanoi-train-street/1-things-to-do/"
+          },
+          {
+            "name": "빈티지 군용 지프 투어 (기찻길 + 음식)",
+            "price": "약 $54",
+            "rate": "4.9 · 6천+",
+            "note": "이색 체험",
+            "url": "https://www.klook.com/en-IN/destination/p50180136-hanoi-train-street/1-things-to-do/"
+          },
+          {
+            "name": "아오자이 렌탈 + 스냅 촬영",
+            "price": "약 $11",
+            "rate": "4.8 · 800+",
+            "note": "구시가지 사진",
+            "url": "https://www.klook.com/en-SG/destination/p50194824-hanoi-old-quarter/1-things-to-do/"
+          },
+          {
+            "name": "롯데 전망대 (스카이 롯데)",
+            "price": "$8.55",
+            "rate": "판매 상위",
+            "note": "D5 롯데 버전에",
+            "url": "https://www-verify.klook.cn/city/34-hanoi-things-to-do"
+          },
+          {
+            "name": "아오자이 여성 라이더 야경 오토바이 투어",
+            "price": "약 $49",
+            "rate": "5.0",
+            "note": "하노이 밤 대안",
+            "url": "https://www.klook.com/en-IN/destination/p50294973-hoan-kiem-lake/1-things-to-do/"
+          }
+        ]
+      }
+    ]
+  }
 }
