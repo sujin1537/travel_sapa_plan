@@ -6239,7 +6239,13 @@
       "city": "hanoi",
       "cat": "spa",
       "lat": 21.0309582,
-      "lng": 105.8501475
+      "lng": 105.8501475,
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUEcrqHxA6Ch7TxCkv4sbo3k4G_86dUf3r43Pmjdsqbs8e9KdpbTs2hAgXzPCQoenY7T34PPCX645Ij9WFS91hSxf4DYOtmStfl1YoUnWHci7Zr6QIqOYjnE_UjSpGj7wSES3r=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeUEcrqHxA6Ch7TxCkv4sbo3k4G_86dUf3r43Pmjdsqbs8e9KdpbTs2hAgXzPCQoenY7T34PPCX645Ij9WFS91hSxf4DYOtmStfl1YoUnWHci7Zr6QIqOYjnE_UjSpGj7wSES3r=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDOl5QxzC-9Rbau4d1s3MU1KlddcUC4bkO8EW5nwgipUpOpxN6fdqIqmHdcUvZE6xOF9gHp9ODXcsSMRQUKovhTMqZ4BOwyP9Bng7QruH4bwGpAtjS2uEsH6VywRlB2iJm-TUc=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qlxg_vYPFpuat-SndJngZTFJR3n3dF3P-a3F0IjMTP4JE78m-Rh3ssJ3o8H0oMvyEivTIcoOVEjf2QZI8cg8ZEoZ0SrTTxLF77pf2YbP7tKZBRCxh7zgitf8T0HEiXONgvqBs_2UoLRDyz=w1200-h900-k-no"
+      ]
     },
     {
       "name": "🔎 Omamori Spa (오마모리 · 시각장애인 테라피스트)",
@@ -6427,7 +6433,13 @@
       "city": "sapa",
       "cat": "spot",
       "lat": 22.3618874,
-      "lng": 103.777723
+      "lng": 103.777723,
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLcSw105Dc_Rx4M6lSfjib0f0syo3YEZm-vZKtqrk88m0CqTpqrTE-pom7UPTYmM_CZLfrwmP7VsUaDi4FIy_FCAOZpWrXb_-06UQBVJe-nzpVga83181oGDR1ufhRMrjO0pt1MB=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSw105Dc_Rx4M6lSfjib0f0syo3YEZm-vZKtqrk88m0CqTpqrTE-pom7UPTYmM_CZLfrwmP7VsUaDi4FIy_FCAOZpWrXb_-06UQBVJe-nzpVga83181oGDR1ufhRMrjO0pt1MB=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QT4Djyf4QRzme72CCcgGMew9hwB9-8Yf_Rrug4ZGhtppBioeGRXogCfb976_Ymq8FCz7-VdmQzOPCFz6iTHTsM2S01cmwZlRoMt5mEfqS--YXegpusQLAsZ27fxB5G_KDHtNGk=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDVFl8auzz6535FtKN9Dn3HZpzNd8INsPdzMSeuqZgtZOkieGLs6asOc3uwKTe8Rrc7W5ML2_DRkxRT3cBEEETtc2zEAsPehP2YcaY1325gvmv54cLCo-Hgwtotv1IPUtiR1FEweKF6Mrp=w1200-h900-k-no"
+      ]
     },
     {
       "name": "사랑폭포",
