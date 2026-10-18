@@ -755,7 +755,7 @@
               ]
             ],
             "tips": [
-              "📩 새벽 2시쯤 도착한다고 미리 메시지 — 소영(남은 할 일)",
+              "📩 새벽 2시쯤 도착 + 체크아웃 후 짐 보관 — 소영이 {{msg:delica|✉️ 보낼 메시지 보기·복사}}",
               "🧳 체크아웃 후 짐 보관 가능 · 저녁에 찾아서 기차역으로",
               "🥡 이른 출발엔 조식 포장 가능하다는 후기",
               "🚕 공항 픽업은 38만동(선택)"
@@ -2137,9 +2137,9 @@
             ],
             "tips": [
               "👀 꼭 볼 곳: 인피니티 풀 · 조식당 뷰 — 밝을 때 가기",
-              "🛏 뷰 좋은 방: 높은 층 · 계곡·판시판 쪽(남서쪽) — 수진이 메일로 요청하기(남은 할 일)",
-              "🏊 11월 낮 8–17도라 야외 수영장은 사진용에 가까움 · 온수인지 메일로 확인",
-              "💨 드라이기: 익스피디아엔 객실에 있다고 나옴 · 없으면 프런트에 요청",
+              "🛏 뷰 좋은 방: 높은 층 · 계곡·판시판 쪽(남서쪽) — 수진이 {{msg:catcat|✉️ 호텔에 보낼 메일 보기·복사}}",
+              "🏊 인피니티 풀은 온수 야외 수영장(베트남 예약사이트 vietnambooking 소개: 'bể bơi vô cực nước ấm') · 11월에 몇 도인지·운영시간은 메일로 확인 · 수영복 챙기기",
+              "💨 드라이기: 익스피디아에 '모든 객실 헤어드라이어'로 나옴 · 없으면 프런트에 요청",
               "🌫 11월은 안개 끼는 날이 많다는 후기 — 맑은 시간에 뷰 먼저 보기",
               "💆 이름에 '& Spa'가 붙었지만 메뉴·가격은 확인 못 함 · 우리는 D4 통킨 스파"
             ]
@@ -11273,8 +11273,9 @@
           "t": "깟깟 힐스에 메일 보내기 (뷰 좋은 방 요청)",
           "when": "11/3 무료취소 마감 전 · 11/12쯤 한 번 더 상기",
           "who": "수진",
-          "d": "높은 층 · 계곡·판시판 쪽(남서쪽) 방 요청(예: 815호 같은 방) + 체크인 전 샤워실(실내·온수·수건) · 얼리체크인 요금 · 객실 드라이기 · 라오까이역 픽업 가격 · 영문 메일 초안은 대화에 있음",
-          "go": "lodging"
+          "d": "높은 층 · 계곡·판시판 쪽(남서쪽) 방 요청(예: 815호 같은 방) + 체크인 전 샤워실(실내·온수·수건) · 얼리체크인 요금 · 객실 드라이기 · 수영장 온수·운영시간 · 라오까이역 픽업 가격",
+          "go": "lodging",
+          "msg": "catcat"
         },
         {
           "id": "delica",
@@ -11283,7 +11284,8 @@
           "when": "11/5 무료취소 마감 전",
           "who": "소영",
           "d": "“11/14 새벽 2시쯤 도착, 성인 3명” 확인받기",
-          "go": "lodging"
+          "go": "lodging",
+          "msg": "delica"
         },
         {
           "id": "shuttle",
@@ -11310,7 +11312,8 @@
           "when": "D5 버전 정한 뒤",
           "who": "",
           "d": "11/17 3명 90분 + 샤워 · 14:15부터 짐 3개 보관 · 롯데몰 버전 17:45 / 기찻길 밤 20:30 / 나머지 20:45",
-          "go": "overview"
+          "go": "overview",
+          "msg": "serene"
         },
         {
           "id": "dinner",
@@ -11319,7 +11322,8 @@
           "when": "D5 버전 정한 뒤",
           "who": "",
           "d": "맥주거리·롯데마트 버전 → 꽌안응온 18:30 3명 / 루프탑 버전 → Touché 창가 3명 / 다른 버전은 필요 없음",
-          "go": "food"
+          "go": "food",
+          "msg": "quanangon"
         },
         {
           "id": "pai",
@@ -11337,7 +11341,8 @@
           "when": "가기로 하면 미리",
           "who": "",
           "d": "11/16 15:00 3명 · 동굴 사우나 + 레드다오 약초 목욕 + 바디 마사지 · 개인실 · 3명 같이 되는지·가격 확인 · 📞 +84 965 288 160 · 안 되면 Sapa Summit",
-          "go": "sights"
+          "go": "sights",
+          "msg": "tonkin"
         },
         {
           "id": "offmap",
@@ -11981,5 +11986,42 @@
         ]
       }
     ]
+  },
+  "msgs": {
+    "catcat": {
+      "title": "깟깟 힐스에 메일 (뷰 좋은 방 + 문의)",
+      "who": "수진",
+      "via": "이메일 또는 아고다/WON트래블 예약 메시지 · 영어",
+      "subject": "Booking 15–17 Nov (Family Mountain View, 3 adults) – room view request & questions",
+      "body": "Dear Sapa Catcat Hills Resort & Spa team,\n\nWe have a reservation for a Family Mountain View room for 3 adults, staying 2 nights from 15 to 17 November 2026 (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nThis is our first visit to Sapa and we are really looking forward to the view. If possible, could you please assign us a room on a high floor facing Cat Cat valley and Mount Fansipan (for example, a room similar to Room 815)? We would be very grateful.\n\nWe also have a few questions:\n1. We arrive by night train and will reach the hotel around 7:00 AM on 15 November. Is there a shower room we can use before check-in? Is it indoor with hot water, and are towels provided?\n2. Is early check-in possible that morning, and what is the fee?\n3. Is there a hair dryer in the room?\n4. Is the infinity pool heated in mid-November, and what are the pool opening hours?\n5. Do you offer pickup from Lao Cai station, and how much does it cost?\n\nThank you very much, and we look forward to staying with you.\n\nBest regards,\n[이름]"
+    },
+    "delica": {
+      "title": "델리카에 늦은 도착 메시지",
+      "who": "소영",
+      "via": "WON트래블/아고다 예약 메시지 또는 이메일 · 영어",
+      "subject": "Late arrival on 14 Nov around 2:00 AM – booking for 3 adults (check-in 13 Nov)",
+      "body": "Dear Delica Premium Hotel team,\n\nWe have a reservation for a Family Room for 3 adults, checking in on 13 November 2026 for 1 night (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nOur flight arrives in Hanoi late at night, so we will reach the hotel around 2:00 AM on 14 November. Please keep our room and do not mark us as a no-show. Could you confirm that someone at reception will be available to check us in at that time?\n\nAlso, after check-out on 14 November, could we leave our luggage at the hotel until around 8:00 PM? We will take the night train from Hanoi Station.\n\nThank you very much.\n\nBest regards,\n[이름]"
+    },
+    "tonkin": {
+      "title": "통킨 스파 (동굴 사우나) 예약 문의",
+      "who": "",
+      "via": "WhatsApp +84 965 288 160 · 영어",
+      "subject": "",
+      "body": "Hello! I would like to book for 3 people on Monday, 16 November 2026 at 3:00 PM.\n\nWe are interested in the cave sauna + Red Dao herbal bath + body massage.\n\n1. Can the 3 of us use the cave sauna and herbal bath together in one private room?\n2. What is the price per person, and how long does it take in total?\n3. Is a deposit needed to confirm the booking?\n\nThank you!"
+    },
+    "serene": {
+      "title": "세린 스파 예약 + 짐 보관",
+      "who": "",
+      "via": "스파 연락처(WhatsApp·이메일) · 영어",
+      "subject": "Booking for 3 people on 17 Nov + luggage storage",
+      "body": "Hello! I would like to book a 90-minute massage for 3 people on Tuesday, 17 November 2026 at [17:45 / 20:30 / 20:45 — D5 버전 정하고 고르기].\n\nWe also have two requests:\n1. We will arrive in the Old Quarter by bus around 2:15 PM. Could we leave 3 pieces of luggage at the spa from 2:15 PM until after the massage?\n2. Can we use the shower after the massage? We have a late-night flight.\n\nPlease let me know the price and whether a deposit is needed. Thank you!"
+    },
+    "quanangon": {
+      "title": "꽌안응온 저녁 예약",
+      "who": "",
+      "via": "전화·WhatsApp·구글 지도 예약 · 영어 (맥주거리·롯데마트 버전일 때만)",
+      "subject": "",
+      "body": "Hello! I would like to reserve a table for 3 people on Tuesday, 17 November 2026 at 6:30 PM, under the name [이름]. Thank you!"
+    }
   }
 }
