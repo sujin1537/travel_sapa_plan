@@ -11996,37 +11996,111 @@
     "catcat": {
       "title": "깟깟 힐스에 메일 (뷰 좋은 방 + 문의)",
       "who": "수진",
-      "via": "이메일 또는 아고다/WON트래블 예약 메시지 · 영어",
+      "via": "이메일이 제일 무난 · 답 없으면 Zalo/전화 · 예약한 WON트래블 메시지도 가능 · 영어",
       "subject": "Booking 15–17 Nov (Family Mountain View, 3 adults) – room view request & questions",
-      "body": "Dear Sapa Catcat Hills Resort & Spa team,\n\nWe have a reservation for a Family Mountain View room for 3 adults, staying 2 nights from 15 to 17 November 2026 (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nThis is our first visit to Sapa and we are really looking forward to the view. If possible, could you please assign us a room on a high floor facing Cat Cat valley and Mount Fansipan (for example, a room similar to Room 815)? We would be very grateful.\n\nWe also have a few questions:\n1. We arrive by night train and will reach the hotel around 7:00 AM on 15 November. Is there a shower room we can use before check-in? Is it indoor with hot water, and are towels provided?\n2. Is early check-in possible that morning, and what is the fee?\n3. Is there a hair dryer in the room?\n4. Is the infinity pool heated in mid-November, and what are the pool opening hours?\n5. Do you offer pickup from Lao Cai station, and how much does it cost?\n\nThank you very much, and we look forward to staying with you.\n\nBest regards,\n[이름]"
+      "body": "Dear Sapa Catcat Hills Resort & Spa team,\n\nWe have a reservation for a Family Mountain View room for 3 adults, staying 2 nights from 15 to 17 November 2026 (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nThis is our first visit to Sapa and we are really looking forward to the view. If possible, could you please assign us a room on a high floor facing Cat Cat valley and Mount Fansipan (for example, a room similar to Room 815)? We would be very grateful.\n\nWe also have a few questions:\n1. We arrive by night train and will reach the hotel around 7:00 AM on 15 November. Is there a shower room we can use before check-in? Is it indoor with hot water, and are towels provided?\n2. Is early check-in possible that morning, and what is the fee?\n3. Is there a hair dryer in the room?\n4. Is the infinity pool heated in mid-November, and what are the pool opening hours?\n5. Do you offer pickup from Lao Cai station, and how much does it cost?\n\nThank you very much, and we look forward to staying with you.\n\nBest regards,\n[이름]",
+      "contacts": [
+        [
+          "📧 이메일 (공식 사이트)",
+          "sm@catcathills.com",
+          "mailto:sm@catcathills.com?subject=Booking%2015%E2%80%9317%20Nov%20%28Family%20Mountain%20View%2C%203%20adults%29%20%E2%80%93%20room%20view%20request%20%26%20questions&body=Dear%20Sapa%20Catcat%20Hills%20Resort%20%26%20Spa%20team%2C%0A%0AWe%20have%20a%20reservation%20for%20a%20Family%20Mountain%20View%20room%20for%203%20adults%2C%20staying%202%20nights%20from%2015%20to%2017%20November%202026%20%28booked%20under%20the%20name%20%5B%EC%98%88%EC%95%BD%EC%9E%90%20%EC%98%81%EB%AC%B8%20%EC%9D%B4%EB%A6%84%5D%2C%20booking%20no.%20%5B%EC%98%88%EC%95%BD%EB%B2%88%ED%98%B8%5D%29.%0A%0AThis%20is%20our%20first%20visit%20to%20Sapa%20and%20we%20are%20really%20looking%20forward%20to%20the%20view.%20If%20possible%2C%20could%20you%20please%20assign%20us%20a%20room%20on%20a%20high%20floor%20facing%20Cat%20Cat%20valley%20and%20Mount%20Fansipan%20%28for%20example%2C%20a%20room%20similar%20to%20Room%20815%29%3F%20We%20would%20be%20very%20grateful.%0A%0AWe%20also%20have%20a%20few%20questions%3A%0A1.%20We%20arrive%20by%20night%20train%20and%20will%20reach%20the%20hotel%20around%207%3A00%20AM%20on%2015%20November.%20Is%20there%20a%20shower%20room%20we%20can%20use%20before%20check-in%3F%20Is%20it%20indoor%20with%20hot%20water%2C%20and%20are%20towels%20provided%3F%0A2.%20Is%20early%20check-in%20possible%20that%20morning%2C%20and%20what%20is%20the%20fee%3F%0A3.%20Is%20there%20a%20hair%20dryer%20in%20the%20room%3F%0A4.%20Is%20the%20infinity%20pool%20heated%20in%20mid-November%2C%20and%20what%20are%20the%20pool%20opening%20hours%3F%0A5.%20Do%20you%20offer%20pickup%20from%20Lao%20Cai%20station%2C%20and%20how%20much%20does%20it%20cost%3F%0A%0AThank%20you%20very%20much%2C%20and%20we%20look%20forward%20to%20staying%20with%20you.%0A%0ABest%20regards%2C%0A%5B%EC%9D%B4%EB%A6%84%5D"
+        ],
+        [
+          "📞 전화",
+          "+84 982 743 679",
+          "tel:+84982743679"
+        ],
+        [
+          "💬 Zalo",
+          "zalo.me/0982743679",
+          "https://zalo.me/0982743679"
+        ]
+      ],
+      "src": "catcathills.com 연락처 페이지 · 구글 지도"
     },
     "delica": {
       "title": "델리카에 늦은 도착 메시지",
       "who": "소영",
-      "via": "WON트래블/아고다 예약 메시지 또는 이메일 · 영어",
+      "via": "이메일 · 예약한 WON트래블 메시지도 가능 · 영어",
       "subject": "Late arrival on 14 Nov around 2:00 AM – booking for 3 adults (check-in 13 Nov)",
-      "body": "Dear Delica Premium Hotel team,\n\nWe have a reservation for a Family Room for 3 adults, checking in on 13 November 2026 for 1 night (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nOur flight arrives in Hanoi late at night, so we will reach the hotel around 2:00 AM on 14 November. Please keep our room and do not mark us as a no-show. Could you confirm that someone at reception will be available to check us in at that time?\n\nAlso, after check-out on 14 November, could we leave our luggage at the hotel until around 8:00 PM? We will take the night train from Hanoi Station.\n\nThank you very much.\n\nBest regards,\n[이름]"
+      "body": "Dear Delica Premium Hotel team,\n\nWe have a reservation for a Family Room for 3 adults, checking in on 13 November 2026 for 1 night (booked under the name [예약자 영문 이름], booking no. [예약번호]).\n\nOur flight arrives in Hanoi late at night, so we will reach the hotel around 2:00 AM on 14 November. Please keep our room and do not mark us as a no-show. Could you confirm that someone at reception will be available to check us in at that time?\n\nAlso, after check-out on 14 November, could we leave our luggage at the hotel until around 8:00 PM? We will take the night train from Hanoi Station.\n\nThank you very much.\n\nBest regards,\n[이름]",
+      "contacts": [
+        [
+          "📧 이메일 (공식 사이트)",
+          "hanoidelicahotel@gmail.com",
+          "mailto:hanoidelicahotel@gmail.com?subject=Late%20arrival%20on%2014%20Nov%20around%202%3A00%20AM%20%E2%80%93%20booking%20for%203%20adults%20%28check-in%2013%20Nov%29&body=Dear%20Delica%20Premium%20Hotel%20team%2C%0A%0AWe%20have%20a%20reservation%20for%20a%20Family%20Room%20for%203%20adults%2C%20checking%20in%20on%2013%20November%202026%20for%201%20night%20%28booked%20under%20the%20name%20%5B%EC%98%88%EC%95%BD%EC%9E%90%20%EC%98%81%EB%AC%B8%20%EC%9D%B4%EB%A6%84%5D%2C%20booking%20no.%20%5B%EC%98%88%EC%95%BD%EB%B2%88%ED%98%B8%5D%29.%0A%0AOur%20flight%20arrives%20in%20Hanoi%20late%20at%20night%2C%20so%20we%20will%20reach%20the%20hotel%20around%202%3A00%20AM%20on%2014%20November.%20Please%20keep%20our%20room%20and%20do%20not%20mark%20us%20as%20a%20no-show.%20Could%20you%20confirm%20that%20someone%20at%20reception%20will%20be%20available%20to%20check%20us%20in%20at%20that%20time%3F%0A%0AAlso%2C%20after%20check-out%20on%2014%20November%2C%20could%20we%20leave%20our%20luggage%20at%20the%20hotel%20until%20around%208%3A00%20PM%3F%20We%20will%20take%20the%20night%20train%20from%20Hanoi%20Station.%0A%0AThank%20you%20very%20much.%0A%0ABest%20regards%2C%0A%5B%EC%9D%B4%EB%A6%84%5D"
+        ],
+        [
+          "📞 전화",
+          "+84 903 271 313",
+          "tel:+84903271313"
+        ]
+      ],
+      "src": "delicapremiumhotel.com 공식 사이트 · 구글 지도"
     },
     "tonkin": {
       "title": "통킨 스파 (동굴 사우나) 예약 문의",
       "who": "",
       "via": "WhatsApp +84 965 288 160 · 영어",
       "subject": "",
-      "body": "Hello! I would like to book for 3 people on Monday, 16 November 2026 at 3:00 PM.\n\nWe are interested in the cave sauna + Red Dao herbal bath + body massage.\n\n1. Can the 3 of us use the cave sauna and herbal bath together in one private room?\n2. What is the price per person, and how long does it take in total?\n3. Is a deposit needed to confirm the booking?\n\nThank you!"
+      "body": "Hello! I would like to book for 3 people on Monday, 16 November 2026 at 3:00 PM.\n\nWe are interested in the cave sauna + Red Dao herbal bath + body massage.\n\n1. Can the 3 of us use the cave sauna and herbal bath together in one private room?\n2. What is the price per person, and how long does it take in total?\n3. Is a deposit needed to confirm the booking?\n\nThank you!",
+      "contacts": [
+        [
+          "💬 WhatsApp",
+          "+84 965 288 160",
+          "https://wa.me/84965288160"
+        ],
+        [
+          "📞 전화",
+          "+84 965 288 160",
+          "tel:+84965288160"
+        ]
+      ]
     },
     "serene": {
       "title": "세린 스파 예약 + 짐 보관",
       "who": "",
-      "via": "스파 연락처(WhatsApp·이메일) · 영어",
+      "via": "카톡 문의가 제일 편함 · 68 Mã Mây 지점이라고 꼭 적기 (같은 거리에 지점 3개) · 영어",
       "subject": "Booking for 3 people on 17 Nov + luggage storage",
-      "body": "Hello! I would like to book a 90-minute massage for 3 people on Tuesday, 17 November 2026 at [17:45 / 20:30 / 20:45 — D5 버전 정하고 고르기].\n\nWe also have two requests:\n1. We will arrive in the Old Quarter by bus around 2:15 PM. Could we leave 3 pieces of luggage at the spa from 2:15 PM until after the massage?\n2. Can we use the shower after the massage? We have a late-night flight.\n\nPlease let me know the price and whether a deposit is needed. Thank you!"
+      "body": "Hello! I would like to book at your 68 Ma May branch: a 90-minute massage for 3 people on Tuesday, 17 November 2026 at [17:45 / 20:30 / 20:45 — D5 버전 정하고 고르기].\n\nWe also have two requests:\n1. We will arrive in the Old Quarter by bus around 2:15 PM. Could we leave 3 pieces of luggage at the spa from 2:15 PM until after the massage?\n2. Can we use the shower after the massage? We have a late-night flight.\n\nPlease let me know the price and whether a deposit is needed. Thank you!",
+      "contacts": [
+        [
+          "💬 카카오톡 (공식 QR 링크)",
+          "카톡으로 바로 문의",
+          "http://qr.kakao.com/talk/XHKJrfOgox9D2iTSuIoOq8avaQc-?zarsrc=1303"
+        ],
+        [
+          "💬 WhatsApp (공식 QR 링크)",
+          "WhatsApp 열기",
+          "https://wa.me/qr/VC73VUZIPIB5P1"
+        ],
+        [
+          "📧 이메일",
+          "info@serenespa.vn",
+          "mailto:info@serenespa.vn?subject=Booking%20for%203%20people%20on%2017%20Nov%20%2B%20luggage%20storage&body=Hello%21%20I%20would%20like%20to%20book%20at%20your%2068%20Ma%20May%20branch%3A%20a%2090-minute%20massage%20for%203%20people%20on%20Tuesday%2C%2017%20November%202026%20at%20%5B17%3A45%20/%2020%3A30%20/%2020%3A45%20%E2%80%94%20D5%20%EB%B2%84%EC%A0%84%20%EC%A0%95%ED%95%98%EA%B3%A0%20%EA%B3%A0%EB%A5%B4%EA%B8%B0%5D.%0A%0AWe%20also%20have%20two%20requests%3A%0A1.%20We%20will%20arrive%20in%20the%20Old%20Quarter%20by%20bus%20around%202%3A15%20PM.%20Could%20we%20leave%203%20pieces%20of%20luggage%20at%20the%20spa%20from%202%3A15%20PM%20until%20after%20the%20massage%3F%0A2.%20Can%20we%20use%20the%20shower%20after%20the%20massage%3F%20We%20have%20a%20late-night%20flight.%0A%0APlease%20let%20me%20know%20the%20price%20and%20whether%20a%20deposit%20is%20needed.%20Thank%20you%21"
+        ],
+        [
+          "📞 전화 (68 Mã Mây점)",
+          "+84 916 362 368",
+          "tel:+84916362368"
+        ]
+      ],
+      "src": "serenespa.vn 하노이 페이지 · 구글 지도 (68 Mã Mây 지점)"
     },
     "quanangon": {
       "title": "꽌안응온 저녁 예약",
       "who": "",
       "via": "전화·WhatsApp·구글 지도 예약 · 영어 (맥주거리·롯데마트 버전일 때만)",
       "subject": "",
-      "body": "Hello! I would like to reserve a table for 3 people on Tuesday, 17 November 2026 at 6:30 PM, under the name [이름]. Thank you!"
+      "body": "Hello! I would like to reserve a table for 3 people on Tuesday, 17 November 2026 at 6:30 PM, under the name [이름]. Thank you!",
+      "contacts": [
+        [
+          "📞 전화 (18 Phan Bội Châu점)",
+          "+84 903 246 963",
+          "tel:+84903246963"
+        ]
+      ],
+      "src": "구글 지도"
     }
   }
 }
