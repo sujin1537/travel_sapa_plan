@@ -419,9 +419,9 @@
         ],
         [
           "13:00",
-          "Little Sapa 점심",
-          "",
-          "Little Sapa"
+          "BB 레스토랑 점심 📺",
+          "판시판 모노레일역(선플라자) 바로 옆 · 풍향고가 두 번 간 집 · 에그·치킨 반미(1개 약 21.6만동, 양 많음) · 마르게리타 피자는 14시부터 · 테라스석",
+          "BB Restaurant (BB 호텔 레스토랑)"
         ],
         [
           "14:30",
@@ -4508,14 +4508,6 @@
           "icon": "📍"
         }
       ],
-      "Little Sapa 점심": [
-        {
-          "name": "Little Sapa 점심",
-          "lat": 22.3335626,
-          "lng": 103.8414997,
-          "icon": "📍"
-        }
-      ],
       "깟깟마을": [
         {
           "name": "깟깟마을",
@@ -4546,6 +4538,14 @@
           "lat": 22.3325236,
           "lng": 103.8395229,
           "icon": "🍗"
+        }
+      ],
+      "BB 레스토랑 점심 📺": [
+        {
+          "name": "BB Restaurant",
+          "lat": 22.33481,
+          "lng": 103.841174,
+          "icon": "🥖"
         }
       ]
     },
@@ -4740,7 +4740,7 @@
                   {
                     "id": "duyen",
                     "label": "Duyên Béo",
-                    "meta": "풍향고",
+                    "meta": "",
                     "peek": "Duyên Béo"
                   }
                 ]
@@ -4970,10 +4970,16 @@
                 "slot": "점심",
                 "options": [
                   {
+                    "id": "bb",
+                    "label": "BB 레스토랑",
+                    "meta": "📺 풍향고 · 판시판역 옆 반미·피자",
+                    "rec": true,
+                    "peek": "BB Restaurant (BB 호텔 레스토랑)"
+                  },
+                  {
                     "id": "little",
                     "label": "Little Sapa",
-                    "meta": "풍향고",
-                    "rec": true,
+                    "meta": "현지식 맛집",
                     "peek": "Little Sapa"
                   },
                   {
@@ -5051,7 +5057,7 @@
                   {
                     "id": "little",
                     "label": "Little Sapa",
-                    "meta": "풍향고",
+                    "meta": "현지식 맛집",
                     "peek": "Little Sapa"
                   },
                   {
@@ -5151,7 +5157,7 @@
                   {
                     "id": "chusu",
                     "label": "CHUSU KITCHEN",
-                    "meta": "풍향고",
+                    "meta": "연어 퓨전",
                     "rec": true,
                     "peek": "CHUSU KITCHEN"
                   },
@@ -5216,7 +5222,7 @@
                   {
                     "id": "little",
                     "label": "Little Sapa",
-                    "meta": "풍향고",
+                    "meta": "현지식 맛집",
                     "peek": "Little Sapa"
                   },
                   {
@@ -5722,7 +5728,8 @@
       "time": "40–60분",
       "lat": 21.0286669,
       "lng": 105.8521484,
-      "cat": "spot"
+      "cat": "spot",
+      "fhy": true
     },
     {
       "name": "성 요셉 성당",
@@ -5837,7 +5844,8 @@
       "gallery": [
         "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYRm59pTny6ccepBUcpwDEKGPGcsJtazLZ19MDyv8KfmGs2VOEA9pYECOquu0Mj0oXPiOHKdZQwywEUZO5nE12eUQnZRP8TNmqZJTKePAo-AhpTk66Zpf1JRbgMwzPD2R1D_KrrxcVtsM=w1200-h900-k-no"
       ],
-      "cat": "exp"
+      "cat": "exp",
+      "fhy": true
     },
     {
       "name": "하노이 기찻길 – 남쪽 레주언 (Lê Duẩn)",
@@ -6239,7 +6247,6 @@
       "city": "sapa",
       "lat": 22.33456,
       "lng": 103.84048,
-      "fhy": true,
       "cat": "spot"
     },
     {
@@ -6476,7 +6483,8 @@
           "cap": "사파 야시장 다녀온 후기"
         }
       ],
-      "cat": "street"
+      "cat": "street",
+      "fhy": true
     },
     {
       "name": "사파 돌 성당 (노트르담)",
@@ -8685,7 +8693,7 @@
             "v": "0uXiiH6XLEc",
             "t": 295,
             "tl": "4:55",
-            "desc": "산악열차 지나가는 뷰 · 풍향고",
+            "desc": "산악열차 지나가는 뷰",
             "have": true,
             "photo": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPMYy9C3-qA9Bqa9yyqQYRDRS6PQBUQIplaTCx7XdrFr4XRrhYM3GCAu6WWvCAcn9N1QZ9n_aw0Hp6D0xIGawp1RXvCcCJNySMdfKBuPDTCpEBil2cbCEI96pd1N3uZYsCKym6S9Nyxi9D=w1200-h900-k-no"
           },
@@ -10541,6 +10549,13 @@
         "title": "🏔 사파",
         "items": [
           {
+            "peek": "BB Restaurant",
+            "name": "BB 호텔 레스토랑",
+            "when": "D3 점심",
+            "why": "📺 풍향고 · 판시판역 바로 옆 · 에그·치킨 반미 · 마르게리타 피자",
+            "new": true
+          },
+          {
             "peek": "Chợ Tình Quán",
             "name": "쩌띤꽌 (Chợ Tình Quán)",
             "when": "D3 저녁",
@@ -10563,8 +10578,8 @@
           {
             "peek": "Little Sapa",
             "name": "Little Sapa",
-            "when": "D3 점심",
-            "why": "가성비 베트남 가정식 · 볶음밥·반쎄오 · 15–17시 브레이크"
+            "when": "점심 대안 (D3·D4)",
+            "why": "가성비 베트남 가정식 · 볶음밥·반쎄오 · 15–17시 브레이크 · 구글 4.5 (1,338)"
           },
           {
             "peek": "A Phủ",
@@ -10608,7 +10623,7 @@
           {
             "peek": "BB Restaurant",
             "name": "BB 호텔 레스토랑",
-            "when": "일정 밖 · 판시판역 바로 옆",
+            "when": "✅ D3 점심",
             "why": "사파 · 첫 끼 + 다음 날 후식까지 두 번 · 에그·치킨 반미 · 마르게리타 피자",
             "new": true
           },
