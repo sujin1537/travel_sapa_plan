@@ -450,7 +450,7 @@
         [
           "21:00",
           "Relax 발 마사지 (선택) 🦶",
-          "피곤하면 · 🔎 Relax Massage & Spa (50A Thạch Sơn) · 01시까지 · 발 마사지 45–60분 · 판시판·깟깟 다녀온 다리 풀기",
+          "피곤하면 · 🔎 Relax Massage & Spa (50A Thạch Sơn) · 01시까지 · 🎟 클룩으로 예약하면 더 쌈($19~, 약초 목욕 15분+마사지 60분) · 판시판·깟깟 다녀온 다리 풀기",
           "🔎 Relax Massage"
         ]
       ]
@@ -6659,7 +6659,7 @@
       "desc": "🔎 구글 추천 · 구글 4.9 (8,587) · 사파에서 리뷰 제일 많은 스파 · 썬플라자 바로 앞 · 방마다 샤워실 + 나무 욕조, 침대 2개씩이라 친구끼리 같이.",
       "status": "🔎 구글 추천 · 마사지·약초 목욕·스팀",
       "time": "60–105분",
-      "tip": "💵 가격: 베트남 전통·스웨디시 45–90분 35–60만동 · 핫스톤·허브 60–90분 46–65만동 · 레드다오 약초 목욕+전신 마사지 65–95분 50–65만동 · 에덴 콤보(스팀+약초 목욕+마사지) 75–105분 60–80만동 · 약초 목욕만 20분 15만동 · 스팀 20분 15만동 · 시간당 약 40–50만동(≈2.5만원) · 팁 별도 · 📍 07 Fansipan (선플라자 앞, 판시판 다녀와서 바로) · 🕘 09:00–23:00 · 💬 한국인 후기: “시설 좋고 시원, 60분 꽉 채움, 갈아입을 옷 줌” / ⚠ “옷 갈아입는데 직원이 들어옴, 마사지 중 폰 만짐” 같은 불만도 · 주말·19시 이후는 몇 시간 전 예약",
+      "tip": "💵 가격: 🎟 클룩 $13.50~(약 1.9만원 · 3천 명 넘게 예약 · 클룩 평점 4.6) · 베트남 전통·스웨디시 45–90분 35–60만동 · 핫스톤·허브 60–90분 46–65만동 · 레드다오 약초 목욕+전신 마사지 65–95분 50–65만동 · 에덴 콤보(스팀+약초 목욕+마사지) 75–105분 60–80만동 · 약초 목욕만 20분 15만동 · 스팀 20분 15만동 · 시간당 약 40–50만동(≈2.5만원) · 팁 별도 · 📍 07 Fansipan (선플라자 앞, 판시판 다녀와서 바로) · 🕘 09:00–23:00 · 💬 한국인 후기: “시설 좋고 시원, 60분 꽉 채움, 갈아입을 옷 줌” / ⚠ “옷 갈아입는데 직원이 들어옴, 마사지 중 폰 만짐” 같은 불만도 · 주말·19시 이후는 몇 시간 전 예약",
       "check": "3명 같은 시간 · 방 배정",
       "query": "Eden Central Massage & Spa 07 Fansipan Sa Pa",
       "city": "sapa",
@@ -6685,21 +6685,33 @@
       "city": "sapa",
       "cat": "spa",
       "lat": 22.3342963,
-      "lng": 103.840798
+      "lng": 103.840798,
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPC2F5dE-1dDFk9xu4wG3cuoLcmzIava-_8T90TWVNc0gOHDye9GjttQC2RDsYqXE7eiB6zsysoVZ-QR7rd--RyFMVY6zYKpaRqrSeTexoCmB45x-ptTmXvVeRFY3EuiuknTYv=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdPC2F5dE-1dDFk9xu4wG3cuoLcmzIava-_8T90TWVNc0gOHDye9GjttQC2RDsYqXE7eiB6zsysoVZ-QR7rd--RyFMVY6zYKpaRqrSeTexoCmB45x-ptTmXvVeRFY3EuiuknTYv=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqL8YkDORQi6jxiP7HxvHEaqcCEWIRhYbxKdYZ8zkOKX_-ptlTUKk4T2spTnJv2voXLgWoo1m2T8LQrkuM8r1VU5fUH29idCBF3UwZl-EVFmhGRfPTlt55tE8-GiN2XJ82IW_x=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RuiyDRVmHQkZVGfO0mp3sd145MyijfsBmHZE0sfvgYUu564N8knrSXNthKIozGKRGj1xAs2NLC9EJqa5BRpTc6NarS75vjzrRxDm197yWcwnUAY63Uxd0QLiPH9q2d4ab_Ee_42PGA-T8=w1200-h900-k-no"
+      ]
     },
     {
       "name": "🔎 Relax Massage & Spa Sapa (릴랙스)",
       "day": "D3 밤 · 사파 시내",
-      "desc": "🔎 구글 추천 · 구글 4.9 (7,150) · 메뉴가 다양하고 01시까지라 야시장 후에도 가능 · 약초 목욕·사우나 있음.",
+      "desc": "🔎 구글 추천 · 구글 4.9 (7,150) · 메뉴가 다양하고 01시까지라 야시장 후에도 가능 · 약초 목욕·사우나 있음. 💬 한국인 후기: “사파에서 여러 번 받았는데 제일 훌륭, 깨끗하고 급이 다름” / “판시판·슬리핑버스 후 워크인 바로 가능, 웰컴푸드·간식까지 좋음” / “4시간 트레킹 후 90분 바디로 싹 풀림”",
       "status": "🔎 구글 추천 · 늦게까지",
       "time": "60–150분",
-      "tip": "💵 가격: 공개 메뉴 확인 못 함 · 사파 시세 시간당 약 40–60만동 예상 · 샴푸(머리감기+두피 마사지+드라이) 15만동 · 📍 50A Thạch Sơn (강남식당 근처) · 🕘 09:00–01:00 · 차·간식 제공",
+      "tip": "💵 가격: 🎟 클룩이 더 쌈 — 클룩 상품 $19.10~(약 2.6만원, 후기 기준 약초 목욕 15분 + 바디 마사지 60분 개인실 · 1천 명 넘게 예약 · 클룩 평점 4.7) · 현장 시세 시간당 약 40–60만동 · 샴푸(머리감기+두피 마사지+드라이) 15만동 · 📍 50A Thạch Sơn (강남식당 근처) · 🕘 09:00–01:00 · 차·간식 제공",
       "check": "가격표 · 3명 같은 시간",
       "query": "Relax Massage & Spa Sapa 50A Thạch Sơn",
       "city": "sapa",
       "cat": "spa",
       "lat": 22.3358445,
-      "lng": 103.8448703
+      "lng": 103.8448703,
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_AYfF7gpnoEgfcuVxNx3deMtSeUOk3CEc3VpOTzFMaCV9nbhltJj-74S2NewbM7QMg8QdIonxLzkAwHZMYiB-M1IRtIGOJ_EjXvnzstOnUNC_tdzIwrkvniAW1f8qfwHBisMCTHjFlIrU=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_AYfF7gpnoEgfcuVxNx3deMtSeUOk3CEc3VpOTzFMaCV9nbhltJj-74S2NewbM7QMg8QdIonxLzkAwHZMYiB-M1IRtIGOJ_EjXvnzstOnUNC_tdzIwrkvniAW1f8qfwHBisMCTHjFlIrU=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QypSVZ1LNEzMjtX9gwO_RtQwUFVb5d3LcNwWowJC551K6oDbAEcECID5gtYDo_XHQHkdME3_FaXCL3jLyybsZ8nNS_Y9u22doCdAYropPZw-PU3lcuYgjUXEedqnK8aEqjY861dBNLRvi5=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMTU7Xhx9viqKFnGCjAKUeh_VNLvEERo0YUyHp7Kk69f6xBfq5mfU80xS7hDaFTRsxrvabchOiK-cwNAWm7Id5PNV3EP-DbRR98gixszO0l1mAwhIXEbMYUKCWqofyJlr5kQZ_8cn7sccZ=w1200-h900-k-no"
+      ]
     },
     {
       "name": "🔎 Halosa Massage & Spa (할로사)",
@@ -6712,8 +6724,14 @@
       "query": "Halosa Massage Spa 63C Fansipan Sa Pa",
       "city": "sapa",
       "cat": "spa",
-      "lat": 22.33256,
-      "lng": 103.83955
+      "lat": 22.3324344,
+      "lng": 103.8394507,
+      "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLdNgD38cWHg4ITgrx_ISn1-T4bI501ZbW1wb17ZuV1nSyBHZOcO4Q89O_qCfo8eCS2jfqL0gOJcaYkjRJTS5WoiSDeNJX1A1xgmYqbPDyKsbIc4rbFxFoOACt-kLyz6AjQYisR49A=w1200-h900-k-no",
+      "gallery": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdNgD38cWHg4ITgrx_ISn1-T4bI501ZbW1wb17ZuV1nSyBHZOcO4Q89O_qCfo8eCS2jfqL0gOJcaYkjRJTS5WoiSDeNJX1A1xgmYqbPDyKsbIc4rbFxFoOACt-kLyz6AjQYisR49A=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIpjl8cjo959aP3AJk595jThXZ12jnRLujjZA_W-uVomPZtYktNhYL9lZEAndDfiBw3s0taVZp11LxYL9WkvJ2Qw__oVKQkInZZ1uQuYr3rdExD--hiK6Y_bIKJffD4CBPfuHmeg=w1200-h900-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6vasJ1gVxwQFm8XO_wE9hPDNozrlCkh0uwW6unxyynC-XD5VX1ZmUJtmn_RrMyZE7jm2ruG9cJQZYxdrJvCA7sUOENX4Jkx8PlDWNEAiMyh4L2COV73qZE5GpDg7_L6A6S3aWZRLL0ZOa=w1200-h900-k-no"
+      ]
     },
     {
       "name": "동쑤언 시장 (Chợ Đồng Xuân)",
@@ -9336,7 +9354,7 @@
               [
                 "21:00",
                 "Relax 발 마사지 (선택) 🦶",
-                "🔎 Relax Massage & Spa · 01시까지",
+                "🔎 Relax Massage & Spa · 01시까지 · 🎟 클룩 $19~",
                 "🔎 Relax Massage"
               ]
             ]
