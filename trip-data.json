@@ -5248,7 +5248,7 @@
                   {
                     "id": "chotinh",
                     "label": "쩌띤꽌",
-                    "meta": "🔎 구글 추천 · 숯불 토종닭 · 구글 4.8",
+                    "meta": "🔎 구글 추천 · 연어·철갑상어 핫팟 · 구글 4.8",
                     "rec": true,
                     "peek": "Chợ Tình Quán (쩌띤꽌)"
                   },
@@ -7529,12 +7529,16 @@
             "name": "코쿤 비건 립밤",
             "price": "23,000동 (약 1,000원 초반)",
             "where": "하사키",
-            "note": "한시장 약국은 40,000동",
+            "note": "한시장 약국은 40,000동 · jj_jj.world 릴스(7/19): 베트남 MZ 립밤 1등 · 비건이라 순하고, 건조하고 튼 입술에도 촉촉함이 오래감 · 여러 개 쟁여 오기 추천",
             "src": {
               "id": "twyreecrew",
               "url": "https://www.instagram.com/p/DeWlbrePK7V/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShLDVNq29weQYcq-6z5TlU2j-DYzF4_c4PWI9m8Lruw"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShLDVNq29weQYcq-6z5TlU2j-DYzF4_c4PWI9m8Lruw",
+            "src2": {
+              "id": "jj_jj.world",
+              "url": "https://www.instagram.com/reel/Da_ggH6z4wK/"
+            }
           },
           {
             "name": "엘립스 헤어오일 (6개)",
