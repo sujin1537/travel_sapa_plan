@@ -9487,7 +9487,7 @@
       "st": "클룩 임의 취소됨 (10/20) ⚠ 재예약 필요",
       "d": "11/14 21:45 하노이역 출발 · 4인용 객실(열차표 4장) + 사파 센터행 셔틀 3장 · 2층 2B 게이트 VIP 라운지 · 21:00까지 도착",
       "todo": "클룩 YMH387603: 보상안 먼저 달라고 했는데 10/20 일방 취소 → USD 188.13은 자동 환불됨 · 차액·추가 보상 서면 요구 중 · 새로 NOL 하노이고스트 차파 익스프레스 DELUXE 4자리(259,200원) + 차파 셔틀 3명(23,100원) · 사기 전에 하노이고스트 카톡에 '4자리 = 우리 셋 단독 객실'인지 확인 · NOL은 사면 환불 사실상 불가 · 새 결제 내역은 클룩 차액 보상 청구용으로 보관",
-      "go": "transport",
+      "go": "train",
       "done": false
     },
     {
@@ -11382,8 +11382,8 @@
           "when": "지금 바로",
           "who": "셋이 결정 → 한 명 결제",
           "d": "NOL 하노이고스트 차파 DELUXE 4자리 259,200원 + 차파 셔틀 3명 23,100원 · 삼성카드·카카오페이 16만↑ 6천원 할인(10월) · 사기 전에 하노이고스트 카톡(pf.kakao.com/_KRKgb)에 단독 객실 확인 · 결제 내역은 클룩 차액 보상 청구용으로 보관 (클룩 188.13달러는 10/20 자동 환불됨)",
-          "go": "transport",
-          "msg": "ghost"
+          "go": "train",
+          "msg": "klook_pre"
         },
         {
           "id": "passport",
@@ -12262,6 +12262,71 @@
         ]
       ],
       "src": "NOL 상품 페이지"
+    },
+    "klook_pre": {
+      "title": "클룩에 재예약 사전 승인 요청",
+      "who": "수진",
+      "via": "클룩 앱 → 예약 YMH387603 → 고객센터 채팅",
+      "subject": "",
+      "body": "안녕하세요. 예약번호 YMH387603 관련입니다.\n안내해주신 대로 재예약 전에 사전 승인을 요청드립니다.\n\n1. 동급 매진 증빙\n- 11/14 차파 익스프레스·빅사파 Deluxe 4인실: 다른 판매처(하노이고스트, 와그)에서 매진 확인 → 캡처 첨부합니다.\n\n2. 재예약 예정 상품\n- 톤킨 헤리티지 익스프레스 Indigo 4인실 칸 통째 (11/14 SP15 21:45, 원 예약과 같은 열차·같은 4인실)\n- 링크: https://tonkinheritage.com/booking/add\n- 원 예약에 포함돼 있던 라오까이역 → 사파 셔틀 3명도 따로 예약해야 합니다.\n\n3. 요청\n- 원 결제금액 USD 188.13 대비 새 기차표 + 셔틀 비용 차액 100% 보상을 사전 승인해 주세요.\n- 승인 내용(보상 금액 기준·방식·지급 시기)을 서면으로 회신 부탁드립니다.\n- 이와 별도로, 일주일간 확정 없이 대기시키다 일방 취소한 데 대한 보상(쿠폰·크레딧 등)도 함께 검토해 주세요.\n\n승인 회신을 받는 즉시 결제하고 영수증을 보내드리겠습니다. 출발까지 3주가 남지 않아 가격 변동·매진 위험이 있으니 오늘 중 회신 부탁드립니다.",
+      "contacts": [
+        [
+          "💬 클룩",
+          "앱 → 예약 내역 → 고객센터",
+          "https://www.klook.com/ko/"
+        ]
+      ],
+      "src": "클룩 10/20 답변 기준"
+    },
+    "baolau_ask": {
+      "title": "Baolau에 결제 전 좌석 확인",
+      "who": "수진",
+      "via": "이메일 (영어)",
+      "subject": "Availability check before booking - Chapa Express SP15, 14 Nov 2026, Hanoi to Lao Cai, 4 berths",
+      "body": "Hello,\n\nBefore paying, could you please confirm current availability for:\n\n- Date: Saturday, 14 November 2026\n- Train: SP15, 21:45 Hanoi -> Lao Cai\n- Operator / class: Chapa Express, Deluxe 4-Berth\n- 4 berths in the SAME cabin (3 adults, we want the whole cabin)\n\n1. Are 4 berths in one cabin actually available right now?\n2. If we book today, how quickly can you confirm and send the e-tickets?\n3. If Chapa Express is not available, please do NOT switch us to another company. We would rather cancel with a full refund.\n4. As a backup, could you also check Tonkin Heritage Express Indigo 4-Berth (whole cabin) on the same train?\n\nThank you!\n[이름]",
+      "contacts": [
+        [
+          "✉️ 이메일",
+          "contact@baolau.com",
+          "mailto:contact@baolau.com"
+        ],
+        [
+          "🔎 Baolau",
+          "11/14 검색 결과",
+          "https://www.baolau.com/results/?transports=&lang=en&origin=Hanoi&origin_town=HANOI&origin_type=town&destination=Lao%20Cai&destination_town=LAO%20CAI&destination_type=town&departure_date=14/11/2026&roundtrip=no&passengers_count=4"
+        ]
+      ],
+      "src": "Baolau 사이트"
+    },
+    "tonkin_train": {
+      "title": "톤킨 헤리티지에 직접 문의",
+      "who": "수진",
+      "via": "WhatsApp (영어)",
+      "subject": "",
+      "body": "Hello! I'd like to book the Tonkin Heritage Express Indigo 4-berth cabin (whole cabin, 4 berths for 3 adults), Hanoi -> Lao Cai on Saturday 14 November 2026, SP15 21:45.\n\n1. Is it available now?\n2. What is the total price for 4 berths?\n3. Can you confirm right after payment?\n4. Do you offer a shuttle from Lao Cai station to Sapa town for 3 people?\n\nThank you!",
+      "contacts": [
+        [
+          "💬 WhatsApp",
+          "+84 856 671 990",
+          "https://wa.me/84856671990"
+        ],
+        [
+          "💬 WhatsApp",
+          "+84 912 200 683",
+          "https://wa.me/84912200683"
+        ],
+        [
+          "✉️ 이메일",
+          "booking@tonkinheritage.com",
+          "mailto:booking@tonkinheritage.com"
+        ],
+        [
+          "🛒 공식 예약",
+          "tonkinheritage.com",
+          "https://tonkinheritage.com/booking/add"
+        ]
+      ],
+      "src": "톤킨 공식 사이트"
     }
   }
 }
