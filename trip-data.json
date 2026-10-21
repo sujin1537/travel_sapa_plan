@@ -11483,10 +11483,10 @@
         {
           "id": "dinner",
           "ic": "🍽",
-          "t": "D5 저녁 자리 예약",
-          "when": "D5 버전 정한 뒤",
+          "t": "꽌안응온 저녁 예약 (D5 · 11/17 화 18:30 · 3명)",
+          "when": "D5 버전 정한 뒤 · 출발 1주 전쯤(11/10경)",
           "who": "",
-          "d": "맥주거리·롯데마트 버전 → 꽌안응온 18:30 3명 / 루프탑 버전 → Touché 창가 3명 / 다른 버전은 필요 없음",
+          "d": "📍 18 Phan Bội Châu (Cửa Nam점 · 미쉐린 가이드 등재) · 매일 06:30–22:00 · 💬 예약: 온라인 예약 없음 → 식당에 직접 연락 ① WhatsApp/Zalo로 아래 문구 보내기(+84 903 246 963) ② 답 없으면 전화 · 영어 OK · 이름·인원·날짜·시간만 · 예약 확인 답장 캡처 · 맥주거리·롯데마트 버전일 때만 (다른 버전이면 예약 X) · 화요일 저녁이라 워크인도 되지만 줄 서기 싫으면 예약",
           "go": "food",
           "msg": "quanangon"
         },
@@ -12255,17 +12255,27 @@
     "quanangon": {
       "title": "꽌안응온 저녁 예약",
       "who": "",
-      "via": "전화·WhatsApp·구글 지도 예약 · 영어 (맥주거리·롯데마트 버전일 때만)",
+      "via": "WhatsApp·Zalo 메시지 → 답 없으면 전화 · 영어 · 온라인 예약 없음 (미쉐린 가이드: 예약은 식당 직접)",
       "subject": "",
-      "body": "Hello! I would like to reserve a table for 3 people on Tuesday, 17 November 2026 at 6:30 PM, under the name [이름]. Thank you!",
+      "body": "Hello! I would like to reserve a table at Quán Ăn Ngon (18 Phan Bội Châu).\n\n- Date: Tuesday, 17 November 2026\n- Time: 6:30 PM\n- People: 3 adults\n- Name: [이름]\n\nCould you please confirm the reservation? How long will you hold the table if we are a few minutes late? Thank you!",
       "contacts": [
+        [
+          "💬 WhatsApp",
+          "+84 903 246 963",
+          "https://wa.me/84903246963?text=Hello%21%20I%20would%20like%20to%20reserve%20a%20table%20at%20Qu%C3%A1n%20%C4%82n%20Ngon%20%2818%20Phan%20B%E1%BB%99i%20Ch%C3%A2u%29.%0A%0A-%20Date%3A%20Tuesday%2C%2017%20November%202026%0A-%20Time%3A%206%3A30%20PM%0A-%20People%3A%203%20adults%0A-%20Name%3A%20%5B%EC%9D%B4%EB%A6%84%5D%0A%0ACould%20you%20please%20confirm%20the%20reservation%3F%20How%20long%20will%20you%20hold%20the%20table%20if%20we%20are%20a%20few%20minutes%20late%3F%20Thank%20you%21"
+        ],
+        [
+          "💬 Zalo",
+          "zalo.me/0903246963",
+          "https://zalo.me/0903246963"
+        ],
         [
           "📞 전화 (18 Phan Bội Châu점)",
           "+84 903 246 963",
           "tel:+84903246963"
         ]
       ],
-      "src": "구글 지도"
+      "src": "미쉐린 가이드 꽌안응온(Cửa Nam) 페이지 · 구글 지도"
     },
     "ghost": {
       "title": "하노이고스트에 예약 전 문의",
