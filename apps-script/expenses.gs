@@ -4,7 +4,7 @@
  * - 영수증: 내 드라이브 '하노이사파 영수증' 폴더에 저장 (링크 있는 사람 보기)
  * 배포: 배포 > 새 배포 > 유형 '웹 앱' > 실행: 나 / 액세스: 모든 사용자
  */
-const H = ['id','ts','date','payer','title','cat','amount','cur','krw','split','memo','receipt','receiptView','by'];
+const H = ['id','ts','date','payer','title','cat','amount','cur','krw','split','memo','receipt','receiptView','by','hist'];
 const PROP = PropertiesService.getScriptProperties();
 
 function sheet_() {
@@ -14,6 +14,8 @@ function sheet_() {
   if (!ss) { ss = SpreadsheetApp.create('하노이사파 정산'); PROP.setProperty('SSID', ss.getId()); }
   let sh = ss.getSheetByName('expenses');
   if (!sh) { sh = ss.getSheets()[0]; sh.setName('expenses'); sh.clear(); sh.appendRow(H); sh.setFrozenRows(1); }
+  const hd = sh.getRange(1, 1, 1, Math.max(sh.getLastColumn(), 1)).getValues()[0];
+  if (hd.length < H.length || H.some((k, i) => hd[i] !== k)) sh.getRange(1, 1, 1, H.length).setValues([H]);
   return sh;
 }
 
