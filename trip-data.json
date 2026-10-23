@@ -3428,7 +3428,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-23 08:58 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-24 08:57 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -3451,7 +3451,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 208700,
+                "total": 201506,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -3477,12 +3477,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 189300,
+                "total": 183900,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 197908,
+                "total": 197691,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3521,12 +3521,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 345200,
+                "total": 344900,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 360200,
+                "total": 364900,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3800,6 +3800,25 @@
           "B": {
             "s": 345200,
             "g": 360200
+          }
+        }
+      },
+      {
+        "date": "2026-10-24",
+        "A": 385406,
+        "B": 344900,
+        "detail": {
+          "A_out": {
+            "s": 201506,
+            "g": 209100
+          },
+          "A_ret": {
+            "s": 183900,
+            "g": 197691
+          },
+          "B": {
+            "s": 344900,
+            "g": 364900
           }
         }
       }
