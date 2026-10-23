@@ -11270,7 +11270,11 @@
             "name": "Cafe Giảng 에그커피",
             "when": "D5",
             "why": "에그커피 원조 · 하노이 오면 무조건",
-            "note": "📸 jodaerri 릴스(10/22): 에그커피(HOT 추천)·코코넛커피 각 45,000동(약 2,300원)"
+            "note": "📸 jodaerri 릴스(10/22): 에그커피(HOT 추천)·코코넛커피 각 45,000동(약 2,300원)",
+            "src": {
+              "label": "📸 jodaerri 릴스 · 하노이 카페 3곳",
+              "url": "https://www.instagram.com/reel/Deyg6NozT8E/"
+            }
           },
           {
             "peek": "Cộng Cà Phê",
@@ -11284,7 +11288,11 @@
             "when": "D2·D5 · 성당 근처",
             "why": "원두 등급별 스페셜티 · 식물 가득·음악 없는 조용한 2층 · 사워도우·디저트도",
             "note": "📸 jodaerri 릴스(10/22) · 📍 2D Quang Trung 2층 (호수 걸어서 4분·성 요셉 성당 3분) · 06:30–22:30 · 스페셜티 I 125,000동(약 6,400원) · 엑설런트 II 250,000동 · 노트북 작업보다 커피 맛보는 곳",
-            "new": true
+            "new": true,
+            "src": {
+              "label": "📸 jodaerri 릴스 · 하노이 카페 3곳",
+              "url": "https://www.instagram.com/reel/Deyg6NozT8E/"
+            }
           },
           {
             "peek": "Caramen Kim",
@@ -11303,7 +11311,11 @@
             "name": "호아베오 망고빙수",
             "when": "D5 (길거리 먹방 버전)",
             "why": "생망고 통째로 올린 빙수",
-            "note": "📸 jodaerri 릴스(10/22): 망고빙수 70,000동(약 3,500원) · 17 Tố Tịch"
+            "note": "📸 jodaerri 릴스(10/22): 망고빙수 70,000동(약 3,500원) · 17 Tố Tịch",
+            "src": {
+              "label": "📸 jodaerri 릴스 · 하노이 카페 3곳",
+              "url": "https://www.instagram.com/reel/Deyg6NozT8E/"
+            }
           }
         ]
       },
