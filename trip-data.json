@@ -3428,7 +3428,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-27 08:56 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-28 08:56 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -3451,12 +3451,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 184424,
+                "total": 219500,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 194100,
+                "total": 228900,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3477,12 +3477,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 177200,
+                "total": 177400,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 197899,
+                "total": 198261,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3521,12 +3521,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 370800,
+                "total": 436500,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/261118/?adultsv2=1&cabinclass=economy&rtn=1&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 359853,
+                "total": 394751,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3857,6 +3857,25 @@
           "B": {
             "s": 370800,
             "g": 359853
+          }
+        }
+      },
+      {
+        "date": "2026-10-28",
+        "A": 396900,
+        "B": 394751,
+        "detail": {
+          "A_out": {
+            "s": 219500,
+            "g": 228900
+          },
+          "A_ret": {
+            "s": 177400,
+            "g": 198261
+          },
+          "B": {
+            "s": 436500,
+            "g": 394751
           }
         }
       }
