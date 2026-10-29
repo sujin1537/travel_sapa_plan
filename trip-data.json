@@ -3428,7 +3428,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-29 08:53 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-10-29 13:50 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -3451,12 +3451,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 303900,
+                "total": 610300,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 314100,
+                "total": 654100,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3477,12 +3477,12 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 188900,
+                "total": 181000,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 200416,
+                "total": 199511,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3526,7 +3526,7 @@
               },
               "google": {
                 "label": "구글 항공편",
-                "total": 500705,
+                "total": 839862,
                 "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-13%20through%202026-11-18%201%20adult&hl=ko&curr=KRW&gl=KR"
               }
             },
@@ -3881,20 +3881,20 @@
       },
       {
         "date": "2026-10-29",
-        "A": 492800,
-        "B": 500705,
+        "A": 791300,
+        "B": 839862,
         "detail": {
           "A_out": {
-            "s": 303900,
-            "g": 314100
+            "s": 610300,
+            "g": 654100
           },
           "A_ret": {
-            "s": 188900,
-            "g": 200416
+            "s": 181000,
+            "g": 199511
           },
           "B": {
             "s": 518900,
-            "g": 500705
+            "g": 839862
           }
         }
       }
