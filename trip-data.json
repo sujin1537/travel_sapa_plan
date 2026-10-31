@@ -3938,23 +3938,17 @@
       }
     ],
     "note": "모두 성인 1명 · 세금 포함 · 판매처 중 최저가. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘. · WON트래블 앱(우리카드): 10월 우다페 항공 할인쿠폰(10/31까지, 앱에서 응모·예약 시만) — 쿠폰 적용 시 스카이스캐너보다 쌀 수 있으니 앱 결제 화면 가격과 비교",
-    "alert": {
-      "title": "7C2201(11/13) 검색 안 됨",
-      "text": "10/30 아침부터 구글·스카이스캐너 둘 다 11/13 7C2201이 안 보여요(11/12·11/14 같은 편은 보임). 매진됐을 수 있으니 제주항공 앱에서 직접 확인, 없으면 아래 대안으로!",
-      "url": "https://www.jejuair.net/ko/main/base/index.do",
-      "label": "제주항공 공식에서 확인"
-    },
-    "altsAt": "10/30 08:44 조회",
+    "altsAt": "10/31 09:20 조회 · 우리 편 앞뒤 ±3시간 직항",
     "alts": [
       {
         "title": "선푸꾸옥 + 파라타",
-        "memo": "가장 저렴 · 둘 다 신생 항공사라 위탁수하물 포함 여부 확인",
+        "memo": "가장 저렴 · 신생 항공사라 위탁수하물 포함 여부 확인",
         "legs": [
           {
             "dir": "가는 편",
             "when": "11/14(토) 00:15 → 03:35",
-            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 도착",
-            "p": 209953,
+            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
+            "p": 208977,
             "src": "구글",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
@@ -3962,7 +3956,7 @@
             "dir": "오는 편",
             "when": "11/17(화) 23:40 → 05:50",
             "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
-            "p": 196100,
+            "p": 194000,
             "src": "스카이",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261117/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
@@ -3970,21 +3964,21 @@
       },
       {
         "title": "선푸꾸옥 + 제주 7C2202",
-        "memo": "귀국 시간이 수진·지영과 거의 같음 (5분 차이)",
+        "memo": "귀국은 수진·지영과 거의 같은 시간(5분 차이)",
         "legs": [
           {
             "dir": "가는 편",
             "when": "11/14(토) 00:15 → 03:35",
-            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 도착",
-            "p": 209953,
+            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
+            "p": 208977,
             "src": "구글",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
           {
             "dir": "오는 편",
             "when": "11/18(수) 01:40 → 08:05",
-            "al": "제주항공 7C2202 · 직항",
-            "p": 198000,
+            "al": "제주항공 7C2202 · 직항 · 수진·지영과 5분 차이",
+            "p": 195903,
             "src": "스카이",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
@@ -3997,8 +3991,8 @@
           {
             "dir": "가는 편",
             "when": "11/14(토) 00:15 → 03:35",
-            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 도착",
-            "p": 209953,
+            "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
+            "p": 208977,
             "src": "구글",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
@@ -4006,31 +4000,75 @@
             "dir": "오는 편",
             "when": "11/18(수) 01:45 → 07:55",
             "al": "비엣젯 VJ960 · 직항 · 같은 편",
-            "p": 226304,
-            "src": "구글",
-            "url": "https://www.google.com/travel/flights?q=Flights%20from%20HAN%20to%20ICN%20on%202026-11-18%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
+            "p": 207697,
+            "src": "스카이",
+            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
       },
       {
-        "title": "파라타 왕복 (편도 2장)",
-        "memo": "같은 항공사 직항 · 하노이에 우리보다 먼저 도착",
+        "title": "파라타 + 제주 7C2202",
+        "memo": "같은 금요일 저녁 출발 · 하노이에 우리보다 2시간 먼저 도착",
         "legs": [
           {
             "dir": "가는 편",
             "when": "11/13(금) 19:15 → 22:20",
-            "al": "파라타항공 · 직항 · 우리보다 2시간 먼저",
-            "p": 269700,
+            "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
+            "p": 329100,
             "src": "스카이",
             "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           },
           {
             "dir": "오는 편",
-            "when": "11/17(화) 23:40 → 05:50",
-            "al": "파라타항공 · 직항",
-            "p": 196100,
+            "when": "11/18(수) 01:40 → 08:05",
+            "al": "제주항공 7C2202 · 직항 · 수진·지영과 5분 차이",
+            "p": 195903,
             "src": "스카이",
-            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261117/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          }
+        ]
+      },
+      {
+        "title": "파라타 + VJ960",
+        "memo": "금요일 저녁 출발 + 오는 편은 같은 비행기",
+        "legs": [
+          {
+            "dir": "가는 편",
+            "when": "11/13(금) 19:15 → 22:20",
+            "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
+            "p": 329100,
+            "src": "스카이",
+            "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          },
+          {
+            "dir": "오는 편",
+            "when": "11/18(수) 01:45 → 07:55",
+            "al": "비엣젯 VJ960 · 직항 · 같은 편",
+            "p": 207697,
+            "src": "스카이",
+            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          }
+        ]
+      },
+      {
+        "title": "베트남항공 + VJ960",
+        "memo": "국적기급 · 수하물 포함이지만 비쌈",
+        "legs": [
+          {
+            "dir": "가는 편",
+            "when": "11/13(금) 18:05 → 20:55",
+            "al": "베트남항공 · 직항 · 3시간 먼저 출발",
+            "p": 539900,
+            "src": "스카이",
+            "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          },
+          {
+            "dir": "오는 편",
+            "when": "11/18(수) 01:45 → 07:55",
+            "al": "비엣젯 VJ960 · 직항 · 같은 편",
+            "p": 207697,
+            "src": "스카이",
+            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
       }
