@@ -3938,26 +3938,26 @@
       }
     ],
     "note": "모두 성인 1명 · 세금 포함 · 판매처 중 최저가. 저비용항공 기본 운임은 위탁수하물 미포함일 수 있어 결제 전 확인. 네이버 항공권은 자동 조회가 막혀 있어 버튼으로 직접 비교해줘. · WON트래블 앱(우리카드): 10월 우다페 항공 할인쿠폰(10/31까지, 앱에서 응모·예약 시만) — 쿠폰 적용 시 스카이스캐너보다 쌀 수 있으니 앱 결제 화면 가격과 비교",
-    "altsAt": "10/31 21:11 조회 · 우리 편 앞뒤 ±3시간 직항",
+    "altsAt": "10/31 21:26 판매처 예약 페이지 가격 · 우리 편 앞뒤 ±3시간 직항",
     "alts": [
       {
         "title": "선푸꾸옥 + 파라타",
-        "memo": "가장 저렴 · 선푸꾸옥은 구글 표시가(20만원대)는 실제로 안 잡힘, 아고다 결제화면 기준(위탁 23kg 포함)",
+        "memo": "가장 저렴 · 판매처 결제 페이지 기준 가격(선푸꾸옥은 아고다, 위탁 23kg 포함)",
         "legs": [
           {
             "dir": "가는 편",
             "when": "11/14(토) 00:15 → 03:35",
             "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
             "p": 328161,
-            "src": "아고다 최종",
+            "src": "아고다",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
           {
             "dir": "오는 편",
             "when": "11/17(화) 23:40 → 05:50",
             "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
-            "p": 194200,
-            "src": "스카이",
+            "p": 195600,
+            "src": "와이페이모어",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261117/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
@@ -3971,37 +3971,15 @@
             "when": "11/14(토) 00:15 → 03:35",
             "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
             "p": 328161,
-            "src": "아고다 최종",
+            "src": "아고다",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
           {
             "dir": "오는 편",
             "when": "11/18(수) 01:40 → 08:05",
             "al": "제주항공 7C2202 · 직항 · 수진·지영과 5분 차이",
-            "p": 197500,
-            "src": "스카이",
-            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
-          }
-        ]
-      },
-      {
-        "title": "파라타 + 제주 7C2202",
-        "memo": "같은 금요일 저녁 출발 · 하노이에 우리보다 2시간 먼저 도착",
-        "legs": [
-          {
-            "dir": "가는 편",
-            "when": "11/13(금) 19:15 → 22:20",
-            "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
-            "p": 329100,
-            "src": "스카이",
-            "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
-          },
-          {
-            "dir": "오는 편",
-            "when": "11/18(수) 01:40 → 08:05",
-            "al": "제주항공 7C2202 · 직항 · 수진·지영과 5분 차이",
-            "p": 197500,
-            "src": "스카이",
+            "p": 199929,
+            "src": "제주항공 공식",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
@@ -4015,15 +3993,37 @@
             "when": "11/14(토) 00:15 → 03:35",
             "al": "선푸꾸옥항공 · 직항 · 우리보다 3시간 늦게 출발",
             "p": 328161,
-            "src": "아고다 최종",
+            "src": "아고다",
             "url": "https://www.google.com/travel/flights?q=Flights%20from%20ICN%20to%20HAN%20on%202026-11-14%20one%20way%201%20adult&hl=ko&curr=KRW&gl=KR"
           },
           {
             "dir": "오는 편",
             "when": "11/18(수) 01:45 → 07:55",
             "al": "비엣젯 VJ960 · 직항 · 같은 편",
-            "p": 207697,
-            "src": "스카이",
+            "p": 209325,
+            "src": "아고다",
+            "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          }
+        ]
+      },
+      {
+        "title": "파라타 + 제주 7C2202",
+        "memo": "같은 금요일 저녁 출발 · 하노이에 우리보다 2시간 먼저 도착",
+        "legs": [
+          {
+            "dir": "가는 편",
+            "when": "11/13(금) 19:15 → 22:20",
+            "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
+            "p": 341700,
+            "src": "하나투어",
+            "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
+          },
+          {
+            "dir": "오는 편",
+            "when": "11/18(수) 01:40 → 08:05",
+            "al": "제주항공 7C2202 · 직항 · 수진·지영과 5분 차이",
+            "p": 199929,
+            "src": "제주항공 공식",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
@@ -4036,16 +4036,16 @@
             "dir": "가는 편",
             "when": "11/13(금) 19:15 → 22:20",
             "al": "파라타항공 · 직항 · 우리보다 2시간 먼저 출발",
-            "p": 329100,
-            "src": "스카이",
+            "p": 341700,
+            "src": "하나투어",
             "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           },
           {
             "dir": "오는 편",
             "when": "11/18(수) 01:45 → 07:55",
             "al": "비엣젯 VJ960 · 직항 · 같은 편",
-            "p": 207697,
-            "src": "스카이",
+            "p": 209325,
+            "src": "아고다",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
@@ -4066,8 +4066,8 @@
             "dir": "오는 편",
             "when": "11/18(수) 01:45 → 07:55",
             "al": "비엣젯 VJ960 · 직항 · 같은 편",
-            "p": 207697,
-            "src": "스카이",
+            "p": 209325,
+            "src": "아고다",
             "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
           }
         ]
