@@ -3428,7 +3428,7 @@
   },
   "flightWatch": {
     "pax": 1,
-    "checkedAt": "2026-10-31 20:57 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
+    "checkedAt": "2026-11-01 08:53 (KST) 구글 항공편·스카이스캐너 · 성인 1명",
     "options": [
       {
         "key": "A",
@@ -3451,7 +3451,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 623800,
+                "total": 638500,
                 "url": "https://www.skyscanner.co.kr/transport/flights/icn/han/261113/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -3477,7 +3477,7 @@
             "sources": {
               "skyscanner": {
                 "label": "스카이스캐너",
-                "total": 207697,
+                "total": 209325,
                 "url": "https://www.skyscanner.co.kr/transport/flights/han/icn/261118/?adultsv2=1&cabinclass=economy&rtn=0&preferdirects=true&currency=KRW&locale=ko-KR&market=KR"
               },
               "google": {
@@ -3928,6 +3928,25 @@
           },
           "A_ret": {
             "s": 207697,
+            "g": 225307
+          },
+          "B": {
+            "s": 518900,
+            "g": 840110
+          }
+        }
+      },
+      {
+        "date": "2026-11-01",
+        "A": 847825,
+        "B": 518900,
+        "detail": {
+          "A_out": {
+            "s": 638500,
+            "g": 654800
+          },
+          "A_ret": {
+            "s": 209325,
             "g": 225307
           },
           "B": {
