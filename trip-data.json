@@ -529,7 +529,7 @@
       "date": "11/17 화",
       "place": "사파 → 하노이 → 공항",
       "theme": "오전 버스 · 구시가지 걸어서 → 마사지 → 롯데몰",
-      "summary": "오후는 구시가지 걸어서(점심·에그커피·시장·저녁) → 17:45 마사지·샤워 → 그랩 ① 롯데몰 쇼핑 → 그랩 ② 공항",
+      "summary": "11/17 화 오후는 구시가지 걸어서(점심·에그커피·시장) → 17:00 세린 스파 75분·샤워 → 저녁 → 짐 찾기 → 그랩 ① 롯데마트 → 그랩 ② 공항",
       "items": [
         [
           "06:30",
@@ -552,7 +552,7 @@
         [
           "14:15",
           "세린 스파 · 짐 맡기기",
-          "수진·소영 HK 하차 → 걸어서 4분 · 17:45 마사지 예약 확인 · 지영은 14:40 하차 → 짐 맡기고 바로 합류 · 수진이 {{msg:serene|✉️ 예약 메시지 보기·복사}}",
+          "수진·소영 HK 하차 → 걸어서 4분 · 17:00 마사지(75분) 예약 확인 · 지영은 14:40 하차 → 짐 맡기고 바로 합류 · 수진이 {{msg:serene|✉️ 예약 메시지 보기·복사}}",
           "세린 스파 (Serene Spa)"
         ],
         [
@@ -570,25 +570,31 @@
         [
           "16:10",
           "동쑤언 시장",
-          "빈손 쇼핑 · 18시 마감",
+          "빈손 쇼핑 · 18시 마감 · 16:45쯤 스파로 출발(걸어서 10분)",
           "동쑤언 시장 (Chợ Đồng Xuân)"
         ],
         [
           "17:00",
-          "분보남보 박프엉 이른 저녁",
-          "시장 바로 옆 Hàng Điếu · 점심 늦었으니 가볍게",
-          "분보남보 박프엉 (Bún Bò Nam Bộ Bách Phương)"
-        ],
-        [
-          "17:45",
           "세린 스파 · 마사지·샤워",
-          "걸어서 10분 · 90분 + 샤워 · 19:15쯤 짐 찾아 롯데몰로",
+          "75분 + 샤워 · 18:30쯤 끝 · 짐은 그대로 맡겨 두고 저녁 먹으러",
           "세린 스파 (Serene Spa)"
         ],
         [
-          "19:20",
+          "18:40",
+          "분보남보 박프엉 저녁",
+          "스파에서 걸어서 10분 · Hàng Điếu · 남부식 비빔 쌀국수",
+          "분보남보 박프엉 (Bún Bò Nam Bộ Bách Phương)"
+        ],
+        [
+          "19:30",
+          "세린 스파 · 짐 찾기",
+          "걸어서 10분 · 짐 찾고 7인승 그랩 부르기 (22:30까지 영업)",
+          "세린 스파 (Serene Spa)"
+        ],
+        [
+          "20:05",
           "롯데몰 웨스트레이크 쇼핑",
-          "🚕 그랩 ① 짐 들고 7인승 25분 · B1 롯데마트(08:30–22:00) · 3층 푸드코트 간식",
+          "🚕 그랩 ① 짐 들고 7인승 25분 · B1 롯데마트(08:30–22:00) · 장보기 위주 · 3층 푸드코트",
           "롯데몰 웨스트레이크"
         ],
         [
@@ -5261,14 +5267,6 @@
           "icon": "📍"
         }
       ],
-      "분보남보 박프엉 이른 저녁": [
-        {
-          "name": "분보남보 박프엉 이른 저녁",
-          "lat": 21.0321585,
-          "lng": 105.8469112,
-          "icon": "📍"
-        }
-      ],
       "세린 스파 · 마사지·샤워": [
         {
           "name": "세린 스파 · 마사지·샤워",
@@ -5291,6 +5289,22 @@
           "lat": 21.21889,
           "lng": 105.80446,
           "icon": "✈"
+        }
+      ],
+      "분보남보 박프엉 저녁": [
+        {
+          "name": "분보남보 박프엉 이른 저녁",
+          "lat": 21.0321585,
+          "lng": 105.8469112,
+          "icon": "📍"
+        }
+      ],
+      "세린 스파 · 짐 찾기": [
+        {
+          "name": "세린 스파 · 마사지·샤워",
+          "lat": 21.0347922,
+          "lng": 105.8533442,
+          "icon": "📍"
         }
       ]
     },
@@ -12629,7 +12643,7 @@
       "who": "수진",
       "via": "카톡 문의가 제일 편함 · 68 Mã Mây 지점이라고 꼭 적기 (같은 거리에 지점 3개) · 영어",
       "subject": "Booking for 3 people on 17 Nov + luggage storage",
-      "body": "Hello! I would like to book at your 68 Ma May branch: a 90-minute massage for 3 people on Tuesday, 17 November 2026 at 5:45 PM. Name: SUJIN LEE.\n\nWe also have two requests:\n1. We will arrive in the Old Quarter by bus around 2:15 PM (one of us around 2:45 PM). Could we leave 3 pieces of luggage at the spa from 2:15 PM until we pick them up after the massage, around 7:15 PM?\n2. Can we take a shower after the massage? We will go straight to a late-night flight.\n\nPlease let me know the price and whether a deposit is needed. Thank you!",
+      "body": "Hello! I would like to book at your 68 Ma May branch: a 75-minute massage for 3 people on Tuesday, 17 November 2026 at 5:00 PM. Name: SUJIN LEE.\n\nWe also have two requests:\n1. We will arrive in the Old Quarter by bus around 2:15 PM (one of us around 2:45 PM). Could we leave 3 pieces of luggage at the spa from 2:15 PM until about 7:30 PM? We would like to have dinner nearby after the massage and then come back for our luggage.\n2. Can we take a shower after the massage? We have a late-night flight.\n\nPlease let me know the price and whether a deposit is needed. Thank you!",
       "contacts": [
         [
           "💬 카카오톡 (공식 QR 링크)",
@@ -12644,7 +12658,7 @@
         [
           "📧 이메일",
           "info@serenespa.vn",
-          "mailto:info@serenespa.vn?subject=Booking%20for%203%20people%20on%2017%20Nov%20%2B%20luggage%20storage&body=Hello%21%20I%20would%20like%20to%20book%20at%20your%2068%20Ma%20May%20branch%3A%20a%2090-minute%20massage%20for%203%20people%20on%20Tuesday%2C%2017%20November%202026%20at%205%3A45%20PM.%20Name%3A%20SUJIN%20LEE.%0A%0AWe%20also%20have%20two%20requests%3A%0A1.%20We%20will%20arrive%20in%20the%20Old%20Quarter%20by%20bus%20around%202%3A15%20PM%20%28one%20of%20us%20around%202%3A45%20PM%29.%20Could%20we%20leave%203%20pieces%20of%20luggage%20at%20the%20spa%20from%202%3A15%20PM%20until%20we%20pick%20them%20up%20after%20the%20massage%2C%20around%207%3A15%20PM%3F%0A2.%20Can%20we%20take%20a%20shower%20after%20the%20massage%3F%20We%20will%20go%20straight%20to%20a%20late-night%20flight.%0A%0APlease%20let%20me%20know%20the%20price%20and%20whether%20a%20deposit%20is%20needed.%20Thank%20you%21"
+          "mailto:info@serenespa.vn?subject=Booking%20for%203%20people%20on%2017%20Nov%20%2B%20luggage%20storage&body=Hello%21%20I%20would%20like%20to%20book%20at%20your%2068%20Ma%20May%20branch%3A%20a%2075-minute%20massage%20for%203%20people%20on%20Tuesday%2C%2017%20November%202026%20at%205%3A00%20PM.%20Name%3A%20SUJIN%20LEE.%0A%0AWe%20also%20have%20two%20requests%3A%0A1.%20We%20will%20arrive%20in%20the%20Old%20Quarter%20by%20bus%20around%202%3A15%20PM%20%28one%20of%20us%20around%202%3A45%20PM%29.%20Could%20we%20leave%203%20pieces%20of%20luggage%20at%20the%20spa%20from%202%3A15%20PM%20until%20about%207%3A30%20PM%3F%20We%20would%20like%20to%20have%20dinner%20nearby%20after%20the%20massage%20and%20then%20come%20back%20for%20our%20luggage.%0A2.%20Can%20we%20take%20a%20shower%20after%20the%20massage%3F%20We%20have%20a%20late-night%20flight.%0A%0APlease%20let%20me%20know%20the%20price%20and%20whether%20a%20deposit%20is%20needed.%20Thank%20you%21"
         ],
         [
           "📞 전화 (68 Mã Mây점)",
