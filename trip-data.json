@@ -11404,7 +11404,7 @@
             "date": "11/17 화",
             "place": "사파 → 하노이 → 공항",
             "theme": "오전 버스 · 라비엔 스파에 짐 → 구시가지 점심 → 롯데마트 장보기 → 마지막에 마사지 → 스파 공항 샌딩",
-            "summary": "라비엔 스파에 짐 맡기고 분짜따·에그커피 → 그랩으로 롯데마트 하노이 센터 장보기·이른 저녁 → 19:45 라비엔 마사지·샤워 → 21:45 스파 공항 샌딩 (그랩은 2번만)",
+            "summary": "라비엔 스파에 짐 맡기고 분짜따·에그커피 → 그랩으로 롯데마트 하노이 센터 장보기·이른 저녁 → 20:00 라비엔 마사지·샤워 → 22:00 스파 공항 샌딩 (그랩은 2번만)",
             "items": [
               [
                 "06:30",
@@ -11427,7 +11427,7 @@
               [
                 "14:15",
                 "라비엔 스파 · 짐 맡기기",
-                "17 Hàng Cân · HK 하차점에서 그랩 5분(걸어서 12분) · 마사지 예약·공항 샌딩 시간 확인 · 지영은 14:40 하차 → 라비엔으로 바로",
+                "17 Hàng Cân · HK 하차점에서 그랩 5분(걸어서 12분) · 마사지 예약·공항 샌딩 시간 확인 · 지영은 14:40 하차 → 라비엔으로 바로 · 수진이 {{msg:lavieen|✉️ 예약 메시지 보기·복사}}",
                 "LA VIE EN SPA (라비엔 스파)"
               ],
               [
@@ -11455,25 +11455,25 @@
                 ""
               ],
               [
-                "19:00",
+                "19:15",
                 "그랩으로 구시가지 복귀",
                 "🚕 그랩 ② 20–25분 · 장바구니 들고 라비엔으로",
                 ""
               ],
               [
-                "19:45",
+                "20:00",
                 "라비엔 스파 · 마사지·샤워",
-                "75–90분 + 샤워 · 22시 영업 끝 → 21:40까지 마무리 · 장 본 것까지 짐 정리",
+                "90분(늦으면 75분) + 샤워 · 22시 영업 끝 → 21:55까지 마무리 · 장 본 것까지 짐 정리",
                 ""
               ],
               [
-                "21:45",
+                "22:00",
                 "라비엔 공항 샌딩 🚐",
                 "스파 차량으로 노이바이 · 밤이라 40–50분 · 그랩 안 불러도 됨",
                 ""
               ],
               [
-                "22:45",
+                "22:50",
                 "VJ960 체크인 · 출국",
                 "비엣젯 국제선 카운터 22:45 오픈 · 00:55 마감 · 01:45 출발",
                 ""
@@ -12950,6 +12950,31 @@
         ]
       ],
       "src": "톤킨 공식 사이트"
+    },
+    "lavieen": {
+      "title": "라비엔 스파 예약 + 짐 보관 + 공항 샌딩",
+      "who": "수진",
+      "via": "WhatsApp·Zalo +84 363 399 187 → 답 없으면 전화 · 영어",
+      "subject": "",
+      "body": "Hello! I would like to book a massage at La Vie En Spa (17 Hang Can).\n\n- Date: Tuesday, 17 November 2026\n- Time: 8:00 PM\n- People: 3 adults (we would like to start at the same time)\n- Course: 90-minute body massage (if 90 minutes is too late before closing, 75 minutes is fine)\n- Name: SUJIN LEE\n\nWe also have a few requests:\n1. Luggage: We will arrive in the Old Quarter around 2:15 PM. Could we leave 3 suitcases at the spa from about 2:15 PM until after the massage?\n2. Shower: Can we take a shower after the massage?\n3. Airport drop-off: Could you take the 3 of us with 3 suitcases to Noi Bai International Airport at around 10:00 PM? Our flight is VietJet VJ960 at 1:45 AM. Is the drop-off free, or how much does it cost?\n\nPlease let me know the price of each course and whether a deposit is needed. Thank you!",
+      "contacts": [
+        [
+          "💬 WhatsApp",
+          "+84 363 399 187",
+          "https://wa.me/84363399187?text=Hello%21%20I%20would%20like%20to%20book%20a%20massage%20at%20La%20Vie%20En%20Spa%20%2817%20Hang%20Can%29.%0A%0A-%20Date%3A%20Tuesday%2C%2017%20November%202026%0A-%20Time%3A%208%3A00%20PM%0A-%20People%3A%203%20adults%20%28we%20would%20like%20to%20start%20at%20the%20same%20time%29%0A-%20Course%3A%2090-minute%20body%20massage%20%28if%2090%20minutes%20is%20too%20late%20before%20closing%2C%2075%20minutes%20is%20fine%29%0A-%20Name%3A%20SUJIN%20LEE%0A%0AWe%20also%20have%20a%20few%20requests%3A%0A1.%20Luggage%3A%20We%20will%20arrive%20in%20the%20Old%20Quarter%20around%202%3A15%20PM.%20Could%20we%20leave%203%20suitcases%20at%20the%20spa%20from%20about%202%3A15%20PM%20until%20after%20the%20massage%3F%0A2.%20Shower%3A%20Can%20we%20take%20a%20shower%20after%20the%20massage%3F%0A3.%20Airport%20drop-off%3A%20Could%20you%20take%20the%203%20of%20us%20with%203%20suitcases%20to%20Noi%20Bai%20International%20Airport%20at%20around%2010%3A00%20PM%3F%20Our%20flight%20is%20VietJet%20VJ960%20at%201%3A45%20AM.%20Is%20the%20drop-off%20free%2C%20or%20how%20much%20does%20it%20cost%3F%0A%0APlease%20let%20me%20know%20the%20price%20of%20each%20course%20and%20whether%20a%20deposit%20is%20needed.%20Thank%20you%21"
+        ],
+        [
+          "💬 Zalo",
+          "zalo.me/0363399187",
+          "https://zalo.me/0363399187"
+        ],
+        [
+          "📞 전화",
+          "+84 363 399 187",
+          "tel:+84363399187"
+        ]
+      ],
+      "src": "구글 지도 LA VIE EN SPA (17 Hàng Cân) · 와그 상품 안내"
     }
   }
 }
