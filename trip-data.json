@@ -4161,32 +4161,32 @@
     }
   },
   "cardPromos": {
-    "checkedAt": "2026-10-20 18:10 (KST) 우리카드 공식 이벤트 목록 기준 (신한·KB는 10/14 기준)",
-    "intro": "★ = 우리 일정에 바로 쓸 수 있는 혜택",
+    "checkedAt": "2026-11-07 (KST) 우리카드 공식 이벤트 목록 · 신한/KB/하나 공식 페이지·11/3 보도 기준",
+    "intro": "★ = 이번 여행(11/13–18)에 바로 쓸 수 있는 혜택 · 숙소·항공은 예약 끝나서 현지 결제·현금 위주로 정리",
     "combo": [
       {
-        "k": "🚆 기차 재예약",
-        "v": "우리카드 해외결제 → 해외 캐시백 챌린지 응모(10/31까지) · 분할납부 가능"
+        "k": "💵 현금(동)",
+        "v": "트래블카드(트래블로그·쏠트래블·위비트래블)에 동 충전 → VPBank ATM에서 출금하면 수수료 0 · 화면에서 Without conversion"
       },
       {
-        "k": "✈ 항공권",
-        "v": "우리 WON트래블 앱 예약 → 우다페 쿠폰 (10/31까지, 응모)"
+        "k": "🧾 공동 경비",
+        "v": "위비트래블 11월 캐시백(응모) 있으면 한 장에 몰아 20만/70만원 → 5천/3만원"
       },
       {
-        "k": "🏨 아고다",
-        "v": "우리·신한·KB 모두 베트남 7% (아고다 쿠폰과 중복 X)"
+        "k": "🚕 그랩",
+        "v": "우리카드 해외 택시 50%(3회·응모) + Grab 트래블패스(우리 Visa·하나 Visa·KB 마스터)"
       },
       {
-        "k": "💸 10월 결제",
-        "v": "KB Visa 해외 1.1% 포인트백 (응모)"
+        "k": "🛒 D5 롯데마트",
+        "v": "하나 Visa·트래블GO로 200만동↑ 1번 결제 → 20만동 할인 · 없으면 쏠트래블 5%"
       },
       {
-        "k": "🚕 하노이",
-        "v": "우리 택시 50% 캐시백 + Grab 패스"
+        "k": "☕ 카페",
+        "v": "스타벅스 1.3만원↑ 우리카드(메가커피 2잔) · 콩카페는 하나 Visa(하나머니)"
       },
       {
         "k": "🛋 인천 T1",
-        "v": "3사 모두 라운지 1+1"
+        "v": "우리·KB 라운지 1+1 · 쏠트래블 반기 1회"
       }
     ],
     "issuers": [
@@ -4196,6 +4196,24 @@
         "icon": "💙",
         "listUrl": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
         "events": [
+          {
+            "cat": "캐시백",
+            "title": "해외에서 위비트래블과 함께라면 최대 20만원 캐시백",
+            "benefit": "11월 해외 20만원↑ 5천원 · 70만원↑ 3만원 캐시백 · 150만원↑ 추첨 20명 20만원",
+            "period": "이용·응모 11/1–11/30",
+            "target": "위비트래블·위비트래블J 체크 중 8/1–10/31 결제 이력 없는 사람",
+            "conds": [
+              "응모 필수 · 예산 소진 시 조기 종료",
+              "해외 가맹점(온·오프라인) 일시불 기준 · ATM 출금은 실적 제외",
+              "혜택은 최고 구간 1번만 · 12월 말~1월 말 청구 반영"
+            ],
+            "fit": "위비트래블을 8~10월에 안 썼다면 바로 해당! 여행 중 현지 결제(그랩·식당·롯데마트·스파 등)를 위비트래블로 모아 20만원 넘기면 5천원. 3명 경비를 한 장에 몰면 70만원(3만원)도 가능.",
+            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
+            "star": true,
+            "deadline": "2026-11-30",
+            "apply": true,
+            "linkLabel": "우리카드 이벤트 목록 (위비트래블 검색)"
+          },
           {
             "cat": "항공",
             "title": "제주항공 결제 시 유니온페이 청구할인",
@@ -4208,7 +4226,7 @@
               "우리WON페이 외 간편결제(카카오·네이버페이 등) 제외",
               "예산 소진 시 조기 종료"
             ],
-            "fit": "제주항공 홈페이지에서 직접 예매할 때만 해당 · 우리는 홈페이지 예매 안 해서 참고만.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
             "star": false,
             "deadline": "",
@@ -4227,9 +4245,9 @@
               "세금·봉사료 뺀 객실 요금에만 할인",
               "아고다 자체 쿠폰(WEEKENDSALE 등)과 중복 불가"
             ],
-            "fit": "하노이·사파 숙소 해당. 다만 아고다 쿠폰과 중복이 안 돼서, 이미 쿠폰가가 붙은 객실이면 결제 화면에서 어느 쪽이 더 싼지 비교.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://www.agoda.com/ko-kr/wooriwontravel",
-            "star": true,
+            "star": false,
             "deadline": "",
             "apply": false,
             "linkLabel": ""
@@ -4245,30 +4263,12 @@
               "항공·액티비티는 USD 결제만, 호텔은 통화 무관",
               "온라인 선결제 호텔만"
             ],
-            "fit": "아고다가 솔드아웃인 숙소를 트립닷컴에서 찾을 때 사용.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
             "star": false,
             "deadline": "",
             "apply": false,
             "linkLabel": "우리카드 이벤트 목록 (트립닷컴 검색)"
-          },
-          {
-            "cat": "항공",
-            "title": "[우다페] WON트래블 항공·호텔 할인쿠폰",
-            "benefit": "항공 1만원 (3만원↑) · 호텔 3만원 (12만원↑)",
-            "period": "응모·사용 10/1–10/31",
-            "target": "우리 개인 신용·체크",
-            "conds": [
-              "응모 필수",
-              "WON트래블(우리카드 앱)에서 예약할 때만 사용",
-              "아고다·호텔스닷컴·트립닷컴 예약에는 사용 불가"
-            ],
-            "fit": "수진·소영 항공권을 WON트래블(우리카드 앱)에서 예약하면 쿠폰 할인 (보도엔 “항공 최대 3만원”). 숙소도 앱에서 12만원↑ 결제 시 3만원 → 사파 2박(약 48만원)에 쓰면 이득. 앱 가격은 앱에서만 보여서 아고다가와 직접 비교 필요.",
-            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
-            "star": true,
-            "deadline": "2026-10-31",
-            "apply": true,
-            "linkLabel": "우리카드 이벤트 목록"
           },
           {
             "cat": "현지",
@@ -4281,7 +4281,7 @@
               "약 4,000원($3) 이상 결제 건",
               "2027년 1월 말 결제계좌로 지급"
             ],
-            "fit": "하노이 공항↔시내·구시가 이동 그랩 3번 → 1인 최대 9천원. 3명이 돌아가며 결제하면 각자 받기!",
+            "fit": "Grab·Uber·DiDi만 (그린SM 제외) · 건당 약 4천원 넘는 거리(공항↔시내, 하노이역 이동)로 3번 → 1인 최대 9천원. 3명이 번갈아 결제하면 각자 받기 · 출발 전 응모!",
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
             "star": true,
             "deadline": "",
@@ -4299,7 +4299,7 @@
               "무료 코드 WOORIVISA 입력 후 Visa 우리카드 등록",
               "발급 후 4주간 사용"
             ],
-            "fit": "4주만 유효하니 11/10 이후 등록 추천. 택시 50% 캐시백과 같이 쓰기.",
+            "fit": "4주만 유효 → 출발 직전(11/10~12) 등록. 택시 50% 캐시백과 같이 쓰기. 하나 Visa·KB 마스터도 같은 패스가 있어서 한 사람만 받아도 충분.",
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
             "star": false,
             "deadline": "",
@@ -4317,48 +4317,12 @@
               "오프라인 결제만, 1인 1회",
               "대상: 스타벅스·루이싱·블루보틀·%아라비카"
             ],
-            "fit": "예슬 추천 하노이 스타벅스 리저브(성당 앞)에서 약 1.3만원($10) 넘게 결제하면 OK.",
+            "fit": "하노이 스타벅스(성당 앞 리저브 등)에서 한 번에 약 1.3만원($10) 넘게 결제하면 메가커피 2잔 · 콩카페는 대상 아님 · 응모 필수.",
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
             "star": false,
             "deadline": "",
             "apply": true,
             "linkLabel": "우리카드 이벤트 목록 (커피 검색)"
-          },
-          {
-            "cat": "캐시백",
-            "title": "해외 캐시백 챌린지 (목표달성)",
-            "benefit": "5–7월 평균 대비 해외 50/80/130만원 추가 이용 → 1/2/4만원",
-            "period": "10/31까지 (응모 필수)",
-            "target": "우리 개인 신용카드 (체크 제외)",
-            "conds": [
-              "응모 시 목표 금액 선택",
-              "예산 소진 시 조기 마감",
-              "마케팅 수신동의 유지"
-            ],
-            "fit": "🚆 야간열차를 Baolau·톤킨 공식에서 다시 사면 해외결제(약 42만원)라 실적에 들어감 · 5–7월 평균보다 해외 50만원 더 쓰면 1만원 → 10/31까지 응모 먼저!",
-            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
-            "star": true,
-            "deadline": "2026-10-31",
-            "apply": true,
-            "linkLabel": "우리카드 이벤트 목록"
-          },
-          {
-            "cat": "캐시백",
-            "title": "[우리 365 챌린지 10월] 60만원씩 3번 → 5%",
-            "benefit": "건당 60만원 이상 3회 결제 시 세 번째 결제 5% 캐시백 (최대 3만원)",
-            "period": "10/1–10/31 · 선착순 3만명",
-            "target": "우리 개인 신용·체크",
-            "conds": [
-              "응모 필수",
-              "국내 결제만 (해외 이용 제외)",
-              "같은 날 같은 가맹점은 1회만 인정"
-            ],
-            "fit": "60만원 이상 결제를 3번 해야 해서 기차표(약 42만원) 하나로는 안 됨 · 참고만.",
-            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": true,
-            "linkLabel": "우리카드 이벤트 목록"
           },
           {
             "cat": "공항",
@@ -4423,40 +4387,42 @@
               "전용 페이지 경유",
               "상세 조건은 이벤트 페이지 확인"
             ],
-            "fit": "숙소는 이미 예약 완료라 참고만."
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고."
           },
           {
             "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
-            "star": false,
-            "deadline": "",
-            "apply": false,
-            "linkLabel": "우리카드 이벤트 목록 (제목 검색)",
-            "cat": "항공",
-            "title": "마이리얼트립 × 우리카드 특별혜택",
-            "benefit": "해외항공권 최대 15% 즉시할인 · 100만원↑ 6–12개월 무이자 · 1회성 특별한도",
-            "period": "10/1–10/31",
-            "target": "우리 개인 신용카드 (체크·법인 제외)",
-            "conds": [
-              "마이리얼트립에서 결제 시",
-              "프로모션별 상세 조건 확인"
-            ],
-            "fit": "소영 항공권을 마이리얼트립에서 사면 15% 할인가가 붙는지 비교해 볼 만함."
-          },
-          {
-            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
-            "star": false,
+            "star": true,
             "deadline": "",
             "apply": false,
             "linkLabel": "우리카드 이벤트 목록 (제목 검색)",
             "cat": "현지",
             "title": "위비트래블 해외 ATM 출금 수수료 무료",
-            "benefit": "해외 ATM 현지화폐 출금 수수료 면제",
-            "period": "~12/31",
+            "benefit": "해외 마스터카드 ATM 출금 수수료(1%+건당 $3) 면제",
+            "period": "~2026/12/31",
             "target": "위비트래블 체크카드",
             "conds": [
-              "상세 조건은 이벤트 페이지 확인"
+              "마스터카드·Cirrus 표시 ATM",
+              "현지 ATM 운영사 수수료는 별도 → VPBank ATM이 수수료 0으로 유명",
+              "PIN 6자리면 비밀번호 4자리+00",
+              "출국 전 IC 비밀번호 등록·해외사용 정지 해제 확인"
             ],
-            "fit": "현지에서 동(VND) 현금 뽑을 때. 위비트래블 체크 있는 사람만."
+            "fit": "동(VND)은 우리WON뱅킹 외화통장에 미리 충전 → 현지 VPBank ATM에서 출금하면 수수료 0. 위비트래블 체크 있는 사람만."
+          },
+          {
+            "cat": "항공",
+            "title": "우리-Visa카드 트립닷컴 20% 즉시할인",
+            "benefit": "호텔·항공 최대 USD 100 추가할인",
+            "period": "10/21–12/31",
+            "target": "우리 Visa 카드",
+            "conds": [
+              "트립닷컴 전용 페이지·조건 확인"
+            ],
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
+            "url": "https://pc.wooricard.com/dcpc/yh1/bnf/bnf02/prgevnt/H1BNF202S00.do",
+            "star": false,
+            "deadline": "",
+            "apply": false,
+            "linkLabel": "우리카드 이벤트 목록"
           }
         ]
       },
@@ -4466,6 +4432,24 @@
         "icon": "💜",
         "listUrl": "https://www.shinhancard.com/mob/MOBFM829N/MOBFM829R03.shc",
         "events": [
+          {
+            "cat": "현지",
+            "title": "SOL트래블 체크 해외 인기 가맹점 5% 할인",
+            "benefit": "롯데마트·Grab 5% (월 3천원) · 스타벅스 5% (월 5천원) · 편의점 5% (월 5천원) · 마스터카드 가맹점 10% 캐시백(MTR)",
+            "period": "~12/31",
+            "target": "SOL트래블 체크",
+            "conds": [
+              "가맹점별 월 할인 한도",
+              "42개 통화 환율 100% 우대 (VND 포함)",
+              "해외 결제·ATM 수수료 면제 · 현지 ATM 운영사 수수료는 별도"
+            ],
+            "fit": "D5 롯데마트 하노이 센터 장보기 + 그랩 결제에 쓰기 좋음. 쏠트래블 있는 사람이 마트·그랩 담당.",
+            "url": "https://www.shinhancard.com/pconts/html/card/travel/travel_check.html",
+            "star": true,
+            "deadline": "",
+            "apply": false,
+            "linkLabel": "SOL트래블 체크 혜택"
+          },
           {
             "cat": "숙소",
             "title": "신한카드×아고다 최대 10% 즉시할인",
@@ -4478,9 +4462,9 @@
               "'쿠폰적용 가능' 호텔 + 선결제만",
               "카드 명의자 = 투숙객 이름"
             ],
-            "fit": "하노이·사파 숙소 7%.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://www.agoda.com/ko-kr/shinhancard",
-            "star": true,
+            "star": false,
             "deadline": "",
             "apply": false,
             "linkLabel": ""
@@ -4496,63 +4480,11 @@
               "호텔·항공은 USD 결제",
               "예산 소진 시 조기 종료"
             ],
-            "fit": "트립닷컴에 7C2201·VJ960이 있으면 운임 10%! 편도 운임 기준이라 1인 1–2만원대 절약 예상.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://www.shinhancard.com/pconts/html/benefit/event/2013463_2239.html",
-            "star": true,
+            "star": false,
             "deadline": "",
             "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "숙소",
-            "title": "트립닷컴 VIP (프리미엄·플래티넘 카드)",
-            "benefit": "호텔 15–20% (최대 약 13만원 · $100, 계정당 1회) + 트립닷컴 등급 업",
-            "period": "예약 ~10/31 · 체크인 ~12/31",
-            "target": "The PREMIER/ACE/BEST/CLASSIC 시리즈, 플래티넘 신용",
-            "conds": [
-              "USD 결제, 로그인 필수",
-              "다른 할인과 중복 불가"
-            ],
-            "fit": "해당 카드 있는 사람은 사파 숙소 20% 할인 가능 → 10월 안에 예약!",
-            "url": "https://www.shinhancard.com/pconts/html/benefit/event/2013808_2239.html",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "캐시백",
-            "title": "Plan·XO·NEO·벤츠 카드 가을 해외여행",
-            "benefit": "해외 60만원↑ 3만 / 100만원↑ 5만 / 150만원↑ 7.5만 네이버페이포인트",
-            "period": "9/11–10/31",
-            "target": "신한 마스터 개인 신용 (SOL Plan·Simple plan·Discount Plan 등)",
-            "conds": [
-              "응모 필수",
-              "외화 결제만 (원화결제 X)",
-              "할부·간편결제 등 일부 제외"
-            ],
-            "fit": "해당 카드로 10월에 숙소(USD)+항공 해외결제 합산 60만원 넘기면 3만원.",
-            "url": "https://www.shinhancard.com/pconts/html/benefit/event/2014372_2239.html",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": true,
-            "linkLabel": ""
-          },
-          {
-            "cat": "숙소",
-            "title": "에어비앤비 신한 Visa 최대 7만원",
-            "benefit": "에어비앤비 약 27만원(USD 200)↑ 배민 4만원 / 약 54만원(USD 400)↑ 7만원",
-            "period": "9/17–10/31 결제 · 11/20 이전 숙박 완료",
-            "target": "신한 Visa 개인 신용",
-            "conds": [
-              "응모 필수",
-              "USD 결제 합산"
-            ],
-            "fit": "사파 에어비앤비(11/15–17)를 10월에 결제하면 해당!",
-            "url": "https://www.shinhancard.com/pconts/html/benefit/event/2014151_2239.html",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": true,
             "linkLabel": ""
           },
           {
@@ -4595,7 +4527,7 @@
             "period": "8/1–2027/1/31",
             "target": "신한 마스터",
             "conds": [],
-            "fit": "비교용.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://www.shinhancard.com/pconts/html/benefit/event/2014060_2239.html",
             "star": false,
             "deadline": "",
@@ -4617,6 +4549,22 @@
             "deadline": "",
             "apply": false,
             "linkLabel": ""
+          },
+          {
+            "cat": "공항",
+            "title": "SOL트래블 체크 공항 라운지 (반기 1회)",
+            "benefit": "전 세계 공항 라운지 본인 무료 · 7–12월 1회",
+            "period": "상시",
+            "target": "SOL트래블 체크",
+            "conds": [
+              "카드 등록월~다음 달 말까지 국내 30만원 이상 이용 시"
+            ],
+            "fit": "조건 채웠으면 인천 T1이나 노이바이 귀국 전 라운지.",
+            "url": "https://www.shinhancard.com/pconts/html/card/travel/travel_check.html",
+            "star": false,
+            "deadline": "",
+            "apply": false,
+            "linkLabel": "SOL트래블 체크 혜택"
           }
         ]
       },
@@ -4626,6 +4574,24 @@
         "icon": "💛",
         "listUrl": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001",
         "events": [
+          {
+            "cat": "현지",
+            "title": "트래블러스 체크 해외 가맹점 10% 할인",
+            "benefit": "해외 가맹점 10% 할인 (월 1만원까지)",
+            "period": "상시 (7월 개편)",
+            "target": "KB 트래블러스 체크",
+            "conds": [
+              "월 할인 한도 1만원",
+              "호텔·대형마트·PG(간편결제 전용) 가맹점 제외",
+              "해외 결제·ATM 수수료 면제(ATM 월 10회)"
+            ],
+            "fit": "하노이 식당·카페 결제 10만원까지 10% → 1인 1만원 할인. 동(VND)은 KB Pay 외화머니로 충전되는지 앱에서 확인.",
+            "url": "https://m.kbcard.com/CRD/DVIEW/MCAMCXHIACRC0002?cooperationcode=09562&mainCC=a&type=",
+            "star": true,
+            "deadline": "",
+            "apply": false,
+            "linkLabel": "트래블러스 체크 상세"
+          },
           {
             "cat": "숙소",
             "title": "아고다 최대 10% 즉시할인",
@@ -4638,96 +4604,10 @@
               "'프로모션 상품' 표식 객실만 · 현장결제 제외",
               "결제 후 소급 불가"
             ],
-            "fit": "하노이·사파 숙소 7% → 사파 2박 예: 약 2–3만원 절약.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://www.agoda.com/ko-kr/kbcard",
-            "star": true,
+            "star": false,
             "deadline": "",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "캐시백",
-            "title": "돌아온 해외이용수수료 1.1% 포인트백",
-            "benefit": "해외 20만원 이상 이용 시 1.1% 포인트리 (최대 100만P)",
-            "period": "10/6–10/31",
-            "target": "KB국민 Visa 개인 신용·체크",
-            "conds": [
-              "응모 필수 (순서 무관)",
-              "해외 승인 건만 (카카오페이 등 국내승인 제외)",
-              "2027/1/15까지 지급"
-            ],
-            "fit": "10월 안에 아고다 USD 결제 + 항공권 해외결제를 KB Visa로 하면 사실상 해외수수료 상쇄.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1002268",
-            "star": true,
-            "deadline": "2026-10-31",
-            "apply": true,
-            "linkLabel": ""
-          },
-          {
-            "cat": "항공",
-            "title": "국제선 항공권 청구할인 with 와이페이모어",
-            "benefit": "전월 30만원↑ 4% (한도 10만) · 200만원↑ 8% (한도 15만)",
-            "period": "10/1–10/31",
-            "target": "KB국민 개인 신용 (체크·기업·BC 제외)",
-            "conds": [
-              "와이페이모어 행사 노선",
-              "전월 실적 충족 필요 (당월 신규 발급 제외)"
-            ],
-            "fit": "와이페이모어에서 7C2201·VJ960 가격 확인 후 비교.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1002235",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "항공",
-            "title": "마이리얼트립 해외항공권 최대 20% 즉시할인",
-            "benefit": "행사 대상 항공권 최대 20% (항공사·노선별 상이)",
-            "period": "10/1–10/31",
-            "target": "KB국민카드 전회원 (기업·BC·선불 제외)",
-            "conds": [
-              "개별 항공권 전액 KB 결제",
-              "상세페이지에서 KB 할인가 확인"
-            ],
-            "fit": "10월 안에 발권하면 마이리얼트립에서 우리 편명 할인가 꼭 확인!",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0002?mainCC=a&eventNum=7899",
-            "star": true,
-            "deadline": "2026-10-31",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "항공",
-            "title": "NOL(인터파크) 해외항공권 최대 20% · 해외숙소 4% 쿠폰",
-            "benefit": "항공 최대 20% 즉시할인 · 해외숙소 20만원↑ 4% 쿠폰 (최대 7만원)",
-            "period": "10/1–10/31",
-            "target": "KB국민카드 전회원 (기업·BC·선불 제외)",
-            "conds": [
-              "항공: 발권대행 수수료 별도, TAX·유류할증료 제외",
-              "숙소: 쿠폰 다운로드 후 결제, ID당 1일 1회"
-            ],
-            "fit": "NOL에서도 같은 편명 할인가 비교.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0002?mainCC=a&eventNum=7949",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "항공",
-            "title": "하나투어 해외항공권 최대 10% 즉시할인",
-            "benefit": "행사 대상 항공권 최대 10%",
-            "period": "10/1–10/31",
-            "target": "KB국민카드 전회원",
-            "conds": [
-              "하나투어 홈페이지 (오프라인 대리점 X)",
-              "항공사별 할인율 상이"
-            ],
-            "fit": "비교용.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0002?mainCC=a&eventNum=7900",
-            "star": false,
-            "deadline": "2026-10-31",
             "apply": false,
             "linkLabel": ""
           },
@@ -4741,28 +4621,11 @@
               "KB 전용 트립닷컴 페이지",
               "USD 결제"
             ],
-            "fit": "아고다에 없는 숙소용.",
+            "fit": "숙소·항공 모두 예약 완료라 이번 여행엔 해당 없음 · 다음 여행 참고.",
             "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1000058",
             "star": false,
             "deadline": "",
             "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "숙소",
-            "title": "Visa 에어비앤비 최대 4.5만원 상품권",
-            "benefit": "약 13만/27만/40만원(USD 100/200/300) 이상 → 신세계상품권 1.5/3/4.5만원",
-            "period": "9/1–10/31",
-            "target": "KB국민 Visa 개인 신용·체크",
-            "conds": [
-              "응모 필수",
-              "12/11까지 지급"
-            ],
-            "fit": "사파를 에어비앤비로 바꾸면 10월 안에 결제할 때 해당.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1001909",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": true,
             "linkLabel": ""
           },
           {
@@ -4827,54 +4690,82 @@
             "deadline": "",
             "apply": false,
             "linkLabel": ""
-          },
+          }
+        ]
+      },
+      {
+        "key": "hana",
+        "name": "하나카드",
+        "icon": "💚",
+        "listUrl": "https://m.hanacard.co.kr/MKEVT1000M.web",
+        "events": [
           {
-            "cat": "캐시백",
-            "title": "트래블러스 체크카드 신규 3만원 캐시백",
-            "benefit": "발급 후 11/10까지 3만원 이상 쓰면 3만원 캐시백 + 해외가맹점 10% 할인(전월 20만원↑)",
-            "period": "발급 10/1–10/31 · 이용 ~11/10",
-            "target": "KB 체크카드 신규 (기존 체크카드 없는 사람)",
+            "cat": "현지",
+            "title": "베트남 롯데마트 20만동 즉시할인 (Visa)",
+            "benefit": "한 번에 200만동(약 10.5만원) 이상 결제 시 20만동(약 1만원) 즉시할인",
+            "period": "11/3–2027/1/31",
+            "target": "하나 Visa JADE 시리즈 · 트래블GO 체크 · 나라사랑카드 (트래블로그 마스터는 대상 아님)",
             "conds": [
-              "이벤트 페이지에서 온라인 발급 필수"
+              "베트남 롯데마트 전 지점",
+              "1회 결제 기준"
             ],
-            "fit": "KB 체크카드 없는 사람만. 여행 카드 새로 만들 계획이면 고려.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1002229",
-            "star": false,
-            "deadline": "2026-10-31",
+            "fit": "D5 롯데마트 하노이 센터 장보기를 3명 몫 한 번에 200만동 넘겨 한 사람 카드로 결제하면 1만원 할인 → 나중에 정산.",
+            "url": "https://m.hanacard.co.kr/MKEVT1000M.web",
+            "star": true,
+            "deadline": "",
             "apply": false,
-            "linkLabel": ""
+            "linkLabel": "하나카드 이벤트 목록"
           },
           {
-            "cat": "공항",
-            "title": "인터넷면세점 할인",
-            "benefit": "롯데인터넷면세점 약 9.4만–202만원($70–1,500) 10% 즉시할인 (쿠폰, 10/8–31) · 신라인터넷면세점 토스/네이버페이 최대 5만원 청구할인",
-            "period": "10월",
-            "target": "KB국민카드",
+            "cat": "현지",
+            "title": "그린SM·콩카페 하나머니 각 5천원",
+            "benefit": "그린SM(Xanh SM) 택시, 콩카페에서 각각 누적 1만원 이상 → 가맹점별 하나머니 5천원",
+            "period": "~2027/1/31",
+            "target": "하나 Visa JADE · 트래블GO 체크 · 나라사랑카드",
             "conds": [
-              "쿠폰 1일 1회 다운로드"
+              "응모 필수",
+              "가맹점별 누적 1만원 이상"
             ],
-            "fit": "출국 전 면세 쇼핑할 사람.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0002?mainCC=a&eventNum=7952",
-            "star": false,
-            "deadline": "2026-10-31",
-            "apply": false,
-            "linkLabel": ""
-          },
-          {
-            "cat": "캐시백",
-            "title": "해외이용 최대 100만원 상품권",
-            "benefit": "해외 50만원↑ 1만원 … (구간별)",
-            "period": "9/21–10/11 (오늘 마감)",
-            "target": "KB국민 신용·체크 국내외겸용",
-            "conds": [
-              "응모 필수"
-            ],
-            "fit": "오늘까지라 사실상 해당 없음.",
-            "url": "https://card.kbcard.com/BON/DVIEW/HBBMCXCRVNEC0001?mainCC=a&eventNum=1002039",
-            "star": false,
-            "deadline": "2026-10-11",
+            "fit": "D2 콩카페 호수뷰 + 그린SM 택시 한두 번이면 최대 1만 하나머니.",
+            "url": "https://m.hanacard.co.kr/MKEVT1000M.web",
+            "star": true,
+            "deadline": "",
             "apply": true,
-            "linkLabel": ""
+            "linkLabel": "하나카드 이벤트 목록"
+          },
+          {
+            "cat": "현지",
+            "title": "트래블GO 체크 Grab 4만동 쿠폰 5장 + 트래블패스",
+            "benefit": "그랩 베트남 4만동(약 2천원) 즉시할인 쿠폰 최대 5장 · Visa 카드 Grab 트래블패스 무료(~12/31)",
+            "period": "쿠폰 ~11/30 · 패스 ~12/31",
+            "target": "트래블GO 체크(쿠폰) · 하나 Visa(패스)",
+            "conds": [
+              "Grab 앱 쿠폰함에 지급"
+            ],
+            "fit": "트래블GO 있는 사람이 그랩 담당하면 5번 × 약 2천원.",
+            "url": "https://m.hanacard.co.kr/MKEVT1000M.web",
+            "star": false,
+            "deadline": "2026-11-30",
+            "apply": false,
+            "linkLabel": "하나카드 이벤트 목록"
+          },
+          {
+            "cat": "환전",
+            "title": "트래블로그 동(VND) 무료 환전",
+            "benefit": "58개 통화 환전 수수료 0원 (VND 포함 · USD·JPY·EUR·GBP 외 54종은 이벤트)",
+            "period": "이벤트 ~2026/12/31",
+            "target": "트래블로그 체크·신용 (하나머니 앱)",
+            "conds": [
+              "남은 외화 원화로 바꿀 때 1%",
+              "해외 결제·ATM 출금 수수료 면제",
+              "현지 ATM 운영사 수수료 별도 → VPBank 추천"
+            ],
+            "fit": "하나은행 계좌 있는 사람은 동으로 미리 충전 → 결제·현금 출금 모두 수수료 0.",
+            "url": "https://app.hanamembership.com/gw/gsp/gSP002m.do",
+            "star": true,
+            "deadline": "",
+            "apply": false,
+            "linkLabel": "트래블로그 환전 안내"
           }
         ]
       }
