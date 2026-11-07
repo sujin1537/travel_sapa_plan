@@ -4232,14 +4232,14 @@ render();window.kwRender=render};if(window.__kw)kwBoot(...window.__kw);
 </script>
 <script>
 (()=>{const box=document.getElementById('wx-body'),st=document.getElementById('wx-status');if(!box)return;
-const C=[{k:'hanoi',n:'하노이',lat:21.0285,lng:105.8542,stay:['2026-11-14','2026-11-17'],sub:'11/14 · 11/17'},{k:'sapa',n:'사파',lat:22.3364,lng:103.8438,stay:['2026-11-15','2026-11-16'],sub:'11/15–16 · 판시판 정상은 훨씬 추워'}];
+const C=[{k:'hanoi',n:'하노이',lat:21.0285,lng:105.8542,stay:['2026-11-14','2026-11-17'],sub:'11/14 · 11/17'},{k:'sapa',n:'사파',lat:22.3364,lng:103.8438,stay:['2026-11-15','2026-11-16'],sub:'11/15–16'},{k:'fan',n:'⛰ 판시판 정상',lat:22.3033,lng:103.775,elev:3143,stay:['2026-11-15'],sub:'3,143m · 11/15 (흐리면 16일)'}];
 const S='2026-11-13',E='2026-11-19',W='일월화수목금토';
 const ic=c=>c===0?['☀️','맑음']:c<=2?['🌤','구름 조금']:c===3?['☁️','흐림']:c<=48?['🌫','안개']:c<=57?['🌦','이슬비']:c<=67?['🌧','비']:c<=77?['🌨','눈']:c<=82?['🌧','소나기']:['⛈','뇌우'];
 const draw=a=>{box.innerHTML=C.map((c,i)=>{const dd=a[i].daily;return '<div class="wx-city"><b>'+c.n+'<small>'+c.sub+'</small></b><div class="wx-days">'+dd.time.map((t,j)=>{const [e,l]=ic(dd.weather_code[j]);const dt=new Date(t+'T00:00:00');const p=dd.precipitation_probability_max[j];return '<div class="wx-d'+(c.stay.includes(t)?' on':'')+'" title="'+l+'"><span class="wx-dt">'+dt.getDate()+' '+W[dt.getDay()]+'</span><span class="wx-ic">'+e+'</span><span class="wx-hi">'+Math.round(dd.temperature_2m_max[j])+'°</span><br>'+Math.round(dd.temperature_2m_min[j])+'°'+(p!=null?'<br><span class="wx-rain">☔'+p+'%</span>':'')+'</div>'}).join('')+'</div></div>'}).join('')};
-const K='wxCache1';try{const c=JSON.parse(localStorage.getItem(K)||'null');if(c&&Date.now()-c.at<3*3600e3){draw(c.a);st.textContent=new Date(c.at).toLocaleTimeString('ko-KR',{hour:'2-digit',minute:'2-digit'})+' 기준';return}}catch(e){}
+const K='wxCache2';try{const c=JSON.parse(localStorage.getItem(K)||'null');if(c&&Date.now()-c.at<3*3600e3){draw(c.a);st.textContent=new Date(c.at).toLocaleTimeString('ko-KR',{hour:'2-digit',minute:'2-digit'})+' 기준';return}}catch(e){}
 if(new Date()>new Date(E+'T23:59:59+07:00')){document.getElementById('wx-card').hidden=true;return}
-const u='https://api.open-meteo.com/v1/forecast?latitude='+C.map(c=>c.lat).join(',')+'&longitude='+C.map(c=>c.lng).join(',')+'&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Asia%2FBangkok&start_date='+S+'&end_date='+E;
-fetch(u).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{const a=Array.isArray(j)?j:[j];draw(a);st.textContent='방금 업데이트';try{localStorage.setItem(K,JSON.stringify({at:Date.now(),a}))}catch(e){}}).catch(()=>{st.textContent='불러오기 실패';box.innerHTML='<p class="wx-note">지금은 예보를 못 불러왔어 · 새로고침해 봐</p>'})})();
+const Q='&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=Asia%2FBangkok&start_date='+S+'&end_date='+E,B='https://api.open-meteo.com/v1/forecast?';const G=C.filter(c=>!c.elev),M=C.filter(c=>c.elev);const get=u=>fetch(u).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>Array.isArray(j)?j:[j]);
+Promise.all([get(B+'latitude='+G.map(c=>c.lat).join(',')+'&longitude='+G.map(c=>c.lng).join(',')+Q)].concat(M.map(c=>get(B+'latitude='+c.lat+'&longitude='+c.lng+'&elevation='+c.elev+Q)))).then(rs=>{const a=rs.flat();draw(a);st.textContent='방금 업데이트';try{localStorage.setItem(K,JSON.stringify({at:Date.now(),a}))}catch(e){}}).catch(()=>{st.textContent='불러오기 실패';box.innerHTML='<p class="wx-note">지금은 예보를 못 불러왔어 · 새로고침해 봐</p>'})})();
 </script>
 </body>
 </html>
