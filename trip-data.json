@@ -7472,7 +7472,7 @@
       {
         "id": "mart",
         "label": "🛒 마트·기념품",
-        "note": "롯데마트 한 곳에서 거의 해결. 가격은 게시물 기준이라 매장마다 조금씩 달라. · bysu.zip 꿀팁: 롯데마트는 20만동 이상 사면 계산할 때 여권 보여주고 부가세 환급 서류 받기 · 견과·라이스페이퍼는 옷 사이에 넣으면 안 깨짐.",
+        "note": "롯데마트(D5 16:10–19:15) 한 곳에서 거의 해결. 가격은 게시물 기준이라 매장마다 조금씩 달라. · 20만동 이상 사면 계산할 때 여권 보여주고 부가세 환급 서류 받기(bysu.zip) · 견과·라이스페이퍼는 옷 사이에 넣으면 안 깨짐. · 🇰🇷 입국 반입 주의: 육포·햄·소시지 금지 · 생과일·생채소 금지 · 껍데기 붙은 견과류는 검역 신고 · 곤약젤리 금지 · 면세 1인 800달러, 술 2L·400달러",
         "items": [
           {
             "name": "적후추 (Red pepper)",
@@ -7482,7 +7482,8 @@
               "id": "ootb_studio",
               "url": "https://www.instagram.com/ootb_studio/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEJ9xyRh9hdj4TekIneBwxwlEYZqH1Fjid2buchQWXQ"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEJ9xyRh9hdj4TekIneBwxwlEYZqH1Fjid2buchQWXQ",
+            "note": "베트남 후추는 세계 1위 생산 · 통후추라 그라인더에 넣어 쓰기 · 밀봉된 마트 포장으로"
           },
           {
             "name": "믹스후추",
@@ -7576,7 +7577,8 @@
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2LfaZzMRiQH6pO-5ws0KEs9n7_lc6yw0Hw4hO1QG-A"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2LfaZzMRiQH6pO-5ws0KEs9n7_lc6yw0Hw4hO1QG-A",
+            "note": "쭝응우옌(Trung Nguyên) G7 인스턴트 · 콩카페 코코넛커피보다 싸고 달달 · 회사 탕비실용"
           },
           {
             "name": "친수 칠리소스 · 마기 간장",
@@ -7607,17 +7609,19 @@
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNO5jQe53qlwZ8PH2jhF7cSw0nE8AvgWuPYZdSJjGLQ"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNO5jQe53qlwZ8PH2jhF7cSw0nE8AvgWuPYZdSJjGLQ",
+            "note": "한국에 없는 디자인 · 가볍게 돌리기 좋은 선물"
           },
           {
             "name": "호랑이연고",
-            "price": "가격 현장 확인",
-            "where": "롯데마트 · 약국",
+            "price": "19.4g 48,000동 (약 2,500원) · 30g 65,000동 (약 3,400원) · 약국 기준",
+            "where": "롯데마트 · 약국 (Pharmacity·Long Châu)",
             "src": {
-              "id": "_joyful_he",
-              "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
+              "id": "pharmacity",
+              "url": "https://www.pharmacity.vn/thuong-hieu/tiger-balm"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRA5J-YA_aFcOIo5mzko5qnn3ZayiVP1dzOv0Y24EnQ"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSRA5J-YA_aFcOIo5mzko5qnn3ZayiVP1dzOv0Y24EnQ",
+            "note": "빨강 = 근육통·결림(따뜻) · 하양 = 두통·코막힘·벌레 물림(시원) · 붙이는 파스(Plaster)도 있음 · 어른 선물용"
           },
           {
             "name": "키티 크록스",
@@ -7626,7 +7630,8 @@
             "src": {
               "id": "_joyful_he",
               "url": "https://www.instagram.com/p/DcAOBZ4TtbD/"
-            }
+            },
+            "note": "헬로키티 콜라보 크록스 · 사이즈 다양하진 않으니 있으면 득템"
           },
           {
             "name": "캐슈넛 소금구이 (W240)",
@@ -7643,7 +7648,7 @@
             "name": "마카다미아 (껍질째)",
             "price": "230g 80,000동대 (약 4,300원)",
             "where": "롯데마트 견과 코너 · Co.opmart",
-            "note": "까먹는 재미 · 선물용",
+            "note": "까먹는 재미 · 선물용 · ⚠️ 껍데기째 견과류는 입국 때 검역 신고 대상 → 세관신고서 ‘농축산물’ 체크하고 보여주기 (신고하면 대부분 통과, 안 하면 과태료)",
             "src": {
               "id": "bysu.zip",
               "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
@@ -7688,7 +7693,7 @@
       {
         "id": "snack",
         "label": "🍬 과자·젤리",
-        "note": "회사 동료 나눔용은 “회사용” 라벨.",
+        "note": "회사 동료 나눔용은 “회사용” 라벨. · 젤리는 곤약(konjac) 들어간 건 한국 반입 금지라 성분 한 번 보기.",
         "items": [
           {
             "name": "Alpenliebe 2Chew 패션후르츠 카라멜",
@@ -7709,7 +7714,8 @@
               "id": "hae_bbang2",
               "url": "https://www.instagram.com/p/DdahuXwgWlW/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfmSwutyu9WtrN_1_cJEAbHzqkFonx9bERuTyNqeZbA"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfmSwutyu9WtrN_1_cJEAbHzqkFonx9bERuTyNqeZbA",
+            "note": "오리온 베트남 커피 비스킷 · 바삭하고 커피향 진함 · 회사 나눔용"
           },
           {
             "name": "게리 치즈크래커",
@@ -7719,7 +7725,8 @@
               "id": "hae_bbang2",
               "url": "https://www.instagram.com/p/DdahuXwgWlW/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEn_xAfTqLrmkXK-88l9ygDTftzDD3ATWqJ5B0_Tgkog"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEn_xAfTqLrmkXK-88l9ygDTftzDD3ATWqJ5B0_Tgkog",
+            "note": "치즈 듬뿍 크래커 · 개별포장이라 나눠 주기 좋음"
           },
           {
             "name": "코코넛 초코쿠키",
@@ -7734,7 +7741,7 @@
             "name": "망고스틴 젤리",
             "price": "가격 현장 확인",
             "where": "롯데마트",
-            "note": "체리쉬 푸딩 말고 이거 (hae_bbang2)",
+            "note": "체리쉬 푸딩 말고 이거 (hae_bbang2) · ⚠️ 성분표에 곤약(konjac) 있으면 반입 금지 → 없는 걸로",
             "src": {
               "id": "hae_bbang2",
               "url": "https://www.instagram.com/p/DdahuXwgWlW/"
@@ -7761,7 +7768,8 @@
               "id": "soon.will.being",
               "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqlcHumgivOBE7eJlWM2U8OKFtKQVIA73oeyN_IZkuQ"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqlcHumgivOBE7eJlWM2U8OKFtKQVIA73oeyN_IZkuQ",
+            "note": "⚠️ 성분표에 곤약(konjac) 있으면 반입 금지 → 없는 걸로"
           },
           {
             "name": "3D Fruit 젤리",
@@ -7772,7 +7780,8 @@
               "id": "soon.will.being",
               "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
             },
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdOo8SZMz0WC3bA-M34RqlT0vhh3ibsrizg5GNywRIw"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdOo8SZMz0WC3bA-M34RqlT0vhh3ibsrizg5GNywRIw",
+            "note": "⚠️ 성분표에 곤약(konjac) 있으면 반입 금지 → 없는 걸로"
           },
           {
             "name": "롯데 Choice L 망고젤리 (Kẹo Dẻo Xoài)",
@@ -7935,7 +7944,7 @@
       {
         "id": "beauty",
         "label": "💄 뷰티",
-        "note": "하사키는 안 가기로 해서 롯데마트 뷰티 코너·Watsons·Guardian에서 사면 돼 (하사키보다 조금 비쌀 수 있음). 아래 하사키 가격은 참고용. · 하사키(Hasaki) = 베트남판 올리브영. 가격표가 없으면 매장 바코드 기계나 Hasaki 앱으로 확인. 50원 같은 가격은 08·13·18시 “빅딜” 행사가라 평소엔 아님. · _minekoo(10/14): 카드·애플페이 결제 가능 · 금액별 사은품 · 롯데마트·쿠팡보다 30–50% 저렴",
+        "note": "하사키는 이번 동선에 없어서 롯데마트 뷰티 코너·Watsons·Guardian에서 사면 돼 (하사키보다 조금 비쌀 수 있음). 아래 하사키 가격은 참고용. · 50원 같은 가격은 하사키 08·13·18시 “빅딜” 행사가라 평소엔 아님. · 100ml 넘는 액체·크림은 위탁 수하물로.",
         "items": [
           {
             "name": "도브 바디 스크럽",
@@ -8117,13 +8126,212 @@
         ]
       },
       {
+        "id": "hanoi",
+        "label": "🏮 하노이 기념품",
+        "note": "마트에 없는 하노이다운 것들. 🗓 거의 다 D2(토) 동선 위에 있어 — 성당 옆 Collective Memory → 호수 북쪽 항가이 실크 → 항마 등불 → 꽌안응온 옆 Marou 초콜릿 → 야시장·항드엉 오마이. 정찰제 가게는 흥정 X, 야시장은 60–70%부터.",
+        "items": [
+          {
+            "name": "Collective Memory 로컬 브랜드 굿즈",
+            "price": "정찰제 · 가격 미확인",
+            "where": "12 Nhà Chung (성 요셉 성당 바로 옆 골목)",
+            "note": "🗓 D2 09:40 성당·레몬티 때 5분만 · 베트남 로컬 브랜드 30곳 넘게 모아 놓은 편집숍 · 엽서·포스터·티타월·향초·비누·하노이 모노폴리·호이안 소금 같은 소스류 · 선물용 소품 한 번에 고르기 좋음",
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            }
+          },
+          {
+            "name": "Maison Marou 초콜릿",
+            "price": "35g×6 선물박스 345,000동 (약 1.8만원)",
+            "where": "91A Thợ Nhuộm (꽌안응온에서 걸어서 5–7분)",
+            "note": "🗓 D2 18:00 꽌안응온 전후로 들르기 · 베트남산 카카오로 만든 빈투바 초콜릿 · 산지별 바·후추·생강 같은 베트남 맛이 있어서 선물로 인기 · 더운 날엔 녹으니 캐리어 안쪽에",
+            "src": {
+              "id": "maisonmarou",
+              "url": "https://maisonmarou.com/products/gift-box-marou-bar-6x35g"
+            }
+          },
+          {
+            "name": "Tanmy Design 실크 자수",
+            "price": "정찰제 · 고급 라인 (가격 미확인)",
+            "where": "61 Hàng Gai (호안끼엠 호수 북쪽 ‘실크 거리’)",
+            "note": "🗓 D2 10:30 호수 산책 때 · 손자수 실크 파우치·스카프·테이블보·래커 소품·은 액세서리 · 시장 실크보다 비싸지만 품질 확실 · 흥정 안 하는 가게",
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            }
+          },
+          {
+            "name": "바짱 도자기 (Bát Tràng)",
+            "price": "가격 미확인 · 작은 컵·종지가 부담 없음",
+            "where": "Cerender Ceramics · 11A Tràng Thi / 구시가지 도자기 가게들",
+            "note": "하노이 근교 도자기 마을 바짱 제품 · 꽃무늬 그릇·찻잔 · 작은 것 위주로(깨짐 덜함) · 옷으로 감싸서 기내 가방에",
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            },
+            "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bat-Trang-Ceramic-Village1.jpg?width=800"
+          },
+          {
+            "name": "원두 · 핀(phin) 드리퍼",
+            "price": "가격 미확인",
+            "where": "콩카페 원두(D2 13:00 콩카페) · Oriberry 1 Phạm Sư Mạnh · 롯데마트 Trung Nguyên",
+            "note": "원두는 소포장 밀봉된 걸로 · 핀 드리퍼 하나 같이 사면 집에서 베트남 커피 그대로 · Trung Nguyên Legend는 마트에서 제일 무난",
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            }
+          },
+          {
+            "name": "연꽃차 (Trà sen)",
+            "price": "가격 미확인 · 마트판이 제일 저렴",
+            "where": "찻집(Hương Mai 등) · 롯데마트 차 코너",
+            "note": "하노이 대표 선물 · 녹차에 연꽃 향을 입힌 차 · 고급은 찻집, 무난한 건 마트 박스",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            },
+            "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Tra_sen_-_Vietnamese_Lotus_Tea.JPG?width=800"
+          },
+          {
+            "name": "오마이 (Ô mai · 말린 과일 절임)",
+            "price": "가격 미확인 · 무게 달아서 팜",
+            "where": "항드엉 거리 (Hàng Đường) — 토요일 야시장 길 위",
+            "note": "🗓 D2 19:20 야시장 걸을 때 지나감 · 하노이 명물 새콤달콤 과일 절임(살구·자두·생강 등) · 시식해 보고 고르기 · 가공품이라 반입 OK",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            }
+          },
+          {
+            "name": "녹두 케이크 (Bánh đậu xanh)",
+            "price": "가격 미확인 · 한 상자 저렴",
+            "where": "롯데마트 · 호수 근처 제과점",
+            "note": "입에서 사르르 녹는 녹두 과자 · Nguyên Hương·Rồng Vàng 브랜드 · 회사·어른 선물용 · 부서지니 박스째",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            },
+            "img": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_%C4%91%E1%BA%ADu_xanh.jpg?width=800"
+          },
+          {
+            "name": "항마 등불 · 장식 소품",
+            "price": "가격 미확인 · 흥정",
+            "where": "항마 거리 (Hàng Mã)",
+            "note": "🗓 D2 15:50 · 접히는 작은 실크 등불이 들고 오기 쉬움 · 정찰제 아니면 60–70%부터 흥정",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            },
+            "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Hang-ma.jpg?width=800"
+          },
+          {
+            "name": "야시장 티셔츠 · 자석 · 소품",
+            "price": "흥정 · 처음 부른 값의 60–70%부터",
+            "where": "구시가지 주말 야시장 (금–일 밤) · 동쑤언 시장",
+            "note": "🗓 D2 토요일 밤 · 하노이·베트남 프린트 티셔츠, 냉장고 자석 · 정찰제 가게(항가이 거리 등)에선 흥정 X",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "sapa",
+        "label": "⛰ 사파 기념품",
+        "note": "사파에서만 살 수 있는 것 위주. 🗓 D3 깟깟마을·일요일 야시장(금–일 16–22시), D4 Fansipan 거리. 노점은 현금·흥정, 간판 있는 가게는 정찰제. 무거운 건 D5 롯데마트에서 사고 사파에선 가벼운 수공예만.",
+        "items": [
+          {
+            "name": "몽족 브로케이드 파우치·가방",
+            "price": "50,000–500,000동 (약 2,600–2.6만원)",
+            "where": "사파 야시장 · 깟깟마을 · Cầu Mây 거리 가게들",
+            "note": "🗓 D3 16:00 깟깟마을 · 20:00 야시장 · 소수민족 전통 문양 직물 · 카드지갑·동전지갑은 회사 선물로도 좋음 · 노점은 흥정 당연(웃으면서 적당히) · 인디고(남색) 천은 물이 빠지니 처음엔 따로 손빨래",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/lao-cai/sapa/shopping-sapa-souvenirs/"
+            }
+          },
+          {
+            "name": "Indigo Cat (핸드메이드 공예숍)",
+            "price": "정찰제 · 가격 미확인",
+            "where": "034 Fansipan 거리 (숙소·통킨 스파와 같은 길)",
+            "note": "🗓 D4 15:00 통킨 스파 가는 길 · 대마천·바틱·자수 핸드메이드 · 북부 공예 마을 원단 · 야시장보다 품질 좋은 걸 흥정 없이 사고 싶을 때",
+            "src": {
+              "id": "izitour",
+              "url": "https://izitour.com/en/blog/sapa-brocade-shops"
+            }
+          },
+          {
+            "name": "Sapa O'Chau 공정무역 수공예",
+            "price": "정찰제 · 가격 미확인",
+            "where": "Lê Văn Tám 거리 (사파 시내)",
+            "note": "현지 소수민족 장인에게 수익이 가는 사회적 기업 · 손자수 소품·직물",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/lao-cai/sapa/shopping-sapa-souvenirs/"
+            }
+          },
+          {
+            "name": "은 장신구",
+            "price": "100,000–1,000,000동+ (약 5천–5만원+)",
+            "where": "사파 시장 · 야시장 · 기념품 가게",
+            "note": "순은 아닌 것도 섞여 있어서 비싼 건 가게에서 · 작은 귀걸이·팔찌 정도가 무난",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/lao-cai/sapa/shopping-sapa-souvenirs/"
+            }
+          },
+          {
+            "name": "몽족 인형 · 작은 자수 소품",
+            "price": "50,000–200,000동 (약 2,600–1만원)",
+            "where": "야시장 · 깟깟마을",
+            "note": "가볍고 안 깨져서 짐 부담 없음",
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/lao-cai/sapa/shopping-sapa-souvenirs/"
+            }
+          },
+          {
+            "name": "사파 사과주 (Rượu táo mèo)",
+            "price": "가격 미확인",
+            "where": "사파 시장 · 특산물 가게",
+            "note": "산사과로 담근 서북부 전통주 · 라벨·제조처 있는 밀봉 병으로 · 위탁 수하물에 뽁뽁이·비닐로 · 🇰🇷 주류 면세 1인 2L·400달러 이내",
+            "src": {
+              "id": "sunparadiseland",
+              "url": "https://sunparadiseland.com/SunParadiseLandSaPa/tin-tuc/top-dac-san-sa-pa-lam-qua-y-nghia-va-tien-di-chuyen-xa-29971"
+            }
+          },
+          {
+            "name": "마깐 (Mắc khén · 산초 향신료)",
+            "price": "가격 미확인 · 20,000–100,000동대 봉지",
+            "where": "사파 시장 · 특산물 가게",
+            "note": "서북부 고기 요리에 쓰는 산초 같은 향신료 · 가볍고 작음 · ⚠️ 씨앗류라 입국 때 검역 신고 대상일 수 있음 → 세관신고서 ‘농축산물’ 체크하고 보여주기",
+            "src": {
+              "id": "sunparadiseland",
+              "url": "https://sunparadiseland.com/SunParadiseLandSaPa/tin-tuc/top-dac-san-sa-pa-lam-qua-y-nghia-va-tien-di-chuyen-xa-29971"
+            }
+          },
+          {
+            "name": "⛔ 물소 육포 (Thịt trâu gác bếp)",
+            "price": "현지에서 맛만 보기",
+            "where": "사파 시장 · 야시장",
+            "note": "사파 대표 특산품이지만 육포·소시지 같은 육가공품은 한국 반입 금지 · 걸리면 과태료(최대 1천만원) · 야시장에서 안주로 먹고 끝!",
+            "src": {
+              "id": "연합뉴스·관세청",
+              "url": "https://v.daum.net/v/20260603083201321"
+            },
+            "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%E1%BB%8Bt_tr%C3%A2u_g%C3%A1c_b%E1%BA%BFp_T%E1%BA%A3_Ph%C3%ACn_H%E1%BB%93.jpg?width=800"
+          }
+        ]
+      },
+      {
         "id": "place",
         "label": "👟 쇼핑 장소",
-        "note": "",
+        "note": "지도 숫자 = 아래 카드 번호. 하노이 쇼핑 장소만 모아 둠(사파는 ‘⛰ 사파 기념품’ 탭).",
         "places": [
           {
             "name": "롯데마트 하노이 센터",
-            "desc": "기념품·과자·커피 한 번에 (54 Liễu Giai · 보통 08–22시). D5에 18:20쯤 구시가지에서 그랩 20–25분. 그랩은 롯데호텔 앞에 내려주고 마트 입구는 건너편 · 에스컬레이터로 내려가면 바로. 장 본 짐은 마트 오른쪽 고객센터나 입구 왼쪽 스마트 락커에 잠깐 맡기고 위층 구경 가능. 호텔까지 배달해 주는 롯데마트 앱도 있어(정보 탭 → 앱).",
+            "desc": "기념품·과자·커피 한 번에 (54 Liễu Giai · 보통 08–22시). 🗓 D5 16:10–19:15 장보기 + 이른 저녁 · 구시가지에서 그랩 15–20분. 그랩은 롯데호텔 앞에 내려주고 마트 입구는 건너편 · 에스컬레이터로 내려가면 바로. 장 본 짐은 마트 오른쪽 고객센터나 입구 왼쪽 스마트 락커에 잠깐 맡기고 위층 구경 가능. 호텔까지 배달해 주는 롯데마트 앱도 있어(정보 탭 → 앱).",
             "query": "Lotte Mart Hanoi Center Liễu Giai",
             "lat": 21.032199,
             "lng": 105.8123834,
@@ -8136,7 +8344,7 @@
           },
           {
             "name": "롯데몰 웨스트레이크",
-            "desc": "272 Võ Chí Công (떠이호) · 구글 4.5 (7,700+) · 몰 09:30–22:00 · B1 롯데마트(08:30–22:00, 식료품 위주 — 커피·건망고·과자 기념품 한 번에) · B1 롯데월드 아쿠아리움 · 1층 자라·화장품·L7 호텔 연결 · 3층 푸드코트(김밥·떡볶이 같은 한식도) · 4층 롯데시네마·서점 · 공항 가는 길목이라 D5 마지막 쇼핑 코스 (구시가지에서 그랩 25분, 여기서 공항 25–35분) · 캐리어는 카트에 싣거나 고객센터 보관 문의 · 마감(22:00) 30분 전엔 계산 줄 길어질 수 있음",
+            "desc": "272 Võ Chí Công (떠이호) · 구글 4.5 (7,700+) · 몰 09:30–22:00 · B1 롯데마트(08:30–22:00, 식료품 위주 — 커피·건망고·과자 기념품 한 번에) · B1 롯데월드 아쿠아리움 · 1층 자라·화장품·L7 호텔 연결 · 3층 푸드코트(김밥·떡볶이 같은 한식도) · 4층 롯데시네마·서점 · 이번 일정은 롯데마트 하노이 센터로 가서 안 가도 됨(참고용) · 구시가지에서 그랩 25분 · 캐리어는 카트에 싣거나 고객센터 보관 문의 · 마감(22:00) 30분 전엔 계산 줄 길어질 수 있음",
             "lat": 21.0759511,
             "lng": 105.812662,
             "query": "LOTTE MALL West Lake Hanoi",
@@ -8149,27 +8357,10 @@
           },
           {
             "name": "하사키 쑤언라점",
-            "desc": "79A Xuân La (떠이호) · 08:00–22:00 · 구시가지엔 지점이 없어서 D5 동선상 가장 가까운 곳 · 짜오반에서 그랩 7분, 롯데몰까지 그랩 5분. 바코드 기계로 가격 확인 · 카드·애플페이 OK (_minekoo).",
+            "desc": "79A Xuân La (떠이호) · 08:00–22:00 · 이번 동선엔 없음(참고용) · 구시가지엔 지점이 없어서 롯데센터에서 그랩 10분쯤. 바코드 기계로 가격 확인 · 카드·애플페이 OK (_minekoo).",
             "lat": 21.0634391,
             "lng": 105.8068303,
             "query": "HASAKI 79A Xuân La Hà Nội"
-          },
-          {
-            "name": "하사키 (Hasaki)",
-            "desc": "베트남 MZ 뷰티스토어. 빅딜 시간(08·13·18시) 노리기.",
-            "query": "Hasaki Hà Nội",
-            "src": {
-              "id": "twyreecrew",
-              "url": "https://www.instagram.com/p/DeWlbrePK7V/"
-            },
-            "lat": 21.034303,
-            "lng": 105.830119,
-            "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLevu_5ZG80cCWuasshPkinyTF85IOgXNMAy2Pw-zjDRD399eIw-iuGfuRzb3iKgGE097NKfiKm_N6jofdtED9hqK0EUtl9cA7hjKusT-At1yOgO995p0RJIa5sZ2hd_yeXLhjmXbw5GmQk=w1200-h900-k-no",
-            "gallery": [
-              "https://lh3.googleusercontent.com/grass-cs/AABkmLevu_5ZG80cCWuasshPkinyTF85IOgXNMAy2Pw-zjDRD399eIw-iuGfuRzb3iKgGE097NKfiKm_N6jofdtED9hqK0EUtl9cA7hjKusT-At1yOgO995p0RJIa5sZ2hd_yeXLhjmXbw5GmQk=w1200-h900-k-no",
-              "https://lh3.googleusercontent.com/grass-cs/AABkmLfrvwxb4wDoTh41G66VcpN3gwJuEc0MjiL_NDVhyW32ssmVnQFRWubD9AH5V1EeYWmXwJUrLXeqFHbiZDWQOyu2Yw75xkBOUwJTlIk0FzAV04V86KyQfQQUt2TZqqJMOKu2GcrmoJmmwNjl=w1200-h900-k-no",
-              "https://lh3.googleusercontent.com/grass-cs/AABkmLdGFbtY-uIgIKMaHGzMfDK62Ts8o89tQj4_QzjyrHgNA5Ep0JzMjj55INRObBWDkzXHJ9nO3_McxKSXJKTzg4UDhyRFZGa5O9laB3P5c1SUln6SJpY6dOY1LyNWR1-Zkwe1Dv0nog=w1200-h900-k-no"
-            ]
           },
           {
             "name": "RITZ (정품 오버런 의류)",
@@ -8200,6 +8391,50 @@
               "https://lh3.googleusercontent.com/grass-cs/AABkmLedD10yOqjUM_XIjYvSpvdM3lVp2eBKu_oZjGBlxU3SzgHYH8hWnJQJ9MhmGbuKKqt3aviWkUu8RFRlKyvH5ZOo-RRp_2bWRkbQzNRlsUW1LXFeqdQR7VgLTfbF5tz8FUaZgziKZ8rV_im1=w1200-h900-k-no",
               "https://lh3.googleusercontent.com/grass-cs/AABkmLeHiMUNnOLt5HaQnzMv2h-rguxFxXb8dyfMeUX34Sxi9AdwfnUB9sgk3wmS20Fvp35sYOBG7G7UH_CmsmmwO9ZhJGUoEjOyh_0myU-ReCRF0njgXx6_uAri1uIb3DANpoExLNnT3h71lEe9=w1200-h900-k-no"
             ]
+          },
+          {
+            "name": "Collective Memory",
+            "desc": "12 Nhà Chung · 성 요셉 성당 바로 옆 · 베트남 로컬 브랜드 편집숍(엽서·포스터·소스·향초·비누) · 🗓 D2 09:40 성당 때.",
+            "query": "Collective Memory 12 Nhà Chung Hà Nội",
+            "lat": 21.0273643,
+            "lng": 105.8501441,
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            }
+          },
+          {
+            "name": "Tanmy Design",
+            "desc": "61 Hàng Gai · 실크 거리 · 손자수 실크·래커·은 액세서리 · 정찰제 · 🗓 D2 10:30 호수 산책 때.",
+            "query": "Tanmy Design 61 Hàng Gai",
+            "lat": 21.0319782,
+            "lng": 105.8503681,
+            "src": {
+              "id": "wander-lush",
+              "url": "https://wander-lush.org/hanoi-souvenirs-best-things-to-buy-in-hanoi/"
+            }
+          },
+          {
+            "name": "Maison Marou 하노이",
+            "desc": "91A Thợ Nhuộm · 베트남 카카오 빈투바 초콜릿 숍·카페 · 선물박스(35g×6) 345,000동 · 🗓 D2 18:00 꽌안응온에서 걸어서 5–7분.",
+            "query": "Maison Marou Hanoi 91A Thợ Nhuộm",
+            "lat": 21.0220287,
+            "lng": 105.849847,
+            "src": {
+              "id": "maisonmarou",
+              "url": "https://maisonmarou.com/products/gift-box-marou-bar-6x35g"
+            }
+          },
+          {
+            "name": "항드엉 거리 (오마이)",
+            "desc": "Hàng Đường · 하노이 명물 과일 절임 ‘오마이’ 가게가 모인 거리 · 토요일 야시장 길(항다오→동쑤언) 한가운데 · 🗓 D2 19:20.",
+            "query": "Ô mai Hàng Đường Hà Nội",
+            "lat": 21.0362,
+            "lng": 105.8503,
+            "src": {
+              "id": "localvietnam",
+              "url": "https://localvietnam.com/hanoi/souvenirs-hanoi/"
+            }
           }
         ]
       }
