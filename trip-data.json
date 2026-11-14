@@ -4913,9 +4913,8 @@
       "항마 등불 골목": [
         {
           "name": "항마 등불 골목",
-          "lat": 21.0367993,
-          "lng": 105.8473641,
-          "icon": "📍"
+          "lat": 21.036442,
+          "lng": 105.848498
         }
       ],
       "Little Bowl 쩨 + 카라멘 🍮": [
@@ -6308,9 +6307,9 @@
     {
       "name": "항마 거리 (Hàng Mã) 등불 골목",
       "day": "DAY 02 · 하노이 구시가지",
-      "desc": "📍 Phố Hàng Mã, Hoàn Kiếm, Hà Nội (항마 거리 · Hàng Lược·Lãn Ông 교차로 근처에 등불 가게 몰려 있음) · 구시가지의 등불·장식품 골목. 형형색색 등불과 전통 가면이 가득해 사진 찍기 좋은 곳.",
+      "desc": "📍 12 Phố Hàng Mã, Hoàn Kiếm, Hà Nội (구글 지도 「Chợ Hàng Mã」 · 밤 11:30까지) · 구시가지의 등불·장식품 골목. 형형색색 등불과 전통 가면이 가득해 사진 찍기 좋은 곳.",
       "status": "hanoi_vibe 추천",
-      "query": "Phố Hàng Mã, Hoàn Kiếm, Hà Nội",
+      "query": "Chợ Hàng Mã 12 Hàng Mã Hà Nội",
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A0ng_M%C3%A3_Street%2C_Hanoi.jpg?width=1200",
       "tip": "중추절(9–10월) 시즌이 가장 화려하지만 평소에도 등불 가게가 많아. 숙소(구시가지)에서 도보권이라 DAY 2 오후 산책 코스로.",
       "check": "가게 영업시간(저녁이 예쁨)",
@@ -6329,8 +6328,8 @@
         }
       ],
       "city": "hanoi",
-      "lat": 21.0367993,
-      "lng": 105.8473641,
+      "lat": 21.036442,
+      "lng": 105.848498,
       "cat": "street",
       "gallery": [
         "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A0ng_M%C3%A3_Street%2C_Hanoi.jpg?width=1200",
