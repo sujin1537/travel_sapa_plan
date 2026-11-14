@@ -345,7 +345,7 @@
         [
           "19:45",
           "항마 등불 골목",
-          "Ngọt에서 그랩 5분 · 밤엔 등불 켜져서 더 예쁨 · 골목 끝에서 Lãn Ông 거리로 3분 → Little Bowl",
+          "📍 Phố Hàng Mã (Hàng Lược·Lãn Ông 교차로 근처) · Ngọt에서 그랩 5분 · 밤엔 등불 켜져서 더 예쁨 · 골목 끝에서 Lãn Ông 거리로 3분 → Little Bowl",
           "항마 거리 (Hàng Mã) 등불 골목"
         ],
         [
@@ -6308,9 +6308,9 @@
     {
       "name": "항마 거리 (Hàng Mã) 등불 골목",
       "day": "DAY 02 · 하노이 구시가지",
-      "desc": "구시가지의 등불·장식품 골목. 형형색색 등불과 전통 가면이 가득해 사진 찍기 좋은 곳.",
+      "desc": "📍 Phố Hàng Mã, Hoàn Kiếm, Hà Nội (항마 거리 · Hàng Lược·Lãn Ông 교차로 근처에 등불 가게 몰려 있음) · 구시가지의 등불·장식품 골목. 형형색색 등불과 전통 가면이 가득해 사진 찍기 좋은 곳.",
       "status": "hanoi_vibe 추천",
-      "query": "Phố Hàng Mã Hoàn Kiếm Hà Nội",
+      "query": "Phố Hàng Mã, Hoàn Kiếm, Hà Nội",
       "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A0ng_M%C3%A3_Street%2C_Hanoi.jpg?width=1200",
       "tip": "중추절(9–10월) 시즌이 가장 화려하지만 평소에도 등불 가게가 많아. 숙소(구시가지)에서 도보권이라 DAY 2 오후 산책 코스로.",
       "check": "가게 영업시간(저녁이 예쁨)",
@@ -7377,7 +7377,7 @@
       "name": "구시가지 주말 야시장 (Chợ đêm phố cổ)",
       "city": "hanoi",
       "day": "DAY 02 · 토요일 밤",
-      "desc": "금·토·일 저녁에만 열리는 구시가지 야시장. 호수 북쪽 항다오(Hàng Đào) 거리부터 동쑤언 시장까지 약 1km 구간에 차가 막히고 옷·기념품·길거리 음식 노점이 쭉 들어서.",
+      "desc": "📍 Phố Hàng Đào → Hàng Ngang → Hàng Đường → Chợ Đồng Xuân, Hoàn Kiếm (금·토·일 밤) · 금·토·일 저녁에만 열리는 구시가지 야시장. 호수 북쪽 항다오(Hàng Đào) 거리부터 동쑤언 시장까지 약 1km 구간에 차가 막히고 옷·기념품·길거리 음식 노점이 쭉 들어서.",
       "status": "11/14 토요일만 해당",
       "query": "Chợ đêm phố cổ Hàng Đào Hà Nội",
       "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLcpbSQEkNRWV2jHoI6IV-zwu32JQsLrJDp1m8gXm4CmtldW40ItD-dFR9bnajs-46_dK39DqHJkKw1OWFTJ-ioTswUphU83qa2GGmLvs95W7uD12PGwo7cdo7maiQW98gwLOlWv=w1200-h900-k-no",
@@ -7403,7 +7403,7 @@
       "name": "호안끼엠 보행자거리 (주말 밤)",
       "city": "hanoi",
       "day": "DAY 02 · 토요일 밤",
-      "desc": "금요일 19:00부터 일요일 24:00까지 호안끼엠 호수 둘레가 차 없는 거리가 돼. 버스킹·전통놀이·사람 구경에 호수 야경까지.",
+      "desc": "📍 Phố đi bộ Hồ Gươm (호안끼엠 호수 둘레, Đinh Tiên Hoàng·Lê Thái Tổ·Hàng Khay 거리) · 금요일 19:00부터 일요일 24:00까지 호안끼엠 호수 둘레가 차 없는 거리가 돼. 버스킹·전통놀이·사람 구경에 호수 야경까지.",
       "status": "11/14 토요일만 해당",
       "query": "Phố đi bộ Hồ Gươm",
       "photo": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRnYpfGUbtGZgYp6TeFQJ3lj_c4AQe_S9JpDpAHNv9IRgMZyqD9JberFjtDBKOqqbjFpLUJcU12kJOxV1-DH12anAFSif46Q0foYHA_9Ax30bvhtLBZpVrrx2LbQ4FKBln8AjBL-vWbhBz=w1200-h900-k-no",
