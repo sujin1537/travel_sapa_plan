@@ -625,7 +625,7 @@
           "15:20",
           "VPBank ATM 현금 뽑기 🏧",
           "분짜따에서 같은 길 30m(52 Nguyễn Hữu Huân) · 2026.5 마스터카드(위비트래블) 수수료 0 후기 · 기계 작아서 지나치기 쉬움 · 줄·현금 소진 가끔 → 백업 VPBank Thủ Đô(34B) · 화면에 수수료 뜨면 취소 · Without conversion · 시장 근처 Vietinbank(Mã Mây)는 22만동 수수료 후기라 패스",
-          "VPBank ATM (52 Nguyễn Hữu Huân)"
+          ""
         ],
         [
           "15:35",
@@ -8706,7 +8706,7 @@
       {
         "id": "place",
         "label": "👟 쇼핑 장소",
-        "note": "지도 숫자 = 아래 카드 번호. 오늘(11/17) 갈 곳이 1–3번(뚜이네·BRGMart·VPBank ATM), 나머지는 하노이 쇼핑 장소.",
+        "note": "지도 숫자 = 아래 카드 번호. 오늘(11/17) 갈 곳이 1–2번(뚜이네·BRGMart), 나머지는 하노이 쇼핑 장소.",
         "places": [
           {
             "name": "뚜이 아줌마 가게 (동쑤언)",
@@ -8722,13 +8722,6 @@
             "query": "BRGMart 120 Hàng Trống Hà Nội",
             "lat": 21.0288504,
             "lng": 105.8506027
-          },
-          {
-            "name": "VPBank ATM (52 Nguyễn Hữu Huân)",
-            "desc": "분짜따와 같은 길 · 2026.5 마스터카드 수수료 0 후기 · 1회 최대 500만동~ · 기계 작아서 지나치기 쉬움 · 줄·현금 소진 가끔 · 수수료 화면 뜨면 취소 · Without conversion",
-            "query": "VPBank 52 Nguyễn Hữu Huân Hoàn Kiếm Hà Nội",
-            "lat": 21.0335433,
-            "lng": 105.8543346
           },
           {
             "name": "롯데마트 하노이 센터",
