@@ -7696,7 +7696,40 @@
               "id": "블로그·카페 후기",
               "url": "https://cafe.naver.com/"
             },
-            "note": "베트남식 마이쮸"
+            "note": "베트남식 마이쮸 · 패션후르츠 치아씨맛이 인스타 추천 1순위"
+          },
+          {
+            "name": "패션후르츠 치아씨 젤리 (Kẹo Dẻo Chanh Dây Hạt Chia)",
+            "price": "가격 매장 확인",
+            "where": "BRGMart 120 과자·젤리 코너",
+            "note": "인스타 ‘패션후르츠 젤리만 사오세요?’ 추천 세트 · ⚠ 성분표에 곤약(konjac) 있으면 반입 금지 → 없는 걸로",
+            "img": "img/shop/chanh-day.jpg",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "체리쉬 망고스틴 소프트캔디 · 망고·복숭아 젤리",
+            "price": "가격 매장 확인",
+            "where": "BRGMart 120 과자·젤리 코너",
+            "note": "같은 인스타 추천 세트 · Kẹo Dẻo Xoài(망고) · Kẹo Dẻo Vị Đào(복숭아) · 곤약 성분 확인",
+            "img": "img/shop/jelly-set.jpg",
+            "src": {
+              "id": "soon.will.being",
+              "url": "https://www.instagram.com/p/Dbzx-bnp-4S/"
+            }
+          },
+          {
+            "name": "Oishi 필로우 (콩카페 커피맛 있으면)",
+            "price": "콩카페 콜라보 20팩 200,000동 · 일반 필로우 1봉 약 13,000동",
+            "where": "BRGMart 120 · 없으면 Circle K",
+            "note": "일반 필로우는 거의 어디나 · 콩카페 콜라보는 한정이라 없을 수 있음 · 회사용",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0fXyxr1BSoimW77f6CMwLXRHWmt1lgJe_tkkH_5oyw&s=10",
+            "src": {
+              "id": "bysu.zip",
+              "url": "https://www.instagram.com/reel/Ddi-TOOp08t/"
+            }
           },
           {
             "name": "체리쉬 망고스틴 푸딩",
