@@ -875,6 +875,7 @@ a:focus-visible,button:focus-visible,[tabindex]:focus-visible{outline:2px solid 
 .st-tabs button.st-sub{font-size:12px;color:#999;font-weight:700}
 .tb td small{display:block}.tb tr.tr-t td{background:#fafafb;font-weight:800;border-top:1px solid #e6e6ea}.st-h small{font-weight:700;color:#666}
 .tb{font-size:11.5px}.tb th,.tb td{padding:6px 4px}.tb th:first-child,.tb td:first-child{padding-left:8px}.tb th:last-child,.tb td:last-child{padding-right:8px}.tb td.w{white-space:normal;min-width:44px;word-break:keep-all}
+.tb-note{background:#f7f7f9;border:1px solid #e6e6ea;border-radius:12px;padding:10px 12px;margin:-4px 0 12px;font-size:12px;color:#555;line-height:1.55}.tb-note b{font-size:12.5px;color:#222}.tb-note p{margin:4px 0}.tb-note ul{margin:4px 0;padding-left:16px}
 </style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
@@ -4356,8 +4357,9 @@ const TW=(h,rows)=>'<div class="tb-w"><table class="tb"><thead><tr>'+h.map(c=>'<
 function catTable(M,div){const C={};M.forEach(x=>{C[x.cat]=(C[x.cat]||0)+div(x)});const ks=CATS.map(c=>c[0]).filter(k=>C[k]);const t=ks.reduce((a,k)=>a+C[k],0);return TW([['분류'],['금액',1],['비율',1]],ks.map(k=>'<tr><td>'+CN(k)+'</td><td class="r">'+won(C[k])+'</td><td class="r">'+Math.round(C[k]/t*100)+'%</td></tr>').join('')+'<tr class="tr-t"><td>합계</td><td class="r">'+won(t)+'</td><td class="r">100%</td></tr>')}
 function byDay(L,head,row){const G=[];SRT(L).forEach(x=>{const k=PH(x.date);let g=G[G.length-1];if(!g||g.k!==k){g={k,L:[]};G.push(g)}g.L.push(x)});return G.map(g=>'<h4 class="tb-h">'+PHL(g.k)+'<span>'+g.L.length+'건</span></h4>'+TW(head,g.L.map(x=>row(x,g.k==='pre'||g.k==='post')).join(''))).join('')}
 const tcell=(x,pre)=>'<td class="t">'+(pre||!TM(x)?MD(x.date):TM(x))+'</td>';
+function diffNote(L){const th=L.filter(x=>SPL(x).length===P.length);const tw=SRT(L.filter(x=>SPL(x).length<P.length));if(!tw.length)return '';const base=th.reduce((a,x)=>a+KRW(x),0)/P.length;return '<div class="tb-note"><b>인당 몫이 다른 이유</b><p>셋이 나눈 '+th.length+'건은 1인 '+won(base)+'씩 같고, 아래 '+tw.length+'건은 둘이서만 나눠서 차이가 나요.</p><ul>'+tw.map(x=>'<li>'+MD(x.date)+' '+TT(x)+' '+won(KRW(x))+' → '+SPL(x).join('·')+' 각 '+won(KRW(x)/SPL(x).length)+'</li>').join('')+'</ul><p>'+P.map(p=>{const e=tw.filter(x=>SPL(x).includes(p)).reduce((a,x)=>a+KRW(x)/SPL(x).length,0);return p+' '+won(base)+(e?' + '+won(e):'')+' = '+won(base+e)}).join('<br>')+'</p></div>'}
 function commonHtml(B){const L=items.filter(x=>SPL(x).length>1);const tot=L.reduce((a,x)=>a+KRW(x),0);
- return '<h3 class="st-h">요약</h3>'+TW([[''],['공동 지출',1]],'<tr class="tr-t"><td>공동 사용 합계 ('+L.length+'건)</td><td class="r">'+won(tot)+'</td></tr>'+P.map(p=>'<tr><td>'+p+' 몫</td><td class="r">'+won(B[p].common)+'</td></tr>').join(''))
+ return '<h3 class="st-h">요약</h3>'+TW([[''],['공동 지출',1]],'<tr class="tr-t"><td>공동 사용 합계 ('+L.length+'건)</td><td class="r">'+won(tot)+'</td></tr>'+P.map(p=>'<tr><td>'+p+' 몫</td><td class="r">'+won(B[p].common)+'</td></tr>').join(''))+diffNote(L)
  +'<h3 class="st-h">분류별</h3>'+catTable(L,KRW)
  +'<h3 class="st-h">사용내역</h3>'+byDay(L,[['시간'],['항목'],['금액',1],['결제'],['낸 사람'],['쓴 사람']],(x,pre)=>'<tr>'+tcell(x,pre)+'<td>'+TT(x)+'</td><td class="r">'+AMV(x)+'</td><td class="w">'+PAY(x)+'</td><td>'+PN(x)+'</td><td class="w">'+esc(WHO(x))+'</td></tr>')}
 function personTab(B,p){const own=items.filter(x=>SPL(x).length===1&&SPL(x)[0]===p);const com=items.filter(x=>SPL(x).length>1&&SPL(x).includes(p));const v=Math.round(B[p].paid-B[p].share);const div=x=>KRW(x)/SPL(x).length;
