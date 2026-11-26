@@ -1,0 +1,16 @@
+hero https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kurokawa-Onsen_Light-up.jpg/960px-Kurokawa-Onsen_Light-up.jpg
+kuro https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg/960px-Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg
+roten https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kurokawa-onsen.jpg/960px-Kurokawa-onsen.jpg
+yufu https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mount_Yufudake_from_Yunotsubo_Street.JPG/960px-Mount_Yufudake_from_Yunotsubo_Street.JPG
+kinrin https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_of_Quercus_serrata_and_Chagall_Museum_on_side_of_Lake_Kinrinko.JPG/960px-Forest_of_Quercus_serrata_and_Chagall_Museum_on_side_of_Lake_Kinrinko.JPG
+yunotsubo https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG/960px-Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG
+yatai https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nakasu_Yatai_Stalls_%2819979437930%29.jpg/960px-Nakasu_Yatai_Stalls_%2819979437930%29.jpg
+motsu https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Motsunabe_-_Japan_-_August_2014.jpg/960px-Motsunabe_-_Japan_-_August_2014.jpg
+hita https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mamedamachi_ac.jpg/960px-Mamedamachi_ac.jpg
+hina https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tenryo_Hinagoten_Museum_in_Mamedamachi_Area.jpg/960px-Tenryo_Hinagoten_Museum_in_Mamedamachi_Area.jpg
+arima https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Arima_Onsen_Kobe05s5s3200.jpg/960px-Arima_Onsen_Kobe05s5s3200.jpg
+ibusuki https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ibusuki-sand-bath_Saraku.jpg/960px-Ibusuki-sand-bath_Saraku.jpg
+sakura https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20100721_Sakurajima_Ferry_4243.jpg/960px-20100721_Sakurajima_Ferry_4243.jpg
+dogo https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dogo_onsen_honkan_long_exposure.jpg/960px-Dogo_onsen_honkan_long_exposure.jpg
+beppu https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Umi_Jigoku_%28Sea_Hell%29_in_Beppu.jpg/960px-Umi_Jigoku_%28Sea_Hell%29_in_Beppu.jpg
+hakone https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lake_Ashinoko_%40_Moto_Hakone_%2813776887124%29.jpg/960px-Lake_Ashinoko_%40_Moto_Hakone_%2813776887124%29.jpg
